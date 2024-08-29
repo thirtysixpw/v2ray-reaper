@@ -1,0 +1,24 @@
+# Project
+.idea/
+.vscode/
+.venv/
+.tests/
+.env
+venv/
+
+# Cache
+__pycache__/
+*.py[oc]
+.cache/
+.ruff_cache/
+.pytest_cache/
+.coverage/
+
+# Build
+env/
+build/
+_build/
+dist/
+site/
+*.egg-info/
+*.egg

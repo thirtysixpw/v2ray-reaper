@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.116.138:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.116.138:443
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.134:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.134:8080
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@160.153.0.131:2082?security=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=/#🔒 VL-WS-NONE 🇺🇸 US-160.153.0.131:2082
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.129.101:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.101:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:443?security=tls&sni=sisand.waztow.WorKErs.dEv&type=ws&host=sisand.waztow.WorKErs.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.195:443?security=tls&sni
 vless://462340fd-5523-4a10-bc15-52678b579ddf@172.67.191.234:2096?security=tls&sni=mrz-cdn.dooshvari.sbs&type=grpc&serviceName=@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.72.41:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.41:80
 vless://095f0ede-5187-426d-b837-328c14d389c9@104.18.156.25:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.156.25:8080
-vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.81.126:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.126:443

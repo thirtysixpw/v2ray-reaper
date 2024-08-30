@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.171:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.162.240:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.162.240:443
-vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.188.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.188.58:80
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.20.19.168:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.158.238:443?security=tls&sni=bh.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇨🇦 CA-140.238.158.238:443
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.205.0.237:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.205.0.237:8080
@@ -603,3 +599,7 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12066?sni=cdn.aliba
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.1.33:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.1.33:443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.9.55:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.99.97.169:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.97.169:443
+trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.87:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
+trojan://trojan@104.18.14.19:80?security=none&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@48.210.46.202:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.210.46.202:443

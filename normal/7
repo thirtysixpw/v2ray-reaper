@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.190:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.190:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.100.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.100.109:80
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@92.38.145.145:80?security=none&type=ws&host=raimonchannel.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-92.38.145.145:80
 vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.35.37:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.104:443?security=tls&sni=ux.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.104:443
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.254.229:80?security=none&typ
 vless://0e5ee689-d40e-594e-9555-8ae7159c7bf7@104.21.87.187:2096?security=tls&sni=parmo.koyohi9973.wOrKErs.Dev&type=ws&host=parmo.koyohi9973.wOrKErs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.187:2096
 vless://8c8b59bc-27f9-4b0c-8242-f1bd317b32d2@188.114.96.1:2086?security=none&type=ws&host=fr-fox.xn--0mq55f02fh9a40hbiq62cd7osi7ap79a.website.&path=/FOX_VPN66#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:2086
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?security=tls&sni=loolu.tech&type=ws&host=loolu.tech&path=/mhdshws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.32:443
-vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.130.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:443
-vless://d2c813fe-350f-4e8f-9757-6b826775bf82@104.18.202.232:8080?security=none&type=ws&host=vPnGaming.nEt.v2rayNg6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Saman.Monster.&path=%2FCmdv2rayng-V2rayngcmd-telegram-cmd_v2rayng%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080

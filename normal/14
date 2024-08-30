@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.234:443?security=tls&sni=gh.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.234:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.7.127:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.37.7.127:22222
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.137.86:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.137.86:443
 vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.162:8880
 vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096
@@ -601,5 +603,3 @@ vless://dcacefde-6be0-4865-b0e6-2354ff6e990e@152.42.250.198:2003?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.107:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.107:80
 vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.134.61:80?security=none&type=ws&host=dynkl1.xcdn.store&path=%2Fvless-ntls#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.61:80
 vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?security=tls&sni=fl1.tradex2080.com&type=ws&host=fl1.tradex2080.com&path=/uy4vb8KcMmQqnkXOdFN4WJ&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:443
-vless://6e9dea3c-734b-494a-95c6-5a30f124f677@158.178.142.32:443?security=tls&flow=xtls-rprx-vision&sni=mirrors.download.xn--mirrors-oj8km52txc7d.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇦🇺 AU-158.178.142.32:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.174:80

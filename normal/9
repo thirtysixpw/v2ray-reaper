@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@172.67.207.26:80?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.207.26:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.133.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.133.1:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.146.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.38:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.255.242:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.242:443
@@ -603,3 +602,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.148:80?security=none&typ
 vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@172.67.185.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.15:443
 vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@172.66.0.218:2096?security=tls&sni=p.amniat.monster&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.0.218:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.180.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.48:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@190.93.244.243:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.243:443

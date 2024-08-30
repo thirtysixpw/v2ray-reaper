@@ -1,3 +1,72 @@
-# 🌐 V2Ray Reaper
+# 🌐 V2Ray Reaper 🔒
 
-V2Ray configs collector.
+> In a digital age, freedom of information is not just a privilege but a fundamental human right.
+
+This repository provides a regularly updated list of free V2Ray configuration files that you can
+use with your V2Ray client to access the internet securely and anonymously.
+
+## 🚀 Usage
+
+To use these configurations, simply paste the subscription link into your V2Ray client. For
+detailed instructions, please refer to your client’s documentation.
+
+**Main Subscription Link:**
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/normal/mix
+```
+
+For more granular control, configuration files are organized by protocol and are available in the
+protocol directory. Here are the direct links for each protocol:
+
+- VLESS:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/vless
+```
+
+- VMESS:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/vmess
+```
+
+- Trojan:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/trojan
+```
+
+- ShadowSocks:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/ss
+```
+
+- ShadowSocksR:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/ssr
+```
+
+- Hysteria:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/hysteria2
+```
+
+- Tuic:
+
+```text
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/tuic
+```
+
+- Warp (only Hiddify is supported):
+
+```
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+```
+
+## 📜 License
+
+This project is licensed under the GPLv3+ license - see the [license file](LICENSE) for details.

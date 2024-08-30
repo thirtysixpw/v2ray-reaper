@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://telegram-id-directvpn@15.222.155.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.222.155.116:22222
+trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
+trojan://tg-dns68@162.159.153.110:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.110:443
+trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
+trojan://auto@162.159.152.243:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.243:443
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
+trojan://0b190366-6bb2-4fd6-b38f-3187f3df66f6@23.227.39.47:443?security=tls&sni=t1.onlineshopkafsh.ir&type=grpc&serviceName=RuQzFoX0dVRGo4rEmV5&fp=safari&alpn=h2#🔒 TR-GRPC-TLS 🇨🇦 CA-23.227.39.47:443
+trojan://5301502@129.154.207.203:443?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&host=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.neth3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇰🇷 KR-129.154.207.203:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.26.6.143:443?security=tls&sni=bangladeshipatri.com&type=ws&path=/6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.6.143:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12033?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12033
 trojan://telegram-id-privatevpns@18.135.201.47:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.135.201.47:22222
@@ -595,11 +603,3 @@ ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@162.159.248.4:443#🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnpFb0xWN1hid1U0WnZHTjQ2Z3ly@165.22.208.240:4917#🔒 SS-TCP-NA 🇮🇳 IN-165.22.208.240:4917
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.16.123.227:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.123.227:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.31:5001#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:5001
-ss://NmE4OWRjMDQtNzc4MS00NmZlLWIzNWMtZTE0YTZiNmU2MGI4Og==@172.67.140.54:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.140.54:443
-ss://SVNTEAM2@151.101.194.219:443#🔒 SS-TCP-NA 🇺🇸 US-151.101.194.219:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.79:3306#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:3306
-ss://ZDY0ZjQ0ZDUtNjZkYy00N2VlLWI5OTEtNzIxYjRhOTZiNjNkOg==@104.21.46.119:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.46.119:443
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:9101
-ss://MjkxYzJhYmUtNzE2YS00NjkxLWFjZDAtM2IxM2RjMmY3YjEyOg==@104.26.13.19:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.13.19:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30008#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:58456#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:58456

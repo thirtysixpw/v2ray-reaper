@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@198.41.209.216:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.216:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.103.156:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.103.156:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.164:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.167.85:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.167.85:80
@@ -602,4 +603,3 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.38:80?security=none&typ
 vless://4d7c9f6c-edfa-4ba9-91a9-3abb1c6b60e7@172.67.137.177:443?security=tls&sni=freedom9.vitej95783.workers.dev&type=ws&host=freedom9.vitej95783.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.177:443
 vless://8b9ab884-80fa-4b53-9b10-7bd936d7d4c1@88.135.47.211:8080?security=none&type=tcp&host=www.sayad.top&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.47.211:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.160:443?security=tls&sni=PPaL03.KAWeW35248.WOrKeRS.dEv&type=ws&host=PPal03.KaWEW35248.WORkErs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.160:443
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@172.67.134.202:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.202:2096

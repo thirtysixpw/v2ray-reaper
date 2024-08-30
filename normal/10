@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ba7611bd-90af-4c0f-aad2-190b873b3caf@104.21.19.202:443?security=tls&sni=de1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.19.202:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.50.89:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.50.89:80
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.24:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.24:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.156.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.163:80
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.77.0:80?security=none&type=w
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.254:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.198.223:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.198.223:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.242:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.242:80
-vless://2d93c869-368a-4b8b-b29d-2b10494e627e@95.38.132.45:10015?security=none&type=tcp&host=divarcdn.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.45:10015

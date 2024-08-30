@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://8b19d797-1e27-4e19-9598-7df7538bee97@104.21.47.26:443?security=tls&sni=eseTsecuRItYLiCEnSE.WpVSus.WoRkErS.deV&type=ws&host=EsEtSeCuriTyLiCENSE.WpvSus.WOrkerS.DeV&path=%2FO6cVEqS0KvfvY77K%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.26:443
-vless://ee689ec5-0670-4c08-91d1-631b8d569182@199.59.242.150:443?security=tls&sni=all.vpncustomize.cam&type=grpc&serviceName=‌&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-199.59.242.150:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.103.74:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.103.74:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@216.24.57.16:443?security=tls&sni=bv.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.16:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.227:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.54.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.54.146:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.8:443
@@ -603,3 +599,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.12.249:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.116.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.116.129:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.24:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.156.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.156.148:80
+vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.44.182:443?security=tls&sni=SHAh-9Aq.PAGes.deV&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.182:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.241:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.241:80
+vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.0.155:443?security=tls&sni=www.elledecor.com&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.155:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.129.60:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.60:443

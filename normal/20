@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.87:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
-trojan://trojan@104.18.14.19:80?security=none&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@48.210.46.202:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.210.46.202:443
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12034?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12034
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.143:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.143:80
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
@@ -603,3 +599,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.19:7002#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:7002
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.19.135.154:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.135.154:443
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8090#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8090
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.195.185:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.195.185:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.217.232:989#🔒 SS-TCP-NA 🇱🇻 LV-46.183.217.232:989
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8118
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5000

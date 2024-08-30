@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://CMLiu@154.17.25.7:50376?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0190
-trojan://CMLiu@2.59.151.85:48333?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0193
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0220
-trojan://tg-dns68@198.62.62.37:443?allowInsecure=1&sni=vip.putata.eu.org&ws=1&wspath=%2F#12%7CUS_speednode_0198
 trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F#12%7CUS_speednode_0207
 trojan://CMLiu@45.87.103.80:28619?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2048#12%7CUS_speednode_0212
 trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&ws=1&wspath=%2F#12%7CUS_speednode_0222
@@ -603,3 +599,7 @@ vless://6944df44-2a95-45e6-b228-b381af37ddf9@172.67.200.113:2083?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.152.153:443?security=tls&sni=ppAL03.ELIAm-CAmREN.WoRkErS.deV&type=ws&host=PPAl03.ELIAM-CaMREN.woRKERS.dev&path=%2FAt2cMLvkqfA5reeL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.153:443
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@104.21.3.52:2053?security=tls&sni=wwWsPeEdTeStNeTwHiTeBeRiNsIsToMd6625996V04.DoOdGeChAn.Ir.&type=ws&host=wwWsPeEdTeStNeTwHiTeBeRiNsIsToMd6625996V04.DoOdGeChAn.Ir.&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:2053
 vless://a3e4650e-3e4b-4ba7-9050-262c6b642864@104.21.70.186:443?security=tls&sni=vip2.wagacim920.workers.dev&type=ws&host=vip2.wagacim920.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.186:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.180:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.137.11:2053?security=tls&sni=joinMAHDisERVeR-857.PAGes.dEv&type=ws&host=joinMaHDIseRver-857.pageS.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.11:2053
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.158:443?security=tls&sni=PAGES.DEV&type=ws&host=gfw-7ae.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.158:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.229.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.229.141:443

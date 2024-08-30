@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.64:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.64:80
-vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@104.21.40.63:443?security=tls&sni=shaliest.toptechnonews.com&type=ws&host=shaliest.toptechnonews.com&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@45.251.240.213:34237?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.251.240.213:34237
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.150:443?security=tls&sni=jz.linghang.buzz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.150:443
 vless://e555a459-6070-4000-b019-1a0a3d673e59@173.245.59.181:443?security=tls&sni=menu-in-pages-template-flutters.nigc-ar.com&type=ws&host=menu-in-pages-template-flutters.nigc-ar.com&path=44376/Template&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.181:443
@@ -603,3 +601,5 @@ vless://873faaf6-4239-4017-8302-5b19aa9580bf@172.67.177.228:443?security=tls&sni
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.109:2083
 vless://93b99881-df03-4597-9146-0c11e46387f7@38.181.73.64:50395?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-38.181.73.64:50395
 vless://e6df52ff-600d-4e2c-9e8a-b62b9a9c3bba@141.101.120.104:2052?security=none&type=httpupgrade&host=001.V2.h.www.speedtest.net.academigroup.iR.&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-141.101.120.104:2052
+vless://5a2f17fc-5b8e-4091-8754-6e5783f335c9@104.21.220.87:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.220.87:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.173.159:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.159:443

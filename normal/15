@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.136.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.15.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.0:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.203:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.2.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.2.72:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.13.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.244:80
@@ -603,3 +601,5 @@ vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.105.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.105.88:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.243.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.134:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?security=tls&sni=tx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.38:443
+vless://da8acb84-0d75-5e9d-b293-6a3ea476608c@185.16.110.164:443?security=tls&sni=v3ray-_-_-_-_-_-seyyedmrxxx.AwS-XrGoLden.NeT.&type=ws&host=v3ray-_-_-_-_-_--_--_--_---_-_--_--_--_--_--_-seyyedmrx.aws-xrgolden.net&path=%2Findex.php%2FV2eX&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.164:443
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.0.241:8880?type=ws&host=樱桃.浆果.草莓.我们生活在2024地狱.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.0.241:8880

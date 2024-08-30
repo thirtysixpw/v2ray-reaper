@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6e9dea3c-734b-494a-95c6-5a30f124f677@158.178.142.32:443?security=tls&flow=xtls-rprx-vision&sni=mirrors.download.xn--mirrors-oj8km52txc7d.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇦🇺 AU-158.178.142.32:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.174:80
 vless://adef69de-dc26-467f-8b12-1b83873f016e@188.114.98.224:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.98.224:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.172.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.172.233:80
 vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.232.76:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.65.162:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.65.162:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.156.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.46:80
 vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.134.219:443?security=tls&sni=ads.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=chrome&allowInsecure=true#🔒 VL-WS-TLS 🇪🇸 ES-151.101.134.219:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.112.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.112.53:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.117.41:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.117.41:443

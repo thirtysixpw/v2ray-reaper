@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.65.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.65.73:80
+vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@45.33.2.79:443?security=tls&sni=fr2.vless.site&type=ws&host=fr2.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-45.33.2.79:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.121.203:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.121.203:443
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
 vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.0.155:80?security=none&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
@@ -601,5 +603,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@129.154.59.235:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.146.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.19:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.201:80
 vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:8443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.5.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.5.103:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.189.54:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.54:443

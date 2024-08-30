@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f075b138-4e46-4022-a625-c5dfe4ddf19c@172.67.163.123:8443?security=tls&sni=free.smelean.ir&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.123:8443
+vless://dc0d1cff-0db3-438b-afa2-b4b33665a673@104.21.94.168:2083?security=tls&sni=pixel.miracleriders.top&type=ws&host=pixel.miracleriders.top&path=%2Fv2rayyngvpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.168:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.245:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.21:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.21:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.53.114:80
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.95.97:443?security=tls&sni=m
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.88:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:8443
 vless://c8418abd-fc3f-4143-e9c9-757db855fbeb@172.67.0.121:443?security=tls&sni=yaya.vipconnected.cfd&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.0.121:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.75.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.75.254:80
-vless://485a58a9-ecaa-4860-905e-7288ad7db007@13.226.220.38:80?security=none&type=ws&path=%2Fsignup%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-13.226.220.38:80
-vless://17b75e8c-6818-47de-88a5-2f846495587d@45.77.22.236:33558?security=none&type=tcp#🔒 VL-TCP-NONE 🇯🇵 JP-45.77.22.236:33558

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://086a4782-798c-40d8-afc7-263daf4a74ef@108.162.196.21:2095?security=none&type=httpupgrade&host=5.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-108.162.196.21:2095
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.108.238:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.108.238:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.252:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.157:80
 vless://dba21741-9901-4e3f-b9fe-a52ec3633b67@172.66.213.0:2083?security=tls&sni=s14.sg-forum.info&type=ws&host=s14.sg-forum.info&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.0:2083
@@ -601,5 +603,3 @@ vless://91372ced-ec65-4d9f-ae38-30c56ee4951d@162.159.129.129:8880?type=ws&host=w
 vless://41613a08-3b05-4e40-92f2-e26f6c1c09cb@172.66.44.145:2096?security=tls&sni=howdy-fr-chanel.highposhako.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.145:2096
 vless://cfffb619-f63c-45c5-b6b3-da3af46887d1@46.36.103.36:45858?security=none&type=tcp&host=www.varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.36.103.36:45858
 vless://ad9ac4b3-a28d-4be2-a363-a59eea1bdeba@104.18.203.232:2052?security=none&type=ws&host=nl9.vlessx.us&path=Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne+Join+telegram+@nitrovpne#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052
-vless://b2d34567-8e5a-53e7-9046-94bc78718af4@104.21.83.230:2096?security=tls&sni=vpnkenzo-3.nptkbb.wOrKErS.DEV&type=ws&host=vpnkenzo-3.nptkbb.wOrKErS.DEV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.230:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.213.76:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.213.76:443

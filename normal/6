@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.107:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.107:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@35.200.202.118:80?type=ws&host=a.ssll.gay&path=Telegram🇨🇳#🔒 VL-WS-NA 🇮🇳 IN-35.200.202.118:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.163.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.163.248:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.174:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.241.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.241.67:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.3.14:80?security=none&type=w
 vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@172.67.167.150:80?security=none&type=ws&host=join-midas-x-x-join-midas-x-xjoin-midas-x-xjoin-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.167.150:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.219.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.219.233:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.69.6:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.6:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.116.138:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.116.138:443
-vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.134:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.134:8080

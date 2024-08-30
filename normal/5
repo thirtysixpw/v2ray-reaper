@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.173.159:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.159:443
 vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@104.21.20.148:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.29.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.86:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.183.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.183.16:80
@@ -602,4 +603,3 @@ vless://3d4fac5a-6011-4526-b70d-2a71058f11f6@104.17.185.16:8080?security=none&ty
 vless://62c58634-d097-4a57-b232-450d8bdd5918@104.21.43.125:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.43.125:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.66.211:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.66.211:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.136.180:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.180:443
-vless://52c57282-dfe3-4954-856a-87b9a188e6b9@45.135.235.8:2083?security=tls&sni=tamam.filegear-sg.me&type=splithttp&host=tamam.filegear-sg.me&alpn=h3,h2,http/1.1#🔒 VL-SPLITHTTP-TLS 🇷🇺 RU-45.135.235.8:2083

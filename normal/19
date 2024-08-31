@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6172d7bd-75ff-438d-92a0-9bf0b971ea26@139.162.7.222:443?security=tls&sni=AddyourOwnhost&type=tcp&alpn=h3,h2,http/1.1#🔒 VL-TCP-TLS 🇸🇬 SG-139.162.7.222:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.109.233:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.109.233:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.58.123:443?security=tls&sni=pPal03.OSWIn-jErIKA.WOrKERs.dEv&type=ws&host=PPal03.OSWiN-JEriKa.wORKerS.deV&path=%2FXuoEiCbBBa78vRAT%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.123:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.43.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.43.83:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.197.60:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.60:443
+vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.21.45.154:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.154:8443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.152.43:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.152.43:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.94:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.94:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.228.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.143:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.230.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.230.127:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.217:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.217:80
@@ -595,11 +603,3 @@ trojan://cabaabc-abca-baca-abcd-babcaccbabac@127.0.0.1:1080?security=tls&type=tc
 trojan://aaccbba-acba-baac-cabd-ccabacabbbac@127.0.0.1:2080?security=tls&type=tcp#🎁 یه دونیتمون نشه؟ ❤️ DARAMET.COM/SOROUSHMIRZAEI
 trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.174:8443
 trojan://tg-dns68@162.159.153.110:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.110:443
-trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
-trojan://2cba4104747d49d18319e5ade1b93ab5@[::ffff:c629:dc0a]:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-[::ffff:c629:dc0a]:443
-trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
-trojan://auto@162.159.153.243:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.243:443
-trojan://ZJU29smXwp@172.67.68.87:2053?security=tls&sni=Web2.teama.tk&type=ws&host=k.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.87:2053
-trojan://c024672d-0509-322e-8792-1b54cb82e1ac@162.159.194.69:443?sni=blog4.2220aa.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.194.69:443
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443
-trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443

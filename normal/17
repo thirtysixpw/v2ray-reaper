@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://7efa43f4-17b6-46ae-a62e-7b764df45057@104.19.149.74:8443?security=tls&sni=6Cb2Aa5E.Bpb-WOrkEr-pAnel-3gd.PAGEs.dEV&type=ws&host=6CB2aA5E.bPb-wORkEr-PaneL-3gD.PAges.DEV&path=/OR5yd8NNiyE6QbBb&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.149.74:8443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.72.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.154:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.27:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.188.12:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.12:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.185.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.185.3:80
+vless://6ee30cf9-b287-415b-8738-917e58868be1@104.21.90.233:8080?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.233:8080
+vless://07464341-d0d4-4561-9740-3328bca9fc57@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.26.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.26.197:80
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.162.88:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.88:8080
 vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.26.8.156:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=/TG-AiLuMao/&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.192.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.192.162:443
@@ -595,11 +603,3 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.147.190.128:443?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.12.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.0:80
 vless://a6defb67-49dc-48a8-917a-1242e3e73fdd@45.194.53.13:443?security=tls&sni=dl.halachicago.com.&type=ws&host=dl.halachicago.com.&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D80&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.13:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.179:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.179:80
-vless://0e3174f3-7bb1-483c-a162-6df437b79293@5.34.199.27:53694?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.34.199.27:53694
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.38.122:2082?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.38.122:2082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.23.175:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.175:80
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.64.167.76:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.167.76:443
-vless://f2d62750-01ba-449c-be17-9e5b6453ba7c@85.133.202.88:2001?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.202.88:2001
-vless://bf3cc3ae-ebf8-4967-a2d7-31fafa8e4e66@89.47.200.241:2082?security=none&type=tcp&host=fararu.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.200.241:2082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.146.202:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.146.202:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.206.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F2FTelegram-V2rayi_net_-_-_-_-Telegram-V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.65:443

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.246:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.142.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.150:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.189.253:443?security=tls&sni=pPAl03.deLbErT-doNnelLY.wORkERS.DEv&type=ws&host=PPal03.DeLBeRT-donnelly.WORkERS.Dev&path=%2F17kWeVU1oI2FI3fJ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.253:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.170.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.170.9:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.216:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.216:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@135.84.76.105:443?security=tls&sni=uv.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-135.84.76.105:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.209.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.203:80
@@ -603,3 +599,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.54.244:80?security=none&type
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?security=none&type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.8:8080
 vless://c0b3afcf-b7a1-44c5-a552-bb1329304b7f@172.66.47.89:443?security=tls&sni=pardazeshvpn-tg5.pages.dev&type=ws&host=pardazeshvpn-tg5.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.89:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.126.15:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.126.15:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.28.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.28.206:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.192.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.148:443
+vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@104.21.83.250:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.83.250:2083
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.26:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.26:80

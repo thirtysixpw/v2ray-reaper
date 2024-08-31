@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@173.245.59.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
-trojan://telegram-id-directvpn@35.177.173.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.173.9:22222
-trojan://tg-dns68@162.159.152.156:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.156:443
-trojan://trojan@104.18.12.229:8880?security=none&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.12.229:8880
 trojan://auto@162.159.153.92:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.92:443
 trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&sni=earya.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-185.180.13.70:43118
 trojan://tg-dns68@162.159.153.1:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.1:443
@@ -603,3 +599,7 @@ ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.18.84.115:443#🔒
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
 ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@91.107.217.236:80#🔒 SS-TCP-NA 🇩🇪 DE-91.107.217.236:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjdlODEyZC00Zjc4LTRlYjQtOGMzYy00YWU3ZmZlMDM2OGM=@175.123.108.164:61001#🔒 SS-TCP-NA 🇰🇷 KR-175.123.108.164:61001
+ss://ZGNjNjUzOTctMzRhNS00OTc1LTllZDctYzFmODQxYjU5ZmY4Og==@104.18.27.94:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.27.94:443
+ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@172.67.180.238:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.180.238:2096
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.19:7001#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:7001
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8000

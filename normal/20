@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://tg-dns68@162.159.153.216:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.216:443
-trojan://tg-dns68@162.159.153.126:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.126:443
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=/1C1eEyrBbGr0r2HZ1tSkA&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
-trojan://auto@162.159.153.57:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.57:443
-trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
-trojan://tg-dns68@162.159.152.145:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.145:443
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.26.7.143:443?security=tls&sni=bangladeshipatri.com&type=ws&path=/6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.7.143:443
 trojan://ypDt8RkT7J@138.199.41.25:43118?security=tls&sni=dngn.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-138.199.41.25:43118
 trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@74.48.214.4:17644?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#🔒 TR-GRPC-TLS 🇺🇸 US-74.48.214.4:17644
 trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
@@ -603,3 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRVpRNmdKdVpXWXFvNTZ0TlZSaTI4@89.110.70.175:
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.137.86:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.137.86:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmYxYTI5NC0zYjZiLTQ1ZjUtYjMyMS0yMDFiODNlYTkxMTQ=@152.69.211.94:16889#🔒 SS-TCP-NA 🇸🇬 SG-152.69.211.94:16889
 ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@162.159.152.2:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.152.2:443
+ss://ZWNjMTliNzItMmNjOC00NjkwLWIyM2QtOTYwZDNlM2M2ZDQwOg==@172.64.146.118:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.146.118:8443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGRiZWIyMS0xNWZiLTRhYTUtOGNjMy0zNGRmNjAxYzFmMDI=@46.232.123.37:50219#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50219
+ss://ZDJiNGJjMWUtMzZmMy00ZTBlLTg4MDQtZGE2ZjEwZTUwODQ2Og==@104.18.34.21:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.34.21:2083
+ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@172.66.44.197:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.197:443
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.67.201.109:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.201.109:443
+ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@162.159.192.136:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.192.136:443
+ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@164.38.155.113:443#🔒 SS-TCP-NA 🇬🇧 GB-164.38.155.113:443

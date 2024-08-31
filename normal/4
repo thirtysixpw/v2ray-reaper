@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.85:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.85:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.163.29:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.163.29:80
-vless://93b99881-df03-4597-9146-0c11e46387f7@125.227.162.252:12426?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇹🇼 TW-125.227.162.252:12426
-vless://b540471d-5d69-47ed-db94-451b0c4faf58@45.67.215.89:443?security=tls&sni=FreeV2rayng.vpncustomize.Tech&type=grpc&serviceName=@VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🇷🇺 RU-45.67.215.89:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2087?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2087
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.23:80
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
 vless://de7c02d1-e5f1-4249-a787-c96d4f74a6bc@104.21.88.54:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.88.54:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.160:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.160:80
 vless://5b184a8d-8ee5-4eb9-a83d-9ea9c9bce7f6@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=tipac.co.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
@@ -603,3 +596,10 @@ vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=
 vless://3e482ea1-3610-4281-b7f0-6020e57806de@172.67.81.238:2096?security=tls&sni=wwwwancloudfawanvfrtg-tyuioty-turkiop.ecloudfa.ir&type=ws&host=wancloud-turkiop.ecloudfa.ir&path=/udf58745&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.238:2096
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.67.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.67.58:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.187.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.187.215:80
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.69.106.103:443?security=tls&sni=mmghgy5.azurewebsites.net&type=ws&host=mmghgy5.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇨🇦 CA-40.69.106.103:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.9.134:80
+vless://54ccdb1c-d87c-4a07-99a1-cf17727129d7@45.76.91.67:8000?type=tcp&host=www.microsoft.ir&path=/DM-ME?dl%3D1&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-45.76.91.67:8000
+vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.149.244:2053?security=tls&sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV&type=ws&host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&path=%2F%3Fed%3D0&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.149.244:2053
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.118.168:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.118.168:80
+vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.35.37:8080
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.18.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.48:80

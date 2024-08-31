@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.238.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.238.182:80
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.224:443
 vless://ae3f4746-96f6-4996-9b4c-806b34fbaafe@172.67.156.172:8443?security=tls&sni=iD-Tel-vpNKeNZO.telLER-JoHNAntHOnY.wORkERs.dEV&type=ws&host=id-tel-VpNkEnZO.tElLer-JOHnAnThoNy.WoRKerS.dEV&path=%2FvpjqjylDFJ1WiSdU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.172:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?security=tls&sni=uk.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.21:443
@@ -603,3 +602,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.136.235:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.103.75:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.103.75:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.111:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.184.165:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.184.165:80
+vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?security=tls&sni=gp.mrclothshop.fun&type=grpc#🔒 VL-GRPC-TLS 🇷🇴 RO-45.85.118.81:2087

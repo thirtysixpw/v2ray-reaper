@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.55.95:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.183:80
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.138.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:80
 vless://19c80ce9-0935-41b9-b077-277621316a87@136.244.110.189:443?security=tls&sni=hidd2.parthianempire.org&type=ws&host=hidd2.parthianempire.org&path=/L7rg6DtGQXTjd07ui73LZgwx8s?@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#🔒 VL-WS-TLS 🇳🇱 NL-136.244.110.189:443
@@ -603,3 +602,4 @@ vless://52c57282-dfe3-4954-856a-87b9a188e6b9@45.135.235.8:2083?security=tls&sni=
 vless://e09b22d6-f7d6-45ad-b70d-fb438a414294@188.132.129.53:16200?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-188.132.129.53:16200
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.199.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.199.72:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.17.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.17.67:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.25.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.25.73:80

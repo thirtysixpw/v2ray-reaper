@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.102.154:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.102.154:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.12.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.125:80
 vless://83213e65-9a49-446a-a8ce-6eaa7f78d1b8@104.27.115.80:2083?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.115.80:2083
 vless://304096c0-8852-4e61-ba9b-ece9250230e3@104.21.25.19:443?security=tls&sni=uk1vless.vpnhack.xyz&type=ws&host=uk1-vless.vpnhack.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.19:443
@@ -603,3 +602,4 @@ vless://b2ee64ad-2645-429e-f398-338cf87e7b63@172.66.213.38:2095?security=none&ty
 vless://440bad2a-785e-4374-844a-1c1344f24ebe@152.42.243.198:443?security=tls&sni=store.steampowered.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.243.198:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.12.86:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.12.86:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.67.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.67.221:80
+vless://facefd1f-903b-411d-b0a2-286c9a76e471@172.66.47.113:2083?security=tls&sni=bPB-XiaOeR886.pAGES.DEv&type=ws&host=bPB-XiaOeR886.pAGES.DEv&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.113:2083

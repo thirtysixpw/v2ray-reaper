@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.24.238.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.238.135:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.226:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.226:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.60:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.60:443
 vless://c0615218-5881-49d3-a008-03ca8359dc68@104.18.15.19:80?security=none&type=ws&host=thexw4.huondadalioshop.ir&path=%2FNetspeed%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
@@ -603,3 +602,4 @@ trojan://auto@162.159.153.92:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0
 trojan://tg-dns68@162.159.153.105:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.105:443
 trojan://ZJU29smXwp@172.67.176.206:2053?sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.176.206:2053
 trojan://auto@162.159.153.228:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.228:443
+trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇪 SE-185.146.173.158:443

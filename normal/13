@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://de7c02d1-e5f1-4249-a787-c96d4f74a6bc@104.21.88.54:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.88.54:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.238.212:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.238.212:443
+vless://d4b4e392-a62a-462f-afd8-8081b82513da@104.17.208.240:80?security=none&type=ws&host=zn4oa6cok9jkhgn6c-maxiscx.siteintercept.qualtrics.com.dynkl1.xcdn.store&path=GET+%2Fzn4oa6cok9jkhgn6c-maxiscx+HTTP%2F1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.208.240:80
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.168:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.168:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.88.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.88.116:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.10.63:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.10.63:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.209.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.209.174:80
@@ -599,7 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.115:80?security=none&typ
 vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?security=tls&sni=promo.worldofwarships.com&type=ws&host=imarketshop.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-95.85.95.85:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.223.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.116:443
 vless://ab1b4f44-6469-4c11-950b-c5c94e452dbf@104.20.68.32:8443?security=tls&sni=AntiV2ray.godratmand.link&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&fp=chrome#🔒 VL-TCP-TLS 🏴‍☠️ NA-104.20.68.32:8443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.38:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.38:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.244:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.15.68:8443?security=tls&sni=B4C702bE.56894566985.PAgES.dEv&type=ws&host=B4C702BE.56894566985.pAGEs.DEv&path=%2FUjVb0dS3QkurwdA0%3Fed%3D2560&fp=android&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.68:8443
-vless://fd84ac44-6eff-40a3-8bb4-80ff321b87e7@172.67.149.117:8880?security=none&sni=cc.nimafraz.ir.&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.149.117:8880

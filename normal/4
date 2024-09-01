@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.194.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.194.186:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.36.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.195:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.88.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.88.47:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.97.201:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.97.201:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.229.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.229.77:80
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.175:80?security=none&typ
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?security=tls&sni=vx.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.38:443
 vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@172.67.142.42:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.142.42:8880
 vless://1484e77e-30ea-460b-8d24-5f612890d206@154.85.99.38:80?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80#🔒 VL-WS-NA 🇺🇸 US-154.85.99.38:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.103.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.103.247:80
+vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@172.67.180.64:8880?security=none&type=httpupgrade&host=BeTa.V2RaYnNgG.tOP.&path=%2Fzula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%25%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.180.64:8880

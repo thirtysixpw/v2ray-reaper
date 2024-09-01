@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.27.53:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.27.53:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.78:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.140:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.140:80
 vless://565ae15e-6979-404d-84b5-d8860187cc65@104.21.65.72:2083?security=tls&sni=mahnode.interazad.nl&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.72:2083
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.fra-shop.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.95.156:8880
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.233.67:80?security=none&type
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.67.38:2052?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Funmanliest.appreviewcenter.com%2Fnimws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.67.38:2052
 vless://f019fcd3-d236-4669-834e-b6040cee6c57@172.67.163.103:8443?security=tls&sni=haha.servernet.cfd&type=ws&host=haha.servernet.cfd&path=%2F&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.103:8443
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.220:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.220:8080
+vless://10b3cbba-e6ac-485a-8381-976a0415eab9@172.67.188.9:443?security=tls&sni=EsETSEcurityLICensE.siqiLwDQ.WOrKeRS.DEv&type=ws&host=eSEtsECuritYliCENSE.SIQILWDq.WORKerS.dEV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.9:443
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.41:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.41:80

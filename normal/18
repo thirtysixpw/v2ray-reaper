@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://85ae0dd9-6121-471b-925f-6e9ea863d174@104.22.30.97:8080?security=none&type=ws&host=golraz.asve.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.30.97:8080
-vless://eb4f90fd-8138-4bb1-ba78-3da024e65522@94.182.222.13:871?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.13:871
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.26.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.26.240:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2052?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:2052
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.38.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.38.3:80
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.173.164:80?security=none&typ
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@80.251.219.120:14105?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-80.251.219.120:14105
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇧🇦 BA-77.74.228.97:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.199.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.199.200:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.251.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.251.51:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73FF2b24.BpB-panEl-B1q.PAgeS.dEV&type=ws&host=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&path=%2FM7OU55KeTRvP46UJ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.119:443

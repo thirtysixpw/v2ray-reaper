@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@162.159.153.155:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.155:2053
-vless://211267ce-6387-413e-b221-30c6283ab397@104.21.19.195:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.19.195:2087
 vless://0eb79f36-dd58-5a67-89e5-623dd4b4cb94@172.67.187.56:2083?security=tls&sni=id-tel-vpnkenzo.yzqddc.worKErs.dEV&type=ws&host=id-tel-vpnkenzo.yzqddc.worKErs.dEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.56:2083
 vless://7056a86b-75b0-4e75-8c66-c8722a47c4d5@172.67.191.77:8080?security=none&type=ws&host=urgeuongi0e.hajsambose.com&path=/V2RayLiberty#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.191.77:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.7:80
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.37:443?security=tls&sni=cf
 vless://61a491db-7749-49fd-b3d2-e339a3fa1db2@104.17.127.233:443?security=tls&sni=v2.baradweb.com&type=ws&host=v2.baradweb.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.127.233:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.21.240:443?security=tls&sni=ppal03.SAgasa6909.wORkers.dEv&type=ws&host=PPAl03.sagaSA6909.woRKErS.dEv&path=%2F5bpeK2R97TC7jyqP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.240:443
 vless://07464341-d0d4-4561-9740-3328bca9fc57@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
+vless://ca2279db-9aa2-4137-a792-d88efcc2eae0@104.20.11.224:2096?security=tls&sni=full.gosharep.CoM&type=ws&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.11.224:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.113.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.113.56:443

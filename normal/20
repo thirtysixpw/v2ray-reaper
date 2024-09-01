@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@162.159.152.243:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.243:443
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@36.231.106.117:725?security=tls&sni=tw2.233235.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇹🇼 TW-36.231.106.117:725
+trojan://tg-dns68@162.159.152.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.85:443
+trojan://tg-dns68@162.159.152.91:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.91:443
+trojan://auto@162.159.153.66:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.66:443
+trojan://tg-dns68@162.159.152.172:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.172:443
 trojan://auto@162.159.153.69:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.69:443
 trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.157:8443
 trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@15.235.163.26:443?security=tls&sni=sgt1.sshocean.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-15.235.163.26:443
@@ -597,9 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZUt0WlczMXFYZVpiQXo4SHNINHpGdWk3YXNlSW9nc3N
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6379
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
 ss://NmE4OWRjMDQtNzc4MS00NmZlLWIzNWMtZTE0YTZiNmU2MGI4Og==@104.21.75.79:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.75.79:443
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.21.50.101:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.50.101:443
-ss://Njk2OTI2ZjAtZmZkOC01YmMwLWJlYmYtNGRiNGU0MjYwZDY0Og==@172.67.177.17:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.177.17:2053
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.10:4444#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:4444
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.143.172:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.143.172:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348#🔒 SS-TCP-NA 🇷🇺 RU-92.53.86.220:51348
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:5500#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5500

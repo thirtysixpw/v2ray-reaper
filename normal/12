@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://12ec6fe7-b8ea-4f7b-b7fc-e936da472605@199.212.90.194:443?security=tls&sni=howdy-fr-chanel.highposhako.ir&type=grpc#🔒 VL-GRPC-TLS 🇨🇦 CA-199.212.90.194:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.183:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.219.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.219.233:80
 vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?security=none&type=ws&host=dhdiqiznvf.表维子足14.tech&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2082
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.86:80?security=none&sni=
 vless://90209abc-fe5e-4689-f2eb-a3d509e79413@104.21.42.250:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443
 vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?security=tls&sni=solid.footballlovernews.com&type=ws&host=solid.footballlovernews.com&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.89.187:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.89.187:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.44.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.1:80

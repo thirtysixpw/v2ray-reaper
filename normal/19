@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.190:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.190:80
-vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080
-vless://878eda53-1afa-4a1c-b8fb-1a775db39fc3@104.18.193.31:8080?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.193.31:8080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.174.6:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.6:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.43.231:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.43.231:80
 vless://d797831b-2d83-4b59-a951-8c9e0aa8592c@104.16.11.133:8080?security=none&type=ws&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.11.133:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.57.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.57.21:80
@@ -603,3 +599,7 @@ vless://0c14db88-0343-4049-9779-9c2d9287f9e0@185.146.173.21:8880?security=none&t
 vless://93a23561-7665-4b2e-8824-85eed640d4de@172.66.45.32:80?security=none&type=ws&host=linood-fra.scriptboy.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.32:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.147.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.147.11:443
 vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.130.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.95:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.95:443
+vless://d64f44d5-66dc-47ee-b991-721b4a96b63d@172.67.168.121:443?security=tls&sni=freedom.tcmugm.workers.dev&type=ws&host=freedom.tcmugm.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.121:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.247.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.247.230:443
+vless://aabcbac-abca-cbaa-cabd-aaabccbbabcc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ

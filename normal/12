@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?security=tls&sni=de01.tradex2080.com&type=ws&host=de01.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.67:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.60.122:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.60.122:80
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.16.209.12:2083?security=tls&sni=nl.cypherpunks.fun&type=ws&host=nl.cypherpunks.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.209.12:2083
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.113.82:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.113.82:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.247.33:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.33:443
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.223:80
@@ -603,3 +599,7 @@ vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.108:80?type=ws&host=hJ-d
 vless://c0b4f67c-d0ba-4384-8680-7e5f87f18be1@172.67.73.216:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.216:443
 vless://b6bcfc6b-aab6-43f5-a5d1-c1cc29fb5deb@193.151.149.176:2572?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.149.176:2572
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.106:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.106:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.72:443?security=tls&sni=bj.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.72:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.102:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.102:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.58.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.58.48:443
+vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@23.194.101.9:443?security=tls&sni=www.pinterest.com&type=ws&host=a1.mehran.ir&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-23.194.101.9:443

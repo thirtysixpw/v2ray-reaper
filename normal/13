@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.72:443?security=tls&sni=bj.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.72:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.204.102:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.204.102:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.58.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.58.48:443
-vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@23.194.101.9:443?security=tls&sni=www.pinterest.com&type=ws&host=a1.mehran.ir&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-23.194.101.9:443
 vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-38.180.70.206:8080
 vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@185.143.233.103:443?security=tls&sni=bama.ir&type=ws&host=rulsvitalone-3b8673c740-nanov.apps.ir-thr-ba1.arvancaas.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.103:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.144.232.159:443?security=tls&sni=iv.ylks.xyz&type=ws&path=%2Fpai6buclahf9cxx3%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-141.144.232.159:443
@@ -603,3 +599,7 @@ vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2053?security=tls&sni
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.133.247.90:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.90:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.113.26:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.113.26:443
 vless://a5caca7b-9c8c-4825-b186-8fb70db0ddc0@172.67.201.188:443?security=tls&sni=zula.moaidownloader.info&type=ws&host=zula.moaidownloader.info&path=%2Fdownload.zula_v1.8.10&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.188:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.108.69:8443?security=tls&sni=DADA.CLAshfofOi774.workErS.DEv&type=ws&host=dAdA.CLAsHfoFoI774.WoRKeRs.deV&path=%2Fncq1MQMOjmBmlQrV%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.108.69:8443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.208:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.208:80
+vless://f56d2364-b599-4b91-b5ea-edba54834d9c@188.114.96.1:8080?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8080
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2053?security=tls&sni=UuOxTfVv25.eJaZeMaDaStE-KhOdScH.OrG&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2053

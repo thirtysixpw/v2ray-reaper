@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.6.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.181:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.74.181:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.74.181:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.125.194:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.125.194:443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.227.28:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.227.28:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.46.171:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.46.171:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@58.176.95.46:443?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-58.176.95.46:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.39.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.39.123:80
@@ -603,3 +599,7 @@ vless://48b0913d-fb1c-4d0d-af20-8fc12c4ec5db@172.67.192.173:8443?security=tls&sn
 vless://93b99881-df03-4597-9146-0c11e46387f7@211.196.226.172:32202?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-211.196.226.172:32202
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.25.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.164:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.61.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.61.161:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.140.215:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.140.215:443
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.39:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.40.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.40.219:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.25.181:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.25.181:443

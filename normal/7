@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.248.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.248.205:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.137:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.137:443
-vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.213:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.213:2083
-vless://4d1255f7-3eae-45bb-92a5-8336bce6968f@45.131.4.79:2082?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.sarazirsina.ir.&path=ws%2F%3Fed%3D80#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.79:2082
 vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@104.21.92.156:443?security=tls&sni=rightel1.chaghooosazi.shop&type=ws&host=rightel1.chaghooosazi.shop&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.156:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.169.33:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.169.33:443
 vless://d52330bc-1a1f-47ed-87b5-39f699cec48c@104.21.20.148:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.20.148:8080
@@ -603,3 +599,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.60.156:80?security=none&type
 vless://a34cdf99-a8ba-4db8-b299-bc510ab2c877@69.16.231.60:80?security=none&type=ws&host=doostihaa.com.niazerooz.com.abasmanesh.com.netafraz.com.hamyarwp.com.mehrnews.com.yektanet.com.sariasan.com.blogsky.com.iranhost.com.emofid.com.nahayatnegar.com.emofid.com.shahrekhabar.com.talahost.com.talahost.com.meghdadit.com.charkhemashin.cfd&path=/#🔒 VL-WS-NONE 🇺🇸 US-69.16.231.60:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.73:443
 vless://44f8846d-8ef0-47ab-97fd-3df5213e0f0b@85.9.112.146:3131?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-85.9.112.146:3131
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.21.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.180:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.203.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.211:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.24:80
+vless://7cb358ab-5f23-4c44-b03c-0308636942f1@199.232.192.193:443?security=tls&sni=api.imgur.com&type=ws&host=api.coursera.org&path=%2Fapi%2Fb4t6hy5n%2F%3Fed%3D2048&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-199.232.192.193:443

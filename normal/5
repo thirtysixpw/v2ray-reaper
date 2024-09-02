@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://44b3cbba-e6ac-485a-9481-981a0415eab9@199.212.90.64:80?security=none&type=ws&host=BRoKEn-bar-5948.NEpog45969.WoRKERS.dev#🔒 VL-WS-NONE 🇨🇦 CA-199.212.90.64:80
-vless://b1634f7c-a569-4587-adb0-e1ed8cf27966@172.66.47.191:443?security=tls&sni=rmgy.pages.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.214:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@67.226.220.10:443?security=tls&sni=xj.ylks01.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-67.226.220.10:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.19.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.19.159:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.107.144:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.107.144:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@156.67.111.64:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇮🇳 IN-156.67.111.64:2053
@@ -603,3 +599,7 @@ vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.66.9:443?security=tls&sni=20a34786-c8a1-4b08-9e2e-3ba9b7f8797d.pooyaserver.ir&type=ws&host=20a34786-c8a1-4b08-9e2e-3ba9b7f8797d.pooyaserver.ir&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.66.9:443
 vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.130.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.228.189:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.228.189:443
+vless://6eb07174-1887-4d62-9909-011d928a0a0a@104.21.63.220:2087?security=tls&sni=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&type=ws&host=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.220:2087
+vless://93b99881-df03-4597-9146-0c11e46387f7@64.64.231.74:9080?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-64.64.231.74:9080
+vless://af20628d-92f3-4f9c-86b9-dc0287b4e9e4@185.113.10.152:44328?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.113.10.152:44328
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.29.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.29.204:80

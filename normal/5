@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://tg-dns68@156.251.180.181:21698?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇭🇰 HK-156.251.180.181:21698
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
 trojan://KsAG60yhjU@136.244.101.16:48163?security=none&type=grpc#🔒 TR-GRPC-NONE 🇳🇱 NL-136.244.101.16:48163
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.173.114.6:30129#US45%2032.4MB%2Fs
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#US46%201.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZklFOFhkeEQ2QkhwV1VhVUtKZXZu@85.192.56.171:43991#%E6%9C%AA%E7%9F%A542
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.186:8090#%E6%9C%AA%E7%9F%A543

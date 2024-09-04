@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.199.30.202:37861?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0107
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.133.210:20244?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0108
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.133.210:14871?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0109
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.133.210:21916?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0110
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.133.210:26538?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0111
@@ -601,5 +603,3 @@ vless://2344a14e-154c-44f4-9df5-6de9ab7ea346@104.18.86.70:80?path=%2Ftelegram-%4
 vless://9fcb42fa-136e-4b62-bf56-92c687e689fa@185.146.173.58:2082?path=%2Ftelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%3Fed%3D2048&security=none&encryption=none&host=Kanal-polproxy.Vipnufilter.Online.&type=ws#🆔polproxy%20🔓%20VL-WS-N/A%20🇸🇪%20SE%205ms
 trojan://telegram-id-privatevpns@52.214.134.238:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2071ms
 trojan://telegram-id-privatevpns@34.255.58.152:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2071ms
-trojan://telegram-id-privatevpns@13.42.234.243:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2081ms
-trojan://telegram-id-privatevpns@3.10.197.54:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2081ms

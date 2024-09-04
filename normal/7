@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@117.123.31.2:20888?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0120
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@117.123.31.2:12265?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0121
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.80.75.68:39658?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0122
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@117.123.31.2:36960?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0123
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@117.123.31.2:26226?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|KR_speednode_0124
@@ -601,5 +603,3 @@ trojan://telegram-id-privatevpns@3.248.12.231:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-privatevpns@54.72.28.118:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2067ms
 trojan://telegram-id-privatevpns@18.169.139.52:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2077ms
 trojan://telegram-id-privatevpns@3.11.121.62:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2076ms
-trojan://telegram-id-privatevpns@13.36.42.174:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2083ms
-trojan://telegram-id-privatevpns@15.188.108.233:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2082ms

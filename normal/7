@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#US56%201.6MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVVM1NyA3Ny4wTUIvcyIsImFkZCI6IjEwNy4xNDguMTkyLjE1NyIsInBvcnQiOiI0MTkxMSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM1NyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzAiLCJhZGQiOiIxNzIuNjQuMzIuMTU0IiwicG9ydCI6IjIwODciLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6ImRkMjExNDZ5Z2ZkU05BOTE5MTI4MTI4MGtkbTIya2FzMjEyM0Fhd2RzZDEyMzRiYjE1NTEzODIwOTIwNy4xMjQyMTQyMTQxNDJmZGdkc2dmZGhmZGpmanRkc2hqZGhqbi5pbmZvIiwidGVzdF9uYW1lIjoiNzAifQ==
+trojan://tg-dns68@162.159.152.92:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A571
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%9C%AA%E7%9F%A572%201.2MB%2Fs
+trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B02
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8080#US58%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.105:8091#US59%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#%E6%9C%AA%E7%9F%A573%202.5MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.186:8090#%E6%9C%AA%E7%9F%A574
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#US60%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%E6%9C%AA%E7%9F%A575%201.7MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US61%2019.7MB%2Fs
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#US62%201.8MB%2Fs
 trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#%E6%9C%AA%E7%9F%A576
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#US63%201.9MB%2Fs
@@ -590,16 +603,3 @@ vless://DIGIV2RAY@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaa
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔freakconfig%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
 trojan://f653ef08c54e21b3@13.114.31.41:3306?path=%2Fgateway%2Fconnect&security=tls&host=TG.WangCai_1&type=ws&sni=TG.WangCai2#🆔freakconfig%20🔒%20TR-WS-N/A%20🇯🇵%20JP%20166ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.151.170:2096?path=%2FA59yTXyC06Fljw4V%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=967a6F20.hoSSeinPool.PAGEs.Dev&fp=randomized&type=ws&sni=967A6f20.HosSeINpOOl.pagEs.deV#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.20.43.98:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=wr.dev&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.20.43.98:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Bd.ir&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.9.21:8443?path=%2FdRIUOLh7Bfje36lT%2Fc3BlZWR0ZXN0LWFtMy5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=713BA709.FoRbLOod.pages.dEV&fp=randomized&type=ws&sni=713Ba709.FoRbLOod.pAGeS.DeV#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FBo9FLfQnLharzeeT%2Fc3BlZWR0ZXN0LWFtMy5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=713bA709.foRbLoOd.PagEs.dEV&fp=randomized&type=ws&sni=713bA709.foRBlooD.PAGeS.dEv#🆔freakconfig%20🔒%20VL-WS-N/A%20🆥🆥%20%2015ms
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.174:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@69.84.182.197:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.161:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vless://66ce60b5-21c7-4b07-8145-98c353f9ce25@172.66.47.180:2053?path=%2FA63wcUT3x74jKlAc%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=BdcaD596.MAT0InTERNet-FOR-EVeRyONe-sHoP.paGes.dEV&fp=randomized&type=ws&sni=bDcAd596.mAt0iNTErNet-For-eVeRyone-ShoP.PaGes.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-vmess://eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkOTRpcF9jZiBcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyA2bXMiLCJzY3kiOiJhdXRvIiwic25pIjoibGluamEwNS5od2Nhci5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==

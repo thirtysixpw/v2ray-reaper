@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.21:443
+vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.50:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=%2Fed%3F2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.29.50:2095
 vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?security=tls&sni=solid.footballlovernews.com&type=ws&host=solid.footballlovernews.com&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.218:443?security=tls&sni=zj.ylks01.eu.org&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.218:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@174.136.206.70:39880?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-174.136.206.70:39880
@@ -601,5 +603,3 @@ vless://dbc12111-9739-494a-a0c7-46aeee6a295e@62.60.141.117:27203?security=none&t
 vless://17e31708-0517-4687-998f-e54951a1139a@188.114.99.29:80?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.99.29:80
 vless://99678074-122c-46db-97fc-80b604c20158@104.18.28.181:8080?type=ws&host=shuige2.ywfmu-qx.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.28.181:8080
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.81:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.81:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.178.201:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.178.201:443
-vless://93b99881-df03-4597-9146-0c11e46387f7@59.13.75.15:20002?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-59.13.75.15:20002

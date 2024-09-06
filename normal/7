@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://tg-dns68@162.159.153.216:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A554
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A555%2011.7MB%2Fs
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#US53%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU1NUb3FzS292VFM1Ml9uT2JNdU13@57.129.51.113:1080#%E6%9C%AA%E7%9F%A556
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiIxMDQuMjEuOC4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://TeLeGram-SVNTEAM@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=http.www.speedtest.net.fast.com.life.ir.&fp=firefox&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🆥🆥%20%203ms
 vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsInBvcnQiOiI4ODgwIiwicHMiOiJcdWQ4M2NcdWRkOTRmcmVha2NvbmZpZyBcdWQ4M2RcdWRkMTMgVk0tV1MtTlwvQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMm1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=Telegram-XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.com&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%202ms
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%202ms

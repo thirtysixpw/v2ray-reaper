@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@162.159.152.101:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A549
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A550
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#US37
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.5:7307#US38%201.8MB%2Fs
 trojan://auto@172.67.2.238:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A551
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3306#US39%201.9MB%2Fs
 trojan://telegram-id-privatevpns@13.38.144.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A552
@@ -599,7 +603,3 @@ trojan://telegram-id-directvpn@15.237.54.43:22222?security=tls&alpn=http%2F1.1&h
 trojan://telegram-id-directvpn@13.36.245.99:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20103ms
 vless://ba8aa7e7-973b-51ce-aba9-bbb6e78920ad@www.speedtest.net:80?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join.ELiV2ry.com.fi1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%2054ms
 vless://ba8aa7e7-973b-51ce-aba9-bbb6e78920ad@www.parspack.com:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join.ELiV2ry.com.fi1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%2061ms
-vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@www.speedtest.net:80?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.tr1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@www.parspack.com:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.tr1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%205ms
-vless://6e4caacc-d748-573c-a7a5-83b84bfcab6f@www.speedtest.net:2095?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%207ms
-vless://6e4caacc-d748-573c-a7a5-83b84bfcab6f@www.parspack.com:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%204ms

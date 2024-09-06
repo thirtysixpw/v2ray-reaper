@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#US34%2058.0MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8000#US35%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#US36%201.8MB%2Fs
+trojan://tg-dns68@162.159.153.149:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A548
 trojan://auto@162.159.152.101:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A549
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A550
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#US37
@@ -599,7 +603,3 @@ trojan://telegram-id-directvpn@52.208.106.252:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@34.254.84.81:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2088ms
 trojan://telegram-id-directvpn@13.42.215.217:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2099ms
 trojan://telegram-id-directvpn@3.9.151.67:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2096ms
-trojan://telegram-id-directvpn@15.237.54.43:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20103ms
-trojan://telegram-id-directvpn@13.36.245.99:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20103ms
-vless://ba8aa7e7-973b-51ce-aba9-bbb6e78920ad@www.speedtest.net:80?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join.ELiV2ry.com.fi1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%2054ms
-vless://ba8aa7e7-973b-51ce-aba9-bbb6e78920ad@www.parspack.com:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.Join.ELiV2ry.com.fi1.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%2061ms

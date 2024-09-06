@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://tg-dns68@162.159.153.216:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A554
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A555%2011.7MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#US53%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU1NUb3FzS292VFM1Ml9uT2JNdU13@57.129.51.113:1080#%E6%9C%AA%E7%9F%A556
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#US54%2024.1MB%2Fs
+trojan://tg-dns68@162.159.152.132:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A557
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%9C%AA%E7%9F%A558%2017.0MB%2Fs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#US55%201.9MB%2Fs
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A559
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#US56%201.7MB%2Fs
 trojan://telegram-id-privatevpns@18.171.101.67:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A560
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.46:8118#US57%201.9MB%2Fs
@@ -594,12 +603,3 @@ vless://9bf334ba-9955-4c52-944b-7359290c6918@www.speedtest.net:80?path=%2Ftelegr
 vless://cb4558bb-b794-42bb-bbbb-fca42a8c42e3@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&security=none&encryption=none&host=SHHproxy.com.digitalcity7.com.&type=httpupgrade#🆔flyv2ray%20🔓%20VL-HTTPUPGRADE-N/A%20🆥🆥%20%20170ms
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
 vmess://eyJhZGQiOiIxMDQuMjEuOC4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MiIsInBzIjoiXHVkODNjXHVkZDk0ZnJlYWtjb25maWcgXHVkODNkXHVkZDEzIFZNLVdTLU5cL0EgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDFtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://TeLeGram-SVNTEAM@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=http.www.speedtest.net.fast.com.life.ir.&fp=firefox&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🆥🆥%20%207ms
-vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsInBvcnQiOiI4ODgwIiwicHMiOiJcdWQ4M2NcdWRkOTRmcmVha2NvbmZpZyBcdWQ4M2RcdWRkMTMgVk0tV1MtTlwvQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgN21zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=Telegram-XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.XV2ray--XV2ray--XV2ray--XV2ray--XV2ray.com&type=ws&sni=speedtest.net#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vmess://eyJhZGQiOiIxNzIuNjcuMjIxLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInBzIjoiXHVkODNjXHVkZDk0ZnJlYWtjb25maWcgXHVkODNkXHVkZDEzIFZNLVdTLU5cL0EgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:80?path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&security=none&encryption=none&host=viber.com&type=ws#🆔freakconfig%20🔓%20VL-WS-N/A%20🇩🇪%20DE%2090ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#🆔freakconfig%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔freakconfig%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
-vmess://eyJhZGQiOiIxNzIuNjYuMTY4LjE3MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNTA5MDcwODI2ODU5NDIwNTk4NzYzODc3OTk4MjQ3NzkuY2hyc2pma2xzZGpma2xqb2llcmZkamtsZmpsa2VmZW9qc2Rsa2ZqZW9pZmpzZGxrZmp3ZW9pZmpsc2RjaHJzLmN5b3UiLCJpZCI6ImYxZmIyOGU1LWU1YjYtNDUwYy05NzJjLTEzMjM1Yzk0Mjg1YyIsIm5ldCI6IndzIiwicGF0aCI6IlwvVjJMSU5FLVRFTEVHUkFNLUNIQU5ORUwtVk1FU1MtV1MiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGQ5NGZyZWFrY29uZmlnIFx1ZDgzZFx1ZGQxMyBWTS1XUy1OXC9BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyA3bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=

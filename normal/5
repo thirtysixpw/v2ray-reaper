@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.220:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Ffp#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.220:443
+vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.59.100:443?security=tls&sni=bia-2-vip-programs.hsjsak.ir&type=ws&host=bia-2-vip-programs.hsjsak.ir&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@89.208.254.6:34237?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-89.208.254.6:34237
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.88.130:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.130:443
 vless://03993135-ae86-433f-94d4-7bad33d7fc22@172.64.84.146:443?security=tls&sni=AZaDnEt-sTm-uSa.PagES.dev&type=ws&host=AZaDNEt-sTM-USA.PAgeS.DeV&path=%2FI3RIOvIdAaC64YFT%2FbmkucmFkaWNhbGx5LnBybw%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.84.146:443
@@ -601,5 +603,3 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@115.90.136.116:13736?security=tls&s
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.213.149:443?security=tls&sni=xb.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.221.213.149:443
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@172.67.1.191:2053?security=tls&sni=emoemotional.pages.dev&type=ws&host=emoemotional.pages.dev&path=%2FTelegram%40Selinc%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.1.191:2053
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@104.20.6.134:2053?security=tls&sni=emoemotional.pages.dev&type=ws&host=emoemotional.pages.dev&path=%2F%3Fed%3D2560.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.%40AB_841%28%40BugFreeNet%29.&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.6.134:2053
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.199.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.38.199.148:22222
-vless://d2a3e6d0-e5b9-3530-3704-fce13a18bb09@37.152.179.108:8880?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.179.108:8880

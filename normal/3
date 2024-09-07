@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A6679
+vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A32354
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.19:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A9101
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.86.148%3A8000
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?encryption=none&security=tls&sni=faRAHDIba.pagES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=FaRAhDibA.pAgEs.dEv&path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_vpnrog%20%7C%200
@@ -601,5 +603,3 @@ vless://a584bbc4-11d8-4d87-a1c2-89b0dfa59c7f@92.223.124.62:443?security=tls&sni=
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&path=%2FJOIN-FILTERK0SH%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.232:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0securityfp#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
 vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:13140?security=none&type=tcp&host=e92df3b0b35e2ab4.speedtest1.tce.ir&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.242.204:13140
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.37:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2fp#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.37:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.47.9:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.9:443

@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:809#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:809
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5600#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5600
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppck5EMHNYeXk2dG03amVjdDRnVVNM@92.118.112.101:9483#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.101:9483
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.215:8080
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.202:5003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzV25ZNEdZM2p1VnhreWZlN3VBMENN@185.247.141.87:58454#🔒 SS-TCP-NA 🇫🇮 FI-185.247.141.87:58454
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.222:5004#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5004
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5600
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.103:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:9101
@@ -597,9 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.121:443?allowInsecure=0
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.121:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2securityfp=chrome&security=tls#12|AU_speednode_0006
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chromefp=chromefp=chromefp=chrome&security=tls#12|AU_speednode_0007
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.38:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#12|AU_speednode_0008
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|BG_speednode_0009
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/securityfp=chrome&security=tls#12|BG_speednode_0010
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.255.208.216:443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|CN_speednode_0014
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.99.233.156:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#12|DE_speednode_0015
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|DE_speednode_0016
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.244.122.58:443?sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/fp=chrome&security=tls#12|DE_speednode_0017

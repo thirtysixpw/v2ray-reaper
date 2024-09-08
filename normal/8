@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitter懈袥袩械∞袩卸携†fp=chromefp=chrome&security=tls#12|EE_speednode_0040
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/fp=chrome&security=tls#12|EE_speednode_0041
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.203:8443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodessecurity=tls#12|EE_speednode_0042
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodesfp=chromefp=chromefp=chrome&security=tls#12|EE_speednode_0044
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiIxMDQuMjEuNzQuMjM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🆥🆥%20%20378ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🆥🆥%20%20225ms
 vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&security=none&encryption=none&host=h17.Xn--gmq282ekfhyys3gs.Com.&type=httpupgrade#🆔v2ray1_ng%20🔓%20VL-HTTPUPGRADE-N/A%20🆥🆥%20%203ms
+vless://a8374247-0715-4509-a3c5-3f01842503e2@108.162.194.209:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=http%2F1.1&host=MeHrDaD-6Ut.PaGeS.DEv&fp=randomized&type=ws&sni=MeHrDaD-6Ut.PaGeS.DEv#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms

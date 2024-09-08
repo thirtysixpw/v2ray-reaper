@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?security=tls&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev&type=ws&host=BPB-a-montH-aFTER-July.pAGeS.dEV&path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.164.167:443
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:443?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.69:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80?security=none&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.130:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443?security=tls&sni=hb.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.186:443
@@ -602,4 +603,3 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.149:443?security=tls&sni=maHdiServer-6aQ.pAges.dEV&type=ws&host=MaHdISerVeR-6aQ.pAgEs.DEv&path=%2FoFBnlQPPWmwx9htC%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.149:443
 vless://33b785b4-9470-45fe-8f3f-f743dc25ca14@104.21.94.168:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.168:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.210:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.210:443
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443

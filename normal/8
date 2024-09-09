@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzkiLCJhZGQiOiIxMjguMjA0LjIyMy4xMTciLCJwb3J0IjoiMzk0NzgiLCJpZCI6IjVhMWQ1NTFiLWY0YmUtNDNlNS1lZWUzLTU5YzRkYzYzOTk4YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjM5In0=
-trojan://telegram-id-privatevpns@13.38.144.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A540
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#%E6%9C%AA%E7%9F%A541
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5601#US26%202.0MB%2Fs
@@ -603,3 +601,5 @@ trojan://telegram-id-directvpn@18.119.60.131:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@3.134.39.201:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2028ms
 trojan://telegram-id-directvpn@15.157.221.210:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇨🇦%20CA%2023ms
 trojan://telegram-id-directvpn@35.182.43.252:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇨🇦%20CA%2023ms
+vless://6247d8e0-3b38-54e7-ae86-de8bd6c10111@Abrha.net:80?path=%2Fhttpupgrade-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry&security=none&encryption=none&host=Rubika-xn--JoinTelegram.ELiV2ry.click.abrarvan.ir.cz3.vless.Sitespeedtest.net.&type=httpupgrade#🆔eliv2ray%20🔓%20VL-HTTPUPGRADE-N/A%20🆥🆥%20%20102ms
+vless://6247d8e0-3b38-54e7-ae86-de8bd6c10111@abrha.net:2052?path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=Rubika-xn--JoinTelegram.ELiV2ry.click.abrarvan.ir.cz3.vless.Sitespeedtest.net.&type=ws#🆔eliv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%2090ms

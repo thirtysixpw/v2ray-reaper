@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://tg-dns68@162.159.152.209:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A526
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bEdjenUwZS10c0plZmlCT2FSdHV3@91.201.67.78:1080#%E6%9C%AA%E7%9F%A527
+trojan://telegram-id-directvpn@54.211.67.99:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#%E6%9C%AA%E7%9F%A528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWWp0bkMyQmpZM1FZZVVsTk9lbWUx@80.66.64.39:21076#%E6%9C%AA%E7%9F%A529
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.213:7307#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://tg-dns68@162.159.153.208:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A530
 trojan://telegram-id-directvpn@52.58.49.169:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A531
@@ -598,8 +603,3 @@ vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.com#🆔dailyv2ry%20🔒%20VL-WS-N/A%20🆥🆥%20%206ms
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
 vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%2012ms
-vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#🆔dailyv2ry%20🔒%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
-vless://a3c234cf-36a0-46f1-b853-b065431c62ef@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.com#🆔dailyv2ry%20🔒%20VL-WS-N/A%20🆥🆥%20%206ms

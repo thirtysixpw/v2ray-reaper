@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.55:8000
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.180:5498
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZUN0YUs4dng0TTVVZllPWHpDWHQ1@167.71.77.212:62062#🔒 SS-TCP-NA 🇳🇱 NL-167.71.77.212:62062
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
@@ -603,3 +602,4 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&type=ws&
 trojan://tg-dns68@162.159.152.84:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A592
 trojan://auto@162.159.152.101:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A593
 trojan://telegram-id-directvpn@52.47.43.161:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A594
+trojan://tg-dns68@162.159.153.8:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A595

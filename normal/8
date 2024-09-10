@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiI0Ni4zLjEwMy4xMzMiLCJwb3J0IjoiMTAwMDIiLCJpZCI6ImUyMzI4ODVjLWYwMzctNGU5Ni1hOTlhLTFjZTBmOTNiZTkwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0di5jY3R2LmNvbSIsInBhdGgiOiIvbmlzaGlkYXNoYWJpIiwidGxzIjoidGxzIiwic25pIjoianBsdXgwMi0xLm5haXppLnZpcCIsInRlc3RfbmFtZSI6IjI3In0=
+trojan://tg-dns68@162.159.153.126:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A528
 trojan://caaacbb-abac-abac-cbad-babaacbccbac@127.0.0.1:8080?security=tls&type=tcp#US25
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#US26%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#US27%201.9MB%2Fs
@@ -601,5 +603,3 @@ trojan://telegram-id-directvpn@16.170.104.119:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@3.77.98.35:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20111ms
 trojan://telegram-id-directvpn@3.79.71.72:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20108ms
 trojan://telegram-id-directvpn@44.207.9.76:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2024ms
-trojan://telegram-id-directvpn@18.218.146.154:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2013ms
-trojan://telegram-id-directvpn@3.23.156.228:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2012ms

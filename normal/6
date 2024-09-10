@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?security=tls&sni=a.ssll.gay&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.238:2053
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@166.1.221.30:18888?security=tls&sni=xa.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-166.1.221.30:18888
+vless://93b99881-df03-4597-9146-0c11e46387f7@124.80.75.68:39658?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-124.80.75.68:39658
+vless://db0437ba-d0fd-488f-814d-051d1cb8b5da@172.66.47.163:443?security=tls&sni=pardazeshvpn-tg103.pages.dev&type=ws&host=pardazeshvpn-tg103.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.163:443
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?security=tls&sni=pardazeshvpn-tg27.pages.dev&type=ws&host=pardazeshvpn-tg27.pages.dev&path=%2FTELEGRAM-PROXY_MTM%3Fed%3D8443&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.138:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.22:443
 vless://97b11ee6-a62a-4e60-839c-de974a155089@154.211.8.83:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇭🇰 HK-154.211.8.83:443
@@ -598,8 +603,3 @@ trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&type=
 trojan://telegram-id-privatevpns@18.168.68.123:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.168.68.123:22222
 trojan://-YZ7Suz3ZpIJjXIJobWrqw@172.67.163.61:80?security=none&type=ws&host=shop.fa-behsazan.ir&path=/shop#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.163.61:80
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@172.64.33.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
-trojan://tg-dns68@162.159.152.36:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.36:443
-trojan://tg-dns68@162.159.152.204:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.204:443
-trojan://telegram-id-directvpn@15.237.47.75:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.47.75:22222
-trojan://L2gXcKIcpL@152.42.252.70:10073?security=none&type=ws&host=content.cdn.viber.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-152.42.252.70:10073
-trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.143:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.143:80

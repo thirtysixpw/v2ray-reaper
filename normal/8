@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://telegram-id-privatevpns@63.32.34.106:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A525
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.85:2375#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+ss://YWVzLTEyOC1nY206NDVjNGQzOWQtOWY4ZC00MTg4LTk2YmYtZGVkZDFmOGZhYzM4@group-south-01.nutbit-node.lat:11016#%F0%9F%87%A8%F0%9F%87%B3%E5%AE%89%E5%BE%BD
+trojan://auto@162.159.152.70:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#%E6%9C%AA%E7%9F%A526
+trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@183.245.146.20:11002?sni=103-135-251-39.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiI0Ni4zLjEwMy4xMzMiLCJwb3J0IjoiMTAwMDIiLCJpZCI6ImUyMzI4ODVjLWYwMzctNGU5Ni1hOTlhLTFjZTBmOTNiZTkwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0di5jY3R2LmNvbSIsInBhdGgiOiIvbmlzaGlkYXNoYWJpIiwidGxzIjoidGxzIiwic25pIjoianBsdXgwMi0xLm5haXppLnZpcCIsInRlc3RfbmFtZSI6IjI3In0=
 trojan://tg-dns68@162.159.153.126:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A528
 trojan://caaacbb-abac-abac-cbad-babaacbccbac@127.0.0.1:8080?security=tls&type=tcp#US25
@@ -598,8 +603,3 @@ trojan://telegram-id-directvpn@18.171.81.243:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@13.43.78.136:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2098ms
 trojan://telegram-id-directvpn@35.180.105.235:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20102ms
 trojan://telegram-id-directvpn@15.237.47.75:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20105ms
-trojan://telegram-id-directvpn@51.21.122.67:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20124ms
-trojan://telegram-id-directvpn@16.170.104.119:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20124ms
-trojan://telegram-id-directvpn@3.77.98.35:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20111ms
-trojan://telegram-id-directvpn@3.79.71.72:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20108ms
-trojan://telegram-id-directvpn@44.207.9.76:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔directvpn%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2024ms

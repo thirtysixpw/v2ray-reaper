@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@203.32.121.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇻🇬 VG-203.32.121.53:443
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.161:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.161:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.122.46:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.222.122.46:22222
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2fp#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.225:443
 vless://d2e55a2e-69fc-49eb-bf48-a9acfa901ea1@172.67.220.58:2053?security=tls&sni=rpn3.nlpstuff.ir&type=ws&host=rpn3.nlpstuff.ir&path=%2F&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.58:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv&type=ws&host=PPAL03.wopaJO6948.WorKErs.dEv&path=/2h9pwob102xqfyhg?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.99:443
 vless://6e643b53-f30a-443d-a069-c5826f365403@188.114.97.122:2087?security=tls&sni=sni2.tohid3aeed.com&type=ws&host=sni2.tohid3aeed.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:2087
@@ -599,7 +603,3 @@ trojan://tg-dns68@172.66.47.128:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://tg-dns68@162.159.153.182:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.182:443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
-trojan://tg-dns68@162.159.152.169:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.169:443
-trojan://tg-dns68@156.251.180.181:21698?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇭🇰 HK-156.251.180.181:21698
-trojan://tg-dns68@47.56.196.176:9443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🇭🇰 HK-47.56.196.176:9443
-trojan://telegram-id-directvpn@3.138.43.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.138.43.249:22222

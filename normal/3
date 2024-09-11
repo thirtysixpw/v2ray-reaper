@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@104.21.31.161:2083?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.161:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.127:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.127:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@175.200.14.162:37443?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-175.200.14.162:37443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?security=tls&sni=vf.ylkszy.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.81:443
@@ -603,3 +602,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.176:443?security=tls&sni=c
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@172.67.69.236:2087?security=tls&sni=alecruiz.pages.dev&type=ws&host=alecruiz.pages.dev&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2087
 vless://0f735da1-706d-428f-a5d2-7433ffd9a935@104.21.63.171:8880?security=none&type=httpupgrade&host=https.zula.ir.www.cloudflare.com.www.speedtest.net.www.google.com.DnsGameSpeedtestdownloadfars.ir.&path=/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.63.171:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.199:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.31.199:80
+vless://894e0e6e-d415-47fd-84f5-418896d7a310@172.67.197.205:443?security=tls&sni=freedom2.sepale8166.workers.dev&type=ws&host=freedom2.sepale8166.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.205:443

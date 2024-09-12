@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@162.159.153.102:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.102:443
+trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.2.219:443
+trojan://5301502@198.62.62.170:443?security=tls&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&type=ws&host=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.comh3&path=/trojan-9tc.pages.dev/#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.170:443
+trojan://tg-dns68@162.159.153.2:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://tg-dns68@162.159.153.110:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.110:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
 trojan://auto@172.67.68.157:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
 trojan://telegram-id-privatevpns@13.39.240.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.240.239:22222
 trojan://tg-dns68@162.159.153.15:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.15:443
@@ -597,9 +603,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.47.130:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.93.118:8882#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:8882
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.31:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8119
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5001
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@80.92.204.106:9084#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9084

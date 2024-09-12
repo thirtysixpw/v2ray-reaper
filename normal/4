@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.114.13:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.114.13:443
-vless://785f85d9-faa2-4a5b-95ff-29f89021dd46@205.233.181.62:8443?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.62:8443
 vless://5c542056-a113-43a3-9889-f7ec7884e014@148.59.74.63:443?security=tls&flow=xtls-rprx-vision&sni=dcpqus03.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-148.59.74.63:443
 vless://c86fc240-ec2b-453c-bb08-5b621740a5e8@65.20.104.148:3882?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-65.20.104.148:3882
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.179.148:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.179.148:80
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.85:443?security=tls&sni=k
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.15.121:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.15.121:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.225.59:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.96:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.96:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.13.54:443?security=tls&sni=aZADneT-FreEdoM-iRAnIAN1.pAGeS.DEV&type=ws&host=aZADnEt-fReedom-irANIaN1.paGeS.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.111:443

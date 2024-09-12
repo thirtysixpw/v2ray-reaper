@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.238:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.238:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.53.255:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.53.255:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.106.91:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.106.91:443
-vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.57:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.107.37:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.107.37:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.12:2083?security=tls&sni=zIYa-f14.PaGes.deV&type=ws&host=Ziya-F14.Pages.dev&path=%2Fr0svuaIxJRv1DFDf%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.12:2083
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.207.46:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-18.157.207.46:22222
-vless://ff7aecf2-9360-4337-bfcd-147a894eac99@85.9.110.154:2087?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.110.154:2087
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.116.161.139:2083?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.139:2083
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@174.136.206.95:57757?security=tls&sni=us.xiaoer8867785.us.kg&type=ws&path=%2F&fp=random#🔒 VL-WS-TLS 🇺🇸 US-174.136.206.95:57757
 vless://5361a986-91b9-4756-a78c-103261128d83@154.219.5.98:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.219.5.98:2082
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.196:2083
@@ -603,3 +594,12 @@ trojan://tg-dns68@162.159.152.191:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@172.64.33.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
 trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443?sni=jp2-july.88888802.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.164.181:443
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.19.171.8:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.8:443
+trojan://tg-dns68@162.159.152.92:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.92:443
+trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
+trojan://tg-dns68@162.159.153.216:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.216:443
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
+trojan://tg-dns68@162.159.153.210:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.210:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
+trojan://tg-dns68@162.159.153.7:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.7:443
+trojan://tg-dns68@162.159.153.110:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.110:443
+trojan://Watashi_VPN@104.18.12.229:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443

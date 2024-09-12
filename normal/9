@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|AE_speednode_0006
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|AE_speednode_0007
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.121:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2securityfp=chrome&security=tls#12|AU_speednode_0008
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=randomized&security=tls#12|AU_speednode_0009
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chromefp=chromefp=chrome&security=tls#12|AU_speednode_0010
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chromefp=chrome&security=tls#12|AU_speednode_0011
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.6:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=twitterfreecodestg@zdyz2fp=chrome&security=tls#12|AU_speednode_0012
@@ -599,7 +603,3 @@ trojan://telegram-id-privatevpns@35.179.203.119:22222?security=tls&alpn=http%2F1
 trojan://telegram-id-privatevpns@35.181.255.215:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20136ms
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.com&fp=chrome&type=ws&sni=speedtest.net#🆔proxy_kafee%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2010ms
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.com&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇺🇸%20US%209ms
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.com&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇳🇱%20NL%2010ms
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇳🇱%20NL%2010ms
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.com&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇺🇸%20US%2010ms
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.com&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇳🇱%20NL%2010ms

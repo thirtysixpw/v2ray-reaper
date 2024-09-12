@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:2375
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.31:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8080
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:7306
@@ -603,3 +600,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?allowInsecure=0&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#12|AE_speednode_0003
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#12|AE_speednode_0004
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|AE_speednode_0005
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodesfp=chrome#12|AE_speednode_0006
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#12|AE_speednode_0007
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.121:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2securityfp=chrome&security=tls#12|AU_speednode_0008

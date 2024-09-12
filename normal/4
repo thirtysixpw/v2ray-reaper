@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@173.245.59.243:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.243:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.26.128:443?security=tls&sni=b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev&type=ws&path=%2Ffp#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.128:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.99.233.156:2087?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-140.99.233.156:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.121.216:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.121.216:443
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2087?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2087
-vless://803deb4a-b7bd-4836-956d-c633f3320662@185.141.135.106:8080?type=ws&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-185.141.135.106:8080
 vless://3104814d-44c2-4e50-924e-fe7290a9ed0c@172.66.44.129:443?security=tls&sni=pardazeshvpn-tg13.pages.dev&type=ws&host=pardazeshvpn-tg13.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.129:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.105.23:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.23:443
 vless://ab7e8891-97de-4807-be40-43dd41d577ee@104.21.20.148:8880?security=none&type=httpupgrade&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&path=%2FSHHPROXY%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.20.148:8880
@@ -603,3 +596,10 @@ vless://6e643b53-f30a-443d-a069-c5826f365403@188.114.97.122:2087?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.41.90:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.41.90:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.182:443
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.fra-shop.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.95.156:8880
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.20.43.98:443?security=tls&sni=Pages.dev&type=ws&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.43.98:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80?security=none&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.245:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.221.148:2053?security=tls&sni=41F8c935.KAKQ-pAnEl3.PAGEs.dEv&type=ws&host=41F8C935.KAkq-panEl3.pAgEs.DeV&path=%2F2dMIkKy8Cj9yPk4v%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.221.148:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.207.92:2083?security=tls&sni=azADnet-frEEDOm-IRANIAN.pAGeS.DeV&type=ws&host=aZAdNEt-freedoM-irAniAn.pagES.DEV&path=%2F6foXmYgeOn94TSua%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.207.92:2083
+vless://93b99881-df03-4597-9146-0c11e46387f7@211.196.226.172:32202?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-211.196.226.172:32202
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.48:443?security=tls&sni=yk.ylks.xyz&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.48:443
+vless://4195546b-221b-49b1-8186-f6655bbb5393@185.141.135.99:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.141.135.99:8080

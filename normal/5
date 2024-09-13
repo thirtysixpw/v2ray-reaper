@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9493083f-99c9-415d-900e-5b46ff51cc79@92.114.17.23:65531?security=none&type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#🔒 VL-WS-NONE 🇮🇷 IR-92.114.17.23:65531
-vless://a8fd23a8-9369-4e77-8f7d-97cc2300457d@178.239.157.222:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-178.239.157.222:2052
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.201:2087
 vless://bdb38928-9572-424f-a950-fabd2e791aad@46.245.72.79:2048?security=none&type=tcp&host=skype.com&path=%2Finfo&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.72.79:2048
 vless://d4b95bef-37eb-4fdd-9bb8-1dd754e89793@172.66.44.244:2053?security=tls&sni=01010101010101010101001010101010101010010101010.pAges.dEv&type=ws&host=01010101010101010101001010101010101010010101010.pAGes.deV&path=%2FzDdTQzp69MHu7PRU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.244:2053
@@ -603,3 +601,5 @@ vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.153.103.203:38454?security=tls&sni=xg.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:38454
 vless://a865214b-5fef-443f-b338-105e2442fae6@104.24.1.190:8080?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.1.190:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xh.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
+vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.157:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.157:80

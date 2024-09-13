@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.157:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.157:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.112:443?security=tls&sni=hg.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.112:443
 vless://17f90013-1cc4-4bfd-acf6-003722518e16@104.21.29.119:2096?security=tls&sni=tdltesystemsitepishgamanirnet.p30downloadsha.ir&type=ws&path=%2F%3Fed&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.119:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.15:443?security=tls&sni=xh.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.15:443
@@ -603,3 +601,5 @@ trojan://tg-dns68@162.159.153.7:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://telegram-id-privatevpns@3.76.241.33:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#🔒 TR-TCP-NA 🇩🇪 DE-3.76.241.33:22222
 trojan://1dfba761-c1e0-422e-98b6-062da56afb53@146.56.191.191:443?security=tls&sni=jkrf1.969799.xyz#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.191.191:443
 trojan://tg-dns68@162.159.153.119:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.119:443
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
+trojan://auto@162.159.153.99:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.99:443

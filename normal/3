@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.222:5000#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%83%A0%E6%99%AEHP
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTkuNDUuODAiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJvbmVhLmZsaGEucnUiLCJ0bHMiOiIifQ==
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%83%A0%E6%99%AEHP
-trojan://ed5f5dcf-d9f7-4556-b13b-85e7c0595349@df.xiguajiasu.xyz:53003?allowInsecure=0&sni=vn003.yijiasu.xyz#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B9%96%E5%8D%97%E7%9C%81%E9%95%BF%E6%B2%99%E5%B8%82%20%E7%A7%BB%E5%8A%A8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.132:8882#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTkuMzguODgiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXA1LTQuZnJlZWdyYWRlbHkueHl6IiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.222:8888#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%83%A0%E6%99%AEHP
@@ -603,3 +599,7 @@ vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.12.229:8443?security=tls&sni
 vless://cb35f3d4-923e-4131-a886-1119dd90bcbf@188.114.96.9:80?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-kanal-telegram-proxy_mtm-telegram-proxy_mtm-proxy_mtm%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.96.9:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.103:443?security=tls&sni=xh.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.103:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.209.231:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.231:8080
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.211:2082
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:443?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.117.254.68:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-34.117.254.68:80
+vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.180:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-154.206.12.180:443

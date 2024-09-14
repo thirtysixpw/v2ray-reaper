@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://eb990b65-52d6-474a-8724-21114c866e73@172.66.47.158:443?security=tls&sni=pardazeshvpn-tg84.pages.dev&type=ws&host=pardazeshvpn-tg84.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.158:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.79.20:443?security=tls&sni=ppAl03.FihoKaC288.WoRKErS.DeV&type=ws&host=pPAl03.FIhOkaC288.wOrkerS.Dev&path=%2F7yCBIFjRSCHHVWBS%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.20:443
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.197:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.197:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@103.35.189.61:8442?security=tls&sni=vi.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-103.35.189.61:8442
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.26.94:2083?security=tls&sni=aZadNet-FrEeDom-IRAniAn.PagES.DEv&type=ws&host=aZAdnet-FrEeDom-iranIan.pageS.Dev&path=%2FQXS4if0mTpJECqlO%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2083
 vless://4fb85b33-41ed-4a33-a8d9-987c39951a8b@185.133.125.43:59823?security=none&type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.43:59823
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-209.38.162.15:14596
@@ -599,7 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.20.148:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2fp#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.23:443
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.59.100:443?security=tls&sni=bia-2-vip-programs.hsjsak.ir&type=ws&host=bia-2-vip-programs.hsjsak.ir&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
 vless://97b11ee6-a62a-4e60-839c-de974a155089@104.129.164.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-104.129.164.197:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇺🇸 US-14.102.229.66:2087
-vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.50:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=%2Fed%3F2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.29.50:2095
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.158:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2fp#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.158:443

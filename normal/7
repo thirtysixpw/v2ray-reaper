@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@172.67.178.12:443?security=tls&sni=jorum.toptechnonews.com&type=ws&host=jorum.toptechnonews.com&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.12:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.15:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.15:443
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.134:443?security=tls&sni=kd.ylks.xyz&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.134:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#🔒 SS-TCP-NA �
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.79:443
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:9101
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.122:5500#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:5500
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.193:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882

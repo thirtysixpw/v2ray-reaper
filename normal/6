@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.107:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodesfp#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.107:2053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.176:80?type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.176:80
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@185.16.110.6:443?security=tls&sni=Rocking.hooplnqpb.ir&type=ws&host=Rocking.hooplnqpb.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.6:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@98.70.26.236:443?security=tls&sni=kj.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇮🇳 IN-98.70.26.236:443
-vless://7cb9d10f-6b59-4f73-8802-1cb9dedeac08@172.66.213.38:2083?security=tls&sni=onlineshopnew.tesco-pardis.com&type=grpc&fp=ios&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..@Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:443
 vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.194.146:80
 vless://9d8a4620-fbe5-44aa-8b13-8056371caeec@78.109.198.25:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.198.25:80
@@ -603,3 +597,9 @@ vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.23.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&path=%2F@vpnAndroid2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.182.225:2096?security=tls&sni=azADnet-FrEEdom-IraniaN2.pAGeS.Dev&type=ws&host=AZADNeT-FreEDOM-Iranian2.paGeS.DEv&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.182.225:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.13.54:443?security=tls&sni=aZADneT-FreEdoM-iRAnIAN1.pAGeS.DEV&type=ws&host=aZADnEt-fReedom-irANIaN1.paGeS.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
+vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.99:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=%2Fed%3F2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.29.99:2095
+vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@188.114.97.3:2083?security=tls&sni=PAgES.DeV&type=ws&host=GOOgle-9HA.PAGEs.dEv&path=%2FvQg8z1fj4CBT2iJS%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:2083
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2052?security=none&type=ws&host=StART.siTEg52770.WOrkerS.DEv&path=%2F8PFS1DImy0Sv7HTK%2FMC4wLjAuMA#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.189:2052
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.38.99:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.38.99:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.53.72:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.214.30:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.214.30:443

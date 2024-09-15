@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@104.21.25.117:443?security=tls&sni=noodturk.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.25.117:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.15:443?security=tls&sni=hj.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.15:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.171:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.171:443
@@ -603,3 +602,4 @@ vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?security=none&type=w
 vless://370293a9-2757-4425-cfc0-d487035c26d6@104.19.150.10:2082?security=none&type=httpupgrade&host=https.dash.cloudflARe.com.gOOgle.com.wWw.spEEdtest.net.wWw.speedTEst.net.CpaxSErver.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:2082
 vless://b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.252:8080
 vless://b4157dd7-014f-4ac2-a05f-79e06e0279d4@104.21.20.148:8080?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.20.148:8080
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.26.15.16:443?security=tls&sni=pages.dev&type=ws&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&path=%2FXV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:443

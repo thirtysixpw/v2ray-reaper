@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25206#HK8
-trojan://telegram-id-privatevpns@52.215.201.90:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A534
-ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@jqegya2k.wmdkwwurw.top:19796#%F0%9F%87%A8%F0%9F%87%B3%E6%B1%9F%E8%8B%8F
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29109#HK9
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29229#HK10
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8008#US21%201.7MB%2Fs
 trojan://tg-dns68@162.159.153.62:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A535
@@ -603,3 +599,7 @@ vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.64.224.14:52804?allowInsecure=0
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.9.73:882?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0450
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.23.207.84:45498?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0451
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.80.55:13171?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0452
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.9.241.153:31082?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0453
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@193.134.209.148:35519?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0454
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.5.32:47593?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0455
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.30.48:33223?allowInsecure=0&sni=global2.ccdd.site&type=ws&host=global2.ccdd.site&path=/?ed=2560security=tls#15|US_speednode_0456

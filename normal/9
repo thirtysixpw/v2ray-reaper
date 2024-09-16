@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6IjE4My4yMzYuNTEuMjMiLCJwb3J0IjoiNDUwMjAiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNiJ9
-trojan://tg-dns68@162.159.153.12:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A57
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.154:5004#US5%201.8MB%2Fs
 trojan://telegram-id-privatevpns@35.179.203.164:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A58%204.3MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXFNYUlkdkxzOXpxUklGdDVueDJv@138.124.184.70:34868#US6
@@ -603,3 +601,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?allowInsecure=0
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@69.84.182.102:443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome&security=tls#15|US_speednode_0397
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.253:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#15|US_speednode_0398
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@198.62.62.4:443?allowInsecure=0&sni=page-us-qg0.pages.dev&type=ws&host=page-us-qg0.pages.dev&path=twitterfreecodesfp=chrome&security=tls#15|US_speednode_0399
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.32:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#15|US_speednode_0400
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security=tls#15|US_speednode_0401

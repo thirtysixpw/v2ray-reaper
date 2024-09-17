@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ec2aeda9-0c72-4a17-9c64-3ae581099890@172.67.66.177:2082?security=none&type=httpupgrade&host=cloudflair.com.google.com.icloud.com.shomalegarbemogolabaderefrence.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:2082
 vless://93b99881-df03-4597-9146-0c11e46387f7@166.0.188.128:56825?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-166.0.188.128:56825
 vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-141.147.183.49:29876
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.157:443?security=tls&sni=mahDiserveR-8ii.PAGES.dev&type=ws&host=mahdiSeRVer-8ii.PaGEs.Dev&path=%2F82eTgYhbJ4ONVFyr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.157:443
@@ -603,3 +602,4 @@ trojan://a6bda0b5-0a8e-4201-838f-903bcedff882@172.66.213.38:443?security=tls&sni
 trojan://5301502@198.62.62.170:443?security=tls&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&type=ws&host=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.comh3&path=/trojan-9tc.pages.dev/#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.170:443
 trojan://A98XMiF6NA@211.107.201.14:25001?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇰🇷 KR-211.107.201.14:25001
 trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@13.250.117.196:48558?security=tls&sni=us1.speedtest.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-13.250.117.196:48558
+trojan://your_password@172.67.165.204:443?security=tls&sni=aws-ch-zurich-1.f1cflinea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.165.204:443

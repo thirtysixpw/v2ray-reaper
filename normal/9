@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25205#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25205
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#🔒 SS-TCP-NA 🇬🇧 GB-185.5.38.111:55988
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.154:5004#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.154:5004
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5600
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:3389
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
 ss://YWVzLTEyOC1nY206OTAxMzA5ZGQtNTY2Yi00NzI1LTg4NzctMTE5MDFmYmE5OTJm@111.38.53.158:11009#🔒 SS-TCP-NA 🇨🇳 CN-111.38.53.158:11009
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9031
@@ -596,10 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.78:443?allowInsecure=0&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|BG_speednode_0014
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|BG_speednode_0015
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security=tls#15|BG_speednode_0016
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.158:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#15|BG_speednode_0017
-trojan://A98XMiF6NA@192.3.150.56:8000?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|CA_speednode_0018
-trojan://A98XMiF6NA@107.174.245.18:17868?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|CA_speednode_0019
-trojan://A98XMiF6NA@107.172.86.122:20561?allowInsecure=1&sni=dy.fxu.asia&type=ws&host=dy.fxu.asia&path=/?ed=2560#15|CA_speednode_0020
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@140.99.233.156:2087?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|DE_speednode_0058
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|DE_speednode_0059
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.109:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=Twitterfreecodestg@zdyz2security=tls#15|DE_speednode_0060

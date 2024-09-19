@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.80.55:13171?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-154.21.80.55:13171
+vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.70.55.120:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-3.70.55.120:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.152.2:8443?security=tls&sni=freEAll-fOReX-123.wpEZCsXV.woRkeRs.dev&type=ws&host=FrEeall-FORex-123.wPezCSXv.WORkeRS.dEv&path=%2For0nA67gNzJHZe4n%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.215:443?security=tls&sni=xl.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.215:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@47.245.113.31:57146?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.245.113.31:57146
@@ -601,5 +603,3 @@ vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.78:2082?type=tcp#🔒 VL
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@162.159.38.216:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.216:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.157:443?security=tls&sni=mahDiserveR-8ii.PAGES.dev&type=ws&host=mahdiSeRVer-8ii.PaGEs.Dev&path=%2F82eTgYhbJ4ONVFyr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.157:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.123.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.227:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.71:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.9.71:80

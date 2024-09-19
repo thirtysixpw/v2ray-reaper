@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ff65deba-5477-45ab-9c38-7c9bcd664c7f@162.159.152.2:8880?security=none&type=httpupgrade&host=dailyconfigs-hhahvshbbhh56ha.www.speedtest.net.blackoutconnection.ir&path=Daily_Configs%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.152.2:8880
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@212.183.88.139:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.139:443
 vless://172c168f-c087-479f-b594-63dbf14aa504@172.66.44.243:443?security=tls&sni=pardazeshvpn-tg98.pages.dev&type=ws&host=pardazeshvpn-tg98.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.243:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.228.172:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.228.172:80
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2096
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.209:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.186:443?security=tls&sni=jl.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.186:443
 vless://3b7ac5ec-ff18-487b-938c-09fedbbfc0a3@172.66.44.243:8443?security=tls&sni=pardazeshvpn-tg57.pages.dev&type=ws&host=pardazeshvpn-tg57.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.243:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.212.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.212.214:443
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.21.80.55:13171?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-154.21.80.55:13171
-vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.70.55.120:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-3.70.55.120:8880

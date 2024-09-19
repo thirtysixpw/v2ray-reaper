@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.170:2053
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.88:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.88:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.223:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-104.156.85.223:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.127:443
@@ -603,3 +602,4 @@ vless://a364998c-53db-5613-9671-080bac72fe99@104.21.88.60:2095?security=none&typ
 vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.106:443?security=tls&sni=cmli.ali.f5.si&type=ws&host=cmli.ali.f5.si&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-103.172.110.106:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.145:443?security=tls&sni=hm.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.145:443
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80?type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2Fis%2Fneeded#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.98.0:80
+vless://5361a986-91b9-4756-a78c-103261128d83@167.68.4.169:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa3.highlimittraffic.TOP.&path=%2Ftelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%2Ctelegram-%40AntiFilterCh%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.169:2082

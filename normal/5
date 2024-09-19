@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.52.126:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.52.126:80
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560%2B@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
 vless://7c0cc1e3-5b38-4d08-b39c-de69199bd4fc@172.67.69.236:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.69.236:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.200.115.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-52.200.115.239:22222
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.213:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.213:443
@@ -601,5 +603,3 @@ vless://97b11ee6-a62a-4e60-839c-de974a155089@216.205.52.133:443?security=tls&sni
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.66.47.2:2096?security=tls&sni=fala.zafarinoco.ir&type=ws&host=fala.zafarinoco.ir&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:2096
 vless://a0f714a9-48bc-4b49-9483-ba8785e52f96@104.21.72.27:80?type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.72.27:80
 vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-154.206.12.131:443
-vless://ff65deba-5477-45ab-9c38-7c9bcd664c7f@162.159.152.2:8880?security=none&type=httpupgrade&host=dailyconfigs-hhahvshbbhh56ha.www.speedtest.net.blackoutconnection.ir&path=Daily_Configs%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.152.2:8880
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@212.183.88.139:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.139:443

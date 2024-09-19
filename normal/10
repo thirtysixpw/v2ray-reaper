@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://telegram-id-privatevpns@13.48.181.63:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A566%20369.7KB%2Fs
 trojan://tg-dns68@162.159.152.214:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A567
 trojan://telegram-id-directvpn@52.59.176.234:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A568%203.8MB%2Fs
 trojan://tg-dns68@162.159.153.208:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A569
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-7187
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-1483
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0726
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0057

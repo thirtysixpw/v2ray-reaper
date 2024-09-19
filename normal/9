@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29207#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29207
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.240:443
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6379
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🔒 SS-TCP-NA 🇬🇧 GB-141.98.101.179:443
@@ -603,3 +602,4 @@ trojan://tg-dns68@162.159.152.73:443?security=tls&type=ws&sni=vip.putata.eu.org&
 trojan://tg-dns68@162.159.153.9:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A564
 trojan://tg-dns68@162.159.153.2:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A565
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMW5DcWVLdnJLRGxSRE44N3phenZX@92.118.112.111:18622#US73
+trojan://telegram-id-privatevpns@13.48.181.63:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A566%20369.7KB%2Fs

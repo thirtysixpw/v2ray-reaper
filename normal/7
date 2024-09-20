@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.30.106:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.30.106:80
+vless://ff65deba-5477-45ab-9c38-7c9bcd664c7f@162.159.152.2:8880?security=none&type=httpupgrade&host=dailyconfigs-hhahvshbbhh56ha.www.speedtest.net.blackoutconnection.ir&path=Daily_Configs%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.152.2:8880
+vless://690dbfb9-4ecb-4ef6-8c28-8c11d3da931c@104.17.88.212:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@162.159.192.169:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.169:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.67:443
 vless://40f44354-5787-41be-94b5-ba3952d24dd9@185.146.173.200:8443?security=tls&sni=VPN%43%55%53%54OMIZE.www.speedtest.net.Naziitness.com&type=ws&host=VPN%43%55%53%54OMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:8443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:8443
 vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@104.18.27.94:80?security=none&type=ws&host=sedalat.tatexe3807.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80
@@ -598,8 +603,3 @@ vless://e31d5ad8-4288-48e7-98f4-f4fdf4dd8907@172.67.73.238:2096?security=tls&sni
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.153.23:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.23:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.79:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-104.156.81.79:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.110:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.110:80
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@172.67.178.12:443?security=tls&sni=jorum.toptechnonews.com&type=ws&host=jorum.toptechnonews.com&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.12:443
-vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@104.21.32.195:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.195:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.165:443?security=tls&sni=hm.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.165:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
-vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.211:2082

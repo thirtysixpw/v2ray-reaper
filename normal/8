@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@172.67.178.12:443?security=tls&sni=jorum.toptechnonews.com&type=ws&host=jorum.toptechnonews.com&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.12:443
+vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@104.21.32.195:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.195:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.165:443?security=tls&sni=hm.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.165:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.211:2082
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:8080?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.159:8080
 vless://bc783a61-cab0-413a-b6bc-1dc81950890a@46.36.100.242:3530?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.36.100.242:3530
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.120:2053
@@ -598,8 +603,3 @@ ss://YWVzLTEyOC1nY206OTAxMzA5ZGQtNTY2Yi00NzI1LTg4NzctMTE5MDFmYmE5OTJm@120.199.83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCbnVWRW1Xa01TM3RMcURGb1JpUXJ3@38.180.158.38:5555#🔒 SS-TCP-NA 🇳🇱 NL-38.180.158.38:5555
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:6697
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:989
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7002

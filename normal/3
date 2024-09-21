@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://95b@146.59.155.205:8443?allowInsecure=1&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#15%7CFR_speednode_0095
 trojan://95b@54.38.15.238:8443?allowInsecure=1&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#15%7CFR_speednode_0096
 trojan://95b@137.74.157.158:8443?allowInsecure=1&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#15%7CFR_speednode_0097
 trojan://95b@51.38.152.80:2053?allowInsecure=1&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#15%7CFR_speednode_0098
@@ -602,4 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?security=tls&sni=c
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.90:443?security=tls&sni=v2nGfASt-E6Z.PaGeS.dEV&type=ws&host=V2ngFaSt-e6Z.paGes.deV&path=%2F3by123dQscLLkmIw%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.90:443
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.114:443?security=tls&sni=kn.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.114:443
-vless://4ee50f98-d646-4491-b5a5-339fd79153a4@172.67.130.66:8080?security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.130.66:8080

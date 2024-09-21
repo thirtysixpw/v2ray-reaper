@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.27.30.27:2083?security=tls&sni=vfarid.xcdi.wOrKers.deV&type=ws&host=vfarid.xcdi.wOrKers.deV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.30.27:2083
 vless://6ee1b0f6-845a-454c-a5db-7b0f6bbb3852@185.148.106.192:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-185.148.106.192:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTELEGRAM%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.110.50:443
 vless://429bba32-f283-4d80-8286-1fc9577243a3@104.19.223.79:443?security=tls&sni=DiGi-003-bDZ43gbSZ5vB1b5OgZqNyU3e.NicDOm.IR&type=ws&host=DiGi-003-bDZ43gbSZ5vB1b5OgZqNyU3e.NicDOm.IR&path=%2FmH4EPKyk1uYA6WN5N3jQ7Ads#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
@@ -603,3 +602,4 @@ vless://53ed5bc0-aa3a-4fe7-a89e-1c9f92045eeb@104.17.147.22:2087?security=tls&sni
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:8080?security=none&type=httpupgrade&host=RkWhZeOz3.DoOrSuZi.fUn#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.137.11:8080
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.93:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.93:443
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.30:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.90:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.90:80

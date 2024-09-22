@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2d6c7be7-a5c6-5da6-afa2-d3f5e59281dd@185.146.173.119:443?security=tls&sni=fi1.vless.site&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.119:443
 vless://803deb4a-b7bd-4836-956d-c633f3320662@104.21.39.54:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.39.54:8080
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
 vless://6ae77ba0-653f-462c-b8db-dc30d45538c7@104.21.69.44:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:8880
@@ -603,3 +602,4 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@129.150.41.174:16462?security=tls&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.131.169:443?security=tls&sni=ppAL03.deMaNi-walI.wOrkeRS.dEv&type=ws&host=PPAL03.demani-wali.WOrKErS.DEv&path=%2FMSXbOAtpBryqTGST%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.169:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.77:443
+vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.207:443

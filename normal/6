@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.70:8080?security=none&type=httpupgrade&host=mahil1.hal-ma.info&path=/?ed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.70:8080
-vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@172.67.69.227:443?security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&path=%2Fvk_l-IzYy3q_-NOq%3Fed%3D2048@SinaBigo&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.227:443
 vless://922e96cd-7ed5-4836-a2f3-11c441716e53@104.21.46.253:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.253:8880
 vless://c708b060-f171-4e25-8701-3dad46ff2627@104.19.150.10:80?security=none&type=httpupgrade&host=www.speedtest.netmain145.mralpha-vpn.COM&path=%2FTELEGRAM%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:80
 vless://17caf9e8-4d17-5c67-9544-b2b05412e3a8@104.21.25.32:443?security=tls&sni=nl2.vless.site&type=ws&host=nl2.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.32:443
@@ -603,3 +601,5 @@ vless://96c61a45-48e2-5a7b-8547-adee329f65a2@185.146.173.29:443?security=tls&sni
 vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80?type=ws&host=esetsecuritylicense.kaxlmn.workers.dev&path=%2F%3Fed%3D2560%40ELiV2Ray%40ELiV2ray%40ELiV2ray#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.26.94:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.9:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.9:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.131:443
+vless://97b11ee6-a62a-4e60-839c-de974a155089@188.164.159.41:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.41:443
+vless://66d416b2-f36b-4d94-b9fa-03728bfdcb3f@178.239.145.241:46266?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.145.241:46266

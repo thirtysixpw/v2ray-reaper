@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://97b11ee6-a62a-4e60-839c-de974a155089@188.164.159.41:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.41:443
-vless://66d416b2-f36b-4d94-b9fa-03728bfdcb3f@178.239.145.241:46266?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.145.241:46266
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.233:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.233:443
 vless://8f9bc24d-a203-5ed8-82c2-9c2402ac4456@104.18.1.125:80?security=none&type=ws&host=joinTelegram-ELiV2.de3.vless.Sitespeedtest.net.&path=%2FELENaTheGreatDictator--%40ELiV2--%40ELiV2--%40ELiV2--%40ELiV2--%40ELiV2--%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.125:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.58.171:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.58.171:80
@@ -603,3 +601,5 @@ vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@104.21.47.245:2053?security=tls&sni
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.149:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.149:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.55.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.55.148:443
 vless://878a66a0-c134-4e1d-bee7-9a09556c00c5@104.16.219.230:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.230:443
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.133:443
+vless://8e0cdac9-ab9d-4022-8325-7e482cb327e4@172.67.2.238:8880?security=none&type=ws&host=drvenom-tehran.lipoxag351.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:8880

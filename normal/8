@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@154.17.12.204:9443?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-154.17.12.204:9443
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.15.16:2053?security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:2053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443
-vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.17.88.212:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443
-vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.207:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80?security=none&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.130:80
 vless://58aeffa5-cc57-4849-86a5-bbb4b6140a29@172.67.24.121:8080?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.24.121:8080
 vless://2f758eb2-d936-4254-9227-71c38fc04609@172.66.44.90:443?security=tls&sni=pardazeshvpn-tg89.pages.dev&type=ws&host=pardazeshvpn-tg89.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.90:443
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
@@ -603,3 +597,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#🔒 SS-TCP-NA 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.241:443
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6379
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.100:8090
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29110#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29110
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cC95RFBsa1lKUHBOc2hxeE8rRjdDOU1iR3hVdGRDampxM0pFQmZnS2tiWT0=@109.204.233.40:57255#🔒 SS-TCP-NA 🇫🇮 FI-109.204.233.40:57255
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.103:8882
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5600
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.19:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:6379

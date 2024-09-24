@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.234:8443?security=tls&sni=41f8c935.kakq-PaNeL3.pagES.deV&type=ws&host=41F8C935.KAKq-pAnEL3.paGes.deV&path=%2FGiMZCf0RgOgh24nQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.234:8443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.39:443
@@ -603,3 +602,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80?type=ws&host=a.ssll.
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.179.196:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.22.68.66:2053?security=tls&sni=xxx.donated004.workers.dev&type=ws&host=xxx.donated004.workers.dev&path=%2F%40V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.68.66:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.206.92:2083?security=tls&sni=azADnet-frEEDOm-IRANIAN.pAGeS.DeV&type=ws&host=aZAdNEt-freedoM-irAniAn.pagES.DEV&path=%2F6foXmYgeOn94TSua%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2083
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.41.30:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.41.30:443

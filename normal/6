@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@185.18.250.126:443?security=tls&sni=worker-dawn-cloud-10d3.sany27654.workers.dev&type=ws&host=worker-dawn-cloud-10d3.sany27654.workers.dev&path=%2Fvless-ws%2F%3Fde%3D443#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.126:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.131:443?security=tls&sni=xs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.131:443
 vless://de44b044-8f90-4e18-b742-16591667ff96@58.176.229.127:35002?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-58.176.229.127:35002
 vless://a8374247-0715-4509-a3c5-3f01842503e2@162.159.38.209:443?security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv&path=%2F%3Fed%3D1024&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.209:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@141.11.148.196:48301?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-141.11.148.196:48301
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.85:443?security=tls&sni=k
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:8880?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:8880
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.85:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.85:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.22:2096?security=tls&sni=41F8c935.KAkQ-paNel3.PagEs.Dev&type=ws&host=41F8C935.KAKq-panel3.pAGes.dev&path=%2FumapxACMrRKqWTmJ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.22:2096
+vless://b4588e81-4ece-4acf-aa03-31f30d51df31@128.140.96.174:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.96.174:80
+vless://dbc4e9c4-992a-41ea-8fc4-5d5a3955bc58@104.21.62.5:2087?security=tls&sni=a.madboyvpn.info&type=ws&path=%2Farshia&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.5:2087

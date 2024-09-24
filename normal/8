@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2e189c35-6aef-4aaa-8998-7952c29b6c9e@104.21.49.18:443?security=tls&sni=freedom12.nwvyxaop.workers.dev&type=ws&host=freedom12.nwvyxaop.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.18:443
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080?security=none&type=ws&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.34:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.210.206.77:10251?security=tls&sni=jl.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.210.206.77:10251
 vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@45.63.117.50:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-45.63.117.50:2083
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.200.160.214:443?security=tls&sni=vh.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.214:443
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.95:5003#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#🔒 SS-TCP-NA 🇬🇷 GR-151.236.29.225:990
 ss://cmM0LW1kNTpRUmREMkNM@36.137.180.24:20056#🔒 SS-TCP-NA 🇨🇳 CN-36.137.180.24:20056
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSjRmVGRjYmowaVg5S0VXMlVHNVFi@52.169.109.160:18750#🔒 SS-TCP-NA 🇮🇪 IE-52.169.109.160:18750
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29223#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29223

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://b4588e81-4ece-4acf-aa03-31f30d51df31@128.140.96.174:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.96.174:80
-vless://dbc4e9c4-992a-41ea-8fc4-5d5a3955bc58@104.21.62.5:2087?security=tls&sni=a.madboyvpn.info&type=ws&path=%2Farshia&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.5:2087
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:8080?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.93:8080
 vless://b766b662-2c8a-4de6-99e0-dfd120a74975@185.146.173.96:8880?security=none&type=ws&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.96:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.81:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.81:80
@@ -603,3 +601,5 @@ vless://42b53885-3675-4a8c-cb15-103505d2c78b@172.67.214.21:443?security=tls&sni=
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.215:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.215:443
 vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@104.16.232.76:8880?security=none&type=ws&host=stockcitywild.northernlight.monster&path=%2Fglobalizzer#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.76:8880
 vless://094ef62c-b01c-40d3-b40c-93bad46a9254@5.202.13.182:2096?security=none&type=tcp&host=google.com+%26+Tel%3A+Guard_revil&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.13.182:2096
+vless://2e189c35-6aef-4aaa-8998-7952c29b6c9e@104.21.49.18:443?security=tls&sni=freedom12.nwvyxaop.workers.dev&type=ws&host=freedom12.nwvyxaop.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.18:443
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080?security=none&type=ws&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.34:8080

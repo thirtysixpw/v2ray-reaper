@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.144.86:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.86:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.133:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=hq.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.151:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@172.64.34.216:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.216:443
@@ -601,5 +603,3 @@ vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?security=tls&sni=f
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.195.70.121:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-44.195.70.121:22222
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.159:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.159:443
 vless://e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.80:2082
-vless://da7b571d-b646-453c-b9d1-d4e19cb32918@104.18.203.232:8880?security=none&type=ws&host=hello-world-divine-math-6b26.modofa4517.worKeRS.dEv&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8880
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@162.159.192.151:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.151:443

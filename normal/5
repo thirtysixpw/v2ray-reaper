@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://74461b97-1d04-4420-89c6-1e9fb1ef5e5a@46.245.66.128:2095?security=none&type=ws&host=www.speedtest.net&path=%2F-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------#🔒 VL-WS-NONE 🇮🇷 IR-46.245.66.128:2095
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.214.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FL%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.214.171:443
 vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3333?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-5.202.9.117:3333
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@221.161.207.216:37498?security=tls&
 vless://d2a056cd-a157-4a0c-b32b-d4eea86d3163@104.20.62.55:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.62.55:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.239:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-104.156.85.239:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.0.185:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.0.185:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:8443

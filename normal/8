@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.209:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.209:443
 vless://1195c036-720a-4bbb-9d84-ba0c9416e71f@62.60.160.224:16268?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.224:16268
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.69.120:2053?security=tls&sni=cXrOLvPn.PAgEs.dev&type=ws&host=cXrolvpn.pagEs.DEv&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.69.120:2053
@@ -603,3 +602,4 @@ ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#🔒 SS-TCP-NA 🇮🇹 IT-185.213.20.227:990
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:6679
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8881
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNUJxZUNQcUgxczVqcWM2MVlXOTZo@80.66.64.39:14824#🔒 SS-TCP-NA 🇷🇺 RU-80.66.64.39:14824

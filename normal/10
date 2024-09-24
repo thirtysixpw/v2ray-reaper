@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24725#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24725
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29101#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29101
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.241:443?sni=hq.kpcloud.e
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.216:443?sni=hq.kpcloud.eu.org&type=ws&host=hq.kpcloud.eu.org&path=/bluesecurity=tls#15|US_speednode_0381
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.179:443?sni=xq.ylks.xyz&type=ws&host=xq.ylks.xyz&path=/bluesecurity=tls#15|US_speednode_0382
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.201:443?sni=xp.ylks.xyz&type=ws&host=xp.ylks.xyz&path=/?proxyipsecurity=tls#15|US_speednode_0383
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.105.23:443?sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security=tls#15|US_speednode_0384

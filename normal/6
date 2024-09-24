@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.178:443?security=tls&sni=yo.ylka.us.kg&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.178:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTELEGRAM-PROXY_MTM%3Fed%3D2053#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.30.227:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.46.10:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.46.10:443
 vless://353d715e-b23f-4639-8956-eb0bb95aa281@104.26.14.148:443?security=tls&sni=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws&host=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.148:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.220:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..@Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:443
@@ -603,3 +600,6 @@ vless://4d58c795-28fa-44c3-b243-5440a3958dd5@172.67.69.236:2095?security=none&ty
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fedfp#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.90:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.185:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.185:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.173:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.173:443
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.36.44:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.36.44:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.52:443
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:8880?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.74:8880

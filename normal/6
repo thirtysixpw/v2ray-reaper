@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.186:443
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.182:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.182:2083
 vless://93b99881-df03-4597-9146-0c11e46387f7@8.213.209.234:34237?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇹🇭 TH-8.213.209.234:34237
 vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&type=ws&host=vpn870.tutorials26858.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.4.191:443
@@ -602,4 +603,3 @@ vless://dc0c3ea1-2960-4fad-99ec-3385adeafbb5@172.67.158.79:2053?security=tls&sni
 vless://2eafb32f-bee4-4783-b15b-f6c666fc363c@104.19.250.20:2095?security=none&type=httpupgrade&host=https.upgrade989.google.cOm.www.speedtest.nEt.WWw.spEEdtest.nEt.meHrAn2024.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.250.20:2095
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:8443?security=tls&sni=folani.iiipok.WoRKERS.deV&type=ws&host=folani.iiipok.WoRKERS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.64:8443
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@104.21.69.154:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.154:80
-vless://4ee50f98-d646-4491-b5a5-339fd79153a4@172.64.111.69:8080?security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.64.111.69:8080

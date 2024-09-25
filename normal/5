@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.212.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.212.214:443
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?security=tls&sni=ahmedquran19.xyz&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:443
+vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@104.26.15.16:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.16:8080
+vless://ac506a53-d79a-4b31-9271-e647f7637466@188.245.60.248:2020?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.60.248:2020
+vless://f6991c3c-2978-46f0-b933-f21767896c81@85.9.126.167:28827?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-85.9.126.167:28827
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.124:443?security=tls&sni=TesT-for-FReEDoM-guARD.pAges.DEV&type=ws&host=TEst-FOr-FREedoM-GUaRD.PagEs.dEV&path=/nxm0FLJMstCQyArF%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.198:8443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.64.38.103:2096?security=tls&sni=vfarid.xcdi.wOrKeRS.Dev&type=ws&host=vfarid.xcdi.wOrKeRS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.38.103:2096
@@ -598,8 +603,3 @@ vless://3ab4a853-4dd8-4351-848c-6b9a8480a876@167.99.242.143:2083?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.225:443?security=tls&sni=js.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.225:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.52:443?security=tls&sni=yr.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.52:443
 vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.207:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.252:2087?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.252:2087
-vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@91.195.240.12:443?security=tls&sni=op.manluqiusuo.top&type=ws&host=op.manluqiusuo.top&path=%2Fduzhichao1996#🔒 VL-WS-TLS 🇩🇪 DE-91.195.240.12:443
-vless://93b99881-df03-4597-9146-0c11e46387f7@65.75.195.188:50795?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-65.75.195.188:50795
-vless://93b99881-df03-4597-9146-0c11e46387f7@141.11.148.196:48301?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-141.11.148.196:48301
-vless://7212e15a-74d8-4e0c-abcd-ca78ce70aa37@172.67.66.177:2086?security=none&type=httpupgrade&host=001.V2.H.www.speeDtest.borO2sound.IR.&path=%2Fmrka%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:2086

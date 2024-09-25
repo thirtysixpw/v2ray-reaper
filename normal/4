@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://93b99881-df03-4597-9146-0c11e46387f7@45.32.59.97:34567?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.32.59.97:34567
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:8443
 vless://cca9a8e7-b6c6-42da-b230-601879655cea@104.21.54.233:8443?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.233:8443
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.15.85:443?security=tls&sni=nufilter.pages.dev&type=ws&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
@@ -602,4 +603,3 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@198.41.223.29:8080?security=none&ty
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=bypassfilter.test-fad.workers.dev&type=ws&path=%2Fvless-ws%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.221:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.214:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.214:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.37.43:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.43:443
-vless://49c9b685-3fd3-4629-94c0-a758969653ba@104.21.42.250:2082?security=none&type=httpupgrade&host=nodes.pooya-server.ir&path=%2FPooyaserver%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.42.250:2082

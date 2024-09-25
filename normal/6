@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.177:443
 vless://9617c7cd-133b-4ed0-be84-fc7493223f8c@172.64.145.113:8880?security=none&type=ws&host=falcunargo.3157c93401.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.113:8880
 vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@103.160.204.40:2053?security=tls&sni=vless.sub.amclubs.us.kg&type=ws&host=vless.sub.amclubs.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-103.160.204.40:2053
 vless://78331287-6609-436e-9902-b77ac42347f0@104.18.65.116:443?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.65.116:443
@@ -603,3 +601,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.117.150:2053?security=tls&sn
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?security=tls&sni=sdfee4.azurewebsites.net&type=ws&host=sdfee4.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇦🇺 AU-20.42.228.160:443
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@104.17.139.40:443?security=tls&sni=noodturk.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.139.40:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@198.41.209.33:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.33:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.102:443?security=tls&sni=PPaL03.kAizer-jaxCYN.WORKers.dEV&type=ws&host=PPAL03.KaiZer-JAxcyN.workErs.DEV&path=%2FPzIiDFAZzuCw8GDy%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.102:443
+vless://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.13.125:8443?security=tls&sni=trojan.trojan0.WOrKers.dev&type=ws&host=trojan.trojan0.WOrKers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:8443

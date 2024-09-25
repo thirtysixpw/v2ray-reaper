@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?security=tls&sni=pardazeshvpn-tg97.pages.dev&type=ws&host=pardazeshvpn-tg97.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.211:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.138:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-104.156.81.138:443
 vless://2505fbeb-5814-4e2d-a92b-db45a6127a97@151.101.1.57:80?security=none&type=ws&host=Gn85.io&path=%2Fadmin#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.57:80
 vless://d6cec167-58b4-49a7-bad9-214e6fecfb27@104.21.20.148:80?security=none&sni=join-to.unlimiteddev.community&type=ws&host=join-to.unlimiteddev.Community.&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://fdc1449c-a726-4e98-81f4-713467d4405b@172.66.40.119:443?security=tls&sni=FalCUNargoo.85F8Cb26fE.workErS.dev&type=ws&host=FalcunaRGoO.85f8cb26fE.WOrkERs.dEV&path=%2FF1UJgD6CYS6rAy-v%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.119:443
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.210:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.7.154:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.7.154:443
 vless://0117a6a8-046f-4a70-bf7a-f3e17b28933b@103.168.19.163:20829?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇳 IN-103.168.19.163:20829
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.61:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.61:443
+vless://9289cb42-db87-4ee7-9a17-9ceff2059ea5@162.159.133.234:8080?security=none&type=ws&host=www.speedtest.net.uploud.fr.dash.com.ABRPAK.ORG&path=%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8080
+vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.181:8080

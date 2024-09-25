@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://tg-dns68@162.159.152.138:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.138:443
+trojan://tg-dns68@162.159.152.93:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.93:443
+trojan://tg-dns68@162.159.153.157:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.157:443
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
+trojan://auto@162.159.153.228:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.228:443
+trojan://tg-dns68@162.159.152.94:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.94:443
 trojan://tg-dns68@162.159.153.130:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.130:443
 trojan://tg-dns68@162.159.152.92:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.92:443
 trojan://tg-dns68@162.159.152.84:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.84:443
@@ -597,9 +603,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.107:2375#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#🔒 SS-TCP-NA 🇺🇸 US-104.167.197.23:57456
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5000
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29105#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29105
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8008
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:7306
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50255#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50255
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.19:8091#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:8091
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29201#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29201
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@80.92.204.106:9005#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9005

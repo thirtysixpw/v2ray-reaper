@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.17.96.159:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.96.159:2053
+vless://ece8d7b3-bd87-4b93-89a3-1cc1ee3afe3d@104.21.69.44:8080?security=none&type=ws&host=v2riran.ir.www.speedtest.net.www.zula.ir.cloudflare.com.rizzlerlegacy.Ink.&path=telegram-QJoinbedeY%40V2riraN%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.239:443?security=tls&sni=jr.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.239:443
+vless://8ed3a3a9-9440-4e15-bf8e-06f06fb2c365@216.24.57.219:8443?security=tls&sni=paydar.gostarservers.ir&type=grpc&fp=edge&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🇺🇸 US-216.24.57.219:8443
+vless://aee52623-f268-49b6-8c1b-e6c9af923df8@212.80.18.72:27449?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-212.80.18.72:27449
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.169.118:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.169.118:443
 vless://6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f@45.149.12.33:443?security=tls&sni=hdfy1c4.sassanidempire.com&type=grpc&serviceName=LNGeLLJtWl4JWOU9ID6IU#🔒 VL-GRPC-TLS 🇳🇱 NL-45.149.12.33:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.234:2083?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.234:2083
@@ -598,8 +603,3 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.39.99:443?security=tls&sni=d
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.12:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.12:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.102:443?security=tls&sni=ks.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.102:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.41.30:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.41.30:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.212.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.212.214:443
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?security=tls&sni=ahmedquran19.xyz&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:443
-vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@104.26.15.16:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.16:8080
-vless://ac506a53-d79a-4b31-9271-e647f7637466@188.245.60.248:2020?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.60.248:2020
-vless://f6991c3c-2978-46f0-b933-f21767896c81@85.9.126.167:28827?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-85.9.126.167:28827

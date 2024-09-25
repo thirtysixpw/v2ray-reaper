@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9289cb42-db87-4ee7-9a17-9ceff2059ea5@162.159.133.234:8080?security=none&type=ws&host=www.speedtest.net.uploud.fr.dash.com.ABRPAK.ORG&path=%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8080
-vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.181:8080
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@162.159.249.15:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.249.15:8080
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.177:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.177:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.157.255:2053?security=tls&sni=MAHdisErver-Bpr.PaGes.dEv&type=ws&host=mahDiSErVer-bPR.pages.DeV&path=%2FOjwiW58maQA6wttK%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.157.255:2053
@@ -603,3 +601,5 @@ vless://b7dd3a5a-6b45-5b29-bc74-ec08e81c790c@104.21.15.32:443?security=tls&sni=y
 vless://97b11ee6-a62a-4e60-839c-de974a155089@88.216.67.159:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇱🇹 LT-88.216.67.159:443
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.248.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:443
 vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.21.228.181:8080?type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.228.181:8080
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.177:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://A98XMiF6NA@38.59.241.39:10000?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-38.59.241.39:10000
-trojan://auto@162.159.153.128:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.128:443
 trojan://auto@172.66.47.7:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 trojan://tg-dns68@162.159.153.247:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.247:443
 trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.219:443
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#🔒 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.120:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:7001
 ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVUlPanZGaE01bjdnQ0hrWnBQQ2E4@157.245.203.100:80#🔒 SS-TCP-NA 🇸🇬 SG-157.245.203.100:80
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppR1I0dElPaGZGMTdxQ0lsa3haRG41@141.105.64.231:60092#🔒 SS-TCP-NA 🇷🇺 RU-141.105.64.231:60092

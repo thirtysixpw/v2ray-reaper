@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.228:443
+vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.4:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.4:2096
+vless://01842c9c-d03c-4765-a950-5da4b096ee74@104.17.214.22:443?security=tls&sni=SAEEd-9j2.pAGEs.dEV&type=ws&host=SaEED-9j2.paGes.deV&path=%2FlSJ5ZWtgK9YOLK40%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.214.22:443
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
 vless://cc96b393-6f02-4783-a858-e08afbe83d03@185.146.173.117:2082?security=none&type=httpupgrade&host=HoMe.The-Sys.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-185.146.173.117:2082
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.164:443?security=tls&sni=ho.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.164:443
@@ -600,6 +603,3 @@ vless://85e5d269-af01-4739-b6de-361ac74ceae3@151.101.0.223:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80?type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.138:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.109:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.109:443
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.171:443
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.14:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.14:443
-vless://0b0b8f0b-4b9e-4965-8e02-3ce8fa02ac55@172.67.157.65:443?security=tls&sni=freedom7.haner40160.workers.dev&type=ws&host=freedom7.haner40160.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.65:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=kr.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.233:443

@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
-trojan://Trevely@172.64.33.110:443?security=tls&sni=trojan.trevely.us.kg&type=ws&host=trojan.trevely.us.kg&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.110:443
-trojan://tg-dns68@162.159.153.246:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.246:443
-trojan://tg-dns68@162.159.152.10:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.10:443
-trojan://95b@43.153.103.203:443?sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#🔒 TR-WS-NA 🇺🇸 US-43.153.103.203:443
-trojan://telegram-id-directvpn@34.230.164.78:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.230.164.78:22222
-trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
-trojan://tg-dns68@162.159.153.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.192:443
-trojan://tg-dns68@162.159.152.14:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.14:443
-trojan://tg-dns68@172.66.47.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.66:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.66:2083
 trojan://91d7b973-630c-492f-9600-719f6a70f01e@104.16.132.167:443?security=tls&sni=e1.777655.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.132.167:443
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
 trojan://tg-dns68@162.159.153.97:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.97:443
@@ -603,3 +592,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTzZ4RWl5VUcwc2tJUThGYjdPWk1V@45.33.30.8:187
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek56ZG1NbVUwTXkxbFltVTVMVFE1TjJJdFltUTROeTAwTTJObU5UVTBOamM1WlRJ@38.150.12.187:39049#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:39049
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🔒 SS-TCP-NA 🇭🇰 HK-203.23.128.33:990
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
+ss://MzJmMDliNzAtZDJmNy0xMWVlLWFiZGEtMDA1MDU2MDNlNzBkOg==@104.21.49.18:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.49.18:443
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.105:8119#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:8119
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#🔒 SS-TCP-NA 🇵🇾 PY-38.165.233.18:990
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:8888
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcDhQMjQ1NDFLbHVsckp5cmxQR1Zn@92.118.112.254:1080#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.254:1080
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29219#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29219
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8888
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:7002
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:3306
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQjdTa0JCcGhST2c4bjlPeXRoNXRN@134.122.40.160:80#🔒 SS-TCP-NA 🇨🇦 CA-134.122.40.160:80

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.193:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-104.156.81.193:443
+vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@104.18.27.94:80?security=none&type=ws&host=sedalat.tatexe3807.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.35.99:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.35.99:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.67:443
 vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:8443?security=tls&sni=selinc-8selinc8-selinc.payfhu.workers.dev&type=ws&host=selinc-8selinc8-selinc.payfhu.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.34:8443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.49.15:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.49.15:443
@@ -600,6 +603,3 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.39:443?security=tls&sni=kt.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.39:443
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.180.218:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%C3%A5%C2%81%C2%B7%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B9%C3%A6%C2%AD%C2%BB%C3%A5%C2%90%E2%80%94&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.180.218:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.138:2083?security=tls&sni=vfarid.xcdi.woRkErs.dEv&type=ws&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.138:2083
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2096?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2096
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:443
-vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.109:443?security=tls&sni=cmli.ali.f5.si&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-103.172.110.109:443

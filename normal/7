@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://24136735-1c85-46b8-96f8-b5f0eadec78c@160.153.0.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.179:443
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.33:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-185.16.110.33:2082
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.168:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.168:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.0:443
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.127:443?security=tls&sni
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.34.99:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.34.99:443
 vless://69037054-f051-43bb-8233-c530036aadc2@172.66.47.195:2096?security=tls&sni=vPnKeNzO.pagES.DeV&type=ws&host=vPNKEnZo.PaGes.deV&path=%2Fvgd3qrPUpoyHq6Ty%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.195:2096
 vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@104.21.24.106:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.106:2053
-vless://fd3060b6-e604-5ee2-9099-29b91c2403ce@172.67.171.86:80?type=ws&host=De2.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.171.86:80

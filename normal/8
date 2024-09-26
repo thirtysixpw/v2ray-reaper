@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2087
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.15.85:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2083
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-168.138.50.249:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.97.47:2083?security=tls&sni=vfarid.xcdi.woRkErs.dEv&type=ws&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.47:2083
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.199:443?security=tls&sni=BpB-sEpTeMbER.PaGeS.DEv&type=ws&host=bPB-SepTEmBer.pAges.DEV&path=%2F9kbEKq0URPWZV1yZ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.199:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.194:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.194:443
@@ -600,6 +603,3 @@ trojan://tg-dns68@162.159.152.53:443?security=tls&sni=vip.putata.eu.org&type=ws&
 trojan://trojan@172.67.130.66:443?security=tls&sni=speedtest.org&path=%2F%3Fed%3D2560&alpn=h2&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.130.66:443
 trojan://telegram-id-directvpn@15.188.67.220:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.67.220:22222
 trojan://tg-dns68@162.159.153.43:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.43:443
-trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?sni=cdn.qchwnd.moe#🔒 TR-TCP-NA 🇦🇺 AU-194.195.254.50:443
-trojan://telegram-id-privatevpns@52.59.148.40:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.59.148.40:22222
-trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443

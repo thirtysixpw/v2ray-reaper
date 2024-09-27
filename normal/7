@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://42b53885-3675-4a8c-cb15-103505d2c78b@172.67.214.21:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.21:443
 vless://21a78493-40c9-4a44-9b03-9c45f41d1845@104.17.148.22:2083?security=tls&sni=dm.XsV2ray.cfd&type=grpc&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&fp=safari&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2083
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.20.151:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.151:443
 vless://a989201e-f910-4533-aa58-fdd29b1ef48d@185.146.173.95:443?security=tls&sni=all1.vip-save.space&type=ws&host=all1.vip-save.space&path=%2FTelegram+-+@SavageV2ray+-+Telegram+-+@SavageV2ray#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.95:443
@@ -602,4 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.27.94:2083?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.200:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.200:2082
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.26.94:2083?security=tls&sni=aZadNet-FrEeDom-IRAniAn.PagES.DEv&type=ws&host=aZAdnet-FrEeDom-iranIan.pageS.Dev&path=%2FQXS4if0mTpJECqlO%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2083
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.174:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.174:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.60:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.60:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.152.2:8443?security=tls&sni=freEAll-fOReX-123.wpEZCsXV.woRkeRs.dev&type=ws&host=FrEeall-FORex-123.wPezCSXv.WORkeRS.dEv&path=%2For0nA67gNzJHZe4n%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:8443?security=tls&sni=uS.XIAOer.uS.Kg&type=ws&path=%2F2dIQ3t3up2krDeZw%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.91:8443
 vless://5361a986-91b9-4756-a78c-103261128d83@194.76.18.200:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.200:2082
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@34.246.106.160:22222?security=tls&sni=trojan.bu
 trojan://tg-dns68@162.159.152.221:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.221:443
 trojan://tg-dns68@162.159.152.132:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.132:443
 trojan://tg-dns68@162.159.153.231:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.231:443
+trojan://tg-dns68@162.159.152.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.85:443

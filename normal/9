@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://xl87654321@172.234.222.138:443?security=tls&sni=stonebreak.online&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.138:443
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
 trojan://tg-dns68@162.159.152.191:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.191:443
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.15.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.26.15.85:443
@@ -602,4 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🔒 SS-TCP-NA 🇬🇧
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.244:7307
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek56ZG1NbVUwTXkxbFltVTVMVFE1TjJJdFltUTROeTAwTTJObU5UVTBOamM1WlRJ@38.150.12.187:39049#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:39049
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:5000

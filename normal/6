@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://97b11ee6-a62a-4e60-839c-de974a155089@188.164.159.4:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.4:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@129.154.223.89:15800?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.142:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.142:2082
 vless://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?security=none&type=ws&host=telegram-falcunargo.31186fb105.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.140.149:8880
@@ -602,4 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:80
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.208.211:8080
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:8443?security=tls&sni=esetsecuritylicense.ikgbvch.WorKeRS.dEV&type=ws&host=esetsecuritylicense.ikgbvch.WorKeRS.dEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:8443
-vless://42b53885-3675-4a8c-cb15-103505d2c78b@172.67.214.21:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.21:443

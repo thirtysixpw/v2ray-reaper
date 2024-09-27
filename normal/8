@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://85e741b8-8233-4b38-e89a-2d2658119f27@172.66.0.218:2087?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=/ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.0.218:2087
 vless://5361a986-91b9-4756-a78c-103261128d83@154.197.108.241:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇸🇨 SC-154.197.108.241:2082
 vless://9c8c5159-e9d2-45db-8dd0-d99e2af0e1a2@104.22.40.174:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.40.174:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.81.217:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.81.217:443
@@ -602,4 +603,3 @@ trojan://tg-dns68@162.159.152.213:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://tg-dns68@162.159.153.93:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.93:443
 trojan://tg-dns68@162.159.152.91:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.91:443
 trojan://telegram-id-directvpn@13.38.178.108:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.38.178.108:22222
-trojan://tg-dns68@162.159.153.60:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.60:443

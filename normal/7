@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.127:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.127:80
-vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&host=pardazeshvpn-tg18.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.106:443
-vless://ca63de55-a003-4259-9ace-2521cd557f64@88.198.106.89:42852?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-88.198.106.89:42852
-vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80?type=ws&host=6.www.abrha.com.xn--joinBede-ELiV2ry.click.abrarvan.ir.at2.vless.sitespeedtest.net&path=%2F++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.16.16:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.191:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.191:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.216:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.112:80?security=none&type=ws&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#🔒 VL-WS-NONE 🇺🇸 US-140.248.152.112:80
 vless://48e1f6ad-6a69-412c-af5e-d90f42d7f602@172.67.170.77:80?security=none&type=httpupgrade&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=%2F%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.170.77:80
@@ -603,3 +597,9 @@ vless://76434743-2a94-4cfd-8170-8e3971419b36@172.66.47.19:443?security=tls&sni=p
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.78:443?security=tls&sni=xq.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.78:443
 vless://27dc8f05-e018-44d3-bdf8-c60cb8f55523@104.18.27.94:443?security=tls&sni=esetsecuritylicense.jphpxm.workers.dev&type=ws&host=esetsecuritylicense.jphpxm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.138:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.138:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:2096?security=tls&sni=EB043Cc5.MKhalILi.PAGeS.dEV&type=ws&host=EB043cC5.mkhAliLi.paGES.DeV&path=%2FTG@juzibaipiao-%E6%A9%98%E5%AD%90%E5%88%86%E4%BA%AB#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.54:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.91:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.91:80
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.169:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.169:443
+vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80
+vless://f5cd7aea-cb0f-d2ad-ee8e-bb71a95b90a3@95.81.83.52:32433?security=none&type=tcp&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.83.52:32433
+vless://d2e55a2e-69fc-49eb-bf48-a9acfa901ea1@172.67.220.58:2053?security=tls&sni=rpn3.nlpstuff.ir&type=ws&host=rpn3.nlpstuff.ir&path=%2F&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.58:2053

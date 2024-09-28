@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:2096?security=tls&sni=EB043Cc5.MKhalILi.PAGeS.dEV&type=ws&host=EB043cC5.mkhAliLi.paGES.DeV&path=%2FTG@juzibaipiao-%E6%A9%98%E5%AD%90%E5%88%86%E4%BA%AB#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.54:2096
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.91:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.91:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.169:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.169:443
-vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80
-vless://f5cd7aea-cb0f-d2ad-ee8e-bb71a95b90a3@95.81.83.52:32433?security=none&type=tcp&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.83.52:32433
-vless://d2e55a2e-69fc-49eb-bf48-a9acfa901ea1@172.67.220.58:2053?security=tls&sni=rpn3.nlpstuff.ir&type=ws&host=rpn3.nlpstuff.ir&path=%2F&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.58:2053
 vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.50:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=%2Fed%3F2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.29.50:2095
 vless://a04f9404-df20-41fa-9741-9b05659a6e40@92.223.124.27:80?security=none&type=httpupgrade&host=admin.322355.shop&path=%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-92.223.124.27:80
 vless://3fdf8956-c5a7-4cec-b7cc-f15334a0e041@104.21.88.162:8443?security=tls&sni=vpNkENzo.AARisH-aMEl.WOrKERS.Dev&type=ws&host=vPnkeNzo.aARisH-amel.WORKers.DeV&path=%2F8lRia7k6ZuGhbWVa%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.162:8443
@@ -603,3 +597,9 @@ trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@104.16.201.94:443?security=tls&sni
 trojan://tg-dns68@162.159.152.199:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.199:443
 trojan://tg-dns68@162.159.152.241:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.241:443
 trojan://tg-dns68@162.159.153.119:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.119:443
+trojan://XslctYye3P@95.216.243.26:110?security=tls&sni=flt1.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-95.216.243.26:110
+trojan://your_password@18.100.115.245:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-18.100.115.245:443
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.66.223:443
+trojan://95b@51.38.152.80:2053?sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#🔒 TR-WS-NA 🇬🇧 GB-51.38.152.80:2053
+trojan://tg-dns68@162.159.153.210:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.210:443
+trojan://XslctYye3P@95.217.112.137:110?security=tls&sni=flt1.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-95.217.112.137:110

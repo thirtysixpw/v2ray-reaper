@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|ES_speednode_0128
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.173:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#15|ES_speednode_0129
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0130
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0131
@@ -603,3 +602,4 @@ vless://5c06b9c5-6149-42f7-bdce-2d37f16d8040@Speedtest.net:443?path=%2Ftelegram-
 trojan://telegram-id-privatevpns@54.228.225.217:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2080ms
 trojan://telegram-id-privatevpns@13.43.214.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2083ms
 trojan://telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20126ms
+trojan://telegram-id-privatevpns@15.236.143.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20153ms

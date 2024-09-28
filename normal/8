@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@104.16.103.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.103.112:8880
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.55.42:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.55.42:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.52:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.52:443
-vless://489c0418-071e-5924-81a4-3fd3875bd384@104.27.46.189:80?security=none&type=ws&host=www.iransell.ir.127.0.0.1.dl3.%D1%8D%D0%B2%D1%80%D0%B8%D0%BA%D0%B0.%E5%B0%A4%E9%87%8C%E5%8D%A1.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.46.189:80
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@216.24.57.5:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-216.24.57.5:2082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.167.73:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.167.73:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.38.180:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#🔒 VL-WS-NONE 🇳🇱 NL-151.101.38.180:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.31:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.31:443
-vless://d3931994-6827-427e-a17f-e9c199917123@172.67.24.121:80?security=none&type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.24.121:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.97:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.97:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.190:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.190:443
 vless://69037054-f051-43bb-8233-c530036aadc2@172.66.47.195:2096?security=tls&sni=vPnKeNzO.pagES.DeV&type=ws&host=vPNKEnZo.PaGes.deV&path=%2Fvgd3qrPUpoyHq6Ty%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.195:2096
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
@@ -603,3 +593,13 @@ trojan://tg-dns68@162.159.153.234:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://telegram-id-privatevpns@15.236.58.120:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.58.120:22222
 trojan://telegram-id-directvpn@52.48.228.244:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.48.228.244:22222
 trojan://cassiusvpn@104.17.148.22:2087?security=tls&sni=telegram----cassiusvpn----7799999226826666688821112522287288888.alyssandra241.workers.dev&type=ws&host=telegram----cassiusvpn----7799999226826666688821112522287288888.alyssandra241.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
+trojan://tg-dns68@162.159.153.119:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.119:443
+trojan://tg-dns68@162.159.152.228:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.228:443
+trojan://tg-dns68@162.159.152.194:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.194:443
+trojan://tg-dns68@162.159.153.125:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.125:443
+trojan://2b106b5a-723a-472d-b97c-697086c06051@103.231.248.2:443?#🔒 TR-TCP-NA 🇻🇳 VN-103.231.248.2:443
+trojan://cassiusvpn@104.17.148.22:443?security=tls&sni=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&type=ws&host=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
+trojan://tg-dns68@162.159.153.246:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.246:443
+trojan://Qu7nSemLSL@188.114.96.3:8880?security=none&type=ws&host=asp.varzesh313.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-188.114.96.3:8880
+trojan://tg-dns68@162.159.153.16:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.16:443
+trojan://tg-dns68@162.159.153.2:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443

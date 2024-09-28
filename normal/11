@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.173:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#15|ES_speednode_0129
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0130
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0131
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0132
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?ed=2048security=tls#15|GB_speednode_0133
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.159:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2securitysecurity=tls#15|GB_speednode_0136
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.159:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2security=tls#15|GB_speednode_0135
-vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?allowInsecure=0&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=/security=tls#15|GB_speednode_0137
-vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?allowInsecure=0&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=/Twitterfreecodessecurity=tls#15|GB_speednode_0138
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/fp=chrome&security=tls#15|GB_speednode_0144
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chrome&security=tls#15|GB_speednode_0140
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chromefp=chrome&security=tls#15|GB_speednode_0141
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?allowInsecure=0&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/?edfp=chromefp=chrome&security=tls#15|GB_speednode_0142
@@ -603,3 +593,13 @@ trojan://telegram-id-privatevpns@54.228.225.217:22222?security=tls&alpn=http%2F1
 trojan://telegram-id-privatevpns@13.43.214.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2083ms
 trojan://telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20126ms
 trojan://telegram-id-privatevpns@15.236.143.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20153ms
+trojan://telegram-id-privatevpns@35.181.22.149:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2085ms
+trojan://telegram-id-privatevpns@52.57.84.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
+trojan://telegram-id-privatevpns@3.121.57.25:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
+trojan://telegram-id-privatevpns@16.170.112.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20107ms
+trojan://telegram-id-privatevpns@13.53.145.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20108ms
+trojan://telegram-id-privatevpns@99.81.67.3:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2071ms
+trojan://telegram-id-privatevpns@34.247.98.6:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2071ms
+trojan://telegram-id-privatevpns@18.133.25.155:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2080ms
+trojan://telegram-id-privatevpns@13.42.112.48:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2080ms
+trojan://telegram-id-privatevpns@15.237.134.194:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%2085ms

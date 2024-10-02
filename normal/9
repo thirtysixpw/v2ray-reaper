@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.27.7.142:2053
+trojan://tg-dns68@162.159.152.134:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.134:443
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443
+trojan://cassiusvpn@104.17.147.22:2087?security=tls&sni=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&type=ws&host=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2087
+trojan://telegram-id-directvpn@3.98.80.217:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.98.80.217:22222
+trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=%2FQ177OZ8bzrxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
+trojan://Watashi_VPN@172.67.204.84:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
+trojan://tg-dns68@47.56.196.176:9443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🇭🇰 HK-47.56.196.176:9443
+trojan://auto@172.67.68.157:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
+trojan://SQXdz0p1cP@95.216.78.124:110?security=tls&sni=fr1.ftpcomand.com&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇮 FI-95.216.78.124:110
+trojan://tg-dns68@162.159.152.61:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.61:443
 trojan://5c7941b5-c393-4eea-a76d-d44b59baf8a0@185.234.64.146:2053?#🔒 TR-TCP-NA 🇫🇷 FR-185.234.64.146:2053
 trojan://tg-dns68@162.159.153.122:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.122:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
@@ -591,15 +603,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#🔒 SS-TCP-NA 🇺�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50255#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50255
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.46:8080#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.46:8080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:3389
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.101.11:2375#🔒 SS-TCP-NA 🇺🇸 US-38.91.101.11:2375
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8881
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:9102
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8881#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.72:8881
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5500
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7002
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.66:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8882
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29203#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29203
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#🔒 SS-TCP-NA 🇺🇸 US-38.91.102.72:8882
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3V0hxM045ejZiRExiQ0pxaVpkeU10@174.138.17.254:52252#🔒 SS-TCP-NA 🇸🇬 SG-174.138.17.254:52252
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.56:5500#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:5500
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:5001

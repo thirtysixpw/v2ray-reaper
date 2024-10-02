@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.19:5004#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A5004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM3Zld2ZreHlkYzIySkxrSVZxSHRq@212.113.106.76:61992#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B9%20AT-212.113.106.76%3A61992
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2376#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A2376
 vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.175.177.127%3A443
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.19:8009#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A8009
@@ -603,3 +601,5 @@ vless://7c0cc1e3-5b38-4d08-b39c-de69199bd4fc@104.26.14.16:8880?security=none&typ
 vless://42770e56-cb46-404e-9f65-3e0a348a4b77@45.83.20.37:443?security=tls&sni=be1.v2vless.site&type=ws&host=be1.v2vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇨🇾 CY-45.83.20.37:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=xz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.41:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.105.225:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.225:8443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.14:8443
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@162.159.192.106:443?security=tls&sni=BPB-WorkER-paneL1-e4P.PaGEs.deV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Fr6JxYhM7twpPzdOc%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.106:443

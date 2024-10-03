@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.53:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.6.53:443
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.190.58:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.58:443
+vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@188.114.96.3:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.chanel97.online.&path=TelegramChanel%3At.me%2FHTTP_injector99#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.96.3:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.174:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-104.156.81.174:443
 vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@104.18.25.31:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.25.31:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=kz.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.64:443
 vless://3f056d4c-983c-4f1c-8ebc-20100fa61150@212.80.18.156:8001?security=none&type=ws&host=speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-212.80.18.156:8001
@@ -599,7 +603,3 @@ trojan://telegram-id-directvpn@54.228.223.205:22222?security=tls&sni=trojan.burg
 trojan://tg-dns68@162.159.152.107:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.107:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
 trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
-trojan://tg-dns68@162.159.152.209:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.209:443
-trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
-trojan://95b@137.74.157.158:8443?sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#🔒 TR-WS-NA 🇫🇷 FR-137.74.157.158:8443

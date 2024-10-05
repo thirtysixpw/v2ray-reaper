@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.104.75.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇩🇪 DE-5.104.75.12:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.200:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.200:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=dc.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
 vless://1f52a18e-586e-4c1b-a08d-56afb65b1278@37.152.176.24:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.152.176.24:80
@@ -603,3 +602,4 @@ vless://3f056d4c-983c-4f1c-8ebc-20100fa61150@212.80.18.72:8021?security=none&typ
 vless://3f056d4c-983c-4f1c-8ebc-20100fa61150@212.80.18.156:8001?security=none&type=ws&host=speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-212.80.18.156:8001
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.110:443?security=tls&sni=dc.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.110:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.144:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.144:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.138:80

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.130.190:443#%E6%9C%AA%E7%9F%A551%2066.9KB%2Fs
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8009#US50%201.9MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%E6%9C%AA%E7%9F%A552%202.6MB%2Fs
 trojan://XslctYye3P@95.217.112.138:110?security=tls&type=tcp&sni=flt1.ftpcomand.com#%E6%9C%AA%E7%9F%A553
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@3.127.140.121:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@3.76.241.33:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2092ms
 trojan://telegram-id-privatevpns@13.53.221.191:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20108ms
 trojan://telegram-id-privatevpns@16.16.102.95:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20109ms
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms

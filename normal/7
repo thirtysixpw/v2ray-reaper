@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDMiLCJhZGQiOiJtbWhrMDEubWljbG91ZC5idXp6IiwicG9ydCI6IjQ2MDAxIiwiaWQiOiJjOWJkYTBlNy00ZmZhLTQ2NGYtODRhMC00MTI1MzE4MGQwNGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii96aC1jbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQiLCJhZGQiOiJhbWJ4eGljMDFoay5kb3JhYmJiLnRvcCIsInBvcnQiOiI0NDgwNiIsImlkIjoiYWU2NjMzMWUtYjZiNC00YzZmLTk1OWYtNmVkNjRjZjk3NjI4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ0In0=
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6697#US41%201.8MB%2Fs
 trojan://CMLiu@43.153.80.208:443?sni=aliorg.filegear-sg.me#US42
 ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#US43%2060.7MB%2Fs
@@ -601,5 +603,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.177:443?path=%2F%3Fed%3
 vless://a486d915-3956-4628-be6b-28b75f3f2a2a@Speedtest.net:443?path=%2Ftelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%3Fed%3D2048&security=tls&encryption=none&host=monvip.com&type=ws&sni=Speedtest.net#🆔polproxy%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://5c06b9c5-6149-42f7-bdce-2d37f16d8040@Speedtest.net:443?path=%2Ftelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%2Ctelegram-%40polproxy%3Fed%3D2048&security=tls&encryption=none&host=moien1m.com&type=ws&sni=Speedtest.net#🆔polproxy%20🔒%20VL-WS-N/A%20🇳🇱%20NL%206ms
 trojan://telegram-id-privatevpns@54.228.225.217:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%2080ms
-trojan://telegram-id-privatevpns@13.43.214.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2083ms
-trojan://telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20126ms

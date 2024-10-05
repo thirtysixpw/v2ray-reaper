@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://48e1f6ad-6a69-412c-af5e-d90f42d7f602@172.67.170.77:80?security=none&type=httpupgrade&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=%2F%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.170.77:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.18.33:443?security=tls&sni=ppal03.lia-HARTMAnn.woRkErs.dEV&type=ws&host=ppAL03.lIA-HArtManN.workers.DeV&path=%2FLK8QINcpxrBc7yhF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.33:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.79.146:443?security=tls&sni=20Fb0424.bpB-wORKer-PAnEl-1xd.pages.deV&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.79.146:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.64:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇮🇪 IE-199.232.26.64:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.211:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.211:443
-vless://1508a1ce-5cff-4f37-e219-03d052100bf8@172.67.132.209:2095?security=none&type=ws&host=www.speedtest.net.Jaricopen.Shop.&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.209:2095
 vless://29a5ffb0-9259-4871-8a53-7cd2973aa585@104.21.78.104:80?security=none&type=httpupgrade&host=SssD.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.EpicMaRket-HtTp.Ir.&path=%2Findex.php%2FV2eX%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.78.104:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.109:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.10.128:2083?security=tls&sni=xxx.donated002.workers.dev&type=ws&host=xxx.donated002.workers.dev&path=%2F%40V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.128:2083
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25203#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25203
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:2376
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29208#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29208
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@172.245.180.193:16899#🔒 SS-TCP-NA 🇺🇸 US-172.245.180.193:16899
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5001

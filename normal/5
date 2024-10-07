@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?security=none&type=tcp&host=Telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.187.84:47465
-vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@205.233.181.184:2053?security=tls&sni=Telegram-iD-TehranARGo.pages.dev&type=ws&path=%2FTEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO%3Fed#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.184:2053
-vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&host=e420ceed.aryoo-vpn-friends.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.57:443
-vless://e2f9de4a-8d0c-43d6-a0e3-2754310e8a33@152.42.246.193:443?security=tls&sni=alexid.thelk.club&type=ws&path=%2F&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-152.42.246.193:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@107.172.235.55:1024?security=tls&sni=xz.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-107.172.235.55:1024
-vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?security=tls&sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv&type=ws&host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&path=%2F%3Fed%3D2560&fp=360&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053
-vless://69f44e6b-9323-4ee1-8e6d-a0299639e2d3@172.66.44.79:443?security=tls&sni=TeLEgRAM-id-TEhRanARgO.PAGes.Dev&type=ws&host=Telegram-id-TehranArgo.pages.dev&path=/TEL-%40TEHRANARGO---TEL-%40TEHRANARGO---TEL-%40TEHRANARGO---TEL-%40TEHRANARGO---TEL-%40TEHRANARGO%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.79:443
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.194.15.142:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.194.15.142:22222
 vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@172.67.73.163:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.163:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.213:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443
@@ -603,3 +595,11 @@ trojan://DailyConfigs@104.18.41.190:8443?security=tls&sni=kanale-daily-configs.b
 trojan://tg-dns68@162.159.152.44:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.44:443
 trojan://DailyConfigs@172.64.155.209:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.209:2087
 trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
+trojan://tg-dns68@162.159.152.191:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.191:443
+trojan://tg-dns68@162.159.152.175:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.175:443
+trojan://telegram-id-directvpn@18.222.90.123:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.222.90.123:22222
+trojan://tg-dns68@172.66.44.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.128:443
+trojan://telegram-id-directvpn@107.22.193.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-107.22.193.6:22222
+trojan://273df0aa-4151-4764-a654-67adc99b6027@104.18.1.125:8080?security=none&type=ws&host=a.1.www.speedtest.net.snapp.ir.parsdood.ir.&path=%2F%3Fed%3D8080#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.1.125:8080
+trojan://telegram-id-privatevpns@18.133.2.200:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.133.2.200:22222
+trojan://auto@104.18.12.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053

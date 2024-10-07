@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.147:443
+trojan://bpb-trojan@188.114.99.208:2053?security=tls&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.208:2053
 trojan://telegram-id-directvpn@18.153.170.41:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.170.41:22222
 trojan://Telegram-DailyConfigs@104.18.2.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.2.11:2096
 trojan://telegram-id-directvpn@3.131.34.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.131.34.242:22222
@@ -600,6 +603,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:5500
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:8090
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.218:2375#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:2375
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:7306
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5600
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOdE5rUEZ6MWRyQ0ZuOXdPT2Z6MjEw@178.208.91.118:16942#🔒 SS-TCP-NA 🇳🇱 NL-178.208.91.118:16942

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://bpb-trojan@108.165.216.31:443?sni=403B3611-99bc-43b7-88d7-26eD5d0825a9-3.paGes.dEV#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-trojan://telegram-id-privatevpns@52.211.1.131:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A535
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29203#HK3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#%E6%9C%AA%E7%9F%A536
 trojan://8fe3b905-b933-4a3f-aa33-40a73ec93c69@download1hkt.windowsupdate1.com:28443?sni=glc.hruqoaw.cn#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 trojan://H0Fil1jVcgIZrAoagejshg@104.21.28.188:80?security=none&type=ws&host=SH.sKyCLuB.cOm.Tr#%E6%9C%AA%E7%9F%A537
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TG5qc3RJU2h6dE9vYWpPaEl3Zkdn@95.164.11.94:443#%E6%9C%AA%E7%9F%A538
@@ -603,3 +599,7 @@ vless://0113596e-a254-40bc-cc88-a70f3acf2a5b@104.21.63.171:8880?path=%2F%40Alfre
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@151.101.130.219:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.com&fp=randomized&type=ws&sni=speedtest.net#🆔prrofile_purple%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
 vless://310b0dea-3a54-4e14-9392-db0bbd150dc2@speedtest.net:443?path=%2Fhqv2ray.host%3Fed%3D443&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=hqv2rayng.cc&fp=firefox&type=ws&sni=speedtest.net#🆔prrofile_purple%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=randomized&type=ws&sni=speedtest.net#🆔prrofile_purple%20🔒%20VL-WS-N/A%20🇳🇱%20NL%206ms
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=Telegram-432.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-xv2ray.com&type=ws&sni=speedtest.net#🆔prrofile_purple%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
+vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#🆔servernett%20🔓%20VL-WS-N/A%20🇸🇪%20SE%205ms
+vless://16f6af9d-9bc9-442e-a658-8735a372d2c5@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc45.lebasnoo.ir.&type=ws#🆔servernett%20🔓%20VL-WS-N/A%20🇸🇪%20SE%205ms
+vless://3fc55264-7eb8-4aeb-a2f2-c9eff71c9252@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc22.lebasnoo.ir.&type=ws#🆔servernett%20🔓%20VL-WS-N/A%20🇸🇪%20SE%205ms

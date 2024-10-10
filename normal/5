@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.229:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@223.18.129.85:11263?security=tls&sni=dc.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-223.18.129.85:11263
+vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?security=tls&sni=PpaL03.EDmUnD-RAU.wORkeRs.dev&type=ws&host=pPaL03.EdMUnD-RAu.WoRKErS.DEv&path=%2FPath%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.208:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.110:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.110:443
+vless://c3912430-73b0-4ed5-94a3-11a3f764e94a@104.19.255.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.255.51:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.87.98:443?security=tls&sni=PPaL03.CAYNan-DAedalUs.wORKERS.DEv&type=ws&host=PPal03.caYNAn-DAEDaLUS.wOrkERS.DEv&path=%2FiAlYbjhUo9rxJJ2G%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.98:443
+vless://daa0cbbb-dcf5-4ede-8eb6-12c65ddf7ac9@104.21.78.104:80?security=none&type=httpupgrade&host=SssD.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.EpicMaRket-HtTp.Ir.&path=%2Findex.php%2FV2eX%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.78.104:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.176:443?security=tls&sni=ah.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.176:443
+vless://06d81503-7a3e-42fe-85c6-9cd9d96e9a22@193.151.143.100:444?security=tls&sni=tunleee.naziitness.com&type=ws&host=tunleee.naziitness.com&path=%2FGcore.com%3Fed%3D443&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-193.151.143.100:444
 vless://b6f38480-4582-4631-b638-515db5d33c42@209.208.227.61:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed#🔒 VL-WS-TLS 🇺🇸 US-209.208.227.61:8443
 vless://79775e49-c3d7-4535-97e5-6980dbf760d1@92.243.74.137:8443?security=tls&sni=vip4-romax-tiktok.golabyazd.ir&type=ws&host=vip4-romax-tiktok.golabyazd.ir&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.137:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.155.172:2096?security=tls&sni=403b3611-99bc-43B7-88d7-26ED5d0825a9-3.pagES.dEV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FRT3VAMNKwCxFjaAv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.172:2096
@@ -594,12 +603,3 @@ vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@185.135.9.173:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.185:443?security=tls&sni=bpb-v.paGEs.DeV&type=ws&host=BpB-v.pAGES.deV&path=%2FUPTfD8Rbb9Xf8ykr%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.185:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=dc.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-140.238.88.47:443
 vless://ca4b4285-7048-4729-9fb5-d0249e37f16a@5.160.132.190:1001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.132.190:1001
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.214:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.214:443
-vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80?security=none&type=ws&host=sTArt.SiTEg52770.wORkeRs.DeV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:80
-vless://dacd12ee-d990-499a-bc96-9396c9635ff8@151.101.128.223:443?security=tls&sni=python.org&type=ws&host=hostiran.ir&path=%2F&fp=randomized&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.223:443
-vless://dacd12ee-d990-499a-bc96-9396c9635ff8@151.101.0.223:443?security=tls&sni=python.org&type=ws&host=hostiran.ir&path=%2F&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.223:443
-vless://d3afaf54-879c-4528-acf6-34a255b5916f@94.182.222.26:23179?security=none&type=tcp&host=SpaceNetwork.divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.26:23179
-vless://19d50bcd-0967-b0ba-3c81-0e380de3df6a@62.60.210.244:3412?security=none&sni=cbws-284.f-sub.com&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.244:3412
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@199.181.197.39:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.39:443
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.21.83.62:8443?security=tls&sni=vfarid.xcdi.wOrkErs.DEV&type=ws&host=vfarid.xcdi.wOrkErs.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.62:8443
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-13.67.9.5:443

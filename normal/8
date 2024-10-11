@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed=8443&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#%E6%9C%AA%E7%9F%A540
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#US33%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#%E6%9C%AA%E7%9F%A541%201.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@13.38.144.48:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A542
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDMiLCJhZGQiOiIxNzIuNjcuMjIzLjExOSIsInBvcnQiOiI0NDMiLCJpZCI6IjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhtczAyLmZ4aWFvbWkuc2JzIiwicGF0aCI6Ii9saW5rIiwidGxzIjoidGxzIiwic25pIjoiaG1zMDIuZnhpYW9taS5zYnMiLCJ0ZXN0X25hbWUiOiI0MyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQiLCJhZGQiOiIxNTQuNDcuMjEuNTYiLCJwb3J0IjoiODA5OSIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDQifQ==
@@ -603,3 +599,7 @@ trojan://telegram-id-privatevpns@3.76.241.33:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-privatevpns@13.53.221.191:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20108ms
 trojan://telegram-id-privatevpns@16.16.102.95:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔privatevpns%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20109ms
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
+vless://9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇺🇸%20US%205ms
+vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇸🇪%20SE%205ms
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@96110.cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🆔proxy_kafee%20🔒%20VL-WS-N/A%20🇨🇦%20CA%20275ms
+vless://telegram-id-ArV2ray@speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=alf7.ir&fp=chrome&type=ws&sni=speedtest.net#🆔proxy_kafee%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms

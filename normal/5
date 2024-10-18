@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?security=tls&sni=ao.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.140:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.87:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.246.127.166:443?security=tls&sni=cm.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-20.246.127.166:443
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
@@ -603,3 +602,4 @@ vless://f85872e3-16eb-5625-a45d-de35abee97f5@172.67.73.163:8443?security=tls&sni
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.94.90.200:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&path=%2FBDbeQy5R01xte4FL%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-209.94.90.200:8443
 vless://5e3b1425-7e80-437a-956c-e4bae7fc1992@151.101.194.216:80?security=none&type=ws&host=khaoigvajk.ir&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.216:80
 vless://f9b60e4c-8d44-462b-8a4d-c0279eb59fb4@92.223.84.84:80?security=none&type=ws&host=bedonemarz.net&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-92.223.84.84:80
+vless://0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8@104.18.165.38:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.165.38:8443

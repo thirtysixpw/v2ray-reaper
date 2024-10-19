@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🔒 SS-TCP-NA 🇨🇾 CY-134.255.210.49:990
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:6379
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.137.66:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.146:1230
@@ -603,3 +602,4 @@ vless://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-
 vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=edeie4.ir&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048#🆔arv2ray%20🔒%20VL-WS-N/A%20🇳🇱%20NL%207ms
 vless://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=sewut4.ir&type=ws#🆔arv2ray%20🔓%20VL-WS-N/A%20🇳🇱%20NL%206ms
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.com#🆔dailyv2ry%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.com#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms

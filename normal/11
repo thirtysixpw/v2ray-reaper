@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://telegram-id-privatevpns@13.36.247.155:22222?sni=trojan.burgerip.co.uk#美国+Amazon数据中心
 vmess://eyJhZGQiOiAiMjMuMjI3LjM4LjMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5KHNob3BpZnkpIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlwMi42MDE2NzI1Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xNDEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCB2MnJheWZyZWUuZXUub3JnIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMjMuMTYyLjIwMC4xNDEiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
 trojan://5c7941b5-c393-4eea-a76d-d44b59baf8a0@185.234.64.146:2053#乌克兰+v2rayfree.eu.org
@@ -603,3 +602,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.179.25:22222?path=%2Ftelegra
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.152.14:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇫🇷%20FR%2086ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.59.63:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇩🇪%20DE%2094ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.204.213:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇩🇪%20DE%2091ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.70.24:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔vlessconfig%20🔒%20VL-WS-N/A%20🇸🇪%20SE%20108ms

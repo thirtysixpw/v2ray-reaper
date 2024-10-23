@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://bpb-trojan@172.66.44.203:443?security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrSo3btsDgOHHUM6Nb#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.203:443
+trojan://r8CTEc4F7K@104.21.65.254:2083?security=tls&sni=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&type=ws&host=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.65.254:2083
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
+trojan://join-bede-daily-configs@172.67.204.84:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
+trojan://NISHIKUITAN222@140.238.88.47:443?#🔒 TR-TCP-NA 🇬🇧 GB-140.238.88.47:443
 trojan://telegram-id-directvpn@13.60.142.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.142.147:22222
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@133.18.200.127:443?sni=trs01.bolab.net#🔒 TR-TCP-NA 🇯🇵 JP-133.18.200.127:443
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?security=tls&sni=vfarid.xcdi.wOrkERS.DeV&type=ws&host=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.31:2053
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8881
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.101:5498
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@80.92.204.106:9046#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9046
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.179:8080#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVnFyV0xmQWxDaFVHZjhIQzlEd3dR@209.97.142.145:7330#🔒 SS-TCP-NA 🇬🇧 GB-209.97.142.145:7330
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:6679
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🔒 SS-TCP-NA 🇷🇺 RU-45.151.62.54:28825
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.101.11:2375#🔒 SS-TCP-NA 🇺🇸 US-38.91.101.11:2375

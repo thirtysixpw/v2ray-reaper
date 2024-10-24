@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.179:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.179:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.124:443
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.178.114:8080
 vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.26.14.85:2083?security=tls&sni=contactusfromwebvahid.saSSaNIDEmpIrE.Com&type=ws&host=contactusfromwebvahid.saSSaNIDEmpIrE.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
@@ -602,4 +603,3 @@ trojan://blue2024@108.162.195.135:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443
 trojan://telegram-id-directvpn@15.156.183.78:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.183.78:22222
 trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@104.17.148.22:2095?security=none&type=ws&host=at1.vless.Sitespeedtest.net.&path=%2F#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
-trojan://tg-dns68@172.66.47.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.128:443

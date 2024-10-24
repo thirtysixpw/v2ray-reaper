@@ -35,5 +35,5 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add .
-        git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))"
+        git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))" || :
         git push origin sub

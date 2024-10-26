@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.197.20:2053?security=tls&sni=BPB-v.PAGeS.DEv&type=ws&host=bpb-v.PagES.deV&path=%2FekHMvTed6wJeJJlo%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2053
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.54:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.195.54:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?security=tls&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.107:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.14.85:443?security=tls&sni=20FB0424.bpb-worKer-PaNeL-1XD.paGEs.DEv&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2Fakgv7dKwMldGQRQP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
@@ -602,4 +603,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.211.28:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.178.203:443?security=tls&sni=BpB-worKEr-panel-BRH.PaGEs.DEV&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FOFjWVjnfI65jS2iK%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.203:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.69:443?security=tls&sni=ppaL03.ZarYan-aKIRa.woRKERs.Dev&type=ws&host=PpaL03.zarYAn-akirA.WorKeRS.deV&path=%2FOQY7kazhZMRayV4h%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.69:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.182:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.182:2083
-vless://59020e28-7615-4e2c-b35d-1515dc74e504@87.249.50.215:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-87.249.50.215:443

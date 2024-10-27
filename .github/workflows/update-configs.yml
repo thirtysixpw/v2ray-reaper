@@ -1,4 +1,4 @@
-name: Update Configs
+name: Update configs
 
 on:
   schedule:
@@ -6,33 +6,37 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  fetch:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Clone repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+      - name: "Clone repository"
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
+      - name: "Install uv"
+        uses: astral-sh/setup-uv@v3
+        with:
+          version: "0.4.27"
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
 
-    - name: Install dependencies
-      run: pip install -r requirements.lock
+      - name: "Set up Python"
+        run: uv python install
 
-    - name: Update configs list
-      run: python -m src.main
+      - name: "Install the project"
+        run: uv sync --no-dev
 
-    - name: Sort configs
-      run: python -m src.sort
+      - name: "Update configs"
+        run: uv run --no-dev -m src.main
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: "Sort configs"
+        run: uv run --no-dev -m src.sort
 
-        git add -A
-        git diff-index --quiet HEAD || git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))"
-
-        git push
+      - name: "Commit and push changes"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git diff-index --quiet HEAD || git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))"
+          git push

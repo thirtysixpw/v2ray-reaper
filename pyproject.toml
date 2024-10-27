@@ -9,6 +9,7 @@ authors = [{ name = "Lone", email = "loneinheart@tfwno.gf" }]
 dependencies = [
   "aiohttp>=3.10.5",
   "pybase64>=1.4.0",
+  "colorama>=0.4.6",
 ]
 
 [dependency-groups]

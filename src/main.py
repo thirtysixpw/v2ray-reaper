@@ -1,14 +1,13 @@
 import asyncio
 import base64
 import binascii
-import logging
 import shutil
-import sys
 from collections.abc import Callable
 from pathlib import Path
 
 import aiohttp
 import pybase64
+from colorama import Fore
 
 TIMEOUT = aiohttp.ClientTimeout(10)
 
@@ -35,11 +34,13 @@ async def fetch_content(
 ) -> str | None:
     try:
         async with session.get(url, timeout=TIMEOUT) as response:
-            if response.status != 200:
-                logging.info("GET %d %s", response.status, url)
+            response.raise_for_status()
             return decode_func(await response.read()) if decode_func else await response.text()
-    except (aiohttp.ClientError, TimeoutError):
-        return None
+    except aiohttp.ClientError:
+        print(f"{Fore.RED}Failed{Fore.RESET} {url}")
+    except TimeoutError:
+        print(f"{Fore.RED}Timeout{Fore.RESET} {url}")
+    return None
 
 
 async def process_urls(
@@ -140,5 +141,4 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, stream=sys.stdout)
     asyncio.run(main())

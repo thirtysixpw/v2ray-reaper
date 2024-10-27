@@ -1,5 +1,4 @@
 import asyncio
-import base64
 import binascii
 import shutil
 from collections.abc import Callable
@@ -59,7 +58,7 @@ def split_and_encode_configs(
 
     for i in range(1, num_files + 1):
         profile_title = f"🌐 V2Ray Reaper | sub #{i} 🔐"
-        encoded_title = base64.b64encode(profile_title.encode()).decode()
+        encoded_title = pybase64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -75,7 +74,7 @@ def split_and_encode_configs(
             f.write(custom_fixed_text)
             f.write("\n".join(split_lines) + "\n")
 
-        encoded_config = base64.b64encode(
+        encoded_config = pybase64.b64encode(
             (custom_fixed_text + "\n".join(split_lines) + "\n").encode()
         ).decode()
         with (base64_folder / str(i)).open("w") as output_file:

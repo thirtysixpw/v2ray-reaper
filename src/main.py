@@ -129,7 +129,7 @@ async def main() -> None:
         line
         for config in (configs_base64 + configs_normal)
         for line in config.splitlines()
-        if any(protocol in line for protocol in protocols)
+        if any(line.startswith(protocol) for protocol in protocols)
     ]
 
     with (dir_normal / "mix").open("w") as f:

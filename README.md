@@ -7,7 +7,7 @@ use with your V2Ray client to access the internet securely and anonymously.
 
 ## 🚀 Usage
 
-To use these configurations, simply paste the subscription link into your V2Ray client. For
+To use these configurations, paste the subscription link into your V2Ray client. For
 detailed instructions, please refer to your client’s documentation.
 
 **Main Subscription Link:**

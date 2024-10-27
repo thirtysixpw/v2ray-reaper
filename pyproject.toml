@@ -5,65 +5,61 @@ description = "V2Ray configs collector."
 license = "GPL-3.0-or-later"
 readme = "README.md"
 requires-python = ">=3.12"
-authors = [
-    { name = "Lone", email = "loneinheart@tfwno.gf" },
-]
+authors = [{ name = "Lone", email = "loneinheart@tfwno.gf" }]
 dependencies = [
-    "aiohttp>=3.10.5",
-    "pybase64>=1.4.0",
+  "aiohttp>=3.10.5",
+  "pybase64>=1.4.0",
 ]
 
-[tool.rye]
-virtual = true
-managed = true
-universal = true
-dev-dependencies = [
-    "basedpyright>=1.16.0",
+[dependency-groups]
+dev = [
+  "basedpyright>=1.19.1",
+  "ruff>=0.7.1",
 ]
 
 [tool.ruff]
 target-version = "py312"
 line-length = 99
 exclude = [
-    ".git",
-    ".venv",
-    ".idea",
-    ".vscode",
-    ".tests",
-    "build",
-    "dist",
+  ".git",
+  ".venv",
+  ".idea",
+  ".vscode",
+  ".tests",
+  "build",
+  "dist",
 ]
 
 [tool.ruff.lint]
 select = [
-    "E", # pycodestyle errors
-    "W", # pycodestyle warnings
-    "F", # pyflakes
-    "I", # isort
-    "N", # pep8-naming
-    "S", # flake8-bandit
-    "B", # flake8-bugbear
-    "G", # flake8-logging-format
-    "C4", # flake8-comprehensions
-    "UP", # pyupgrade
-    "PLC", # pylint conventions
-    "PLE", # pylint errors
-    "SIM", # flake8-simplify
-    "RET", # flake8-return
-    "RUF", # ruff-specific rules
-    "TCH", # flake8-type-checking
-    "PTH", # flake8-use-pathlib
+  "E", # pycodestyle errors
+  "W", # pycodestyle warnings
+  "F", # pyflakes
+  "I", # isort
+  "N", # pep8-naming
+  "S", # flake8-bandit
+  "B", # flake8-bugbear
+  "G", # flake8-logging-format
+  "C4", # flake8-comprehensions
+  "UP", # pyupgrade
+  "PLC", # pylint conventions
+  "PLE", # pylint errors
+  "SIM", # flake8-simplify
+  "RET", # flake8-return
+  "RUF", # ruff-specific rules
+  "TCH", # flake8-type-checking
+  "PTH", # flake8-use-pathlib
 ]
 
 [tool.basedpyright]
 exclude = [
-    ".git",
-    ".venv",
-    ".idea",
-    ".vscode",
-    ".tests",
-    "build",
-    "dist",
+  ".git",
+  ".venv",
+  ".idea",
+  ".vscode",
+  ".tests",
+  "build",
+  "dist",
 ]
 typeCheckingMode = "standard"
 pythonPlatform = "All"

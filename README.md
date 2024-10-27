@@ -13,7 +13,7 @@ detailed instructions, please refer to your client’s documentation.
 **Main Subscription Link:**
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/normal/mix
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/normal/mix
 ```
 
 For more granular control, configuration files are organized by protocol and are available in the
@@ -22,49 +22,49 @@ protocol directory. Here are the direct links for each protocol:
 - VLESS:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/vless
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/vless
 ```
 
 - VMESS:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/vmess
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/vmess
 ```
 
 - Trojan:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/trojan
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/trojan
 ```
 
 - ShadowSocks:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/ss
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/ss
 ```
 
 - ShadowSocksR:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/ssr
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/ssr
 ```
 
 - Hysteria:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/hysteria2
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/hysteria2
 ```
 
 - Tuic:
 
 ```text
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/tuic
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/tuic
 ```
 
 - Warp (only Hiddify is supported):
 
 ```
-https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/sub/protocol/warp
+https://raw.githubusercontent.com/thirtysixpw/v2ray-reaper/main/protocol/warp
 ```
 
 ## 📜 License

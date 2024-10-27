@@ -1,11 +1,9 @@
 name: Update Configs
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,7 +13,7 @@ jobs:
     - name: Clone repository
       uses: actions/checkout@v4
       with:
-        ref: sub
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -29,11 +27,12 @@ jobs:
     - name: Sort configs
       run: python -m src.sort
 
-    - name: Commit and push configs
+    - name: Commit and push changes
       run: |
-        git checkout sub
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
-        git add .
-        git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))" || :
-        git push origin sub
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git add -A
+        git diff-index --quiet HEAD || git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))"
+
+        git push

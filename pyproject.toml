@@ -25,7 +25,6 @@ exclude = [
   ".venv",
   ".idea",
   ".vscode",
-  ".tests",
   "build",
   "dist",
 ]
@@ -40,15 +39,21 @@ select = [
   "S", # flake8-bandit
   "B", # flake8-bugbear
   "G", # flake8-logging-format
+  "A", # flake8-builtins
   "C4", # flake8-comprehensions
   "UP", # pyupgrade
+  "EM", # flake8-errmsg
   "PLC", # pylint conventions
   "PLE", # pylint errors
   "SIM", # flake8-simplify
   "RET", # flake8-return
-  "RUF", # ruff-specific rules
+  "YTT", # flake8-2020
+  "DTZ", # flake8-datetimez
+  "RUF", # ruff
   "TCH", # flake8-type-checking
   "PTH", # flake8-use-pathlib
+  "PIE", # flake8-pie
+  "ASYNC", # flake8-async
 ]
 
 [tool.basedpyright]
@@ -57,7 +62,6 @@ exclude = [
   ".venv",
   ".idea",
   ".vscode",
-  ".tests",
   "build",
   "dist",
 ]
@@ -65,4 +69,5 @@ typeCheckingMode = "standard"
 pythonPlatform = "All"
 pythonVersion = "3.12"
 reportMissingImports = true
-reportMissingTypeStubs = false
+reportMissingTypeStubs = true
+reportMissingParameterType = true

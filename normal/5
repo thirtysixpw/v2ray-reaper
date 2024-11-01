@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.145:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.145:443
+vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@152.42.192.226:443?security=tls&sni=EMPTY&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.192.226:443
 vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@108.162.195.129:443?security=tls&sni=de.ailicf.us.kg&type=ws&host=de.ailicf.us.kg&path=%2Fsafaf#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.129:443
 vless://2584c143-e25d-4b72-a134-377a58388c5a@172.65.229.187:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.65.229.187:443
 vless://6babb657-1524-43bb-b421-11bda27bc9de@172.67.191.108:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.108:2087
@@ -601,5 +603,3 @@ trojan://Watashi_VPN@104.18.26.94:8443?security=tls&sni=t-watashi-r-jacket-o-peo
 trojan://auto@162.159.44.168:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.168:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443
 trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443
-trojan://tg-dns68@104.19.35.123:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.35.123:443
-trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?security=none&type=ws&host=Uk1.vless.site.&path=%2Fvless#🔒 TR-WS-NONE 🏴‍☠️ NA-190.93.247.152:80

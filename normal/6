@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://5931f598-e766-4829-9e3b-89406b6b3606@109.61.91.231:443?security=tls&sni=client.cdn77.com&type=splithttp&host=1264179001.rsc.cdn77.org&fp=randomized#🔒 VL-SPLITHTTP-TLS 🇺🇸 US-109.61.91.231:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.51.82:443?security=tls&sni=PPAl03.CaMRON-kerTzManN-dDS.wORkers.dEV&type=ws&host=PPAl03.CAmrON-KErTZmAnn-DdS.wORKERs.dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.82:443
-vless://024db747-6abb-4f6c-96e6-9def52fe2b3d@104.21.16.153:443?security=tls&sni=pPaL03.DORiAn-hARvey-iv.WOrKeRs.dEV&type=ws&host=PpAL03.Dorian-HArVey-iv.WORkers.deV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.153:443
-vless://c7258af0-6b42-4395-9e49-0dcf3856290b@104.17.148.22:2082?security=none&sni=M1A2b3C4D5e6M1A2B3c4D5e6M1A2b3C4D5E6.cloudstars.ir&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
 vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443
 vless://48b94941-d602-11ee-aaa8-00505603e70d@104.21.82.17:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.186:443
@@ -603,3 +599,7 @@ trojan://auto@104.20.22.19:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.de
 trojan://tg-dns68@162.159.153.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.219:443
 trojan://Telegram-DailyConfigs@104.18.2.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.2.11:2096
 trojan://auto@104.20.18.72:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.72:443
+trojan://auto@104.20.21.155:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.155:443
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443
+trojan://NISHIKUITAN222@104.18.221.228:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.221.228:443
+trojan://bpb-trojan@188.114.99.208:2053?security=tls&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.208:2053

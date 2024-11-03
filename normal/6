@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f45d8fe1-d2ec-4b73-95e8-130c83a0b409@104.26.5.226:8080?security=none&type=httpupgrade&host=jghadskjask-sdyifuysiur873489279432dsf.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net%3Fed%3D31246#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.5.226:8080
 vless://b6d2160b-346c-4fd7-b5a5-7d1ceddeff2d@172.67.68.237:443?security=tls&sni=yejtswu5su5j5sj5alan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fuk-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.237:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.41:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&path=%2Fhzhfpw9GKziUpYAD%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.41:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.151:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.196.151:443
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN222@188.114.97.126:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.
 trojan://auto@104.20.20.84:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.84:443
 trojan://tg-dns68@162.159.152.149:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.149:443
 trojan://telegram-id-privatevpns@13.49.190.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.190.24:22222
-trojan://telegram-id-directvpn@18.223.72.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.223.72.182:22222

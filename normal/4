@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.163.71.179:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-20.163.71.179:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.209.77:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.77:443
 vless://e34306cf-0705-4a73-abb9-8c3c497b5516@185.143.234.120:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:80
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.jokerv2ray.store&type=ws&host=capitalnet.jokerv2ray.store&path=/&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
 vless://25da296e-1d96-48ae-9867-4342796cd742@104.18.10.128:2087?security=tls&sni=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&type=ws&host=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.128:2087
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?security=tls&sni=
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.222:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇬 SG-206.238.236.222:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.61:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.115.51:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.115.51:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.72:2053?security=tls&sni=bPb-V.paGES.DeV&type=ws&host=BpB-v.PaGES.dEV&path=DiOY4d2HdDv22JMW%5C%2FMTI5LjE1OS4yNDEuMTcy&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.72:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.140:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.140:443

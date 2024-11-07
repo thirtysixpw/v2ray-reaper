@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.3.27:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM83&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.3.27:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.221:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.214.221:2052
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.78.17:443
 vless://35083b78-38d6-41c0-8363-633125ae2dd5@104.18.19.0:8443?security=tls&sni=daiLy-CoNfigs-CHANneL.PageS.dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.19.0:8443
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.188:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.194.54:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.54:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.251:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM31&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.251:443
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.6:2053
-vless://6babb657-1524-43bb-b421-11bda27bc9de@172.67.88.162:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.88.162:2087
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.202.213:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.213:443

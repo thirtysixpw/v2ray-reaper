@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://1d4e36cb-344b-43b0-ba5a-7b6b292ab691@64.181.208.22:40000?security=reality&flow=xtls-rprx-vision&sni=www.python.org&type=tcp&fp=firefox&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&sid=19e5124d#🔒 VL-TCP-RLT 🇺🇸 US-64.181.208.22:40000
 vless://1ebb5c75-9c1e-4262-bcc1-28f8c97d3dbb@45.67.32.147:37665?security=reality&flow=xtls-rprx-vision&sni=psv4.vkuseraudio.net&type=tcp&fp=random&pbk=I6sBrMIGn-B3Bsz6KyZIWlb4jiXtj_sftIQk8b1ez28&sid=65193461b5e0#🔒 VL-TCP-RLT 🇷🇺 RU-45.67.32.147:37665
 vless://fbe02c0b-775f-4431-8615-a9497255c876@99.83.138.213:443?security=reality&flow=xtls-rprx-vision&sni=none.felinetest.site&type=tcp&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🔒 VL-TCP-RLT 🇺🇸 US-99.83.138.213:443
 vless://7f99a4f8-6f94-489f-9105-8e030e9e59b2@144.126.239.248:1618?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇬🇧 GB-144.126.239.248:1618
@@ -603,3 +602,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.41:443?security=tls&sni=a
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.215.31:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.31:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.18.182:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.18.182:443
 vless://34346165-3362-4438-b936-316163383631@94.182.95.38:2087?security=none&type=ws&host=either-hollow-new.nic.ir&path=%2Fl%2Fw%2F43miogc%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-NONE 🇮🇷 IR-94.182.95.38:2087
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.120:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.120:443

@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@104.26.12.54:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+trojan://auto@172.67.68.157:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
+trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?security=none&type=ws&host=Uk1.vless.site.&path=%2Fvless#🔒 TR-WS-NONE 🏴‍☠️ NA-190.93.247.152:80
+trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇬 SG-206.238.236.187:2096
+trojan://NISHIKUITAN222@190.93.247.234:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.234:443
 trojan://auto@104.16.16.16:443?sni=trojanmz.pages.dev#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.16.16:443
 trojan://auto@104.16.223.104:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.223.104:443
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
@@ -598,8 +603,3 @@ trojan://26e159d2-ec3a-4005-97c7-eb480bab096d@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#US19%2049.7MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%E6%9C%AA%E7%9F%A5150%2010.3MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@104.21.9.158:443#%E6%9C%AA%E7%9F%A5151
-trojan://acbcaab-baac-aabc-dabc-cacbcbacabba@127.0.0.1:8080?security=tls&type=tcp#US20
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=sara193.ir#%E6%9C%AA%E7%9F%A5152
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=late-tooth.granzinhannah.workers.dev#%E6%9C%AA%E7%9F%A5153
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#0%7C--1

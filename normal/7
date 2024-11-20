@@ -1,0 +1,10 @@
+#profile-title: base64:8J+MkCBWMlJheSBSZWFwZXIgfCBzdWIgIzcg8J+UkA==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/thirtysixpw/v2ray-reaper
+#profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Warp2 🇮🇷&&detour=warp://p2@188.114.97.170:894#WarpInWarp 🇩🇪
+warp://@auto/?ifp=1-3&ifpm=h04FA0A#Warp3 🇮🇷&&detour=warp://@auto/?ifp=1-3&ifpm=h04FA0A#WarpInWarp 🇩🇪
+warp://@auto4/?ifp=1-3&ifpm=m4#to the rain 🇮🇷&&detour=warp://@auto6/?ifp=1-2&ifpm=m5#i set fire 🇩🇪
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fd96672f-a311-4fbc-8726-16ac682ae497@152.42.177.254:443?security=tls&sni=m.youtube.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.177.254:443
+vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14491?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.189.85.250:14491
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.251.82.187:2096?security=tls&sni=JoiNV2ngfAsT.PAgeS.dev&type=ws&host=joiNv2ngfasT.PAgeS.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:2096
+vless://d88cbfee-68e9-4847-ad9b-834595616c02@104.19.150.10:8080?security=none&type=httpupgrade&host=https.upgrade989.google.cOm.www.speedtest.nEt.WWw.spEEdtest.nEt.meHrAn2024.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:8080
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.85:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.85:80
 vless://4395e1de-84f8-54f5-92cd-628eb0061516@185.146.173.46:443?security=tls&sni=nl1.vless.site&type=ws&host=nl1.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.46:443
 vless://531a0a29-8221-414f-8861-9b336ec9481e@104.21.90.210:80?security=none&type=ws&host=cdn-hk.bestup.eu.org&path=%2FTel%3A%40VPN_VIP_NOR%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.210:80
@@ -599,7 +603,3 @@ trojan://WOeXShhJpL@104.19.252.45:443?security=tls&sni=06jzus.zdzdzd.xyz&type=ws
 trojan://auto@104.20.20.23:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.23:443
 trojan://auto@172.67.174.21:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.21:443
 trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrLb1imnrxPEhfzfwk%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇪🇸 ES-185.238.228.6:443
-trojan://telegram-id-privatevpns@51.44.146.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.146.115:22222
-trojan://auto@104.20.21.155:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.155:443
-trojan://auto@104.20.17.59:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.59:443
-trojan://auto@104.20.22.26:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.26:443

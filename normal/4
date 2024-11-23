@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://75bcf605-e069-4cc9-bfa2-f730ab301ddb@104.20.75.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.75.10:443
 vless://fd282689-0872-42c3-a534-ad9f12c6d414@172.67.204.84:2053?security=tls&sni=BrITaiNkiNg.pAges.DeV&type=ws&host=BriTainkinG.Pages.Dev&path=%2FwUDUGewZynEZUr9j%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2053
 vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@172.67.68.125:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=%2F4cbba020.mobilesignal.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.125:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2096?security=tls&sni=mobilesignal-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2096
@@ -602,4 +603,3 @@ vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@172.67.69.236:80?type=ws&host=join-
 vless://4395e1de-84f8-54f5-92cd-628eb0061516@185.146.173.46:443?security=tls&sni=nl1.vless.site&type=ws&host=nl1.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.46:443
 vless://500fa635-f420-4148-ae10-5b857163d045@46.8.237.3:443?security=tls&sni=vl.kouok.us.kg&type=ws&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇫🇮 FI-46.8.237.3:443
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@172.67.136.246:443?security=tls&sni=viphamester.wolfmoon.ir&type=grpc&serviceName=okala.com&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.136.246:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.16.20.118:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.20.118:443

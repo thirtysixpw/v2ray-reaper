@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e1a5d8a9-ff86-4092-aab7-407251c19802@185.146.173.95:8880?security=none&type=ws&host=www.speedtest.net.i.xn--110-qze36dsg.cdn.kiava.live.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.95:8880
 vless://3dc35595-0a69-4da7-8a82-881709b9db7c@104.27.1.129:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.1.129:443
 vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14492?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.189.85.250:14492
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.33.123.73:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.33.123.73:587
@@ -602,4 +603,3 @@ vless://df434087-13a8-46c8-b03c-663b518c7451@172.64.35.135:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.123.215:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.123.215:443
 vless://9cbdc595-1d8d-4443-af07-99149153d025@45.67.35.100:443?security=tls&sni=72ef8c422b984e82b5ad.danr-piavj.info&type=ws&host=72ef8c422b984e82b5ad.danr-piavj.info&path=%2Fabcdews&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.67.35.100:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.254:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.254:443
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@172.67.69.236:2053?security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2053

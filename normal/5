@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@172.67.69.236:2053?security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2053
 vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.70.20.0:80?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-54.70.20.0:80
 vless://4c3f503f-1edf-5e23-ab44-b0a0b6637b0b@172.67.73.174:443?security=tls&sni=yf-psv1.keceti9115.WoRkERS.dEV&type=ws&host=yf-psv1.keceti9115.WoRkERS.dEV&path=vless-ws%2F%3Fed%3D8880&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.174:443
 vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-95.164.117.40:22161
@@ -602,4 +603,3 @@ trojan://auto@104.20.22.250:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.d
 trojan://eJa21p5eRU@104.17.147.22:2053?security=tls&sni=iRaN2.BrOwSiNg4.iR.&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:2053
 trojan://NISHIKUITAN222@173.245.49.133:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.133:443
 trojan://telegram-id-privatevpns@13.61.102.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.61.102.151:22222
-trojan://NISHIKUITAN222@188.114.97.25:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.25:443

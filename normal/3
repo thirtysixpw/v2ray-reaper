@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://3dc35595-0a69-4da7-8a82-881709b9db7c@172.66.47.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?security=tls&sni=bypass-filter.vikzrcqt.workers.dev&type=ws&host=bypass-filter.vikzrcqt.workers.dev&path=%2F@bypass_filter%2F#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.91:443
 vless://8cc92a81-04c1-487d-8b5c-95014b13dde7@104.25.225.41:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.225.41:443
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@194.164.170.244:2053?security=tls&sni=happy.mianfeicf.lol&type=ws&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇸 ES-194.164.170.244:2053
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.29:443?security=tls&sni=c
 vless://03633612-cb32-46cc-8f93-7103d1511ade@104.17.148.22:2095?security=none&type=httpupgrade&host=mahxmc.mahxraytm.com&path=%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@45.11.183.132:443?security=tls&sni=happy.mianfeicf.lol&type=ws&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560security%3Dtls&fp=chrome#🔒 VL-WS-TLS 🇪🇪 EE-45.11.183.132:443
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.46.150:443?security=tls&sni=test-teSt-tEsT-teSt.pagES.DEv&type=ws&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.150:443
+vless://4b0c2314-1d81-445c-b936-c33d143a56c4@188.121.117.161:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-188.121.117.161:80

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@104.26.13.31:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
+trojan://bpb-trojan@188.114.97.36:443?sni=fcspring.ggff.net&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.36:443
 trojan://WOeXShhJpL@104.18.5.64:443?security=tls&sni=07jzus.zdzdzd.xyz&type=ws&host=07jzus.zdzdzd.xyz&path=%2Fjuzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.64:443
 trojan://dTaXAtuoQF@185.143.234.200:443?security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.200:443
 trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk&type=grpc&serviceName=QClOez8RElKMCmUmfBox4IUADVrA&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.228.60:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#🔒 SS-TCP-NA 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#🔒 SS-TCP-NA 🇸🇪 SE-94.228.165.178:58176
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#🔒 SS-TCP-NA 🇫🇷 FR-54.37.12.70:8090
-ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@8.138.184.224:40303#🔒 SS-TCP-NA 🇨🇳 CN-8.138.184.224:40303
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#🔒 SS-TCP-NA 🇩🇪 DE-23.157.88.61:2376

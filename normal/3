@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.159.117:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.76.159.117:22222
+vless://bb967abe-ccfe-400a-8ab4-9a4944c3deb1@217.60.249.18:2087?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.249.18:2087
 vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.42:8443
 vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@104.26.13.54:2053?security=tls&sni=bPB-tuRkeY.PAGEs.dev&type=ws&host=bPB-tuRkeY.PAGEs.dev&path=%2FC7fhgvib3rj06EHO%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.185.85.196:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-89.185.85.196:2501
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.117:443?security=tls&sni=
 vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@188.114.98.162:443?security=tls&sni=BPB-tUrKey.pAGEs.DEv&type=ws&host=bpb-turkey.pages.dev&path=%2Fj07Rxrtk1vI7kkPi%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.162:443
 vless://2250325e-cb74-4869-a609-3fc6efcf88b7@199.232.3.158:443?security=tls&sni=ELENA-JoiNBeDe-ELiV2raY.IR&type=ws&host=ELeNa-JoinBede-ELiV2ray.ir&path=%2F&fp=edge#🔒 VL-WS-TLS 🇺🇸 US-199.232.3.158:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.128:443?security=tls&sni=bpb-worker-panel-5hr.pages.dev&type=ws&host=bpb-worker-panel-5hr.pages.dev&path=%3Fed%3D2919#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?security=tls&sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv&type=ws&host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.83:443
-vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443?security=tls&sni=JOinBede-ELiv2RaY.Ai&type=ws&host=joinbede-eliv2ray.ai&fp=randomized&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.52:443

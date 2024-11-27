@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ca06ac35-c4dd-476b-8c5f-ff92abc37799@104.21.69.142:8443?security=tls&sni=vless.pages.us.kg&type=ws&host=vless.pages.us.kg&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.142:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.209:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.209:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.0:443?security=tls&sni=la.ylks.us.kg&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.0:443
 vless://0df4d55a-eea5-4295-8f20-86cbe338e2ed@104.18.165.147:80?security=none&type=httpupgrade&host=joinmain.mralpha-vpn.com&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.165.147:80
@@ -602,4 +603,3 @@ vless://1ffc2033-a289-4bb2-96a1-04b707b19255@172.67.132.209:8880?security=none&t
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.37:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.37:2053
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.245.19:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.19:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?security=tls&sni=Bloom-cHh.PAGEs.DeV&type=ws&host=Bloom-cHh.PAGEs.DeV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
-vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@172.66.47.146:8443?security=tls&sni=bIA-dAILY-cONfIGs.PAGES.deV&type=ws&host=bia-daily-configs.pages.dev&path=%2FS8hbexPGCH11S6cm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.146:8443

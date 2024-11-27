@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#🔒 SS-TCP-NA 🇺🇸 US-139.64.164.15:7306
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.75:8000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bWdaSnpQdjdockxYNEtNZFBJZUFX@150.241.102.95:21771#🔒 SS-TCP-NA 🇳🇱 NL-150.241.102.95:21771
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5003
@@ -603,3 +602,4 @@ vless://58e0414e-f92b-448b-8bae-12639297f015@nufilter.fastly80-3.hosting-ip.com:
 vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?allowInsecure=1&sni=ELIV2RAY-JOIN.COM&type=ws&host=ELIV2RAY-JOIN.COM&path=/fp=chrome&security=tls#15|US_speednode_0035
 vless://668dfd6e-ae71-4afe-96e5-bde0d165cbe4@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?allowInsecure=0&sni=vipfast_7.com&type=ws&host=vipfast_7.com&path=/?ed=2048#15|US_speednode_0036
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?allowInsecure=0&sni=worker-reza2.wbfoppa.workers.dev&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=/TELEGRAM...PROXY_MTM?ed=2048#15|US_speednode_0037
+vless://8090defd-1f27-4bf9-b513-6ddbe42a979a@151.101.2.165:80?allowInsecure=0&sni=UNLIMITEDDEV.channel-telegram-1.ir&alpn=h3,h2,http/1.1&type=ws&host=UNLIMITEDDEV.channel-telegram-1.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=chrome#15|US_speednode_0038

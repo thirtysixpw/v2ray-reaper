@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@162.159.128.233:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:8443
+trojan://bpb-trojan@141.101.114.163:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.114.163:443
+trojan://blue2024@104.17.235.35:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.235.35:443
+trojan://NISHIKUITAN222@104.21.221.251:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.221.251:443
+trojan://bpb-trojan@104.27.9.13:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.9.13:443
+trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.228.60:443
 trojan://3648425794742788096@13.235.160.41:443?security=tls&sni=chief-lobster.pig299.lat&type=tcp#🔒 TR-TCP-TLS 🇮🇳 IN-13.235.160.41:443
 trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#🔒 TR-TCP-TLS 🇺🇸 US-152.70.115.209:45800
 trojan://telegram-id-privatevpns@13.38.223.196:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.38.223.196:22222
@@ -597,9 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.37.18.75:6697
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.119:8091#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:8091
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:9102
-ss://SVNTEAM2@151.101.192.155:80#🔒 SS-TCP-NA 🇺🇸 US-151.101.192.155:80
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8888
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25203#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25203
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.75:8000
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8882

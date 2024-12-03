@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://bpb-trojan@162.159.153.2:443?security=tls&sni=visa.cn&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://blue2024@104.16.211.107:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.211.107:443
+trojan://f4311364-42a0-4751-a21f-80f2740a59db@104.17.148.22:443?security=tls&sni=pAgeS.dev.&type=ws&host=eg-v2ray-x.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=firefox&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
 trojan://NISHIKUITAN111@104.16.37.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.37.91:443
 trojan://blue2024@172.64.35.161:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.161:443
 trojan://NISHIKUITAN111@156.229.48.127:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-156.229.48.127:443
@@ -600,6 +603,3 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5498#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:3389
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7002
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8119#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8119
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.46:6379

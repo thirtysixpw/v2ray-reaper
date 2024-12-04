@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2e59cae9-094c-4cdf-92c7-7d13cf479ba1@172.66.46.49:443?security=tls&sni=90817823561545673166562762924388.v2line.net&type=ws&host=90817823561545673166562762924388.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.49:443
-vless://9017544c-38d3-4d7f-879b-f72f3ef946d8@104.16.125.175:443?security=tls&sni=bia-falcunargo.606c0a9742.workers.Dev&type=ws&host=bia-falcunargo.606c0a9742.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.175:443
 vless://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&type=tcp&host=uptvs.com&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-188.132.232.4:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.212:443?security=tls&sni=da.ylks.xyz&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.212:443
 vless://ad372bb8-c479-53ca-beac-0081e2f37613@172.67.195.221:443?security=tls&sni=worker-ali2.qlodwdul.wORkerS.DeV&type=ws&host=worker-ali2.qlodwdul.wORkerS.DeV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.221:443
@@ -603,3 +601,5 @@ trojan://blue2024@172.67.68.101:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠
 trojan://NISHIKUITAN111@104.24.184.159:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.184.159:443
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?security=tls&sni=Bloom-cHh.PAGEs.DeV&type=ws&host=Bloom-cHh.PAGEs.DeV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
 trojan://xjN4xcuPGg@155.248.205.39:45601?security=tls&sni=f.522226.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-155.248.205.39:45601
+trojan://NISHIKUITAN222@141.101.120.208:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.120.208:443
+trojan://blue2024@104.16.178.249:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.178.249:443

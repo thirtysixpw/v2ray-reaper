@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@188.114.96.2:443?allowInsecure=1&sni=td.promote.icu#%F0%9F%87%A7%F0%9F%87%B7%20_%E5%B7%B4%E8%A5%BF
-trojan://blue2024@104.19.173.122:443?allowInsecure=1&sni=td.promote.icu#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://blue2024@104.18.138.78:443?allowInsecure=1&sni=td.promote.icu#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://blue2024@104.19.163.145:443?allowInsecure=1&sni=td.promote.icu#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://blue2024@104.19.238.98:443?allowInsecure=1&sni=td.promote.icu#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
@@ -603,3 +601,5 @@ vless://e1a5d8a9-ff86-4092-aab7-407251c19802@104.21.28.188:8880?security=none&ty
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.207:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.207:443
 vless://98425b9c-4a90-4771-9bac-7ae13d7a7d48@5.39.254.34:3323?type=ws&path=%2F#🔒 VL-WS-NA 🇬🇧 GB-5.39.254.34:3323
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.22.73.145:2087?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560%20%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.145:2087
+vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.16:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.16:443

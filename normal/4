@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.22.73.145:2087?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560%20%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.145:2087
-vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.16:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.16:443
 vless://62357561-a129-4b9e-9614-ce2578020866@162.159.44.78:2096?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.78:2096
 vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@104.21.66.229:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.229:443
 vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@172.67.73.163:2083?security=tls&sni=spedfree.akbaru.ir&type=ws&host=spedfree.akbaru.ir&path=%2FUoD8QOdaABE4rN7hQY9M0B8&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
@@ -603,3 +601,5 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?security=tls&sni=a
 vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.5:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.187.5:80
 vless://62357561-a129-4b9e-9614-ce2578020866@168.126.205.5:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-168.126.205.5:50000
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@92.223.84.84:443?security=tls&sni=gcore.com&type=ws&host=wirsta.io&path=%2FV9UM2NoIRV6xcxhY%3Fed%3D443&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-92.223.84.84:443
+vless://2e59cae9-094c-4cdf-92c7-7d13cf479ba1@172.66.46.49:443?security=tls&sni=90817823561545673166562762924388.v2line.net&type=ws&host=90817823561545673166562762924388.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.49:443
+vless://9017544c-38d3-4d7f-879b-f72f3ef946d8@104.16.125.175:443?security=tls&sni=bia-falcunargo.606c0a9742.workers.Dev&type=ws&host=bia-falcunargo.606c0a9742.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.175:443

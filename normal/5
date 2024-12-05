@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://0533b568-482c-4c0a-81c5-729891270934@104.25.99.169:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.99.169:443
+vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.45.10:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.45.10:443
 vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80?security=none&type=ws&host=holland.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:80
 vless://fbd03b27-e673-4f9d-8574-d293377a2337@92.223.124.51:443?security=tls&sni=gcore.com&type=ws&host=armin343.com&path=%2FqU9B2qM1FJ95K9HP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-92.223.124.51:443
 vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.22.73.145:2087?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560%20%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.145:2087
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN111@104.19.95.55:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19
 trojan://blue2024@104.17.40.244:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.40.244:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
 trojan://NISHIKUITAN111@172.67.95.192:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.95.192:443
-trojan://blue2024@190.93.247.65:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.65:443
-trojan://blue2024@172.64.35.199:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.199:443

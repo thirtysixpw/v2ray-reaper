@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
-vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@104.21.66.229:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.229:443
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.243.85.49:10443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇯🇵 JP-20.243.85.49:10443
-vless://0e921714-b28c-4ffd-a371-eb486bc5a1ce@40.160.11.136:2053?security=tls&sni=test.mrkian.us.kg&type=ws&path=%2FGcore.com%3Fed%3D443#🔒 VL-WS-TLS 🇺🇸 US-40.160.11.136:2053
 vless://092ae4c2-bd39-4217-9eb3-460ef5d4e813@172.67.26.173:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.26.173:443
 vless://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.37.43:443?security=tls&sni=ou-exams-identify-folks.trycloudflare.com&type=ws&host=ou-exams-identify-folks.trycloudflare.com&path=%2F790abba4-0be7-4dcc-b061-94fa4582bd40-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.43:443
 vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:2053?security=tls&sni=esetsecuritylicense.mrgimsy.WORkErs.Dev&type=ws&host=esetsecuritylicense.mrgimsy.WORkErs.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:2053
@@ -603,3 +599,7 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@104.21.69.44:80?security=none&type=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.192.142:443?security=tls&sni=ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV&type=ws&host=ppAl03-sHANBeH2.mRS-AntoINetTe-OHarA.wOrkerS.deV&path=%2F0ZMEGjVSSsqFUJqv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.142:443
 vless://b6cea380-cc8c-4e33-ab32-fc4d284ab5db@104.21.15.212:8080?security=none&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.15.212:8080
 vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@172.66.208.0:443?security=tls&sni=ARiAMeHr-eYQ.PAGeS.deV&type=ws&host=ARiAMeHr-eYQ.PAGeS.deV&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.208.0:443
+vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@185.148.107.11:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.11:8443
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@172.64.155.187:2086?type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.187:2086
+vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@141.101.90.105:443?security=tls&sni=445566.666888.lol&type=ws&host=445566.666888.lol&alpn=http/1.1&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.90.105:443
+vless://62357561-a129-4b9e-9614-ce2578020866@103.160.204.4:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-103.160.204.4:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://043f42f0-861d-4efd-8d36-8fb1a0eef823@45.67.32.147:37665?security=reality&flow=xtls-rprx-vision&sni=psv4.vkuseraudio.net&type=tcp&fp=chrome&pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&sid=9168#🔒 VL-TCP-RLT 🇷🇺 RU-45.67.32.147:37665
 vless://80893295-d6eb-494e-a098-222dd6ee284b@5.182.87.141:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=random&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=a7c159&alpn=http/1.1#🔒 VL-TCP-RLT 🇩🇪 DE-5.182.87.141:443
 vless://bec65414-c9dd-4521-bec1-6fa57b37022b@51.158.244.220:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=HkNjRO_-9jg4DLRTmHXfM9dilmjwew6Iy6DxKnTzbCw&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-51.158.244.220:443
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.175.225:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#🔒 VL-TCP-RLT 🇺🇸 US-172.233.175.225:80
@@ -603,3 +602,4 @@ vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.23:8080?security=none&ty
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.30:443
 vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.32:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-156.146.53.32:80
 vless://09bc04eb-83a3-dc13-9c81-8aefca2aee5c@173.245.59.100:80?security=none&type=httpupgrade&host=2dash.cloudflare.com.www.speedtest.net.dana.ir.Elmahstyle.ir&path=%2Fresult%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:80
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.21.69.44:80?type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.victorcamper.dns-dynamic.net%3A443&path=%2FTelegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2%3Fed%3D512#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.69.44:80

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://90a0e69d-f5b9-41cb-bf5a-471e8fbdb405@212.47.229.205:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=HQ_K-nC9k3LWdqAytXgN2WdvETbenpr5E8I4Gk3BIhU&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-212.47.229.205:443
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.163.225:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#🔒 VL-TCP-RLT 🇺🇸 US-172.233.163.225:80
 vless://60b301b0-60c0-41a1-a03e-f8660a54303e@188.34.155.69:8443?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=TWd1uYWZ7U1emv_0HGpG7wqYvrtuW7l7rVz_AOCXDik&sid=d6860f39e8751154&alpn=null#🔒 VL-TCP-RLT 🇩🇪 DE-188.34.155.69:8443
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.158.67:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#🔒 VL-TCP-RLT 🇺🇸 US-172.235.158.67:80
 vless://6314677e-e60e-4ba8-84bb-a165a29afacd@150.241.101.222:29742?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=random&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&sid=75813316#🔒 VL-TCP-RLT 🇩🇪 DE-150.241.101.222:29742
@@ -603,3 +601,5 @@ vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@190.93.244.51:443?security=tls&sni=
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@172.67.137.11:2087?security=tls&sni=Tp0500PzH8.eHsAnDnS10.iR&type=ws&host=Tp0500PzH8.eHsAnDnS10.iR&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.11:2087
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.220:2096
 vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443
+vless://34622493-c7c7-4e81-9a7d-3f664222efba@188.245.116.199:1517?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.116.199:1517
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.39:443

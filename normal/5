@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://5a23974d-d620-11ee-aaa8-00505603e70d@172.67.158.12:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket%3Fed%3D%40MARAMBASHI%2C%40MARAMBASHI%2C%40MARAMBASHI%2C%40MARAMBASHI&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.12:443
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
-vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?security=tls&sni=androidyt.androidyteuorg.workers.dev&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:2053
 vless://62357561-a129-4b9e-9614-ce2578020866@27.50.49.234:8443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.234:8443
 vless://25512231-802a-41bf-af68-d3d53387f347@104.17.147.22:2052?security=none&type=ws&host=www.speedtest.zula.ir.www.cloudflare.com.www.speedtest.net.www.google.com.bing.com.Tehran-gamee.ir.&path=%2FVVVVVV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2052
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@160.153.0.183:2082?security=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-160.153.0.183:2082
@@ -603,3 +600,6 @@ trojan://WOeXShhJpL@104.17.49.240:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws
 trojan://NISHIKUITAN111@204.93.210.216:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-204.93.210.216:443
 trojan://blue2024@104.24.129.215:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.129.215:443
 trojan://NISHIKUITAN111@104.19.95.55:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.95.55:443
+trojan://NISHIKUITAN111@172.66.45.25:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.45.25:443
+trojan://blue2024@104.17.31.182:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.31.182:443
+trojan://blue2024@173.245.59.6:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.6:443

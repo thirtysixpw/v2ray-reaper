@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@185.148.105.22:443?sni=b.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-185.148.105.22:443
 trojan://NISHIKUITAN111@104.25.65.158:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.65.158:443
 trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.84.3:443
 trojan://blue2024@104.24.224.209:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.224.209:443
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.15.82:989
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3306
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2376#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:2376
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:7306

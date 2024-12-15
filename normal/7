@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.116.87:443
-trojan://blue2024@190.93.247.138:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.138:443
-trojan://blue2024@154.206.12.164:443?security=tls&sni=b.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.206.12.164:443
-trojan://telegram-id-privatevpns@54.76.159.20:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.76.159.20:22222
-trojan://NISHIKUITAN111@45.194.53.231:443?#🔒 TR-TCP-NA 🇺🇸 US-45.194.53.231:443
-trojan://blue2024@172.67.109.241:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.109.241:443
-trojan://ce87300f-02c9-4993-ac78-a3d2c0ed1c6e@104.17.147.22:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.kolsvslp.ir.&path=%2F%3Fed%3D1048#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:8080
-trojan://blue2024@172.67.135.57:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.135.57:443
 trojan://auto@104.20.18.119:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.119:443
 trojan://blue2024@104.16.36.151:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.36.151:443
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?security=none&type=httpupgrade&host=1i5.diginoshops10.ir&path=%2F#🔒 TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:80
@@ -603,3 +595,11 @@ trojan://blue2024@104.27.125.51:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010
 trojan://blue2024@45.159.216.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-45.159.216.4:443
 trojan://NISHIKUITAN111@104.20.136.13:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.136.13:443
 trojan://blue2024@104.18.46.185:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.46.185:443
+trojan://blue2024@172.67.79.211:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.79.211:443
+trojan://blue2024@104.21.197.136:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.197.136:443
+trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.61:443
+trojan://blue2024@108.162.193.164:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-108.162.193.164:443
+trojan://blue2024@104.21.16.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.16.1:443
+trojan://blue2024@104.17.16.170:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.17.16.170:443
+trojan://ce87300f-02c9-4993-ac78-a3d2c0ed1c6e@104.17.148.22:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.kolsvslp.ir.&path=%2F%3Fed%3D1048#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:8080
+trojan://blue2024@172.64.83.38:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.83.38:443

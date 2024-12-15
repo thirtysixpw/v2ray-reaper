@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://380bb9a2-18b3-406e-9fca-a923a31174cc@93.126.50.230:12358?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-93.126.50.230:12358
-vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.180.93:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.180.93:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.251.82.187:2096?security=tls&sni=JoiNV2ngfAsT.PAgeS.dev&type=ws&host=joiNv2ngfasT.PAgeS.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:2096
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
 vless://cdfee595-ccd0-4921-87b4-3683d9f2353d@185.119.240.194:2008?security=none&host=www.speedtest.netTelegram#🔒 VL-TCP-NONE 🇮🇷 IR-185.119.240.194:2008
@@ -603,3 +601,5 @@ vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@172.64.155.209:443?security=tls&sni
 vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@104.18.32.69:8080?security=none&type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:8080
 vless://0ee275fd-726e-4d7e-a7ef-c429982974c3@104.19.67.237:443?security=tls&sni=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev&type=ws&host=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev&path=%2F%40Yuv2ray&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.67.237:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.97:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.97:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv&type=ws&host=PPAL03.wopaJO6948.WorKErs.dEv&path=%2F2h9pwob102xqfyhg%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.99:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.117.112.95:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇱🇹 LT-89.117.112.95:443

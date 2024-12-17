@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://telegram-id-privatevpns@35.176.47.42:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.47.42:22222
+trojan://telegram-id-directvpn@52.28.221.99:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.28.221.99:22222
+trojan://3648425794742788096@13.213.225.221:443?security=tls&sni=careful-giraffe.toad643.autos&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-13.213.225.221:443
+trojan://NISHIKUITAN111@104.20.52.226:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.52.226:443
 trojan://NISHIKUITAN222@188.114.98.152:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.98.152:443
 trojan://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
 trojan://blue2024@162.159.44.169:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.169:443
@@ -599,7 +603,3 @@ trojan://blue2024@104.17.150.255:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍�
 trojan://blue2024@104.27.125.51:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.125.51:443
 trojan://blue2024@104.16.159.159:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.159:443
 trojan://auto@104.20.17.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.74:443
-trojan://blue2024@173.245.49.104:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-173.245.49.104:443
-trojan://telegram-id-directvpn@100.24.245.205:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-100.24.245.205:22222
-trojan://blue2024@104.17.87.167:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.87.167:443
-trojan://NISHIKUITAN111@198.41.223.8:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.223.8:443

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgX+azleWbvSIsImFkZCI6IjE2My41LjE1OS4yMzEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImlydmlkZW8uY2ZkIiwidGxzIjoidGxzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgX+azleWbvSIsImFkZCI6ImlydmlkZW8uY2ZkIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJpcnZpZGVvLmNmZCIsInRscyI6InRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRXRQcW42SFlqVU5jSG9oTGZVcEZRd25makNDUTVtaDFtSmRFTUNCdWN1V1o5UDF1ZGtSS0huVnh1bzU1azFLWHoyRm82anJndDE4VzY2b3B0eTFlNGJtMWp6ZkNmQmI@84.19.31.63:50841#%F0%9F%87%A9%F0%9F%87%AA%20_%E5%BE%B7%E5%9B%BD
 vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
 vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?encryption=none&security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.3%3A8880
 vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=%2F%3Fed#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Outline_Vpn%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
@@ -603,3 +600,6 @@ vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@185.148.107.11:8443?security=tls&sn
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2096?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fahmedquran19.xyz%2Fcurrent_time&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2096
 vless://365de7de-77b2-4a62-aec3-66a6bd41813e@172.67.75.172:8080?sni=feng5.ogazo8c3.workers.dev&type=ws&host=feng5.ogazo8c3.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.75.172:8080
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@156.229.48.253:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇳🇱 NL-156.229.48.253:443
+vless://b9dad5ed-74da-4a43-8145-90d06df1f890@3.113.64.82:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-3.113.64.82:443
+vless://b6cea380-cc8c-4e33-ab32-fc4d284ab5db@104.21.15.212:8080?security=none&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.15.212:8080
+vless://c7f1126c-0aec-4ded-aca4-1099ebe367fb@167.82.106.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=didnegar.com&path=de%3Fed%3D1048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-167.82.106.228:443

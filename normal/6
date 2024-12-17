@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.159.216.188:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.188:443
-vless://531bf100-1477-487c-a979-6adebf8f105f@160.123.255.213:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.213:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@8.222.165.104:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-8.222.165.104:443
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.26.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=mashti.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.26.228:443
 vless://8042a2cf-9da0-4637-86ef-ff401a49975f@104.17.107.90:443?security=tls&sni=S-EEEWW.eMADuIs.Us.Kg&type=ws&host=s-eeeww.emaduis.us.kg&path=%2FNa7JB7V6xlNPF6E0%2FMTU5LjY1LjIwNC4yMTY%3D%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.107.90:443
 vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.0.11:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-199.232.0.11:80
@@ -603,3 +600,6 @@ trojan://NISHIKUITAN111@104.19.51.192:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.1
 trojan://NISHIKUITAN111@141.101.121.18:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.18:443
 trojan://NISHIKUITAN111@104.25.99.96:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.99.96:443
 trojan://blue2024@45.159.216.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-45.159.216.4:443
+trojan://NISHIKUITAN111@104.27.44.212:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.44.212:443
+trojan://blue2024@104.16.5.34:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.5.34:443
+trojan://NISHIKUITAN111@198.41.198.25:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.198.25:443

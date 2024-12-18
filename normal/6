@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@13.248.169.48:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-13.248.169.48:443
-vless://15c64822-1a11-419c-9ec2-7cb2807ec3b4@185.16.110.30:443?security=tls&sni=www.tehransiman.info&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇫🇷 FR-185.16.110.30:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.0.63.170:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.0.63.170:443
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@185.176.24.120:8443?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.120:8443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.116.221:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.221:8443
@@ -603,3 +601,5 @@ trojan://blue2024@104.25.226.234:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii201
 trojan://blue2024@172.64.35.135:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.135:443
 trojan://blue2024@104.24.144.238:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.144.238:443
 trojan://auto@172.66.47.150:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.150:8443
+trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-104.129.167.128:443
+trojan://blue2024@104.25.103.196:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.103.196:443

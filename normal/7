@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-104.129.167.128:443
-trojan://blue2024@104.25.103.196:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.103.196:443
 trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.153.27:443
 trojan://blue2024@104.18.102.177:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.102.177:443
 trojan://blue2024@104.18.215.209:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.215.209:443
@@ -603,3 +601,5 @@ trojan://NISHIKUITAN111@104.18.198.40:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.1
 trojan://blue2024@172.67.138.10:443?security=tls&sni=ha.lii2010.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.138.10:443
 trojan://NISHIKUITAN111@154.197.75.248:443?#🔒 TR-TCP-NA 🇸🇨 SC-154.197.75.248:443
 trojan://blue2024@104.27.65.15:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.65.15:443
+trojan://telegram-id-privatevpns@15.236.137.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.137.181:22222
+trojan://tg-fq521free@198.62.62.67:443?sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-198.62.62.67:443

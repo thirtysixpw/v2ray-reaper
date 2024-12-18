@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUFlCMHJGMGhhbkFaU0pLZU1Zbzh3@65.109.209.201:9679#🔒 SS-TCP-NA 🇫🇮 FI-65.109.209.201:9679
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.204:8009#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8009
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.252:6697#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:6697
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#🔒 SS-TCP-NA 🇩🇪 DE-150.241.95.63:12271
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.203:8091#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:8091
@@ -603,3 +601,5 @@ trojan://blue2024@108.162.195.209:443?security=tls&type=ws&sni=ta.promote.icu&pa
 trojan://blue2024@172.64.35.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5114
 trojan://blue2024@204.93.210.207:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#US31
 trojan://blue2024@172.67.160.28:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5115
+trojan://blue2024@104.17.191.37:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A5116
+trojan://NISHIKUITAN111@141.101.121.30:443?#%E6%9C%AA%E7%9F%A5117

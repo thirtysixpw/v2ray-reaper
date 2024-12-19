@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://76889f66-a4b0-4058-a8ba-b3418b90e26e@193.228.168.165:19296?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.228.168.165:19296
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.118:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.118:2083
 vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@172.67.204.84:2053?security=tls&sni=EDGETunnel-AMl.pages.DEV&type=ws&host=EDGETunnel-AMl.pages.DEV&path=%2FREvilxXx%3Fed%3D2560&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.112:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.112:443
@@ -602,4 +603,3 @@ vless://b9dad5ed-74da-4a43-8145-90d06df1f890@132.145.94.80:443?security=tls&sni=
 vless://ec770ac7-9499-4d1f-9221-4e4e02ec9784@144.126.209.162:443?security=tls&flow=none&sni=www.pubgmobile.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-144.126.209.162:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.46.106:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.106:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.108.190:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇨🇿 CZ-154.197.108.190:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.207:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.207:443

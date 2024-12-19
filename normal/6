@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.192.63.127:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-85.192.63.127:2501
-vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?security=tls&sni=paGES.dEV&type=ws&host=ev2raydev.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.37.213:8443
-vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&sni=pardazeshvpn-tg7.pages.dev&type=ws&host=pardazeshvpn-tg7.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.87:443
-vless://09bc04eb-83a3-dc13-9c81-8aefca2aee5c@173.245.59.100:80?security=none&type=httpupgrade&host=2dash.cloudflare.com.www.speedtest.net.dana.ir.Elmahstyle.ir&path=%2Fresult%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:80
 vless://2d8497b5-23dd-46de-b654-717452302700@151.101.194.187:80?security=none&type=ws&host=htz7h3.moi&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.187:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.34.105:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.157.34.105:22222
 vless://531bf100-1477-487c-a979-6adebf8f105f@185.16.110.113:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.113:443
@@ -603,3 +599,7 @@ trojan://blue2024@88.216.67.108:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇱🇹 LT
 trojan://blue2024@104.26.12.31:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.12.31:443
 trojan://NISHIKUITAN111@104.22.65.209:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.65.209:443
 trojan://blue2024@198.41.209.124:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.209.124:443
+trojan://NISHIKUITAN111@173.245.59.189:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.189:443
+trojan://telegram-id-directvpn@54.228.216.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.228.216.215:22222
+trojan://NISHIKUITAN111@104.19.247.200:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.247.200:443
+trojan://blue2024@172.67.78.96:443?sni=td.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.78.96:443

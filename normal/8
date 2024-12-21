@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443?security=tls&sni=customer-95-164-38-151.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇴 NO-95.164.38.151:443
+trojan://NISHIKUITAN111@188.114.96.219:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.96.219:443
+trojan://blue2024@172.67.218.47:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.218.47:443
 trojan://blue2024@104.23.113.250:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.23.113.250:443
 trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
 trojan://ouo@65.75.193.154:14491?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#🔒 TR-WS-NA 🇺🇸 US-65.75.193.154:14491
@@ -600,6 +603,3 @@ trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇰🇿 K
 trojan://blue2024@172.67.79.211:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.79.211:443
 trojan://blue2024@216.116.134.146:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-216.116.134.146:443
 trojan://blue2024@104.25.77.73:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.77.73:443
-trojan://blue2024@172.64.106.205:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.106.205:443
-trojan://NISHIKUITAN111@104.16.80.174:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.80.174:443
-trojan://blue2024@108.162.195.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.217:443

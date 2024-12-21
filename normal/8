@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.75.193:443
+trojan://NISHIKUITAN111@104.20.8.252:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.8.252:443
+trojan://NISHIKUITAN111@198.41.205.148:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.205.148:443
+trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.184.7:443
 trojan://NISHIKUITAN111@45.159.218.63:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.218.63:443
 trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.22.138:443
 trojan://blue2024@104.17.211.109:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.211.109:443
@@ -599,7 +603,3 @@ trojan://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?security=tls&sni=
 trojan://NISHIKUITAN111@46.254.92.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.112:443
 trojan://blue2024@92.53.188.162:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇸🇮 SI-92.53.188.162:443
 trojan://blue2024@104.18.216.135:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.216.135:443
-trojan://blue2024@104.25.53.167:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.25.53.167:443
-trojan://blue2024@172.64.229.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.229.171:443
-trojan://telegram-id-privatevpns@13.39.40.104:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.40.104:22222
-trojan://blue2024@162.159.44.159:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.159:443

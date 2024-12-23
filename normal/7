@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://1ea40d23-e223-4be9-a830-036c9740b830@104.21.58.226:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&type=ws&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.226:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.1:80
 vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@190.93.247.156:443?security=tls&sni=bzdownload.segstar.info&type=ws&host=barbarian.segstar.info&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.156:443
 vless://f022a2c8-b986-4b7f-b541-adfc512cc0fc@104.25.210.55:443?security=tls&sni=tomato-browser-scout-city.trycloudflare.com.&type=ws&host=tomato-browser-scout-city.trycloudflare.com&path=%2F%3Fed%3D2589#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.210.55:443
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN111@162.159.20.97:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.1
 trojan://bpb-trojan@172.67.180.227:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
 trojan://blue2024@162.159.44.169:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.169:443
 trojan://blue2024@185.135.9.123:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇩🇪 DE-185.135.9.123:443
-trojan://auto@104.20.20.213:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.20.213:443

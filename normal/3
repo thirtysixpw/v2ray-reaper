@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@104.21.12.116:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.116:443
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=mashti.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.186.133:443
 vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@104.26.14.16:8080?security=none&type=httpupgrade&host=newi.rskhibotss.ir.&path=%2F%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.14.16:8080
 vless://66b3cbba-e6ac-485a-9481-962a0415eab5@104.21.88.231:443?security=tls&sni=ESeTSEcuRitYlIcensE.eIeOq.wORkErs.DEv&type=ws&host=eSEtseCUrityliCEnse.EIeoQ.WORkErs.DEV&path=%2F@vlees_v2rayng%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.231:443
@@ -603,3 +602,4 @@ vless://219d848d-60f2-4321-8275-72b9b575b37e@43.156.116.194:443?security=tls&sni
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@162.159.255.111:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.255.111:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.32.158:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.158:443
 vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.1.46:80?type=ws&host=vpngaming.ir&path=%2F#🔒 VL-WS-NA 🇺🇸 US-151.101.1.46:80
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@167.68.42.248:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-167.68.42.248:443

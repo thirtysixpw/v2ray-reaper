@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@104.24.224.209:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.224.209:443
-trojan://bpb-trojan@104.25.8.6:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.8.6:443
 trojan://blue2024@104.16.253.211:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.253.211:443
 trojan://bpb-trojan@198.41.211.21:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.211.21:443
 trojan://blue2024@104.25.80.32:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.80.32:443
@@ -603,3 +601,5 @@ trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sn
 trojan://NISHIKUITAN111@172.67.95.192:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.95.192:443
 trojan://3648425794742788096@54.168.4.240:443?security=tls&sni=immortal-vulture.toad643.autos&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-54.168.4.240:443
 trojan://blue2024@104.16.72.34:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.72.34:443
+trojan://blue2024@104.25.103.196:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.103.196:443
+trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443

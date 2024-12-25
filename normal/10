@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://NISHIKUITAN111@104.19.224.216:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.224.216:443
+trojan://blue2024@172.64.35.192:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.192:443
+trojan://telegram-id-privatevpns@63.35.74.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.35.74.31:22222
+trojan://blue2024@154.197.64.77:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.77:443
+trojan://NISHIKUITAN111@188.244.122.175:443?#🔒 TR-TCP-NA 🇩🇪 DE-188.244.122.175:443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.148.22:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.148.22:443
 trojan://blue2024@104.16.159.159:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.159:443
 trojan://NISHIKUITAN111@104.19.7.98:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.7.98:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#🔒 SS-TCP-NA 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDI0NzYxNy0wMWE4LTQ3MjAtOWM0ZS1jNWM2OGViZjc1YzU=@82.152.105.168:51161#🔒 SS-TCP-NA 🇭🇰 HK-82.152.105.168:51161
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.163:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.81:443
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTlc5NWJXalVOU1QyeVNYZ056SnQ2@157.245.77.251:80#🔒 SS-TCP-NA 🇳🇱 NL-157.245.77.251:80
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.218:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5499
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9001

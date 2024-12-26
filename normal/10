@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://bpb-trojan@198.41.211.21:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.211.21:443
+trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-45.131.209.89:443
+trojan://blue2024@172.64.35.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.35.207:443
+trojan://TGCitizenScyu@104.18.21.69:2087?sni=maikeaxiang.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.21.69:2087
 trojan://blue2024@190.93.246.178:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.178:443
 trojan://blue2024@162.159.33.0:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.33.0:443
 trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.252:6379#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:6379
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5003
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.169.198:989
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.12:2375
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.67.166:443#🔒 SS-TCP-NA 🇯🇵 JP-13.114.67.166:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.164:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmZiNjkyZS0xYzhiLTNhNjUtYWQ4My0yM2FkOWRlZWUxMTE=@94.177.131.71:61005#🔒 SS-TCP-NA 🇯🇵 JP-94.177.131.71:61005

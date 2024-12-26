@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@104.21.12.212:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.212:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.159.84.71:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-129.159.84.71:443
 vless://531bf100-1477-487c-a979-6adebf8f105f@69.84.182.178:443?security=tls&sni=vdb.bgm2024.us.kg&type=ws&host=vdb.bgm2024.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.178:443
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@45.159.218.209:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.209:443
@@ -602,4 +603,3 @@ vless://219d848d-60f2-4321-8275-72b9b575b37e@104.25.106.212:443?security=tls&sni
 vless://c5abbf2c-6c32-4596-a3f4-ab77ee8555c4@192.0.63.44:8443?security=tls&sni=f41.maryam1500.top&type=xhttp&host=f41.maryam1500.top&path=%2Fv2nex%C2%B9box&fp=chrome&alpn=h2#🔒 VL-XHTTP-TLS 🇺🇸 US-192.0.63.44:8443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.34.66:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.66:443
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@102.177.176.74:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-102.177.176.74:443
-vless://365de7de-77b2-4a62-aec3-66a6bd41813e@104.26.13.31:8080?sni=feng5.ogazo8c3.workers.dev&type=ws&host=feng5.ogazo8c3.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.13.31:8080

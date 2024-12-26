@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://84e62ef1-a715-4729-91a5-55df6f370458@162.159.40.140:443?security=tls&sni=vg.nimaempire.cfd&type=grpc&serviceName=16000vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.40.140:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.216.174:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.174:443
 vless://6def6431-32bd-41a3-a72e-a28734e767dc@104.21.61.167:80?type=ws&host=d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.xn-4oq36ed28d.com#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.61.167:80
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@138.3.254.39:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=%2Fws#🔒 VL-WS-TLS 🇩🇪 DE-138.3.254.39:443
@@ -602,4 +603,3 @@ trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&typ
 trojan://blue2024@185.174.138.57:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-185.174.138.57:443
 trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443?security=tls&sni=sherasheba.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-142.202.48.220:443
 trojan://e169856c-7c19-4908-9bdf-448dc846163a@144.21.56.16:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇬🇧 GB-144.21.56.16:443
-trojan://NISHIKUITAN111@104.21.47.24:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.47.24:443

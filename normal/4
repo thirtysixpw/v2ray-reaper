@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.30:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.30:443
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.35.88:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.88:443
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@167.68.4.10:2096?security=tls&sni=vv.cscfwoker.fun&type=ws&host=vv.cscfwoker.fun&alpn=http/1.1&allowInsecure=0#🔒 VL-WS-TLS 🇺🇸 US-167.68.4.10:2096
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.199.238:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.199.238:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.182.85.246:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇷🇺 RU-5.182.85.246:443
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
@@ -603,3 +600,6 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.130:443?security=tls&sn
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@173.245.58.66:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.66:443
 vless://62357561-a129-4b9e-9614-ce2578020866@146.56.101.141:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-146.56.101.141:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.174:443?security=tls&sni=da.ylks.xyz&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.174:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.243:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.243:443
+vless://048ce287-6a7b-4dad-98fe-b5f3f6789b57@172.66.47.100:443?security=tls&sni=randomfrag.pages.dev&type=ws&host=randomfrag.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.100:443
+vless://c380f3d7-cc85-46a5-81bd-e5c89c123b3e@162.159.153.2:8080?security=none&type=httpupgrade&host=www.farsroid.com.soft98.ir.cafegame.ir.yasdl.com.www.sarzamindownload.com.x.x.x.x.x.x.x.x.x.x.x.x.x.xn--go-pe6eaaaaaaaaaaaaaa.z.z.z.z.z.z.z.z.z.z.x.x.x.x.x.x.aghebatbekheyr.tm.hajmalla.com.&path=%2FTeleGram.Channel%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG-%3Fed%3D8080#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.153.2:8080

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://219d848d-60f2-4321-8275-72b9b575b37e@104.27.59.176:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.59.176:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.181:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.181:443
+vless://464d644c-9c10-4c02-9117-4c75b0c347cd@172.67.153.253:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.153.253:8080
+vless://62357561-a129-4b9e-9614-ce2578020866@168.126.205.5:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-168.126.205.5:50000
 vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.245:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.245:443
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?security=tls&sni=3-fs4f6s46.huangyurong.cfd&type=ws&host=3-fs4f6s46.huangyurong.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:8443
@@ -599,7 +603,3 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avi
 trojan://blue2024@45.159.216.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-45.159.216.4:443
 trojan://blue2024@104.17.19.93:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.19.93:443
 trojan://NISHIKUITAN111@104.24.206.50:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.206.50:443
-trojan://bpb-trojan@172.67.243.254:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.243.254:443
-trojan://blue2024@173.245.49.131:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.49.131:443
-trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.136.232:8443
-trojan://blue2024@104.16.159.159:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.159:443

@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://NISHIKUITAN111@104.17.255.213:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.255.213:443
+trojan://blue2024@104.129.166.244:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-104.129.166.244:443
+trojan://NISHIKUITAN111@188.164.158.111:443?#🔒 TR-TCP-NA 🇦🇲 AM-188.164.158.111:443
+trojan://dns68@199.68.156.69:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-199.68.156.69:443
+trojan://blue2024@216.116.134.146:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-216.116.134.146:443
+trojan://NISHIKUITAN111@104.21.26.75:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.26.75:443
+trojan://blue2024@104.19.242.185:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.242.185:443
+trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443
+trojan://NISHIKUITAN111@104.20.140.145:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.140.145:443
+trojan://blue2024@104.16.22.141:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.22.141:443
+trojan://blue2024@104.26.6.125:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.125:443
 trojan://blue2024@104.16.239.254:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.239.254:443
 trojan://blue2024@104.16.21.118:443?sni=tb.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.21.118:443
 trojan://blue2024@190.93.247.128:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.247.128:443
@@ -592,14 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.194.212.235:443#🔒 SS-TCP-NA 🇯🇵
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.252:5003#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:5003
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#🔒 SS-TCP-NA 🇫🇷 FR-54.37.12.70:8000
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.122.162:443#🔒 SS-TCP-NA 🇰🇷 KR-43.203.122.162:443
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:8090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#🔒 SS-TCP-NA 🇲🇩 MD-86.104.74.243:14255
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:6679
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9020
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:5601
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE=@183.233.187.157:20001#🔒 SS-TCP-NA 🇨🇳 CN-183.233.187.157:20001
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8882

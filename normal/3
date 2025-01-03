@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://62357561-a129-4b9e-9614-ce2578020866@202.181.27.218:14526?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-202.181.27.218:14526
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@173.245.58.158:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.158:443
 vless://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?security=tls&sni=cglx.ewqmeta.com&type=grpc&serviceName=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.41.92:443
 vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443
 vless://8d391797-01f4-4393-92d0-504c96ca4c29@158.180.231.216:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihvtcd6ybun.com&path=ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇹 IT-158.180.231.216:443
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.122.76:443?security=tls&sni
 vless://527c25e5-6b7c-464f-8930-230b5955d582@85.9.120.200:8888?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.200:8888
 vless://3e0a14f1-caf1-4cbb-a0fc-c9e7597fc19c@51.195.43.122:49685?security=tls&sni=de.musicbaaz.ir&type=tcp&host=tc.donya-e-eqtesad.com&path=%2F&headerType=http&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇫🇷 FR-51.195.43.122:49685
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@92.223.84.84:443?security=tls&sni=gcore.com&type=ws&host=wirsta.io&path=%2FV9UM2NoIRV6xcxhY%3Fed%3D443&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-92.223.84.84:443
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@154.198.173.207:80?type=ws#🔒 VL-WS-NA 🇮🇳 IN-154.198.173.207:80
+vless://8ac3522f-c3ae-42c7-b4f3-86e4384bd5cb@104.26.14.16:443?security=tls&sni=redzone.miracleheartbit.icu&type=ws&host=redzone.miracleheartbit.icu&path=%2F2087%2Fv2rayyngvpn&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.64.1:443
-trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.83.62:2096
 trojan://blue2024@104.19.152.44:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.152.44:443
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.32.69:443
 trojan://telegram-id-v2rayvpnchannel@13.51.25.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.25.61:22222
@@ -603,3 +601,5 @@ trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&sni=za.ylks.xyz&type=ws&
 trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.123:443
 trojan://auto@162.159.44.148:443?security=tls&sni=trojanfree-76s.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.148:443
 trojan://blue2024@216.116.134.146:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-216.116.134.146:443
+trojan://blue2024@162.159.194.188:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.194.188:443
+trojan://NISHIKUITAN111@162.159.20.17:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.20.17:443

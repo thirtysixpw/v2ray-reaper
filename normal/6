@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://08e887ac-be53-4499-9728-c393ce935593@49.12.106.37:56745?flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop&type=tcp&fp=chrome&pbk=reeGxEx25Fzh3KrT4p-YYOw84ugb5LUG_h8atOpPUQg#🔒 VL-TCP-NA 🇩🇪 DE-49.12.106.37:56745
-vless://531bf100-1477-487c-a979-6adebf8f105f@185.16.110.113:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.113:443
 vless://52e508d9-e4f3-4479-9957-468b3248ae3b@172.66.44.145:443?security=tls&sni=TeHRANARGO.pageS.dEv&type=ws&host=tehranargo.pages.dev&path=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.145:443
 vless://f050cff5-f3a5-4d88-b653-e70fac34dd24@104.18.33.45:2095?security=none&type=httpupgrade&host=bAbAeE.tO.bAzIgOoShI.dIrIdIrIn.kHoNe.mA.dOoReH.dOrEeH.oWj.mIgErAfMaN.cLoUdMaRkEt.sHoP.tEhRaN2.aDs.bLuWaVe.iR&path=%2F%3Fed%3D8080#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.33.45:2095
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@194.59.5.96:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇰🇿 KZ-194.59.5.96:443
@@ -603,3 +601,5 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.19.44.209:443?security=tls&sni=
 vless://0fb53a60-2372-412a-a693-5157b58ecc94@172.67.148.227:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.227:80
 vless://76a39525-c67c-4bd9-b181-0e5d084786fc@135.84.67.95:443?security=tls&sni=wss.ahmadi4ux.ir&type=ws&host=wss.ahmadi4ux.ir&path=%2F&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-135.84.67.95:443
 vless://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.38.99:443?security=tls&sni=ou-exams-identify-folks.trycloudflare.com&type=ws&host=ou-exams-identify-folks.trycloudflare.com&path=%2F790abba4-0be7-4dcc-b061-94fa4582bd40-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.38.99:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.74.34:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.74.34:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.113.15:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.113.15:443

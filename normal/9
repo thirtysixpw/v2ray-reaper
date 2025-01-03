@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.48.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.48.1:8880
-vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.254:8443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.149.12.254:8443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.205:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.205:443
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:2096?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.224:2096
 vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@172.67.65.1:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.65.1:8443
@@ -603,3 +601,5 @@ trojan://bpb-trojan@104.18.8.215:443?security=tls&sni=fcspring.ggff.net&type=tcp
 trojan://blue2024@104.16.221.250:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.221.250:443
 trojan://NISHIKUITAN111@198.41.204.50:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.204.50:443
 trojan://NISHIKUITAN111@188.244.122.175:443?#🔒 TR-TCP-NA 🇩🇪 DE-188.244.122.175:443
+trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.64.1:443
+trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.83.62:2096

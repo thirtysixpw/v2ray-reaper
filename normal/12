@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.188:8080
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:8091
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.252:7306#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:7306
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:9102
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:3306
@@ -603,3 +601,5 @@ trojan://blue2024@104.17.37.105:443?security=tls&type=ws&sni=hb.lii2010.us.kg&pa
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.252:6379#US36%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8118#%E6%9C%AA%E7%9F%A590%201.7MB%2Fs
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50015?security=tls&type=tcp&sni=my.doubledou.icu#%E6%9C%AA%E7%9F%A591
+trojan://ouo@65.75.193.154:14491?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#US37
+trojan://NISHIKUITAN222@198.41.216.57:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A592

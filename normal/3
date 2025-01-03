@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://97dce074-7db1-4d59-99ca-0ef8311e2425@185.143.233.120:443?security=tls&sni=s19.speedyconnect.pro&type=ws&host=s19.speedyconnect.pro&path=%2Fdownloader%2F10005%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.237.151:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.151:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@108.162.194.240:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.240:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.206:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.206:443
 vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@108.162.194.137:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.137:443
@@ -603,3 +601,5 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.167:443?security=tls&sn
 vless://62357561-a129-4b9e-9614-ce2578020866@121.135.81.139:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-121.135.81.139:50000
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.159:443
 vless://f8d38e09-c654-5045-9816-27cf78cc93fa@5.252.23.173:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇰 SK-5.252.23.173:80
+vless://a8a35642-d780-4666-9b7f-a9ff4147aaff@104.18.39.116:8880?security=none&type=httpupgrade&host=10cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhostcom.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.theinternet.s4ckford.host.hqmala.ir.&path=%2FTeleGram.Channel%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG---%40Hqv2RayNG-%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.39.116:8880
+vless://6865584d-f1ed-4791-9f64-f9544bc14391@104.21.96.1:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443

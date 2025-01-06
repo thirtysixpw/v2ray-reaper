@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@52.43.224.109:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-52.43.224.109:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.10.247.44:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-5.10.247.44:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@188.114.96.122:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.122:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.105:2087?security=tls&sni=v2.YunchuN.Top&type=ws&host=v2.YunchuN.Top&path=%2Fm62uppjzp43efvve%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.105:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.75.172:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.172:443
@@ -603,3 +601,5 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@156.225.72.189:8443?security=tls&sn
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.100.186:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.100.186:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.55:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-185.236.233.55:2198
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.181:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.181:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.95.253:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.253:443
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?security=none&type=ws&host=IRANINGOAT2.IR&path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-199.232.8.123:80

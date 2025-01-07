@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.205.52.194:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.194:443
 vless://8d391797-01f4-4393-92d0-504c96ca4c29@158.180.231.216:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihvtcd6ybun.com&path=ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇹 IT-158.180.231.216:443
 vless://83c6f82f-e619-53c5-950a-908532a2a64f@199.232.7.18:443?security=tls&sni=ELena-Eliv2RaY.co&type=ws&host=elena-eliv2ray.co&path=%2Fvless&fp=qq&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.7.18:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.193.59:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.59:443
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN111@104.20.116.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.2
 trojan://NISHIKUITAN111@104.18.223.98:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.223.98:443
 trojan://NISHIKUITAN111@162.159.16.224:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.16.224:443
 trojan://blue2024@104.17.226.120:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.226.120:443
-trojan://telegram-id-privatevpns@51.24.52.49:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-51.24.52.49:22222

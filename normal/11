@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://telegram-id-directvpn@16.170.70.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.70.9:22222
-trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#🔒 TR-WS-NONE 🇺🇸 US-151.101.130.228:80
-trojan://auto@108.162.195.161:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.161:443
-trojan://blue2024@104.16.45.220:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.45.220:443
 trojan://telegram-id-directvpn@3.133.64.89:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.133.64.89:22222
 trojan://blue2024@162.159.44.209:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.209:443
 trojan://NISHIKUITAN111@154.197.75.171:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇸🇨 SC-154.197.75.171:443
@@ -603,3 +599,7 @@ trojan://auto@104.20.20.69:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.de
 trojan://a380943e-872a-41a2-96a7-dc078234a040@16.162.88.134:47104?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-16.162.88.134:47104
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-139.59.119.143:443
 trojan://blue2024@162.159.195.30:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.195.30:443
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
+trojan://blue2024@185.170.166.39:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇬🇧 GB-185.170.166.39:443
+trojan://blue2024@172.67.181.209:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.181.209:443
+trojan://telegram-id-directvpn@18.169.114.76:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.114.76:22222

@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ce7b5e36-a3a0-4f61-af4d-6ca132f892c5@194.164.180.15:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=LRnxYf6GAqSZwr6JWbVSnq_pKW99mXJ5VjhtLJMzom0&sid=5c75A51C#🔒 VL-TCP-RLT 🇩🇪 DE-194.164.180.15:443
-vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?security=reality&sni=iranbax.spacex.com&type=grpc&serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#🔒 VL-GRPC-RLT 🇩🇪 DE-64.190.63.111:443
-vless://782f2c39-efd3-43fc-9174-bae298a8504c@91.107.168.43:2030?security=reality&sni=refersion.com&type=grpc&fp=chrome&pbk=2INsqIBv8POsM_i8xiBrOcMbXodbCKbpNTFw7SRyqFc#🔒 VL-GRPC-RLT 🇩🇪 DE-91.107.168.43:2030
-vless://d2093082-a38a-316b-adcb-71013e595bd0@141.11.108.167:443?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=random&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#🔒 VL-TCP-RLT 🇫🇷 FR-141.11.108.167:443
-vless://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-51.158.243.62:443
-vless://c8be069e-3ee9-4ce0-876c-c584b872c5fc@195.15.215.198:443?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=bz_CfzxBvjSpYzMQIMKb7C2ttpovR4-4gyABZhjw0QM#🔒 VL-TCP-RLT 🇨🇭 CH-195.15.215.198:443
 vless://ababcac-cbaa-acba-dcba-ccaabbcacabb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://aacacbb-acba-bcaa-acdb-ccacabbaabbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-21-DEY-1403 🕑 08:32
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.26:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.26:443
@@ -603,3 +597,9 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.84.90:8080?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.105:2053?security=tls&sni=v2.yUnCHuN.TOP&type=ws&host=v2.yUnCHuN.TOP&path=%2Fk6f0s3n3dz6ad6rz%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.105:2053
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.20.101.192:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.101.192:443
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@103.116.7.67:2083?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.67:2083
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.77.111:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.111:8443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.152.101:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.101:2053
+vless://82003148-1939-464d-9b27-bf7f1906e2fc@85.133.197.230:90?type=ws&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-85.133.197.230:90
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
+vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@65.108.87.97:443?security=none&type=ws&host=65.108.87.97&path=%2F#🔒 VL-WS-NONE 🇫🇮 FI-65.108.87.97:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:8443?security=tls&sni=wIN.sAmImOgHadSI.WORKERS.deV&type=ws&host=wIn.sAmImOGhAdSI.WoRKERs.DeV&path=%2FAJDZ9n2geoCXTEVC%2FMTA0LjI1LjYyLjE1Nw%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:8443

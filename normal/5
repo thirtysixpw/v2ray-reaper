@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.192.142:443?security=tls&sni=ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV&type=ws&host=ppAl03-sHANBeH2.mRS-AntoINetTe-OHarA.wOrkerS.deV&path=%2F0ZMEGjVSSsqFUJqv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.142:443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@151.101.60.75:443?security=tls&sni=default.ssl.fastly.net&type=ws&host=sg.com&path=%2F%3Fed%3D1080&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.60.75:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.97:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.97:443
 vless://c19e923e-448d-423b-8a2c-e66d6aa4616e@140.248.170.56:443?security=tls&sni=images.ctfassets.net&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs&fp=random&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-140.248.170.56:443
@@ -602,4 +603,3 @@ vless://7599245e-0605-4365-ae29-6027e5312b76@104.21.81.200:443?security=tls&sni=
 vless://3a79c97d-4203-4be4-86c9-4eafa52005b2@104.21.44.116:80?security=none&type=httpupgrade&host=sHop.gkAlabar.iR&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.44.116:80
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.53.48:80
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.217:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.217:443
-vless://4c7512e3-d919-4dcb-a9ad-7c24cf933259@209.38.190.74:48397?security=none&type=tcp&host=speedtest.net&path=%2F%40lombo_channel%40lombo_channel%40lombo_channel%40lombo_channel%40lombo_channel&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-209.38.190.74:48397

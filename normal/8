@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://5181717e-892b-45a9-a8b7-e6d5fac1c77b@104.21.1.90:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.1.90:2082
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.1:80
-vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.13.149:80?security=none&type=ws&host=netbot.我的名字伊斯梅洛.site.&path=/dont/trust/melo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.149:80
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.98:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.98:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.109.205.223:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇾 CY-213.109.205.223:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.166:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.166:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.81:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.81:443
@@ -603,3 +599,7 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.121:80?type=ws#🔒 VL-WS-
 vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@162.159.38.137:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.137:443
 vless://62357561-a129-4b9e-9614-ce2578020866@91.229.132.209:35986?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-91.229.132.209:35986
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.159.247.114:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇧🇷 BR-185.159.247.114:443
+vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.205:80
+vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.160.63:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.63:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.203.125:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.203.125:443
+vless://e3eec9d9-ab70-4617-9e19-60860112c634@151.101.3.5:80?security=none&type=ws&host=Bluewave.ai#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.5:80

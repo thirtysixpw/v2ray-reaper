@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.0:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.0:443
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.170:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.170:443
-vless://e0d2a95b-60c8-4b53-ae25-8fc112f7d608@172.67.193.203:2053?security=tls&sni=khamenei313.dl-data360.ir&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.203:2053
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@144.24.169.81:2053?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-144.24.169.81:2053
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.66.44.249:2096?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.249:2096
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.16.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.1:2096
 vless://7dbe296f-cd63-42a0-b3fb-1a1d95a21de5@195.85.59.95:443?security=tls&sni=fenlan.orangelightyo.us.kg&type=ws&host=fenlan.orangelightyo.us.kg&path=%2F&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.95:443
@@ -603,3 +599,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.239.72.78:8443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.172:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.172:443
 vless://62357561-a129-4b9e-9614-ce2578020866@154.21.93.92:37955?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-154.21.93.92:37955
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@104.26.7.112:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.112:443
+vless://5181717e-892b-45a9-a8b7-e6d5fac1c77b@104.21.1.90:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.1.90:2082
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.1:80
+vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.13.149:80?security=none&type=ws&host=netbot.我的名字伊斯梅洛.site.&path=/dont/trust/melo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.149:80
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.98:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.98:443

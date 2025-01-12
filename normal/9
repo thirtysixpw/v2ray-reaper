@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.205:80
-vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.160.63:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.63:443
-vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.203.125:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.203.125:443
-vless://e3eec9d9-ab70-4617-9e19-60860112c634@151.101.3.5:80?security=none&type=ws&host=Bluewave.ai#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.5:80
 vless://f0556de9-037d-5369-9352-4b8d2a893263@188.114.97.88:2083?security=tls&sni=florida.xcdl.WOrkers.DEV&type=ws&host=florida.xcdl.WOrkers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048%2B.@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B)&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.88:2083
 vless://14cde25f-e50e-4599-8d4b-441cf5fad72c@104.18.41.138:8443?security=tls&sni=ta.ylkszy.eu.org&type=ws&host=ta.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.138:8443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.51:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.51:443
@@ -603,3 +599,7 @@ trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&h
 trojan://blue2024@104.18.106.229:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.106.229:443
 trojan://bpb-trojan@198.41.222.155:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.222.155:443
 trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
+trojan://MxJf4oM9fRzrnL9hKpHAUw@104.19.211.18:443?security=tls&sni=fcgerman.nimaempire.cfd&type=ws&host=fcgerman.nimaempire.cfd&path=%2Ftws&fp=firefox#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.211.18:443
+trojan://blue2024@172.64.157.183:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.157.183:443
+trojan://blue2024@104.16.209.98:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.209.98:443
+trojan://blue2024@104.19.238.216:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.238.216:443

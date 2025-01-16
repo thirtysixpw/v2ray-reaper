@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1576?security=tls&sni=egsource1.mzsourcenode.info&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-123.125.94.170:1576
+trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.67:443
+trojan://SSorg@65.109.193.179:1984?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇫🇮 FI-65.109.193.179:1984
+trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?sni=103.173.66.155&allowInsecure=0#🔒 TR-TCP-NA 🇻🇳 VN-103.173.66.155:443
 trojan://blue2024@104.19.243.93:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.243.93:443
 trojan://SSorg@27.50.48.154:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-27.50.48.154:8443
 trojan://NISHIKUITAN111@159.112.235.35:443?#🔒 TR-TCP-NA 🇺🇸 US-159.112.235.35:443
@@ -599,7 +603,3 @@ trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍�
 trojan://blue2024@141.101.115.163:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-141.101.115.163:443
 trojan://blue2024@172.64.146.66:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.146.66:443
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.228:443
-trojan://60005b16-5e62-4de2-8c27-4df72635e21d@38.150.12.188:52150?sni=xxfa85toflprzb7rt7-jp.xxfnode.com#🔒 TR-TCP-NA 🇺🇸 US-38.150.12.188:52150
-trojan://auto@162.159.44.202:443?security=tls&sni=trojanmz.pages.dev&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.202:443
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#🔒 TR-TCP-NA 🇨🇳 CN-36.151.194.64:46002
-trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&host=sB-1u6.Pages.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.178:443

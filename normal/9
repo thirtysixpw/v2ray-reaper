@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.159:443
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.100:443
+vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.21.16.1:2083?security=tls&sni=gErmaNHP.Pages.dEv&type=ws&host=germanhp.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.1:2083
 vless://e4508f77-3d5c-4429-ba48-02e92ec595b2@172.67.204.84:2087?security=tls&sni=0f78d564-wild-lAb-02b2.pohexI6973.WORkerS.dev&type=ws&host=0f78d564-wild-lab-02b2.pohexi6973.workers.dev&path=/EucSWPwylD5Pj7V2?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@27.50.48.204:443?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.204:443
 vless://e7934134-5395-47a7-bd90-f68a467e3971@198.41.192.239:443?security=tls&sni=usb.warpo.me&type=ws&host=usb.warpo.me&path=%2Fbing#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.239:443
@@ -600,6 +603,3 @@ trojan://auto@104.20.21.97:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.de
 trojan://NISHIKUITAN111@5.10.246.119:443?#🔒 TR-TCP-NA 🇳🇱 NL-5.10.246.119:443
 trojan://auto@104.26.13.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
 trojan://blue2024@104.27.65.15:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.65.15:443
-trojan://blue2024@172.67.75.172:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.75.172:443
-trojan://3723507166611775488@5.189.203.50:443?security=tls&sni=devoted-starfish.boa152.lol&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-5.189.203.50:443
-trojan://SSorg@51.107.8.47:8443?sni=ssjj.esslh.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇨🇭 CH-51.107.8.47:8443

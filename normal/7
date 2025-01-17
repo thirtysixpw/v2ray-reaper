@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.109.205.223:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇾 CY-213.109.205.223:8443
+vless://e1a5d8a9-ff86-4092-aab7-407251c19802@104.21.28.188:8880?security=none&type=ws&host=www.speedtest.net.i.xn--110-qze36dsg.cdn.kiava.live.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
+vless://9c2f729f-d211-4eec-8587-7167a5888d02@162.159.252.113:8443?security=tls&sni=mg1.haibucuo.xyz&type=ws&host=mg1.haibucuo.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.252.113:8443
 vless://eda20998-ed70-490e-8631-4002c8891ae5@138.201.185.70:51795?security=none&type=tcp&host=nobitex.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-138.201.185.70:51795
 vless://3091b7ac-ed37-4e51-bc21-a56284e324ec@104.22.78.49:443?security=tls&sni=bamobhamtest.3748azazaz.workers.dev&type=ws&host=bamobhamtest.3748azazaz.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.78.49:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.70.92:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2083
@@ -600,6 +603,3 @@ vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=we
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?security=none&type=ws&host=edge.validbv3528.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.37:80
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?security=tls&sni=1-13cx20.hc1212.top&type=ws&host=1-13cx20.hc1212.top&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443
 vless://cae89e38-b030-42e2-9a95-559a0bd166e2@78.109.193.145:31448?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.193.145:31448
-vless://43f8f2c7-59fd-4ab4-b7dd-c52f0f0da18f@172.64.152.170:443?security=tls&sni=BuGfrEEnet-sattAr.PAGes.DEV&type=ws&host=bugfreenet-sattar.pages.dev&path=%2FbmvpiqrOHtbFAnVM%3Fed%3D2560&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.152.170:443
-vless://18758238-2625-2730-3689-f157ae275ad4@104.17.213.228:443?security=tls&sni=cag.qwapples.com&type=grpc&serviceName=grpc&fp=random&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.213.228:443
-vless://a800a772-9068-426a-b84a-f29da535166d@173.245.58.100:2052?type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-173.245.58.100:2052

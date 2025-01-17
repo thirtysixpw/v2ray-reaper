@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@104.19.103.190:2096?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@104.19.57.183:2096?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@154.197.64.166:2053?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
 trojan://Aimer@162.159.45.156:8443?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@172.67.172.63:2087?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@173.245.59.109:2087?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
@@ -600,6 +603,3 @@ vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.180.102:80?security=none&typ
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.131:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.131:443
 vless://10321f1d-6418-40fe-b5ac-dc2a5f6fb0e8@138.124.53.161:443?security=tls&sni=ad5.transitkala.com&type=ws&host=ad5.transitkala.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-138.124.53.161:443
 vless://e9ef791a-98fc-4e89-9a7d-8bec68bce5a8@151.101.130.133:80?type=ws&host=jetservices55.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-151.101.130.133:80
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.161:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.161:443
-vless://891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.150:443
-vless://18758238-2625-2730-3689-f157ae275ad4@89.168.51.135:25212?security=tls&sni=ibgsy.ynjkxpgo.com&type=grpc&serviceName=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇫🇷 FR-89.168.51.135:25212

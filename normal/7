@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.151:443
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:80
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.160.63:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.63:443
 vless://31dfe29f-8ae1-4284-aa84-b1869b812e28@92.242.220.21:58021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-92.242.220.21:58021
@@ -602,4 +603,3 @@ vless://b9dad5ed-74da-4a43-8145-90d06df1f890@168.138.13.201:443?security=tls&sni
 vless://18a8deb7-430f-46d0-b814-0231a433dc3b@172.67.73.163:443?security=tls&sni=spotify-sale.ir&type=ws&host=nb-us.spotify-sale.ir&path=%2Fhajmi%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:443
 vless://1aaf33cb-9ef3-41ac-819d-3e1d14f85799@194.76.18.232:2082?security=none&type=httpupgrade&host=web.hi-app.site&path=/d3d3LmlyYW5ob3N0LmNvbQ%3D%3D?ed%3D2082/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.232:2082
 vless://68c1d65d-d267-4510-9f42-804a2eb13ce4@188.245.97.252:1101?security=none&type=grpc&serviceName=%40TEST_ttt#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.97.252:1101
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443

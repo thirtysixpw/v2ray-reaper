@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.163:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2Fuxa.vs2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.163:443
 vless://eacea922-a9e9-433e-abbe-4965f71e3eaf@151.101.128.223:443?security=tls&sni=python.org&type=xhttp&host=safar724.com&path=https%3A%2F%2Fsafar724.com%2Fcontact&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.128.223:443
@@ -602,4 +603,3 @@ vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@172.66.208.0:443?security=tls&sni=A
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@121.176.166.69:33889?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.176.166.69:33889
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:2053
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@154.194.12.2:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-154.194.12.2:443
-vless://f050cff5-f3a5-4d88-b653-e70fac34dd24@104.18.33.45:2095?security=none&type=httpupgrade&host=bAbAeE.tO.bAzIgOoShI.dIrIdIrIn.kHoNe.mA.dOoReH.dOrEeH.oWj.mIgErAfMaN.cLoUdMaRkEt.sHoP.tEhRaN2.aDs.bLuWaVe.iR&path=%2F%3Fed%3D8080#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.33.45:2095

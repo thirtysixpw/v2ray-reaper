@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@92.243.74.23:2096?security=tls&sni=123.drmIng.bUzz&type=ws&host=123.drming.buzz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.23:2096
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.215.15:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.222.215.15:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.230.47:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.230.47:80
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/@vemessvpn-channel-telegram#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:443
@@ -603,3 +602,4 @@ vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type
 vless://7976f348-21e3-4688-8272-b8df34afc600@104.18.15.19:8080?type=ws&host=0115.ubsrbac7.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.15.19:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.40.206:443
 vless://092ae4c2-bd39-4217-9eb3-460ef5d4e813@104.22.4.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.4.136:443
+vless://c9d8fc41-ddc6-49c8-ba2c-268ffd52ed0a@198.244.140.163:22671?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-198.244.140.163:22671

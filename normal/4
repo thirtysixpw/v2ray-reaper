@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.90:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.90:443
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?security=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.199.19:2082
 vless://365de7de-77b2-4a62-aec3-66a6bd41813e@104.26.13.31:8080?sni=feng5.ogazo8c3.workers.dev&type=ws&host=feng5.ogazo8c3.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.13.31:8080
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.43:443
@@ -603,3 +602,4 @@ vless://8d41f394-c753-4ef3-99e6-17115296eada@188.114.96.3:2083?security=tls&sni=
 vless://219d848d-60f2-4321-8275-72b9b575b37e@198.41.207.43:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.207.43:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.16.234.14:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.234.14:443
 vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@172.64.147.188:2083?security=tls&sni=spedfree.akbaru.ir&type=ws&host=spedfree.akbaru.ir&path=%2FUoD8QOdaABE4rN7hQY9M0B8&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.147.188:2083
+vless://7dbe296f-cd63-42a0-b3fb-1a1d95a21de5@195.85.59.161:443?security=tls&sni=fenlan.orangelightyo.us.kg&type=ws&host=fenlan.orangelightyo.us.kg&path=%2F&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443

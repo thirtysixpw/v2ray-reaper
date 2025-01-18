@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@212.41.15.119:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@160.79.104.131:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@167.68.4.58:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@108.165.152.163:2087?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@209.94.90.87:2087?allowInsecure=1&sni=ameqo.esslh.filegear-sg.me#%EF%B8%8F_%E6%9C%AA%E7%9F%A5
 trojan://Aimer@198.62.62.192:2083?allowInsecure=1&sni=ameqo.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@188.164.159.74:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
@@ -599,7 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.188:443?security=tls&sn
 vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.131:443?security=tls&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO&type=grpc&fp=chrome&alpn=h3#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.131:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.222.215:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.222.215:80
 vless://531bf100-1477-487c-a979-6adebf8f105f@198.62.62.176:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.176:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.224.54:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.224.54:80
-vless://2d8497b5-23dd-46de-b654-717452302700@151.101.66.187:80?security=none&type=ws&host=htz7h3.moi&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.187:80
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.133.220:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.133.220:8443
-vless://19d13bed-b8c5-4443-920e-12f833fed576@104.21.235.205:8880?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.Imgolden.space.&path=%2FTelegram%40AZARBAYJAB1%2CTelegram%40AZARBAYJAB1%2CTelegram%2C%40AZARBAYJB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.205:8880

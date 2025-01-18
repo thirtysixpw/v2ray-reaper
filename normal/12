@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://SSorg@160.79.105.160:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.79.105.160:8443
+trojan://auto@172.66.47.150:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.150:8443
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1606?security=tls&sni=rusource1.mzsourcenode.info&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-123.125.94.170:1606
+trojan://SSorg@206.238.237.146:2083?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.237.146:2083
 trojan://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053
 trojan://blue2024@172.64.35.159:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.159:443
 trojan://c60fbf90-4b55-11ed-b935-225401db9d57@199.59.243.228:443?security=tls&sni=de.tjvpn.org&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.59.243.228:443
@@ -599,7 +603,3 @@ trojan://SSorg@27.50.48.154:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type
 trojan://Aimer@154.197.64.67:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=ws&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.67:443
 trojan://NISHIKUITAN111@190.93.245.10:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.10:443
 trojan://CMLiussss@188.114.96.6:443?security=tls&sni=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&type=ws&host=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.96.6:443
-trojan://blue2024@162.159.44.169:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.169:443
-trojan://blue2024@104.16.5.34:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.5.34:443
-trojan://blue2024@104.23.137.108:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.23.137.108:443
-trojan://SSorg@108.165.152.67:2053?security=tls&sni=sstjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.67:2053

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.99:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.99:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.155.203:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.203:80
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.173:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.173:443
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.0:2086
@@ -603,3 +602,4 @@ vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443?security=tls&sn
 vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.209.41:80?security=tls&sni=mahdihector.kewojod243.workers.dev&type=ws&host=mahdihector.kewojod243.workers.dev&path=telegram@wangcai2/?ed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.41:80
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.21.89.247:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.247:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.66.45.27:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.27:443
+vless://531bf100-1477-487c-a979-6adebf8f105f@206.238.237.203:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.203:443

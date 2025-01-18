@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@193.123.81.105:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇪 AE-193.123.81.105:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.99:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.99:443
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.145.84:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.145.84:443
 vless://4395e1de-84f8-54f5-92cd-628eb0061516@172.67.171.95:80?security=none&type=ws&host=Nl1.vless.site.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.95:80
@@ -603,3 +602,4 @@ vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@104.26.14.85:2083?security=tls&sni=
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.8:80?type=ws&host=edge.validbv3528.ir&path=%2Fvless-ws%2F%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayja1%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-167.82.65.8:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.29.139:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.139:80
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@108.165.152.241:2053?security=tls&sni=v.aivpn.filegear-sg.me&type=ws&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.241:2053
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.254:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2Fuxa.vs2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.254:443

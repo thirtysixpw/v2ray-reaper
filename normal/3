@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://531bf100-1477-487c-a979-6adebf8f105f@160.79.104.38:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.38:443
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@185.251.82.145:2095?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不去看啥事情基本事事.superbranman.info.#🔒 VL-HTTPUPGRADE-NONE 🇪🇸 ES-185.251.82.145:2095
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@194.59.5.96:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇰🇿 KZ-194.59.5.96:443
 vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=08.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
@@ -603,3 +602,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.24.57.211:443?security=tls&sni=
 vless://07865379-86dd-4ca6-ad22-81255519c482@172.67.69.216:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.69.216:2083
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.52.41:80?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.52.41:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.2:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.2:80
+vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.16:443?security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.16:443

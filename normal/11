@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.123.255.10:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.10:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.10:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.10:443
 vless://674a1d4e-3850-40bd-8309-a9452db58495@62.60.179.48:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.179.48:2052
 vless://f0556de9-037d-5369-9352-4b8d2a893263@188.114.97.88:2083?security=tls&sni=florida.xcdl.WOrkers.DEV&type=ws&host=florida.xcdl.WOrkers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048%2B.@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B)&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.88:2083
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.100.124:80?type=ws#🔒 VL-WS-NA 🇺🇸 US-167.82.100.124:80
@@ -601,5 +603,3 @@ trojan://blue2024@108.162.195.205:443?security=tls&sni=ta.promote.icu&type=ws&ho
 trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?security=tls&sni=cmc3.5gsieuvip.vn&type=tcp#🔒 TR-TCP-TLS 🇻🇳 VN-103.173.66.155:443
 trojan://bpb-trojan@104.17.76.107:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.76.107:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.26.15.85:2083
-trojan://blue2024@104.23.113.250:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.23.113.250:443
-trojan://b75b5cd5-9acf-5556-a65b-b5c59b2d5813@104.19.206.34:443?security=tls&sni=saeedddddddmmmm.saeed-salmani1386.WOrKErS.DEv&type=ws&host=saeedddddddmmmm.saeed-salmani1386.WOrKErS.DEv&path=trojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.206.34:443

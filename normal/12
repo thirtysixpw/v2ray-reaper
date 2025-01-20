@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@49.212.216.50:443?security=tls&flow=xtls-rprx-vision&sni=os-v010.tama22.com&type=tcp#🔒 VL-TCP-TLS 🇯🇵 JP-49.212.216.50:443
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.24:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-185.231.205.24:3237
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@195.85.59.155:2082?security=none&type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇾 CY-195.85.59.155:2082
+vless://5a072bf7-06e9-4007-851f-536e355741cb@194.58.45.233:55648?security=none&type=tcp#🔒 VL-TCP-NONE 🇲🇩 MD-194.58.45.233:55648
 vless://0d710c53-876d-401f-97f0-6bd1a8db941a@104.21.7.50:2052?security=none&type=ws&host=sWEeT-DIsK-b69d.TUdTudtrUHtRU.wOrkERS.dev&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.50:2052
 vless://d86d20d4-ad5a-40c3-a2ba-aad43db03935@172.67.216.146:2086?security=none&type=ws&host=44488fd2-morning-waterfall-403egr.dijoy40334.workers.dev&path=%2F5bdMBsIXuoM5VdKf%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.146:2086
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@8.218.36.133:9010?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇭🇰 HK-8.218.36.133:9010
@@ -599,7 +603,3 @@ trojan://Ng35283528@104.16.83.43:443?security=tls&sni=c2.validbv3528.eu.org&type
 trojan://blue2024@108.162.195.110:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.110:443
 trojan://blue2024@172.64.35.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.155:443
 trojan://blue2024@104.16.99.204:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.99.204:443
-trojan://blue2024@104.19.90.210:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.90.210:443
-trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-216.24.57.30:443
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?security=tls&sni=download2hkt.windowsupdate.lol&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-15.197.162.184:443
-trojan://SSorg@5.182.85.28:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.28:443

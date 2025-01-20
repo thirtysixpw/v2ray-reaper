@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.20.108:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-34.255.20.108:22222
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.111:443?security=tls&sni=ly.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.111:443
+vless://9c2f729f-d211-4eec-8587-7167a5888d02@104.19.11.26:8443?security=tls&sni=mg1.haibucuo.xyz&type=ws&host=mg1.haibucuo.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.11.26:8443
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@104.21.30.195:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.30.195:80
 vless://e05e8b96-212d-48e6-b12c-852a37f217bb@2.188.224.89:54210?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-2.188.224.89:54210
 vless://a90f08e4-3548-4741-af3d-9dad08b06b63@104.19.6.48:443?security=tls&sni=46771119909676129223555549792065.v2line.net&type=ws&host=46771119909676129223555549792065.v2line.net&path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.6.48:443
 vless://07bb719d-a300-4e08-acc3-fdebec273425@198.41.204.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.204.51:443
@@ -599,7 +603,3 @@ vless://76889f66-a4b0-4058-a8ba-b3418b90e26e@193.228.168.165:19296?type=tcp&host
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.62.117:2086?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.62.117:2086
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.226.56:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.226.56:80
 vless://1c16872a-f424-4821-ae03-f27cf581dc90@172.64.155.187:443?security=tls&sni=boring-falls-appreciate-tasks.trycloudflare.com&type=ws&host=boring-falls-appreciate-tasks.trycloudflare.com&path=%2F1c16872a-f424-4821-ae03-f27cf581dc90-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.187:443
-vless://17f82947-ca0e-50f3-a75f-c3efba19d12f@49.212.216.50:443?security=tls&flow=xtls-rprx-vision&sni=os-v010.tama22.com&type=tcp#🔒 VL-TCP-TLS 🇯🇵 JP-49.212.216.50:443
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.24:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-185.231.205.24:3237
-vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@195.85.59.155:2082?security=none&type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇾 CY-195.85.59.155:2082
-vless://5a072bf7-06e9-4007-851f-536e355741cb@194.58.45.233:55648?security=none&type=tcp#🔒 VL-TCP-NONE 🇲🇩 MD-194.58.45.233:55648

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://blue2024@190.93.244.198:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.198:443
-trojan://NISHIKUITAN111@190.93.247.175:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.247.175:443
-trojan://telegram-id-directvpn@13.60.109.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.109.83:22222
-trojan://bpb-trojan@104.17.102.149:2053?security=tls&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&type=ws&host=bpb-worker-panel-bcr.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.102.149:2053
-trojan://0000000@18.238.109.28:443?security=tls&sni=www.lovelive-anime.jp&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-18.238.109.28:443
 trojan://Aimer@86.38.214.186:443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇱🇹 LT-86.38.214.186:443
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443?security=tls&sni=customer-45-67-229-222.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇲🇩 MD-45.67.229.222:443
 trojan://NISHIKUITAN111@104.25.22.6:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.22.6:443
@@ -603,3 +598,8 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.37.12.70:8881#%E6%9C%AA%E7%9F%A523
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjd3eVJnWDg2V3lXdDZIUWlud25E@51.158.252.130:443#%E6%9C%AA%E7%9F%A524
 trojan://NISHIKUITAN111@104.16.80.174:443?#%E6%9C%AA%E7%9F%A525
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYiLCJhZGQiOiIyLjU4Ljg3LjIyMSIsInBvcnQiOiIxMjI2OSIsImlkIjoiZGI4NWZmMGUtYzMzZi00MDFkLWM0MTUtNGM3Y2NlMTM1NzA0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiIxNzIuNjcuNjkuMjM2IiwicG9ydCI6IjIwOTYiLCJpZCI6IjMyZWI5Y2Y1LWM0YzctNDBlMy1iNTg0LWE0YjFmYzU4MzNlYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InRFU3QuT2ZmRVJtaVJhY0xlU0hvcC5Ub3AuIiwicGF0aCI6Ii9AdjJyYXl5bmd2cG4/ZWQ9MjU2MCIsInRscyI6InRscyIsInNuaSI6InRFU3QuT2ZmRVJtaVJhY0xlU0hvcC5Ub3AuIiwidGVzdF9uYW1lIjoiMjcifQ==
+trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A528
+trojan://SSorg@103.137.63.3:443?sni=sstjj.esslh.filegear-sg.me#TW
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#US6%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A529

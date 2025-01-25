@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@64.181.231.153:443?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=--Ssq_QptGzn8kl6PwVSRKglFCYXJHLUX2-Q4IGCgl0&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇺🇸 US-64.181.231.153:443
-vless://6055498e-8d10-4ee2-b3b1-2488b360701a@157.90.146.14:1615?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#🔒 VL-TCP-RLT 🇩🇪 DE-157.90.146.14:1615
-vless://8d052411-1bff-42da-81cc-3f1d81550dbd@165.1.64.133:20303?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=SF-MPoMzBbv3p6dlm_hUgg5yxpB0P93droF86CrnPws&sid=be5acf81#🔒 VL-TCP-RLT 🇺🇸 US-165.1.64.133:20303
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@57.128.164.24:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇫🇷 FR-57.128.164.24:1210
-vless://e496232a-3725-42d4-ac95-d812a3c86cbf@150.241.101.222:29742?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=random&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&sid=75813316#🔒 VL-TCP-RLT 🇩🇪 DE-150.241.101.222:29742
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.254.207:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#🔒 VL-TCP-RLT 🇺🇸 US-35.86.254.207:443
 vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&allowInsecure=1#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.250.151:7022
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.188.111.76:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#🔒 VL-TCP-RLT 🇺🇸 US-54.188.111.76:443
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.178.55:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#🔒 VL-TCP-RLT 🇺🇸 US-52.15.178.55:443
@@ -603,3 +597,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.105.66:80?type=ws#🔒 VL-WS
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@18.182.63.216:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-18.182.63.216:443
 vless://bf8f1420-b07e-4601-a21d-a126d77bbded@81.28.12.12:80?security=none&type=ws&host=hormozvpppnn.tel&path=/#🔒 VL-WS-NONE 🇳🇱 NL-81.28.12.12:80
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.64.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096
+vless://fd65e560-d0a9-479a-971c-7da16b4bd85f@65.109.209.201:7642?type=tcp#🔒 VL-TCP-NA 🇫🇮 FI-65.109.209.201:7642
+vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.135.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:443
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.100:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.48:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.48:443
+vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@172.67.66.177:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:443
+vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.84:8080
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@206.238.236.187:2096?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.187:2096
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.38:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.60.74.38:443
 vless://9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?security=none&type=ws&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.87:8880
 vless://8172ce99-4146-4dbe-bbd0-cf6533081014@104.22.13.192:80?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.192:80
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.228.24:8443?security=tls&sni=bog-co-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇴 CO-169.150.228.24:8443
@@ -599,7 +603,3 @@ trojan://Aimer@5.182.85.189:2096?security=tls&sni=acepo.ambercc.filegear-sg.me&t
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.67:443
 trojan://3763495894587285504@94.177.131.199:443?security=tls&sni=nearby-sheep.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-94.177.131.199:443
-trojan://3763495894587285504@3.78.140.132:443?sni=proud-python.goat627.mom#🔒 TR-TCP-NA 🇩🇪 DE-3.78.140.132:443
-trojan://SSorg@199.34.228.71:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.34.228.71:8443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443

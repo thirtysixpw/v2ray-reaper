@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cc6b985d-0362-4129-8763-38564174fb3e@94.242.228.122:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.228.122:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.82:443?security=tls&sni=vs.bgm2024.us.kg&type=ws&host=vs.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.82:443
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@108.162.195.199:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.199:443
 vless://f9ee4961-cf1d-4a11-9791-8597304ee33e@185.79.158.169:2052?security=none&type=ws&host=cd1.chocolate2001.pw&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.79.158.169:2052
 vless://a51396aa-8ce4-4e7f-fdc6-8014bf0b712e@185.156.108.128:58437?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇨🇾 CY-185.156.108.128:58437
@@ -603,3 +601,5 @@ trojan://blue2024@190.93.245.62:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠
 trojan://3763495894587285504@18.180.126.191:443?security=tls&sni=top-aphid.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-18.180.126.191:443
 trojan://Aimer@199.34.228.187:443?security=tls&sni=ngep.ambercc.filegear-sg.me&type=ws&host=ngep.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.187:443
 trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.60.104:2096
+trojan://Aimer@206.238.236.221:2083?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.221:2083
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.131.245:443

@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=V2nGfaSt-JCr.PAgEs.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.200:443?security=tls&sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.200:443
+vless://9375218f-b6e4-40cd-9048-783ac71b46d6@65.109.181.193:18643?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.181.193:18643
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.218.204:8443?security=tls&sni=ath-gr-01.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇬🇷 GR-79.127.218.204:8443
+vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@104.21.69.44:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:80
 vless://a51396aa-8ce4-4e7f-fdc6-8014bf0b712e@185.156.108.128:58437?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇨🇾 CY-185.156.108.128:58437
 vless://eb8a5ef9-cdbc-40aa-92b1-c850d0f0d7e7@103.25.85.29:2053?security=none&type=httpupgrade#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-103.25.85.29:2053
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.44:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇸🇪 SE-88.216.214.44:8880
@@ -597,9 +603,3 @@ trojan://blue2024@162.159.44.161:443?security=tls&sni=tc.promote.icu&type=tcp#�
 trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇪🇸 ES-45.86.229.28:443
 trojan://Aimer@172.64.33.201:443?security=tls&sni=lynn.ns.cloudflare.com&type=ws&host=ngepy.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.201:443
 trojan://Aimer@92.243.74.180:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-92.243.74.180:8443
-trojan://telegram-id-privatevpns@3.77.65.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.77.65.83:22222
-trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.16:2053
-trojan://telegram-id-directvpn@3.248.124.85:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-3.248.124.85:22222
-trojan://Aimer@168.126.66.181:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-168.126.66.181:50000
-trojan://blue2024@104.16.93.142:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.93.142:443
-trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.79.171:443

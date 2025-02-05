@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2376#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A2376
-vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.175.177.127%3A443
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.19:8009#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A8009
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A6679
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.92.116%3A8000
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.72-2567
@@ -603,3 +600,6 @@ vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@104.20.19.168:443?security=tls&sni=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.62.93:1006?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-44.243.62.93:1006
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.7.41:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.41:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.137.37:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.37:443
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.178.144:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.178.144:8880
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.81.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-35.181.81.171:22222
+vless://d424ae34-8aff-4093-b1c9-715de61aa144@104.26.15.85:2082?type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=/?ed%3D2082,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,?ed%3D2082#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.26.15.85:2082

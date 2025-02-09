@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://bpb-trojan@104.21.79.143:443?security=tls&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.79.143:443
+trojan://Aimer@108.162.195.227:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.227:443
+trojan://Aimer@172.64.35.82:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.35.82:443
+trojan://bpb-trojan@198.41.211.21:443?security=tls&sni=bpb.my79801.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-198.41.211.21:443
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#🔒 TR-TCP-NA 🇨🇳 CN-36.151.194.64:46002
+trojan://NISHIKUITAN111@185.193.29.193:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.29.193:443
+trojan://er668@104.21.48.1:443?sni=kfjdi.pages.dev#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.48.1:443
+trojan://Aimer@104.129.166.131:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.129.166.131:8443
+trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.47.170:443
+trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.102:443
+trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒 TR-WS-NONE 🇺🇸 US-151.101.66.219:80
 trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.153.27:443
 trojan://Aimer@5.182.85.28:443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.85.28:443
 trojan://NISHIKUITAN111@173.245.59.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.91:443
@@ -592,14 +603,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9102#%E6%9C%AA%E7%9F%A
 trojan://Aimer@220.74.106.40:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A518
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@139.64.165.101:8008#US4%2019.3MB%2Fs
 trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A519
-trojan://Aimer@188.164.159.55:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A520
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiIxMTIuMTMyLjIxMi4xOSIsInBvcnQiOiI1MDAwNCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMSJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#US5%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#US6%202.0MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%E6%9C%AA%E7%9F%A522%2010.7MB%2Fs
-trojan://Aimer@46.254.92.142:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A523
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#%E6%9C%AA%E7%9F%A524%203.8MB%2Fs
-trojan://Aimer@172.67.70.33:2096?sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@104.19.60.99:2087?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A525
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYiLCJhZGQiOiI1Ljc1LjE5Ny4yMjEiLCJwb3J0IjoiODA4MCIsImlkIjoiYjQ0Y2VhYmUtOTk3Yy00OTg4LTkzMmQtOGVmYTZhNTMwZmM1IiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiZmFzdC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI2In0=
-trojan://Aimer@154.197.64.252:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A527

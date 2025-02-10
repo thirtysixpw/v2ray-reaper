@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://telegram-id-directvpn@15.157.238.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.238.153:22222
+trojan://Aimer@108.165.152.65:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.65:8443
+trojan://blue2024@104.17.57.75:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.57.75:443
+trojan://Aimer@91.217.139.169:587?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-91.217.139.169:587
+trojan://Aimer@162.159.44.235:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.235:2053
+trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram%40proxy%5C_mtm%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇪 SE-185.146.173.158:443
+trojan://Aimer@108.165.152.241:2053?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.241:2053
+trojan://telegram-id-directvpn@16.171.185.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.185.11:22222
+trojan://Aimer@218.154.47.250:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-218.154.47.250:50000
+trojan://Aimer@23.94.136.126:8080?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-23.94.136.126:8080
+trojan://Aimer@154.26.176.94:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.26.176.94:8443
 trojan://3763495894587285504@94.177.131.199:443?security=tls&sni=nearby-sheep.goat627.mom&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-94.177.131.199:443
 trojan://Bw5Mz7QkVp@45.77.219.230:443?security=tls&sni=z-v2-074420.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.77.219.230:443
 trojan://Aimer@167.68.4.223:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-167.68.4.223:2096
@@ -592,14 +603,3 @@ trojan://fuck@42.236.73.72:443?security=tls&type=tcp&sni=www.zitian.cn#%E6%9C%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOVN1RElHRlg5V2U2eEFJUXJvS241@89.185.84.185:443#%E6%9C%AA%E7%9F%A529%20831.6KB%2Fs
 trojan://Aimer@121.186.173.204:10022?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A530
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRFptWg==@146.19.106.5:8388#%E6%9C%AA%E7%9F%A531
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%E6%9C%AA%E7%9F%A532%20910.8KB%2Fs
-trojan://Bw5Mz7QkVp@137.220.42.248:443?security=tls&type=tcp&sni=z-v2-077045.kailib.com#US15
-trojan://bpb-trojan@198.202.211.146:443?sni=bpb.my79801.com#US16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#%E6%9C%AA%E7%9F%A533%206.3MB%2Fs
-trojan://telegram-id-directvpn@44.194.46.61:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US17%20129.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A534%2025.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%E6%9C%AA%E7%9F%A535%2014.2MB%2Fs
-trojan://Aimer@172.64.33.128:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A536
-trojan://telegram-id-privatevpns@13.51.78.35:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A537%208.3MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080#US18
-trojan://Aimer@162.159.134.143:2096?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A538

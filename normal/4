@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
-vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?security=tls&sni=hdfyrplcpnl1.freeairlians.com&type=ws&host=hdfyrplcpnl1.freeairlians.com&path=/PaavgVfC7wqXrfw3l&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-108.61.171.227:443
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.44.215:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.215:443
 vless://b5484088-cefc-43a1-943f-a99706fc3c0c@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
 vless://ba13bb3a-dba9-4812-9b7a-323371a1f405@104.17.148.22:8443?security=tls&sni=ir.eycooleret.store&type=ws&host=ir.eycooleret.store&path=%2f&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
@@ -603,3 +600,6 @@ trojan://3763495894587285504@62.112.221.46:443?security=tls&sni=enabling-cat.goa
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-23.227.60.8:443
 trojan://bpb-trojan@104.19.35.14:443?security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.35.14:443
 trojan://Aimer@192.200.160.19:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.200.160.19:8443
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.2.193.67:443?sni=tr.mjt000.com#🔒 TR-TCP-NA 🇭🇰 HK-20.2.193.67:443
+trojan://Aimer@176.53.144.206:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇨🇾 CY-176.53.144.206:8443
+trojan://telegram-id-privatevpns@13.53.78.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.78.58:22222

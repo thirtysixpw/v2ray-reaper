@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@103.184.45.164:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&fp=chrome&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-103.184.45.164:443
+vless://563709ea-3663-4f86-b413-5299897659a5@104.18.13.149:2053?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.149:2053
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.1:443
+vless://384d74a9-2290-4725-bee8-cd7d19f701b3@185.146.173.39:2095?security=none&type=ws&host=sadasdsdsaads阿斯達十點三十分.boxiaa.shop.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.39:2095
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.154.232:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.154.232:443
 vless://fdb667db-7ba5-4f9c-aa1f-705504706257@104.21.112.1:2095?security=none&type=httpupgrade#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.112.1:2095
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&sni=147135010103.sec19org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.117:443
@@ -599,7 +603,3 @@ trojan://Aimer@162.159.44.199:443?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-N
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.155:443
 trojan://telegram-id-directvpn@52.60.65.92:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-52.60.65.92:22222
 trojan://3770966768580042752@185.67.127.69:443?sni=correct-boxer.goat627.mom#🔒 TR-TCP-NA 🇬🇧 GB-185.67.127.69:443
-trojan://0000000@18.238.109.28:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-18.238.109.28:443
-trojan://Aimer@220.78.106.96:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-220.78.106.96:50000
-trojan://Aimer@5.182.86.252:2053?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-5.182.86.252:2053
-trojan://Aimer@161.129.41.140:6352?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-161.129.41.140:6352

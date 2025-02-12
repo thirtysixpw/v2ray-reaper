@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&sni=tr-s.xor-vpn.ru&type=tcp#🔒 VL-TCP-TLS 🇲🇩 MD-185.235.243.133:443
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?security=none&type=ws&host=edge.validbv3528.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.1.103:80
-vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.138:443
-vless://8938d63f-7dda-43be-9a1e-819adac28297@160.153.0.183:443?security=tls&sni=QcGpEeHn17.hAmDoLlAh-bAgHeRi.iNfO&type=grpc&fp=chrome&alpn=h3#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.183:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.117:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.117:443
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.7:8080
-vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.16.49.221:80?security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.49.221:80
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
-vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.134.234:443?security=tls&sni=hk3.servervless.de&type=ws&host=hk3.servervless.de&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:443
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
-vless://36740bdb-7471-4d81-bf7a-1cdb65a2061b@2.189.85.190:3333?security=none&type=tcp&host=eset.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.85.190:3333
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.133:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.233:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.233:8443
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=Path%2FTelegram%40freevirgoolnet%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.162:443
@@ -603,3 +592,14 @@ trojan://Aimer@104.18.123.117:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me
 trojan://Aimer@154.26.176.94:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=ws&host=agepq.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-154.26.176.94:8443
 trojan://telegram-id-directvpn@3.74.246.32:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.74.246.32:22222
 trojan://3763495982449565696@87.120.204.100:443?security=tls&sni=closing-phoenix.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-87.120.204.100:443
+trojan://Aimer@31.43.179.27:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇿 KZ-31.43.179.27:443
+trojan://Aimer@185.183.84.163:60022?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-185.183.84.163:60022
+trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.216.155:443
+trojan://blue2024@190.93.245.62:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-190.93.245.62:443
+trojan://Aimer@104.234.239.235:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-104.234.239.235:2087
+trojan://65086441068973800@37.9.34.103:443?#🔒 TR-TCP-NA 🇺🇸 US-37.9.34.103:443
+trojan://fc685880-dffe-11ef-8ac5-1239d0255272@15.204.234.166:443?security=tls&sni=usa.test3.net&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-15.204.234.166:443
+trojan://Aimer@199.34.228.164:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.34.228.164:2087
+trojan://telegram-id-privatevpns@13.50.25.213:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.25.213:22222
+trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.30.195:443
+trojan://3763495982449565696@77.73.70.64:443?security=tls&sni=relaxed-jaybird.treefrog761.one&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-77.73.70.64:443

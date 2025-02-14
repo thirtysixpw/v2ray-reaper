@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c18b9a05-a4a8-4313-8ab5-63a63a74afbd@195.15.254.76:8989?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc#🔒 VL-TCP-RLT 🇨🇭 CH-195.15.254.76:8989
 vless://661bf5e9-650e-44c9-ab98-3c323e27086a@217.61.16.135:1114?security=reality&sni=www.icloud.com&type=tcp&fp=chrome&pbk=W51G1-bfgsILKwzkkkyloxTHGErNVDmPnSeWCIOkmXY&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇬🇧 GB-217.61.16.135:1114
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.222.96.129:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇺🇸 US-18.222.96.129:8443
 vless://c18b9a05-a4a8-4313-8ab5-63a63a74afbd@188.245.100.126:8989?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.100.126:8989
@@ -603,3 +602,4 @@ vless://18758238-2625-2730-3680-fbd541b89a84@104.19.165.111:443?security=tls&sni
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.77:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.77:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.31:80?security=none&type=ws&host=redw.pooriam.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.31:80
 vless://683b6406-eda0-4480-8949-b366d344ddf7@81.12.32.27:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.12.32.27:8080
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.178:2053

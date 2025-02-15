@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:27103
+trojan://0000000@3.168.86.35:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.168.86.35:443
+trojan://Bw5Mz7QkVp@45.76.228.197:443?security=tls&sni=z-v2-078120.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.76.228.197:443
+trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-84.247.144.24:443
+trojan://bpb-trojan@172.66.44.203:443?security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.44.203:443
+trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&sni=z-v2-077954.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-45.63.94.101:443
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50043?#🔒 TR-TCP-NA 🇬🇧 GB-5.83.221.31:50043
+trojan://telegram-id-directvpn@34.249.202.69:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.249.202.69:22222
+trojan://5JN1hOUWww@104.21.80.1:443?security=tls&sni=tabnak.twn24.ir&type=grpc&serviceName=/42262/mehdi&fp=random&allowInsecure=1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.80.1:443
+trojan://Aimer@162.159.44.48:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.48:443
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&sni=cmc1.5gsieuvip.vn&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇻🇳 VN-103.173.66.192:443
 trojan://blue2024@104.16.209.98:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.209.98:443
 trojan://Aimer@162.159.44.233:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.233:8443
 trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-211.57.90.42:50000
@@ -592,14 +603,3 @@ trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.
 trojan://Aimer@14.35.59.67:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-14.35.59.67:50000
 trojan://NISHIKUITAN111@141.101.122.171:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.122.171:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.232.158.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-172.232.158.202:443
-trojan://wb6368@172.66.44.86:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.44.86:443
-trojan://auto@104.20.19.25:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.25:443
-trojan://eca3a3aa-f204-4b22-ab79-683884e41881@52.194.219.98:443?security=tls&sni=v6.douyinvod.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-52.194.219.98:443
-trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-121.180.184.145:50000
-trojan://Aimer@154.197.64.248:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.248:8443
-trojan://Aimer@91.217.139.139:666?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-91.217.139.139:666
-trojan://Aimer@52.220.205.101:9997?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-52.220.205.101:9997
-trojan://Aimer@162.159.44.231:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.231:2053
-trojan://Aimer@5.182.84.66:2083?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.66:2083
-trojan://Aimer@220.117.126.46:12462?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-220.117.126.46:12462
-trojan://Aimer@46.29.235.31:2053?security=tls&sni=agepq.ambercc.filegear-sg.me&type=ws&host=agepq.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🇩🇰 DK-46.29.235.31:2053

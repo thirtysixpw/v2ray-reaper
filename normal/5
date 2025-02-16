@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://telegram-id-directvpn@54.228.224.98:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.228.224.98:22222
+trojan://telegram-id-directvpn@35.182.148.169:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-35.182.148.169:22222
+trojan://5JN1hOUWww@104.21.16.1:443?security=tls&sni=tabnak.twn24.ir&type=grpc&serviceName=/42262/mehdi&fp=random&allowInsecure=1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.16.1:443
+trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
+trojan://Aimer@51.116.121.75:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇩🇪 DE-51.116.121.75:443
+trojan://bpb-trojan@104.19.35.14:443?security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.35.14:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-161.35.34.48:443
+trojan://Aimer@104.196.250.34:2087?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-104.196.250.34:2087
+trojan://Aimer@104.18.123.117:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.123.117:2053
+trojan://Aimer@220.117.126.46:12462?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-220.117.126.46:12462
+trojan://NISHIKUITAN111@173.245.59.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.91:443
 trojan://Bw5Mz7QkVp@45.77.75.2:443?security=tls&sni=z-v2-077995.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.77.75.2:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.153.49:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.153.49:443
 trojan://Aimer@154.197.64.196:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.196:2087
@@ -592,14 +603,3 @@ trojan://Aimer@167.68.4.10:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&ty
 trojan://3747000103274291200@13.50.141.41:443?security=tls&sni=adjusted-mongoose.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.141.41:443
 trojan://Aimer@104.25.254.197:2096?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.25.254.197:2096
 trojan://Aimer@172.64.33.128:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.33.128:443
-trojan://naEX%5Dg*qw%40MT%26lFz@104.21.112.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.112.1:2087
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:10465?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.172:10465
-trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&type=ws&host=joinmahdiserver-6vv.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.84:2083
-trojan://WOeXShhJpL@104.17.8.124:443?security=tls&sni=10jzus.zdzdzd.xyz&type=ws&host=10jzus.zdzdzd.xyz&path=/juzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.8.124:443
-trojan://0000000@3.168.86.35:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.168.86.35:443
-trojan://Aimer@108.165.152.65:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.65:8443
-trojan://Bw5Mz7QkVp@104.207.146.46:443?security=tls&sni=z-v2-077049.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.207.146.46:443
-trojan://Aimer@108.165.152.25:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.25:2087
-trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
-trojan://3774827088566296576@194.62.96.160:443?security=tls&sni=next-hippo.treefrog761.one&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇪🇸 ES-194.62.96.160:443
-trojan://3778399737045327872@43.201.92.10:443?#🔒 TR-TCP-NA 🇰🇷 KR-43.201.92.10:443

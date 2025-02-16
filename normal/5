@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50015?security=tls&sni=my.doubledou.icu&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.26.140:50015
-trojan://Aimer@104.19.107.190:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.107.190:2096
-trojan://Aimer@211.228.181.102:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-211.228.181.102:50000
-trojan://SSorg@77.232.140.7:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.7:443
-trojan://auto@172.67.203.182:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
-trojan://Aimer@5.182.84.229:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.229:2087
-trojan://Aimer@103.116.7.133:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.133:2083
-trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.47.170:443
-trojan://Aimer@54.203.85.46:80?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-54.203.85.46:80
-trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
-trojan://3747000103274291200@62.112.221.57:443?sni=integral-malamute.adder289.quest#🔒 TR-TCP-NA 🇬🇧 GB-62.112.221.57:443
 trojan://65086441068973800@63.177.177.23:443?#🔒 TR-TCP-NA 🇩🇪 DE-63.177.177.23:443
 trojan://NISHIKUITAN111@104.25.22.6:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.22.6:443
 trojan://Aimer@77.232.140.101:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-77.232.140.101:2053
@@ -603,3 +592,14 @@ trojan://3669023846591373312@35.75.186.204:443?security=tls&sni=equipped-parakee
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27401?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:27401
 trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.203:443
 trojan://Aimer@192.200.160.15:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.200.160.15:8443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.232.158.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-172.232.158.202:443
+trojan://65086441068973800@34.252.17.103:443?security=tls&sni=tops-lobster.shiner427.skin&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇪 IE-34.252.17.103:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.235.251.59:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇩 ID-172.235.251.59:443
+trojan://Aimer@218.152.197.93:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-218.152.197.93:50000
+trojan://bpb-trojan@162.159.153.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701?sni=data.52daishu.life#🔒 TR-TCP-NA 🇭🇰 HK-185.244.208.225:17701
+trojan://telegram-id-privatevpns@52.48.194.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.48.194.147:22222
+trojan://3747000103274291200@80.240.112.32:443?security=tls&sni=trusting-titmouse.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-80.240.112.32:443
+trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
+trojan://blue2024@172.67.135.57:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.135.57:443
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27002?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:27002

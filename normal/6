@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@77.238.236.134:8443?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-77.238.236.134:8443
+trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-92.63.192.110:444
+trojan://3747000103274291200@195.133.93.135:443?security=tls&sni=epic-weasel.treefrog761.one&type=tcp#🔒 TR-TCP-TLS 🇨🇿 CZ-195.133.93.135:443
+trojan://TUFfeTYV56@104.21.96.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=/?ed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.96.1:2096
+trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.102:443
+trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.123.217:443
+trojan://3669023846591373312@35.75.186.204:443?security=tls&sni=equipped-parakeet.pigeon031.one&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-35.75.186.204:443
+trojan://Aimer@188.164.159.214:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.214:2083
+trojan://Aimer@154.17.239.70:15572?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-154.17.239.70:15572
+trojan://Aimer@178.250.159.120:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-178.250.159.120:2053
+trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#🔒 TR-WS-TLS 🇩🇪 DE-89.116.46.33:443
 trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443
 trojan://TUFfeTYV56@104.21.71.8:2096?security=tls&sni=mizban.ITN24.IR&type=httpupgrade&host=mizban.ITN24.IR&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.71.8:2096
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.75.193:443
@@ -592,14 +603,3 @@ trojan://Aimer@172.64.35.168:443?security=tls&type=tcp&sni=ngepz.ambercc.filegea
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.169:9101#US6%201.9MB%2Fs
 trojan://Aimer@162.159.44.199:443?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A58
 trojan://Aimer@162.159.44.76:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppYjlLUTR0MWRWVzQzbUdOOEZKejZB@213.159.75.89:52185#%E6%9C%AA%E7%9F%A510
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.87.96.92:443#%E6%9C%AA%E7%9F%A511%206.8MB%2Fs
-trojan://3669023846591373312@35.75.186.204:443?security=tls&type=tcp&sni=equipped-parakeet.pigeon031.one#%E6%9C%AA%E7%9F%A512
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#%E6%9C%AA%E7%9F%A513%207.5MB%2Fs
-trojan://Aimer@77.74.228.4:2087?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A514
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK2
-trojan://telegram-id-directvpn@52.54.22.38:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US7
-trojan://Aimer@188.164.159.246:2096?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A515
-ss://YWVzLTI1Ni1nY206SDBQODg5Q1gwN0VRTkdOVg==@156.231.104.15:18005#%E6%9C%AA%E7%9F%A516
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#US8%201.9MB%2Fs
-trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A517

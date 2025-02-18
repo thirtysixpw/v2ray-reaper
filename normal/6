@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?security=tls&sni=uk2.safecdn.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇬🇮 GI-94.131.122.157:8443
+trojan://TUFfeTYV56@104.21.64.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=/?ed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.64.1:2096
+trojan://blue2024@104.129.167.128:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.129.167.128:443
+trojan://NISHIKUITAN111@104.20.151.19:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.151.19:443
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:46668?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.172:46668
+trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
+trojan://Aimer@65.109.199.131:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-65.109.199.131:443
+trojan://NISHIKUITAN111@5.182.84.93:443?#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.93:443
+trojan://Aimer@213.241.198.59:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-213.241.198.59:2083
+trojan://Aimer@220.92.46.149:50000?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-220.92.46.149:50000
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?security=tls&sni=download2hkt.windowsupdate.lol&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-15.197.162.184:443
 trojan://NISHIKUITAN111@104.16.80.174:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.80.174:443
 trojan://telegram-id-privatevpns@13.42.143.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.42.143.34:22222
 trojan://b80Iy90Fma@104.26.9.227:443?security=tls&sni=usa03.rtx.al&type=ws&host=usa03.rtx.al&path=/cfyyds#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.9.227:443
@@ -592,14 +603,3 @@ trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:46668?security=tls&
 trojan://naEX%5Dg*qw%40MT%26lFz@104.21.96.1:2087?security=tls&type=ws&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&path=/trb6oyXIzrlytDBNlm?ed=2560&host=joinmahdiserver-53k.pages.dev#%E6%9C%AA%E7%9F%A571
 trojan://bpb-trojan@104.21.79.143:443?security=tls&type=tcp&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv#%E6%9C%AA%E7%9F%A572
 trojan://wb6368@92.243.75.49:2087?sni=hsdgbuys.pages.dev#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://c1f4cf20-494f-407e-8181-629ab03e2139@104.21.69.44:443?security=tls&type=ws&sni=se1.safecdn.site&path=/by-AB_841#%E6%9C%AA%E7%9F%A573
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A574
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.156.136:443#%E6%9C%AA%E7%9F%A575%201.1MB%2Fs
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#US27%201.9MB%2Fs
-trojan://bpb-trojan@162.159.152.227:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A576
-trojan://Aimer@154.211.8.18:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US28
-trojan://Aimer@188.164.159.214:2083?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A577
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzggNTg4LjVLQi9zIiwiYWRkIjoiMTUyLjY5LjE5Ny42MCIsInBvcnQiOiIxMDY5IiwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3OCJ9
-trojan://Aimer@172.64.33.144:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A579
-trojan://TUFfeTYV56@104.21.80.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A580
-trojan://3774827088566296576@44.241.114.76:443?sni=better-caribou.insect388.motorcycles#US29

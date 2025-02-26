@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27002?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27002
 trojan://telegram-id-privatevpns@3.78.70.23:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.70.23:22222
 trojan://3747000103274291200@80.240.112.32:443?security=tls&sni=trusting-titmouse.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-80.240.112.32:443
 trojan://telegram-id-privatevpns@3.67.233.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.67.233.6:22222
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#🔒 SS-TCP-NA 🇵�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNndOVFNEV05EQXJRcmJkZWg3ZEJZ@86.104.74.203:32404#🔒 SS-TCP-NA 🇲🇩 MD-86.104.74.203:32404
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5500
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@45.89.52.66:9029#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9029
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8000

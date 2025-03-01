@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@108.165.152.67:2053?sni=agepq.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.67:2053
+trojan://Aimer@188.253.6.210:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇹🇼 TW-188.253.6.210:443
+trojan://Aimer@130.250.137.63:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-130.250.137.63:2083
+trojan://Aimer@188.166.162.201:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-188.166.162.201:443
+trojan://Aimer@209.94.90.87:2087?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-209.94.90.87:2087
 trojan://Aimer@18.136.16.233:443?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-18.136.16.233:443
 trojan://DHvwod7oq7@104.21.44.185:2083?security=tls&sni=Freedomisnear.onetwothree123.ir&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.44.185:2083
 trojan://Aimer@46.254.93.37:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-46.254.93.37:8443
@@ -598,8 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@103.219.193.17:40001#🔒 SS-TCP-NA 🇺🇸 US-103.219.193.17:40001
 ss://bm9uZTphY2JhY2FiLWFhYmMtYWFjYi1kYmFjLWJhYmFhY2FjYmJjYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMy0wMSAxMDo1NCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#%E6%9C%AA%E7%9F%A5%20339.2KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%E6%9C%AA%E7%9F%A52%204.6MB%2Fs
-trojan://Aimer@154.197.64.189:2087?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/&host=agepy.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@176.124.223.50:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://IY4gWQIsHV@104.21.44.185:2087?security=tls&type=httpupgrade&sni=Freedomisnear.onetwothree123.ir&path=/mehdi&host=Freedomisnear.onetwothree123.ir#%E6%9C%AA%E7%9F%A55

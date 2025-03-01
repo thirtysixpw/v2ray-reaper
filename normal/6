@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@176.53.144.206:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇨🇾 CY-176.53.144.206:8443
+trojan://telegram-id-privatevpns@52.214.211.179:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.214.211.179:22222
+trojan://Aimer@35.81.207.167:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-35.81.207.167:443
+trojan://Aimer@198.62.62.192:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.192:2083
+trojan://Aimer@27.50.48.189:2083?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-27.50.48.189:2083
 trojan://Aimer@154.211.8.109:2087?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.211.8.109:2087
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@198.199.78.30:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-198.199.78.30:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@154.90.63.80:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-154.90.63.80:443
@@ -598,8 +603,3 @@ trojan://Aimer@172.64.35.82:443?security=tls&sni=agepy.ambercc.filegear-sg.me&ty
 trojan://Aimer@27.50.49.231:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-27.50.49.231:2083
 trojan://Aimer@44.224.24.91:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-44.224.24.91:443
 trojan://Aimer@8.212.48.236:443?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-8.212.48.236:443
-trojan://Aimer@108.165.152.67:2053?sni=agepq.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.67:2053
-trojan://Aimer@188.253.6.210:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇹🇼 TW-188.253.6.210:443
-trojan://Aimer@130.250.137.63:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-130.250.137.63:2083
-trojan://Aimer@188.166.162.201:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-188.166.162.201:443
-trojan://Aimer@209.94.90.87:2087?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-209.94.90.87:2087

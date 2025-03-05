@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
 vless://8cd08a53-ff0d-4ff8-c7ef-17c3c05e40ce@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=vibkmcactusbic1.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.218.13:80
 vless://f522bc94-01aa-4b84-ae1d-b8d9e5e602cb@104.22.77.173:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.77.173:443
@@ -603,3 +602,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.103:443?sni=uu.vs2024.us
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.95.156:8880
 vless://a1ca79aa-718c-4903-8540-e1699d08031a@151.101.10.133:80?security=none&type=ws&host=namehmain.com&path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇪 BE-151.101.10.133:80
 vless://656fc8a0-90a9-59de-88bc-b4211dc6adc0@104.16.121.22:80?security=none&type=ws&host=exit.fastroot.ir&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.121.22:80
+vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.172:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.152.172:443

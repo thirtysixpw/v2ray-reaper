@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.12:443
 vless://01df4e25-76fd-4376-a8ee-971a3db61147@38.180.168.253:443?type=ws&path=/#🔒 VL-WS-NA 🇳🇱 NL-38.180.168.253:443
 vless://5471350b-483e-4d9e-9cba-32decdc9d3de@172.67.141.68:2053?security=tls&sni=mehrnews.ITN24.IR&type=ws&host=mehrnews.ITN24.IR&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:2053
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@206.238.236.16:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.16:443
@@ -602,4 +603,3 @@ vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@104.21.94.168:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2083?security=tls&sni=hAsTi.frEEairLainEs.Com&type=ws&host=HaSTI.fReeAIrLAINes.COm&path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2083
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?security=tls&sni=nikuw.sspeednetokala.uS.kg&type=ws&host=nikuw.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.2.60:443
 vless://6f183280-b258-437a-a216-e83f7dece776@45.131.210.102:80?security=none&sni=901.dbodanwi.workers.dev&type=ws&host=901.dbodanwi.workers.dev&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.102:80
-vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.193:8880

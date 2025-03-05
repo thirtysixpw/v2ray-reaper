@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@77.232.140.101:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-77.232.140.101:2053
-trojan://auto@104.20.18.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.74:443
-trojan://Aimer@91.149.239.252:443?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-91.149.239.252:443
-trojan://Aimer@213.241.198.56:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-213.241.198.56:2083
-trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.137:8443
-trojan://Aimer@103.116.7.152:2096?sni=agepy.aimercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.152:2096
-trojan://auto@162.159.44.148:443?security=tls&sni=trojanfree-76s.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.148:443
-trojan://Aimer@154.197.64.173:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.173:2053
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:43396?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.172:43396
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
-trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&host=tws23.kallepache.store&path=/update#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.183.101:443
-trojan://Aimer@59.1.59.225:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-59.1.59.225:50000
-trojan://NISHIKUITAN111@5.182.84.93:443?#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.93:443
 trojan://Aimer@77.74.228.4:2087?sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇧🇦 BA-77.74.228.4:2087
 trojan://Aimer@43.156.116.194:443?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-43.156.116.194:443
 trojan://Aimer@45.155.121.169:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-45.155.121.169:443
@@ -603,3 +590,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYmVmY2VmMC04MzZiLTRkNTgtYWEwNS0xNDZmN2U2M2Y
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:3389
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.253.171:989#🔒 SS-TCP-NA 🇪🇨 EC-185.47.253.171:989
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:8090
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#🔒 SS-TCP-NA 🇱🇹 LT-185.237.185.160:989
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@45.89.52.66:9029#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9029
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#🔒 SS-TCP-NA 🇲🇦 MA-188.214.157.154:990
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.37:989
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.105:2376
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8881
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.18:8881#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:8881
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YTYwNjU0MDFkZTU2NGFj@212.56.42.207:10051#🔒 SS-TCP-NA 🇺🇸 US-212.56.42.207:10051
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#🔒 SS-TCP-NA 🇸🇬 SG-156.244.9.92:990
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.230.141.176:443#🔒 SS-TCP-NA 🇯🇵 JP-13.230.141.176:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080#🔒 SS-TCP-NA 🇺🇸 US-167.88.62.68:8080

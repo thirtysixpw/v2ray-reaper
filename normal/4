@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e80a5c54-ea7d-4eeb-80a4-76d1c6a0b1c6@173.245.59.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.100:8880
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2095
+vless://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@104.22.70.106:443?security=tls&sni=mHsa5sRv2.FArVAHARfOrevEr.cOm&type=ws&host=mHsa5sRv2.FArVAHARfOrevEr.cOm&path=/FdNQQ9YwZaJCzXHFXJO9ry6uLKVQz&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.70.106:443
+vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.89:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.248.163:8880
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.14.19:8080?security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:8080
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇪🇪 EE-45.80.108.253:443
 vless://f3562b04-2f2b-433a-80b4-45f60d659004@172.67.187.251:8880?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8880
@@ -598,8 +603,3 @@ vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80?security=none&type=
 vless://a1ca79aa-718c-4903-8540-e1699d08031a@151.101.10.133:80?security=none&type=ws&host=namehmain.com&path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇪 BE-151.101.10.133:80
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@172.67.138.69:443?security=tls&sni=night.wfft.ir&type=ws&host=night.wfft.ir&path=@sinavm&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.69:443
 vless://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?security=tls&sni=pro-b.ponyo.lat&type=ws&host=pro-b.ponyo.lat&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:8443
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:8080
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.94:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.94:2095
-vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.102:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-217.163.76.102:443
-vless://de4cffdb-4e60-4284-9161-1c37c3313029@104.18.14.19:2086?type=ws&host=0228.losdnett.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.14.19:2086
-vless://11aa66f6-19db-4858-9a42-0b7ab2b141e7@104.21.71.8:443?security=tls&sni=esna.itn24.ir&type=grpc&serviceName=%2F24464%2Fmehdi&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.8:443

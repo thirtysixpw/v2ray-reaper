@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.68:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.67.68:80
-vless://70e3ea7a-1841-48c1-8edd-45b058fc9004@37.202.232.62:443?security=none&type=tcp&host=bmw.com&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.232.62:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.193.213.21:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.21:80
 vless://3618c3e4-b322-4553-b776-61556bea3757@104.21.80.1:2096?security=tls&sni=MAHdIServEr-3Xv.paGeS.DEv&type=ws&host=mahdiserver-3xv.pages.dev&path=%2FHOEtfSgg9GnPDz38%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2096
 vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.16.99.233:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.16.99.233:443
@@ -603,3 +601,5 @@ vless://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@104.22.71.106:443?security=tls&sni=
 vless://583d3948-63d4-4938-a40c-7ca4fffaefcb@5.57.36.39:31313?security=none&type=tcp&host=http%3A%2F%2FSpaceNetwork.divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.36.39:31313
 vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@52.213.114.86:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇪 IE-52.213.114.86:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@66.235.200.94:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.94:443
+vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.119:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.119:80
+vless://807b2717-e1ac-4209-933b-b04076cddde9@206.238.237.212:443?security=tls&sni=amedo.ambercc.filegear-sg.me&type=ws&host=amedo.ambercc.filegear-sg.me&path=/?ed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.212:443

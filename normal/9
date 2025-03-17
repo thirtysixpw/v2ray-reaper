@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#🔒 SS-TCP-NA 🇸🇬 SG-64.176.85.73:1866
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9094
 ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY=@45.79.111.214:443#🔒 SS-TCP-NA 🇺🇸 US-45.79.111.214:443
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#🔒 SS-TCP-NA 🇮🇩 ID-154.205.159.100:990
@@ -603,3 +601,5 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&type=t
 trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A511
 trojan://wb6368@172.66.44.86:443?security=tls&type=tcp&sni=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A512
 trojan://Aimer@188.164.159.138:2083?security=tls&type=tcp&sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A513
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A514
+trojan://fsoOufuTGmSKzRDaAwAbww@185.226.93.9:443?security=none&type=tcp#%E6%9C%AA%E7%9F%A515

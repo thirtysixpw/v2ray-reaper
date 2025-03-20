@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.143.66.87:5003#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:5003
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.150.238:443#🔒 SS-TCP-NA 🇯🇵 JP-43.207.150.238:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.253.171:989#🔒 SS-TCP-NA 🇪🇨 EC-185.47.253.171:989
 ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21114#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:21114
@@ -603,3 +602,4 @@ trojan://bpb-trojan@104.21.75.193:443?security=tls&type=ws&sni=bpb-hd.aaronchin.
 trojan://bpb-trojan@185.238.228.6:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#%E6%9C%AA%E7%9F%A544
 trojan://auto@104.17.148.22:80?security=none&type=ws&path=/floral-shadow-a524.bestmanvpn2020.workers.dev/?ed=2560&host=floral-shadow-a524.bestmanvpn2020.workers.dev#%E6%9C%AA%E7%9F%A545
 trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A546
+trojan://bpb-trojan@172.66.44.203:443?security=tls&type=tcp&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv#%E6%9C%AA%E7%9F%A547

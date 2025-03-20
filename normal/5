@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.54:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.54:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.161:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.161:80
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:2083
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.95.114:443?security=tls&sni=pPaL03.AvEER-JameiSoN.WOrkerS.deV&type=ws&host=pPal03.aVEER-JameISON.WorkERs.dEV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.114:443
 vless://6f2814e5-ce0a-4a8f-be92-08cee6f6b0aa@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.76:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.116:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.116:80
 vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@140.238.101.15:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇬🇧 GB-140.238.101.15:443
@@ -599,7 +603,3 @@ vless://54029e43-0588-418d-b102-dbf30f091788@104.18.15.19:2082?security=none&typ
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.33.212:443
 vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sni=allnet.deragv2ray.net&type=grpc&serviceName=@DeragNet&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.94:2087
 vless://639241df-db2e-4dbb-90c7-55f5eea2ad81@193.123.80.245:80?sni=syyed.nobaarne.Space.&type=ws&path=/telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed#🔒 VL-WS-NA 🇦🇪 AE-193.123.80.245:80
-vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.154:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.154:80
-vless://255b4df3-080b-4846-866c-24992a29467d@146.75.82.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.82.133:443
-vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.236:443
-vless://ff0474ff-66ca-46d9-80d3-7c0bea8f2c0f@104.16.143.237:443?security=tls&sni=App.einetwork.news&type=ws&host=App.einetwork.news&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:443

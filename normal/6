@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.154:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.154:80
+vless://255b4df3-080b-4846-866c-24992a29467d@146.75.82.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.82.133:443
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.236:443
+vless://ff0474ff-66ca-46d9-80d3-7c0bea8f2c0f@104.16.143.237:443?security=tls&sni=App.einetwork.news&type=ws&host=App.einetwork.news&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:443
 vless://7438db48-7fc0-479f-a93d-f3634d219279@45.67.215.43:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.43:2096
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.16.222.126:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.222.126:443
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.12.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.12.101:8880
@@ -599,7 +603,3 @@ trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.
 trojan://Aimer@154.29.150.2:8080?sni=agepl.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-154.29.150.2:8080
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.136.232:8443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.193:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.193:443
-trojan://3763495894587285504@62.112.221.46:443?security=tls&sni=enabling-cat.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-62.112.221.46:443
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@13.248.169.48:443?security=tls&sni=ca.stablize.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-13.248.169.48:443
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.32.1:443?security=tls&sni=BOSTOn04.890614.XYZ&type=ws&host=boston04.890614.xyz&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.1:443
-trojan://NISHIKUITAN111@198.41.217.62:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.217.62:443

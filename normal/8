@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@82.192.82.225:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-82.192.82.225:443
+trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.97.152:443
+trojan://Aimer@54.180.230.114:4433?sni=agepj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-54.180.230.114:4433
 trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.22.138:443
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@150.230.139.203:17728?sni=data.52daishu.life#🔒 TR-TCP-NA 🇮🇳 IN-150.230.139.203:17728
 trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇯🇵 JP-94.177.131.199:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.117:8119#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6379
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.243:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6679#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:6679
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3dWNqcEZOWEY2SlQwZGpVZGV3WXB3@195.15.215.198:5555#🔒 SS-TCP-NA 🇨🇭 CH-195.15.215.198:5555
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🔒 SS-TCP-NA 🇩🇰 DK-192.36.27.94:989
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.143.66.87:5003#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:5003

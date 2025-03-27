@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35659?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AF%F0%9F%87%B54%20%7C%20%205.6MB/s
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.176:443?sni=hkklo.azurewebsites.net&type=ws&host=hkklo.azurewebsites.net&path=/flow=-udp443&fp=&security=tls#1%7C%F0%9F%87%AD%F0%9F%87%B03%20%7C%20%201.8MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%206.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14659?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.1MB/s
 trojan://telegram-id-privatevpns@35.181.204.0:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#1%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%205.3MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.106.255:443#1%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%206.2MB/s

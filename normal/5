@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.66.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.216:80
+vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.7:8080
 vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:2087?security=tls&sni=MEhRNeWs.oNEtwotHree123.Ir&type=ws&host=mehrnews.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wb9bS7H1OOKD&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.185:2087
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.145.177:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.145.177:8880
 vless://d6660712-4d18-47fd-b095-0c36db667250@104.18.28.219:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.219:443
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?type=ws&host=re
 vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095?security=none&type=httpupgrade&host=Ge.PcStorEaRsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-86.38.214.30:2095
 vless://eae05234-7dc6-4221-9118-7cee4914318e@172.66.47.175:8443?security=tls&sni=MaHdIseRvEr-2Eg.PaGes.Dev&type=ws&host=mahdiserver-2eg.pages.dev&path=%2Fu2YM6qSM3C1JXdj6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.175:8443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.165.226:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.165.226:443
-vless://10525b84-7f6e-43ef-912b-87434df813f4@192.9.148.42:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒 VL-WS-TLS 🇺🇸 US-192.9.148.42:443
-vless://be487158-ea85-4ef7-89cc-e95c2876aae2@104.21.80.1:2053?security=tls&sni=tabnak.twn24.ir&type=ws&host=tabnak.twn24.ir&path=/🆔@M3HDIO1&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2053

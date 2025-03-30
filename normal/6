@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://10525b84-7f6e-43ef-912b-87434df813f4@192.9.148.42:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒 VL-WS-TLS 🇺🇸 US-192.9.148.42:443
+vless://be487158-ea85-4ef7-89cc-e95c2876aae2@104.21.80.1:2053?security=tls&sni=tabnak.twn24.ir&type=ws&host=tabnak.twn24.ir&path=/🆔@M3HDIO1&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2053
 vless://67e42db2-21b2-4f65-a871-1e80776e85d3@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.42.speedtest3.onlinE.&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8880
 vless://42111477-885f-4d6a-b51e-cbd24c0607fd@216.198.53.1:443?security=tls&sni=tr.ps4link.ru&type=ws&host=tr.ps4link.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-216.198.53.1:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@141.193.213.30:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.30:2087
@@ -601,5 +603,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@23.227.38.9:443?security=tls&sni=sh
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:2096
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.12.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.12.101:8880
 vless://2eacdff2-ff2f-4e05-9ffd-553e0c9f97e7@85.9.125.146:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.125.146:443
-vless://473c2217-677d-58c8-87df-a75de10de1ad@95.164.34.105:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇹🇷 TR-95.164.34.105:8880
-vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.96.217:80

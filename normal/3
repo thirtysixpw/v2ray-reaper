@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.72:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.72:80
+vless://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443?security=tls&sni=bOSTon01.890604.FIlegEAr-SG.Me&type=ws&host=boston01.890604.filegear-sg.me&path=%2F1wqm4O6ukd1L6R1Jz18eIUw&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.248:443
+vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80?security=none&type=ws&host=direct85-217-14-47.digital-ping.ir#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:80
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:443?security=tls&sni=tAsnIm.faRsonLiNE24.ir&type=httpupgrade&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.175.40:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.2:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.2:80
 vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@23.227.39.185:8080?security=none&type=ws&host=seyyed.webdade.ddns-ip.net&path=%2FV2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇦 CA-23.227.39.185:8080
 vless://bc9a01cf-181f-446e-9e0e-5d05827389ae@151.101.1.6:80?security=none&type=ws&host=kazemi1zerofun.coM.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.6:80
@@ -599,7 +603,3 @@ vless://b73f44c0-caaf-4654-c723-192b08f3e615@94.182.129.211:18231?type=tcp&heade
 vless://ab6f7722-4602-4e66-902a-32fc2418ee37@172.67.178.144:443?security=tls&sni=adderall2.forkianhoseini.com&type=ws&host=adderall2.forkianhoseini.com&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.144:443
 vless://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?security=none&type=ws&host=fatmelo.com&path=/olem/ws#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
 vless://62149ca3-9870-49b2-9104-ef084f1de137@217.60.239.124:17479?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.239.124:17479
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.46:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.46:2082
-vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.16.197.224:80?type=ws&host=little-grass-d3f7az.cijof58321.workers.dev&path=%2Ftelegram%40mtmvpn%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.197.224:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@195.85.59.161:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443
-vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.21.74.124:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.124:443

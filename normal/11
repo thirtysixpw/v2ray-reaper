@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@8.20.125.1:443?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#US31
+trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&type=ws&sni=pardazeshvpn-tg104.pages.dev&host=pardazeshvpn-tg104.pages.dev#%E6%9C%AA%E7%9F%A575
+trojan://Aimer@135.84.64.36:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US32
+trojan://Aimer@104.19.57.203:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A576
+trojan://Pooria@104.17.148.22:443?security=tls&type=ws&sni=301.pOORiAm.ir&path=/trPyOrWMfkHd15oxiI?ed=1520&host=301.pooriam.ir#%E6%9C%AA%E7%9F%A577
+trojan://Aimer@219.76.13.166:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#HK8
+trojan://Aimer@107.172.235.61:4344?sni=epccq.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+trojan://0q%2776Evm32qz%40Q%27%28@172.66.47.30:2087?security=tls&type=ws&sni=JOInMahdiserver-11R.PaGES.dEv&path=/trlEKJDs7HkPpxs8rk?ed=2560&host=joinmahdiserver-11r.pages.dev#%E6%9C%AA%E7%9F%A578
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#%E6%9C%AA%E7%9F%A579%201.6MB%2Fs
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A580
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#%E6%9C%AA%E7%9F%A581%20822.4KB%2Fs
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.2.156.154:443?sni=ru.mjt000.com#HK9
@@ -594,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#%F0%9F%87%AA%F0
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5245
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 vless://671c4cd5-4060-491d-aeff-2d91740e12f9@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
-warp://auto/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷 
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Warp2 🇮🇷&&detour=warp://p2@188.114.97.170:894#WarpInWarp 🇩🇪
-warp://@auto/?ifp=1-3&ifpm=h04FA0A#Warp3 🇮🇷&&detour=warp://@auto/?ifp=1-3&ifpm=h04FA0A#WarpInWarp 🇩🇪
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#warp in warp
-warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅

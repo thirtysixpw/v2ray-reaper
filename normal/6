@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.18.28.209:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.209:443
+vless://e0d2a95b-60c8-4b53-ae25-8fc112f7d608@104.21.80.1:2053?security=tls&sni=khamenei313.dl-data360.ir&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2053
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.24.195:443
+vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?security=none&type=ws&host=crimson-cell-5828-ppal03.febox45376.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.129:80
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.218:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-63.141.128.218:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.203:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.203:443
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2095?security=none&type=ws&host=sTART.siTeg52770.WoRkErs.DEV&path=%2Ft0DCEkrZ7kAbLwDv%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.189:2095
@@ -599,7 +603,3 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.77.157:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2Fchannel%2CShokhmiPlus-channel%2CShokhmiPlus-channel%2CShokhmiPlus-channel%2CShokhmiPlus%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.77.157:2083
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.19.24.111:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.111:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.154:443
-vless://b91eb599-14f0-4ea4-be7d-60317dae3201@46.246.98.130:443?security=tls&flow=xtls-rprx-vision&sni=sto5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇪 SE-46.246.98.130:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.14:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.14:80
-vless://4978caac-f8df-4162-6f2c-71b750ab03ec@104.16.127.84:2086?security=none&type=httpupgrade&host=DarkShield.ge.wowshops.ir.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.84:2086
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.78:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.78:80

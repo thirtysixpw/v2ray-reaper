@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://ctZ66Vttffqq@104.21.32.1:2083?security=tls&sni=yjc.twn24.ir&type=ws&host=yjc.twn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.1:2083
+trojan://Aimer@220.71.185.223:10093?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-220.71.185.223:10093
+trojan://Aimer@86.38.214.186:443?sni=agepk.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇱🇹 LT-86.38.214.186:443
+trojan://Aimer@104.19.239.137:2087?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.239.137:2087
+trojan://3770966768580042752@38.60.217.170:443?security=tls&sni=fun-louse.treefrog761.one&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇵🇰 PK-38.60.217.170:443
+trojan://Aimer@154.197.64.173:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.173:2053
+trojan://Trevely@172.64.33.110:443?security=tls&sni=trojan.trevely.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.33.110:443
+trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.60.104:2096
+trojan://Aimer@27.50.49.74:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-27.50.49.74:2087
+trojan://bpb-trojan@162.159.153.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.144.90:443
 trojan://woCp0eJnQ5It@172.67.141.68:8443?security=tls&sni=shabestan.itn24.ir&type=httpupgrade&host=shabestan.itn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.141.68:8443
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.205.22:443?security=tls&sni=3fg.20220420.pp.ua&type=ws&host=3fg.20220420.pp.ua&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.22:443
@@ -593,13 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989
 ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@23.81.40.197:45612#🔒 SS-TCP-NA 🇯🇵 JP-23.81.40.197:45612
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.101:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.101:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@139.162.119.212:2377#🔒 SS-TCP-NA 🇯🇵 JP-139.162.119.212:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.161:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.161:2377
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@107.148.6.121:8388#🔒 SS-TCP-NA 🇯🇵 JP-107.148.6.121:8388
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3389
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🔒 SS-TCP-NA 🇹🇷 TR-185.123.101.241:989
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.225.26:989#🔒 SS-TCP-NA 🇺🇸 US-104.192.225.26:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.178.26.105:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.178.26.105:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@139.28.4.95:8080#🔒 SS-TCP-NA 🇦🇲 AM-139.28.4.95:8080
-ss://YWVzLTI1Ni1nY206NTNSSVVRRFpSM0IyM1RBMw==@156.231.104.18:18008#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.18:18008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#🔒 SS-TCP-NA 🇮🇩 ID-154.205.159.100:990

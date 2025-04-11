@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:30158?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CUS_speednode_0089
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDEyIHwgIDIuOE1CL3MiLCAiYWRkIjogIjQwNWI3ZDMyLXN1azlzMC10Y21kdHMtMW1tdTYuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJlZThmODMwLTA5ZTItMTFmMC05MGUyLWYyM2M5MTNjOGQyYiJ9
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.140.60.17:10046?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC16%20%7C%20%201.2MB/s
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?sni=147135001178.sec22org.com&flow=-udp443-udp443&fp=&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B813%20%7C%20%201.4MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.129.166.131:8443?allowInsecure=1&sni=edccr.aimercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC17%20%7C%20%204.7MB/s

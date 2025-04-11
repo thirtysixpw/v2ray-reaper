@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:12527?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560security=tls#2%2C14%7CKR_speednode_0060
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@152.69.199.70:8443?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC3%20%7C%20%205.8MB/s
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@152.69.199.70:8443?allowInsecure=1&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC4%20%7C%20%205.9MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:12597?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0048
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.207:443?allowInsecure=0&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560flow=-udp443&fp=&security=tls#2%2C14%7CUS_speednode_0086
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:65053?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0032
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.54.68:22222?sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-wsflow=-udp443&fp=&security=tls#2%7C%F0%9F%8C%801-%20%7C%20%204.9MB/s

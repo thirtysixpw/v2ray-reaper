@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://telegram-id-privatevpns@35.178.163.218:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A579
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7ROT+aMquWogSAzMDkuMEtCL3MiLCJhZGQiOiI4NC4yNDcuMTQ4LjE5MiIsInBvcnQiOiI0NDM5NiIsImlkIjoiM2NhMzVlMGEtZTQzMC00M2ZlLTljMTItMmUyZWVhNzBmODczIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiTk/mjKrlqIEifQ==
 trojan://Aimer@118.37.220.10:11300?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A580
 trojan://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@104.21.71.205:443?security=tls&type=ws&sni=XC.890603.pP.uA&path=/KXc8P40jGtEKiqQASULQ4Era5IOo&host=xc.890603.pp.ua#%E6%9C%AA%E7%9F%A581
 trojan://auto@104.26.3.36:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A582
@@ -603,3 +601,5 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMjEuOTYuMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0Ijog
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#%F0%9F%87%B8%F0%9F%87%AASE-151.236.206.42-1233
 vmess://ewogICAgImFkZCI6ICJ1czEwLTA5Ljg1MjIyNC5nZ2ZmLm5ldCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzMTAtMDkuODUyMjI0LmdnZmYubmV0IiwKICAgICJpZCI6ICI1NzZjODFiNi00OTc2LTRmZTMtYjFhOS0wNWE5YzMwMmU5OGUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvU053TmR1bncyOGxWenRvcHc5MGVvWGVsIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMjMuMTE1LTA4ODciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ1czEwLTA5Ljg1MjIyNC5nZ2ZmLm5ldCIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649#%F0%9F%87%B8%F0%9F%87%AASE-151.236.206.42-0482
+vmess://ewogICAgImFkZCI6ICJwaHgtcGx1cy0xZGRucy5mYWZvcmV4LmV1Lm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBoeC1wbHVzLTFkZG5zLmZhZm9yZXguZXUub3JnIiwKICAgICJpZCI6ICJmODQ1ZmFiYS1lZjA3LTRlZjAtYjA1NS04NjZiYmI4MTE0M2MiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjM0NTEsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xMzcuMTMxLjUyLjE3My0wNzMwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0anU4NzNldnBqZWFBaThacTEyWW9SSFdwNjNvNWV4ZG5aNzFhVWcxWUVDaGlQVGMySGthc1loVUJ4Uno3VUdpNEs2Y0xyc0dhVTZiNDRINFFhNmY0Y0puM3pCcDJjblg=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-5477

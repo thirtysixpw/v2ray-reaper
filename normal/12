@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.145:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A560
+trojan://Aimer@45.153.7.216:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A561
 trojan://Aimer@167.68.4.131:8443?sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://ouo@65.75.193.154:14491?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#US13
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?security=tls&sni=trus.moonfree.top#US14
@@ -601,5 +603,3 @@ vmess://ewogICAgImFkZCI6ICJ1czEwLTA5Ljg1MjIyNC5nZ2ZmLm5ldCIsCiAgICAiYWlkIjogMCwK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649#%F0%9F%87%B8%F0%9F%87%AASE-151.236.206.42-0482
 vmess://ewogICAgImFkZCI6ICJwaHgtcGx1cy0xZGRucy5mYWZvcmV4LmV1Lm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBoeC1wbHVzLTFkZG5zLmZhZm9yZXguZXUub3JnIiwKICAgICJpZCI6ICJmODQ1ZmFiYS1lZjA3LTRlZjAtYjA1NS04NjZiYmI4MTE0M2MiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjM0NTEsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xMzcuMTMxLjUyLjE3My0wNzMwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0anU4NzNldnBqZWFBaThacTEyWW9SSFdwNjNvNWV4ZG5aNzFhVWcxWUVDaGlQVGMySGthc1loVUJ4Uno3VUdpNEs2Y0xyc0dhVTZiNDRINFFhNmY0Y0puM3pCcDJjblg=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-5477
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-5476
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.18:9024#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-5716

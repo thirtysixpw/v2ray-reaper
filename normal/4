@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://69167084-2096-479c-a049-b4fb84121ba2@104.21.80.1:2052?type=httpupgrade&host=1a2ffe0f1abdcc1d.1a2ffe0f1abdcc1dknock.hihi.1a2ffe0f1abdcc1d.UK-XiRiX.dAnEsHkAdEoNlInE.Ir.&path=%2F%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.80.1:2052
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.31.60:80?path=/Telegram#🔒 VL-TCP-NA 🏴‍☠️ NA-104.18.31.60:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.23:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.23:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.143:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.143:80
@@ -603,3 +602,4 @@ vless://d6660712-4d18-47fd-b095-0c36db667250@188.114.96.147:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.119:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.19:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.19:80
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?security=none&type=ws&host=teleirani.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.1.141:80
+vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.38.223.139:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=%2Fws%2F63b84876f2e89b42bbc19e48%2FX&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.38.223.139:443

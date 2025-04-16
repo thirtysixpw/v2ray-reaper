@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@104.20.114.122:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.114.122:443
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.146:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.146:443
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@172.67.204.84:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.67.204.84:8443
@@ -603,3 +602,4 @@ vless://97a382cb-26d6-40da-9f11-b2a21545be08@172.67.40.211:8880?security=none&ty
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.118:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.118:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.44:8880
 vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?security=tls&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&type=ws&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.220.87:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.7.40:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.40:443

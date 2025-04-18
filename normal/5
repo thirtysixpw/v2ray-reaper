@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.17.224.83:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-154.17.224.83:443
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@146.75.38.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.38.133:443
 vless://6d2a3f0d-3d10-4e97-a73c-aa5f88d7184f@172.66.168.201:443?security=tls&sni=Is1-vLESs.greeNssH.ORG&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.201:443
@@ -603,3 +602,4 @@ vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.21:80?type=ws&host=hk1-t
 vless://708bb7c1-473c-4f06-9f29-69e6ea006f66@104.16.213.98:80?security=none&type=ws&host=withered-rice-1167.vafey30295.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.213.98:80
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.27.203.89:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.203.89:443
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@104.16.232.223:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.232.223:443
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.132:2087?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A@AZARBAYJAB1%2CTABRIZ.NET%3A@AZARBAYJAB1%2CTABRIZ.NET%3A@AZARBAYJAB1%2CTABRIZ.NET%3A@AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.132:2087

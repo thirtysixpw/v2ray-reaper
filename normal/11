@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@162.159.38.105:2083?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.38.105:2083
+trojan://tb5PqFczGQ@104.16.83.8:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.83.8:443
 trojan://NISHIKUITAN111@104.24.60.239:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.60.239:443
 trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
 trojan://bpb-trojan@198.202.211.146:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-198.202.211.146:443
@@ -601,5 +603,3 @@ trojan://ouo@65.75.193.154:14491?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#
 trojan://E0nPlYFeYt@82.115.6.120:46420?security=reality&sni=yahoo.com&type=tcp#🔒 TR-TCP-REALITY 🇳🇱 NL-82.115.6.120:46420
 trojan://Aimer@162.120.94.23:2087?sni=epccd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-162.120.94.23:2087
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.191:2053
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.194:443?security=tls&sni=trus.moonfree.top#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.194:443
-trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.2.156.105:443?sni=ru.mjt000.com#🔒 TR-TCP-NA 🇭🇰 HK-20.2.156.105:443

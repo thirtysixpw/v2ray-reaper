@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d9909787-66aa-4fc8-b16f-2eeb051dfef4@152.42.212.217:443?security=tls&flow=none&sni=t.me&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.212.217:443
+vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@104.17.147.22:2052?security=none&type=httpupgrade&host=FN.CafeBazarZzZ.IP-DDNS.COM&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2052
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.101:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.103:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-63.141.128.103:443
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.57:80?security=none&type
 vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:443?security=tls&sni=eXPResstV.onETwothreE123.IR&type=httpupgrade&host=expresstv.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wba2GqlkGpBhZ&fp=chrome&alpn=http%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.208.227.229:443
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.56.105:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.56.105:80
-vless://7dd494e0-65dc-48b4-a8f8-ef7bb25fab70@151.101.128.223:80?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt#🔒 VL-WS-NA 🇺🇸 US-151.101.128.223:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.85:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.85:80

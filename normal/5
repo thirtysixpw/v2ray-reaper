@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.103:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.103:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.52:2083
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.9.38:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.9.38:443
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.99.176:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.176:443
@@ -603,3 +601,5 @@ vless://a0b58620-e561-4abc-91db-74e9e8893a87@172.67.138.246:8443?security=tls&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.230:8880?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.230:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@165.154.41.48:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇭🇰 HK-165.154.41.48:443
 vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.134.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:8443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.239.254:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.239.254:443
+vless://2d317da5-47c5-4db4-933f-16d1094668db@42.2.54.55:20550?security=tls&flow=xtls-rprx-vision-udp443&sni=www.paypal.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇭🇰 HK-42.2.54.55:20550

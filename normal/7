@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.146.66:443?sni=vv.ylka.dpdns.org&type=ws&host=vv.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.146.66:443
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251%23Telegram%40V2ray_Alpha#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
 vless://9d575ff0-8047-4089-9e68-0e20ff890d6e@172.66.47.39:2053?security=tls&sni=JoiNMAHdIsERVEr-dSA.paGeS.DeV&type=ws&host=joinmahdiserver-dsa.pages.dev&path=%2FNA4WHNTBrKmaipVm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.39:2053
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@61.76.198.73:30066?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-61.76.198.73:30066
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.8.115:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.115:443
@@ -601,5 +603,3 @@ vless://95d42931-5fcc-4886-82a6-594c671a3286@151.101.198.133:80?type=xhttp#🔒 
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.232:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.177:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.177:443
 vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@104.27.62.243:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.62.243:443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.85:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.87.85:2198
-vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@172.67.130.164:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.164:80

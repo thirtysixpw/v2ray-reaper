@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.85:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.87.85:2198
+vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@172.67.130.164:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.164:80
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.194:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.194:443
 vless://28886c09-721a-447d-a82e-72c5500858f3@104.21.71.8:2096?security=tls&sni=tASniM.Itn24.iR&type=ws&host=tasnim.itn24.ir&path=%2FMaQIF0W0gcLzI5m8ZghCC5&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.8:2096
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.126:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.126:80
@@ -601,5 +603,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.138.62:443?sni=edccd.amberc
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.187:443?security=tls&sni=cb.dong2025.cfd&type=ws&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.187:443
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@173.245.58.217:8443?security=tls&sni=il-8.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-173.245.58.217:8443
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.16.188.41:443?security=tls&sni=cr7.medicalhistory.ir&type=ws&host=cr7.medicalhistory.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.188.41:443
-vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.119:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.119:80
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.228:443

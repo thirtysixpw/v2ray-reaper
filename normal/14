@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:50997?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B12%20%7C%20%201.6MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:22054?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%205.9MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:16955?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0022
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:46716?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0003
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDQzIHwgIDEuNU1CL3MiLCAiYWRkIjogIjdmYTU0MzQzLTdjMGEtNDVjOS4yMDMxLnBwLnVhIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjE1YjI0YjU2LWQ2NjctNGZhOC1iNTQ4LWYzZGM5NDJmYjQ2MSIsICJzbmkiOiAiN2ZhNTQzNDMtN2MwYS00NWM5LjIwMzEucHAudWEiLCAiaG9zdCI6ICI3ZmE1NDM0My03YzBhLTQ1YzkuMjAzMS5wcC51YSIsICJwYXRoIjogIi91c1lobTYwVXhROFlKRkp4eiJ9
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%805-ES%20%7C%20%205.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:29023?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B811%20%7C%20%204.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:15700?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0021
-vless://98feaab6-e89f-46eb-9224-0f973f03af3f@104.18.20.69:443?sni=us1s.pqvip.top&type=ws&host=us1s.pqvip.top&path=/pq/us1flow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%205.7MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@ignacio.ns.cloudflare.com:443?allowInsecure=1&sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC7%20%7C%20%202.3MB/s
 vless://3bbd3c03-789f-4de6-a89a-61e2eb4f514d@104.19.222.79:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&path=flow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B5%F0%9F%87%B11%20%7C%20%205.2MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4et8J+HsDYgfCAgMS4wTUIvcyIsICJhZGQiOiAiNzVhNWQxYWItc3Yyc2cwLXN2cjAwby0xb3h6NC5oay5wNXB2LmNvbSIsICJwb3J0IjogODAsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImFjM2E4YTk4LTUxZGMtMTFlZS1hNmU4LWYyM2M5MTY0Y2E1ZCIsICJzbmkiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAiaG9zdCI6ICI3NWE1ZDFhYi1zdjJzZzAtc3ZyMDBvLTFveHo0LmhrLnA1cHYuY29tIiwgInBhdGgiOiAiLyJ9
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenyang001.dynu.net:31735?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0018

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@108.165.152.98:2087?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.98:2087
+trojan://Aimer@18.167.74.152:1080?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-18.167.74.152:1080
+trojan://vip@104.17.48.63:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.48.63:443
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.197:2053
 trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.120:443?sni=Us6-05.890603.XYZ#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.204.120:443
 trojan://Aimer@45.134.21.8:2053?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-45.134.21.8:2053
 trojan://Aimer@154.17.228.203:443?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-154.17.228.203:443
@@ -599,7 +603,3 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R3NLb3c3SERyc0ttdzVJb3c0RERrc0srTU1LU1FoN0N
 ss://YWVzLTI1Ni1nY206SUU3U0MzWVI5WDJUNUk3Ng==@156.231.104.25:18015#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.25:18015
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#🔒 SS-TCP-NA 🇧🇪 BE-192.71.249.146:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.92:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.59:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.59:2377
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🔒 SS-TCP-NA 🇱🇹 LT-195.238.126.84:9039
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#🔒 SS-TCP-NA 🇺🇸 US-2.58.87.221:16899
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.249.79.143:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.249.79.143:2377

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://906ba92f-ef96-4133-8eee-f33202a5a721@104.21.57.88:443?security=tls&sni=9w.iran.pp.ua&type=ws&host=9w.iran.pp.ua&path=%2FK8X1ocJD1r0dTd5pVam9w&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.88:443
+vless://61958b98-d52a-420e-bb42-a3fd22985895@172.66.0.98:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.0.98:2096
 vless://1b312879-3cdc-4782-a589-6d149d693854@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-51.77.108.99:13004
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?path=/vless/?Vless_txt#🔒 VL-TCP-NA 🏴‍☠️ NA-141.101.121.110:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.110:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.110:80
@@ -601,5 +603,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.96.1:8880?security=none&type
 vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1522
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.38.176:443
-vless://f85486d0-2dfd-48ea-8844-75a1ba35287c@172.66.47.100:443?security=tls&sni=JoINmaHdIsERveR-Zao.pagES.DEv&type=ws&host=joinmahdiserver-zao.pages.dev&path=%2FSkpR5WCwJIJHUed3%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.100:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.78:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.78:80

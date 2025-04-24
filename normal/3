@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.25.95:443?security=tls&sni=BoSTOn02.890604.FiLEGeaR-SG.ME&type=ws&host=boston02.890604.filegear-sg.me&path=%2F1wqm4O6ukd1L6R1Jz18eIUw&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.95:443
-vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@104.21.28.188:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:2052
-vless://43589def-fa09-47e3-b44e-7f6e069f470d@194.147.35.138:55799?security=tls&flow=xtls-rprx-vision-udp443&sni=iranhost.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇷🇺 RU-194.147.35.138:55799
-vless://5ee22d62-5c0b-4490-ab6b-bbc3f5523180@172.67.210.123:8080?security=none&type=ws&host=ip.sitwe.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.123:8080
 vless://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:443?security=tls&sni=mci-google-bing3164.sdb5j.workers.dev&type=ws&host=mci-google-bing3164.sdb5j.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:443
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?security=tls&sni=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&type=ws&host=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&path=/&alpn=h2http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.37:2087
 vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@37.27.191.27:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.191.27:1522
@@ -603,3 +599,7 @@ vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@104.20.18.168:443?security=tls&sni=
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.248:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.248:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@14.39.172.147:30058?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-14.39.172.147:30058
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.120.90.174:18024?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-222.120.90.174:18024
+vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.44.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.33:80
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.178:2087
+vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@193.32.176.43:6611?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-193.32.176.43:6611
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443

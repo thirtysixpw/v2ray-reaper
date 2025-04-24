@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.251:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NONE 🇯🇵 JP-156.238.19.251:80
-vless://5b36ec1a-a046-46c8-954b-9121cccbaf89@185.85.241.196:32763?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-185.85.241.196:32763
-vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@172.67.162.79:443?security=tls&sni=ARCane-427.Pages.DEV&type=ws&host=arcane-427.pages.dev&path=/api/assets&fp=android&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.79:443
-vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@104.26.12.19:443?security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&path=%2Fvk_l-IzYy3q_-NOq%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.19:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:2083?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2083
 vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.16.155.10:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.155.10:443
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
@@ -603,3 +599,7 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.14:80?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.54:443
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.97.132:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.132:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.110:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.110:443
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.65:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.65:2096
+vless://0a022137-d5d7-48f9-96cf-11b57210d12d@190.93.245.137:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.245.137:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.37:8880
+vless://c9757870-462f-4010-829f-2766522f7d46@104.21.69.44:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.hoursebe.monster#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:8880

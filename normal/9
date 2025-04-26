@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.174:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.174:443
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@104.19.250.20:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.250.20:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.164:2087?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.164:2087
 vless://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8080?security=none&type=ws&host=11tg.w79kip11.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8080
@@ -603,3 +602,4 @@ trojan://Aimer@172.67.70.27:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://Aimer@3.75.170.179:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-3.75.170.179:443
 trojan://auto@172.66.46.254:443?sni=dcf741e8.epeius-2gy.pages.dev&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.46.254:443
 trojan://Aimer@31.129.22.41:8443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇵🇹 PT-31.129.22.41:8443
+trojan://nEKYp2bQim@104.21.15.33:443?security=tls&sni=support.sabapardaziran.ir&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F30662%2F%40M3HDIO1&fp=random&allowInsecure=1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.15.33:443

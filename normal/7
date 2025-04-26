@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.71:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.71:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.222:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.222:80
 vless://95d42931-5fcc-4886-82a6-594c671a3286@151.101.198.133:80?type=xhttp#🔒 VL-XHTTP-NA 🇺🇸 US-151.101.198.133:80
 vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443?security=tls&sni=in4s.pqvip.top&type=ws&host=in4s.pqvip.top&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.125.158:443
@@ -603,3 +602,4 @@ vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.17.149.212:443?security=tls&sni
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.137:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.137:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:30025?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-221.144.200.91:30025
 vless://05ed4027-cfdd-4361-9489-1b4e5808d699@104.21.72.137:443?security=tls&sni=pw.9901157.xyz&type=ws&host=pw.9901157.xyz&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.137:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.83:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.83:80

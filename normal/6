@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.17.135.91:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.135.91:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.227:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.227:443
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.134:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.134:36380
 vless://77e064b2-ff24-4794-9aa0-910bd831c6f1@188.166.230.247:6067?security=none&type=grpc&serviceName=2055vless#🔒 VL-GRPC-NONE 🇸🇬 SG-188.166.230.247:6067
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=xx.bgm2024.dpdns.org&type=ws&host=xx.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
@@ -603,3 +601,5 @@ vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.144:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.144:443
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@173.245.58.217:2083?security=tls&sni=se-6.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-173.245.58.217:2083
 vless://a6125fc7-370a-4e23-b99d-90709d59f7dc@104.21.23.63:2082?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.23.63:2082
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.120:443
+vless://59a4728e-835d-4fb0-940e-90741d5187be@188.245.95.151:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1520

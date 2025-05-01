@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.19:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.108:443?security=tls&sni=cx.ylks0033.dpdns.org&type=ws&host=cx.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.108:443
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.148.184:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80?security=none&type=ws&host=301.pooriam.ir#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.155:80
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
 vless://64f4fbf0-b0b1-4bb4-b925-75c2513a13c4@213.142.156.169:443?security=none&type=grpc&serviceName=443vless#🔒 VL-GRPC-NONE 🇹🇷 TR-213.142.156.169:443
 vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.47.63:80
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&sni=147135001178.sec22org.com&type=tcp&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.177.196:443
@@ -598,8 +603,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.48.1:8880?security=none&type
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.34.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.34.21:443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.49.112:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.49.112:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.131:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.131:443
-vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80?security=none&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.129:80
-vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@162.159.192.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.123:443
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@138.2.235.193:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-138.2.235.193:443
-vless://741f2cb6-4d5b-4fd7-830a-d731c9e1e859@104.31.16.65:443?security=tls&sni=uciranirskiaromadarjendeh.bitokaw551.workers.dev&type=ws&host=uciranirskiaromadarjendeh.bitokaw551.workers.dev&path=%2F%3Fed%3D443&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.68:8880?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=/#🔒 VL-WS-NONE 🇱🇺 LU-188.42.89.68:8880

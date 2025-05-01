@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.85.214:8443
+vless://edadc2f8-50b1-4049-9625-6fd5b4cb130a@162.159.44.168:443?security=tls&sni=agedw.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.168:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.116:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.116:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.57:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.57:80
+vless://95d42931-5fcc-4886-82a6-594c671a3286@199.232.38.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-199.232.38.133:443
 vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.16.49.221:80?security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.49.221:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.206:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.206:80
 vless://95d42931-5fcc-4886-82a6-594c671a3286@146.75.78.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.78.133:443
@@ -598,8 +603,3 @@ vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.135.234:8443?security=tls&s
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.178:2053
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.17.74.91:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.74.91:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.211.127:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.127:2096
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-Xv2ry2-7%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.16:443
-vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.11:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.11:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.227:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.227:80
-vless://7111df18-647b-40f9-aa89-4459d70b4656@159.89.249.32:443?security=tls&sni=uk.bntabriz.ir&type=ws&host=uk.bntabriz.ir&path=%2F40148%2Froot&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-159.89.249.32:443
-vless://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.148:2081?security=tls&flow=-udp443&sni=client.imesaagetext.ir&fp=random#🔒 VL-TCP-TLS 🇮🇷 IR-193.228.169.148:2081

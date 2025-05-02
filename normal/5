@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.135.9.180:2086?security=none&type=ws&host=redw.pooriam.ir#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.180:2086
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.78:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.78:2096
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.34:8880
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251%23tTel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-Xv2ry2-7%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.16:443
 vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.56.70:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.56.70:443
 vless://5ebb3444-4a54-48ab-bc71-9d60a89a2508@146.59.158.39:6556?security=none&type=tcp&host=api.wheather.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-146.59.158.39:6556
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
@@ -603,3 +598,8 @@ vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.209:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.209:80
 vless://15372547-4201-48e4-9d4b-8691d9915ceb@154.21.83.154:443?security=tls&sni=usb.cayuo.me&type=ws&host=usb.cayuo.me&path=%2Fbing#🔒 VL-WS-TLS 🇺🇸 US-154.21.83.154:443
 vless://d534d992-c689-41b1-a690-0ba0b3f5e87e@104.21.21.31:443?security=tls&sni=hk.cishanjichang.me&type=ws&host=hk.cishanjichang.me&path=%2Fswordnewnewnew#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.31:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.148:443?sni=sv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.148:443
+vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.44.185:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.185:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:2083
+vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
+vless://db4dec49-19d1-4863-b657-b822ac7a6ae2@95.38.197.19:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.197.19:8080

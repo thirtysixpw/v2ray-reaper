@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.148:443?sni=sv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.148:443
-vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.44.185:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.185:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:2083
-vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.69:80
-vless://db4dec49-19d1-4863-b657-b822ac7a6ae2@95.38.197.19:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.197.19:8080
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.212:8880
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@104.21.37.160:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.160:2096
 vless://b0ed6b6c-9606-4be6-bc53-6a32842e26ea@104.16.185.163:443?security=tls&sni=vless1.szmanlee.eu.org&type=ws&host=vless1.szmanlee.eu.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.185.163:443
@@ -603,3 +598,8 @@ vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.192.84:80?security=none&typ
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.19.12.190:443?security=tls&sni=ZyZzzOAo.pUtata.eU.OrG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FBeLfnuYQ3VaJB0yA%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.190:443
 vless://0792a045-c4e2-4816-bbb9-872b7aba601b@151.101.64.223:80?sni=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#🔒 VL-WS-NA 🇺🇸 US-151.101.64.223:80
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.42.88.45:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&fp=chrome#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.45:443
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:443?security=tls&sni=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.184.194:443
+vless://6543593a-f55e-422c-8ffd-b6d930b1808c@172.67.211.140:2053?security=tls&sni=is.crehistory.org&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.140:2053
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.97.200:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.200:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.7.40:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.40:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@72.1.32.168:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-72.1.32.168:80

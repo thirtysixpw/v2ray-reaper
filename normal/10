@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-198.62.62.156:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.159.217.161:443
+vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.37:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.37:80
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.236:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.236:80
+vless://919e64f3-f3d7-481b-b2d4-9dc5409c615f@104.21.77.230:2096?security=tls&sni=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&type=ws&host=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.230:2096
 vless://e857b295-74da-4086-9f9a-cb107341bc2b@65.21.181.218:8880?security=none&type=grpc&serviceName=%40c%65p%68%61lon_ai_bot#🔒 VL-GRPC-NONE 🇫🇮 FI-65.21.181.218:8880
 vless://fbf97d4b-e871-4b9d-be03-13b382a246d9@128.199.116.16:443?security=tls&sni=sell.vpnking.pp.ua&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-128.199.116.16:443
 vless://b97490d7-e509-4ef7-b218-130a680bcd4c@138.128.225.100:2083?security=tls&sni=design-mobo.ir&type=xhttp&host=shark.cloud&path=%2Ftelegram-shrakpublic%2Flog.rar&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇦🇪 AE-138.128.225.100:2083
@@ -598,8 +603,3 @@ trojan://yPuUcqd877yr@172.67.202.155:2087?security=tls&sni=econews.onetwothree12
 trojan://juzi@104.25.254.197:2096?sni=juzi8186-sr1.pages.dev&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.254.197:2096
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.144.90:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.129:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.129:2053
-trojan://Aimer@167.68.42.113:2053?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-167.68.42.113:2053
-trojan://Aimer@162.159.128.233:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.128.233:443
-trojan://Aimer@108.165.152.14:2096?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.14:2096
-trojan://Aimer@173.245.59.201:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.201:443
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.206:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.206:2053

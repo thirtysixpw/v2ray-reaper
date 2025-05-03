@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@172.67.77.127:443?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.77.127:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.110:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.110:443
 vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.210.83:80?sni=mahdihector.kewojod243.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.83:80
@@ -603,3 +602,4 @@ vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.17.50.74:443?security=tls&sni=x
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.178.96:80
 vless://9d9787be-736a-47f0-82a9-8eb4bf06be17@188.114.97.113:443?security=tls&sni=m236.inaonehorseopensleigh.com&type=ws&host=m236.inaonehorseopensleigh.com&path=/v6445828875#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.113:443
 vless://d78da814-b45c-4842-98bb-66c8cd33a88a@188.114.97.0:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:443
+vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.16.77.1:443?security=tls&sni=sbs666.jjjj2024.sbs&type=ws&host=sbs666.jjjj2024.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.77.1:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.6.244:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.244:2087
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.99:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.99:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.139:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.139:8443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?security=none&sni=pqh26v3.sport26tennis.shop&type=grpc&host=pqh26v3.sport26tennis.shop#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.133:8880
@@ -603,3 +602,4 @@ vless://93be59b7-ebce-4aec-8e66-4470e06e58ae@141.193.213.21:2096?security=tls&fl
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?security=tls&sni=dash.cloudflare.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-188.166.194.27:7594
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.120.0:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.120.0:443
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&sni=147135010072.sec21org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.142.30:443
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@64.110.101.125:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-64.110.101.125:443

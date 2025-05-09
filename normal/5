@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.0:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.0:2096
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-108.162.192.217:2096
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@116.204.210.10:443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=TelegramTW_%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇭🇰 HK-116.204.210.10:443
 vless://02500334-97ea-4952-b648-e27c42dd3a65@151.101.194.133:443?security=tls&sni=clearcreditrepair.com&type=ws&host=ELiV2RAY.cc&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.133:443
@@ -603,3 +602,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.86.113:443?security=tls&sni=
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.243:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.243:80
 vless://d62106d3-08fc-4bad-885f-ff85564bcd39@151.101.64.223:80?security=none&type=xhttp&host=bia_to_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.64.223:80
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:2053
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.233:80?security=none&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-103.116.7.233:80

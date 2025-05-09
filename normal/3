@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.135:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.135:443
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@170.114.45.42:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.42:443
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.217:2087?security=tls&sni=ba19.bewface-smart.rest&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.217:2087
 vless://42111477-885f-4d6a-b51e-cbd24c0607fd@216.198.53.2:443?security=tls&sni=tr.ps4link.ru&type=ws&host=tr.ps4link.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-216.198.53.2:443
@@ -603,3 +602,4 @@ vless://d64887d0-6c10-480d-a17f-b5cc7252f1b9@173.245.59.100:80?security=none&typ
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.160.63:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.63:443
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.192.54:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.54:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.3.36:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.36:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-45.159.217.161:443

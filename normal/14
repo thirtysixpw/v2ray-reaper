@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://NISHIKUITAN111@104.24.60.239:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.60.239:443
-trojan://f7a08c90-1f80-11f0-8f88-1239d0255272@103.253.24.212:443?sni=telewebion.com#🔒 TR-TCP-NA 🇸🇬 SG-103.253.24.212:443
-trojan://fsoOufuTGmSKzRDaAwAbww@162.250.99.26:443?security=none&type=tcp#🔒 TR-TCP-NONE 🇺🇸 US-162.250.99.26:443
-trojan://Aimer@213.241.198.59:2083?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-213.241.198.59:2083
-trojan://Aimer@162.159.153.217:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.153.217:443
-trojan://Aimer@156.225.72.199:2096?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-156.225.72.199:2096
-trojan://Aimer@92.243.74.180:8443?sni=tyep.esslh.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-92.243.74.180:8443
-trojan://vip@104.18.12.229:2053?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
-trojan://Aimer@104.26.4.41:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.4.41:443
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.33:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.33:2053
-trojan://RlzoEILU@36.151.251.61:7789?allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.151.251.61:7789
-trojan://Aimer@162.159.44.233:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.233:8443
 trojan://Aimer@44.224.24.91:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-44.224.24.91:443
 trojan://Aimer@104.16.51.27:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.51.27:443
 trojan://Aimer@193.122.114.82:443?sni=epccs.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-193.122.114.82:443
@@ -603,3 +591,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.2:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.2:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5U0wzQ1hwSHBkRzVoMmc4UnFnVHVX@178.62.225.175:10119#🔒 SS-TCP-NA 🇳🇱 NL-178.62.225.175:10119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVk9aSERMdnZ2VUxqeDN6Mzg5ajBT@77.246.96.113:29530#🔒 SS-TCP-NA 🇳🇱 NL-77.246.96.113:29530
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@47.129.171.73:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.171.73:443
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.80:8090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.158:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.158:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.176.215.63:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.176.215.63:2377
+ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.19:18009
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.160:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.79:8080#🔒 SS-TCP-NA 🇦🇲 AM-92.223.2.79:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@139.162.119.212:2377#🔒 SS-TCP-NA 🇯🇵 JP-139.162.119.212:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:52105#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:52105
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#🔒 SS-TCP-NA 🇪🇸 ES-92.38.171.215:31348
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.35:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209#🔒 SS-TCP-NA 🇳🇱 NL-91.84.109.28:49209

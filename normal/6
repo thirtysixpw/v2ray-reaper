@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.135.9.180:2086?security=none&type=ws&host=redw.pooriam.ir#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.180:2086
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.199:443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.49.112:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.49.112:443
 vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@37.27.193.168:6793?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.193.168:6793
 vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?security=tls&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&type=ws&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.220.87:443
@@ -603,3 +601,5 @@ vless://76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0@173.245.49.174:443?security=tls&sni
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560flow%3D-udp443flow%3D-udp443flow%3D-udp443#🔒 VL-WS-TLS 🇨🇾 CY-154.92.9.176:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.133:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.133:80
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.179:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.179:2096
+vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.15.166:443?security=tls&sni=zYzzzOAo.pUtATa.eu.oRG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FtbSRLeOuwtLBToSL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.15.166:443
+vless://96b148b6-c8a0-481a-8332-f0e7b1f9f49d@172.66.47.43:2087?security=tls&sni=maHDiSErver-OVG.Pages.Dev&type=ws&host=mahdiserver-ovg.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.43:2087

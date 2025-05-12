@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.56:443
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?security=tls&sni=147135004002.sec20org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-15.204.151.4:443
 vless://1937666c-9058-4f4a-bee6-cb31273cd3cd@104.248.168.91:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-104.248.168.91:443
 vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@45.131.4.18:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.4.18:2087
 vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws&host=cc.ailicf.us.kg&path=/b5cdabf0-e04#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.27.46:80
@@ -603,3 +601,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.50:80?security=none&sni=
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.157.127:2083?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.157.127:2083
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.130.195:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.195:443
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.137.66:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.66:443
+vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?type=ws&host=falcunargo.c2259d7c10.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.59.165:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.253:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.253:80

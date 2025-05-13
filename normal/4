@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.62:2087
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.193.4:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.193.4:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.27.8.25:80?path=Telegram🇨🇳#🔒 VL-TCP-NA 🇫🇮 FI-89.27.8.25:80
 vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@172.64.80.1:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.80.1:2095
@@ -603,3 +602,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.8:80?security=none&type
 vless://55520747-311e-4015-83ce-be46e2060ce3@141.145.205.115:8443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-141.145.205.115:8443
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇰🇿 KZ-31.43.179.38:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@154.92.9.2:2096?type=ws#🔒 VL-WS-NA 🇨🇾 CY-154.92.9.2:2096
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.23:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.23:80

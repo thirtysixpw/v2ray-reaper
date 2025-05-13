@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.81.174:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.61:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.61:2096
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.26.8.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.225:443
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
@@ -603,3 +602,4 @@ vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.170:443?sni=0229.patter
 vless://b5540249-9ac4-4037-aacd-79c71052864f@170.114.46.6:80?type=ws&host=free.pranithsandaruwan.cfd&path=%2F#🔒 VL-WS-NA 🇺🇸 US-170.114.46.6:80
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@46.254.93.124:2052?security=none&type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-46.254.93.124:2052
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.227:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.227:80
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.47.10.236:10912?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-116.47.10.236:10912

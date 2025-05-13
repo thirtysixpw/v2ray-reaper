@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.84.35:443?security=tls&sni=PPAL03.NaVIYi2139.WOrKErs.dEV&type=ws&host=pPaL03.nAvIYI2139.wOrkERS.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.35:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.206.12.140:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-154.206.12.140:443
 vless://64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?security=tls&sni=ESetseCuRiTyLICEnse.KmlRV.woRKERs.DEV&type=ws&host=ESEtsecURItYLiCENSE.KMlRv.woRKeRs.deV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.70:443
 vless://4730ee46-a9c1-464f-dd30-da9712d11041@190.93.246.241:2096?security=tls&sni=mt.AntiV2ray.site&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2096
@@ -603,3 +602,4 @@ vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095?type=ws&host=022
 vless://7b84283a-096c-4475-b7ce-97cc39fdc39c@185.204.169.20:20?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-185.204.169.20:20
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.238:80?type=ws&host=digitalscientificresearchgroup.ir&path=%2F#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.238:80
 vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:2053
+vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-199.232.210.133:443

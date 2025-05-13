@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.47.10.236:10912?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-116.47.10.236:10912
 vless://f2ab5930-b3d2-56f1-b78d-05ab292a6ff0@104.17.147.22:2052?security=none&type=ws&host=sPeedtest2.sbs.nl.v2vless.sitespeedtest.net&path=%2Fvless%23Telegram%40V2ray_Alpha#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2052
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.101:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.9:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.9:80
@@ -603,3 +602,4 @@ vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@104.16.12.75:443?security=tls&sni=l
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.135:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.135:36380
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.23:2087
 vless://c9757870-462f-4010-829f-2766522f7d46@172.67.204.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.mogrenspore.nl#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:8080
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@172.67.12.75:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.12.75:443

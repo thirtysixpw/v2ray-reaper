@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@212.52.0.61:1846?sni=edccu.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-212.52.0.61:1846
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@104.21.78.12:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.78.12:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.199:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.199:80
 vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@104.18.20.0:443?security=tls&sni=in4_pq_vip_user_api.xn--ghqu5fm27b67w.com&type=ws&host=in4_pq_vip_user_api.xn--ghqu5fm27b67w.com&path=%2Fpq%2Fin4&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.0:443
 vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.134.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.82:443?security=tls&sni=edcca.aimercc.filegear-sg.me&type=ws&host=edcca.aimercc.filegear-sg.me&path=%2Fflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.82:443
@@ -603,3 +600,6 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?security=tls&sni=
 vless://d6660712-4d18-47fd-b095-0c36db667250@198.41.206.95:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.206.95:443
 vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@172.67.208.128:80?type=ws&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.208.128:80
 vless://699f6733-5766-42f0-a05b-da23c5ee3817@108.165.152.98:2087?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-108.165.152.98:2087
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.136.232:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.136.232:443
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.78:443
+vless://44b68625-8022-452b-8c91-ee40abe7ff63@104.21.85.68:443?security=tls&sni=ppaL03.aLesSIA-beRNiER.wORkeRS.dEv&type=ws&host=ppaL03.alEssiA-bERNIer.wORKeRS.dEV&path=%2F7mIeBq1gL7p8gNfU%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.68:443

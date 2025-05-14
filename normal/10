@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.230:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.230:80
 vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.211.129:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.211.129:443
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
 vless://563709ea-3663-4f86-b413-5299897659a5@104.18.12.149:2053?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.149:2053
@@ -603,3 +602,4 @@ vless://abbc5434-655a-4371-9ab9-b3493da6a313@172.66.47.99:443?security=tls&sni=m
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.159:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.159:443
 vless://d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2@140.238.89.224:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome#🔒 VL-TCP-TLS 🇬🇧 GB-140.238.89.224:8443
 vless://69167084-2096-479c-a049-b4fb84121ba2@104.21.48.1:2052?type=httpupgrade&host=1a2ffe0f1abdcc1d.1a2ffe0f1abdcc1dknock.hihi.1a2ffe0f1abdcc1d.UK-XiRiX.dAnEsHkAdEoNlInE.Ir.&path=%2F%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.48.1:2052
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?security=none&type=ws&host=0210.uous1wog.workers.dev#🔒 VL-WS-NONE 🇨🇾 CY-195.85.59.95:2082

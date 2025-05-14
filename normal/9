@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.188:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.3:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.3:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.4:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.4:80
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.26.3.137:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.137:443
@@ -603,3 +602,4 @@ vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni
 vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?security=tls&sni=PAgEs.dev&type=ws&host=342647820-000291.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.245.144.178:443
 vless://d9deb36e-aa79-409a-ba54-012d69b0f9d7@104.24.182.250:2083?security=tls&sni=x5kh.org&type=ws&host=x5kh.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.182.250:2083
 vless://03550326-cf94-439d-a02d-17760f0089d5@104.18.165.30:80?security=none&type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.shir-too-cloud.cloudNs.CH.&path=/index.php/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D1080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.165.30:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.230:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.230:80

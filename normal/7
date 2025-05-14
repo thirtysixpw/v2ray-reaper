@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
 vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@104.21.69.41:443?security=tls&sni=MAs10xyZ.890602.XyZ&type=ws&host=mas10xyz.890602.xyz&path=/YzFLmzNIEQsAmceLxv94lPbgMw&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.41:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-45.144.29.246:2198
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.94:2095?type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.20.94:2095
@@ -603,3 +602,4 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.222:8443?security=tls&sni
 vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.223:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.165:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.165:80
+vless://20afb0d4-7879-4f14-9dd8-39d8a026f75e@95.164.46.153:443?security=tls&sni=tgju.org&fp=random#🔒 VL-TCP-TLS 🇮🇹 IT-95.164.46.153:443

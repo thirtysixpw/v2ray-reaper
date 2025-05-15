@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://vip@104.18.5.250:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 trojan://blue2024@162.159.44.161:443?security=tls&sni=tc.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.161:443
 trojan://Aimer@107.172.180.73:3306?sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-NA 🇺🇸 US-107.172.180.73:3306
 trojan://Aimer@172.66.207.17:2083?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.207.17:2083
@@ -602,4 +603,3 @@ trojan://bpb-trojan@104.248.145.216:443?sni=skwygx.top&type=ws&host=skwygx.top&a
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.106:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.106:2053
 trojan://Aimer@108.165.152.249:2087?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.249:2087
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.23.162:443?security=tls&sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=ws&host=d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua&path=%2FOYzPAeaZdXUq2d6J3gc4aj&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.23.162:443
-trojan://Aimer@162.159.34.65:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.34.65:443

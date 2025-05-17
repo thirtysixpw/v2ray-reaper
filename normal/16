@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
+ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.18:45581#🔒 SS-TCP-NA 🇺🇸 US-23.80.80.18:45581
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@45.89.52.66:9030#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9030
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.18:9045#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9045
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.59:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.59:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.175:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJN0ZVakpqZkk3TWJSYlB0NGtsNmpv@151.236.4.99:8443#🔒 SS-TCP-NA 🇩🇪 DE-151.236.4.99:8443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🔒 SS-TCP-NA 🇰🇷 KR-154.90.63.177:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.162:8080
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9003
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
@@ -594,12 +603,3 @@ trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDcyYzVlMjQxYWVjZmI3@217.77.3.42:40410#US15%207.4MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#US16%202.0MB%2Fs
 trojan://Aimer@172.67.158.71:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A559
-trojan://Aimer@172.67.144.114:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A560
-trojan://6X1Ca9dbWv%40%5E@172.67.202.155:8443?security=tls&type=httpupgrade&sni=soft.onetwothree123.ir&path=/L9sBUTui&host=soft.onetwothree123.ir#%E6%9C%AA%E7%9F%A561
-trojan://bpb-trojan@104.27.196.92:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A562
-trojan://Aimer@170.106.152.78:443?sni=epccu.ambercc.filegear-sg.me#US17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQWUFkQXUxV3ZVdTFqOHlheTZDdjda@77.246.98.67:4343#%E6%9C%AA%E7%9F%A563
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&type=grpc&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A564
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#%E6%9C%AA%E7%9F%A565%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#%E6%9C%AA%E7%9F%A566
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377#US18

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:51105#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:51105
 ss://YWVzLTI1Ni1nY206TDRKT1lVWlhGV0ZYOUUwTg==@154.196.244.15:16005#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.15:16005
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.149:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.69.48.25:2377#🔒 SS-TCP-NA 🇯🇵 JP-52.69.48.25:2377
@@ -602,4 +603,3 @@ vless://0c27902d-c232-4044-ba68-b808c8ad8231@172.64.48.129:443?allowInsecure=0&s
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@3.94.120.224:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0193
 vless://19bf0ff0-0dc5-4e24-80fc-450afa43d9fb@104.18.26.39:443?allowInsecure=1&sni=25707.lanpinguo.cloud-ip.biz&type=ws&host=25707.lanpinguo.cloud-ip.biz&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0194
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.102:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0195
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#15%7CUS_speednode_0196

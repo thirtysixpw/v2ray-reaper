@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.141:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D185.133.35.141%3A443#15%7CBR_speednode_0017
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D185.133.35.243%3A443#15%7CBR_speednode_0018
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D185.133.35.160%3A443#15%7CBR_speednode_0019
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D185.133.35.38%3A443#15%7CBR_speednode_0020
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D185.133.35.243%3A443#15%7CBR_speednode_0021
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@140.238.212.95:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D140.238.212.95%3A443#15%7CCH_speednode_0024
-trojan://b6200af42ccadea353f5b5856dd20d70@120.233.128.68:39001?allowInsecure=1&sni=120.233.128.68#15%7CCN_speednode_0025
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.227%3A443#15%7CGB_speednode_0050
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.89%3A443#15%7CGB_speednode_0051
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.51%3A443#15%7CGB_speednode_0052
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.227%3A443#15%7CGB_speednode_0053
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.51%3A443#15%7CGB_speednode_0054
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.254%3A443#15%7CGB_speednode_0055
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.237%3A443#15%7CGB_speednode_0056
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.221%3A443#15%7CGB_speednode_0057
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.254%3A443#15%7CGB_speednode_0058
@@ -603,3 +590,16 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.80.111.99:443?security=tls&sni=U
 vless://645a077b-5647-49bd-8817-fc74fcd95bab@104.21.48.1:2053?security=tls&sni=mas42.459.pp.ua&type=ws&host=mas42.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:2053
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.172.153:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.231:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.231:8443
+vless://94fa689f-363d-4274-a5d5-f64144da8501@173.245.58.100:2052?type=httpupgrade&host=Espa.serrjioo.ir#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-173.245.58.100:2052
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.79.131:2096?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.79.131:2096
+vless://9c682edf-7e17-41d6-83e1-d7f6996a9542@104.18.2.57:443?security=tls&sni=vip1.yomato7390.workers.Dev&type=ws&host=vip1.yomato7390.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.2.57:443
+vless://5f5fe97a-73ee-4584-87cb-1e5cd510d572@172.67.148.122:443?security=tls&sni=nY.360832.xYz&type=ws&host=ny.360832.xyz&path=%2FmxgPEgOLj8iAp1tHdIGP3&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.122:443
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.214:443
+vless://a3e57159-3cad-404f-8221-79808a05eafe@172.67.160.192:8080?security=none&type=httpupgrade&host=HalamaDrid.bellingham5.shoP.&path=%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.160.192:8080
+vless://8bbfdc14-0519-45ac-afb3-aba6dc6b9e6e@140.248.152.85:443?security=tls&sni=live.theworldwidewolf.com&type=xhttp&host=biyatovistavdoray.com&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-140.248.152.85:443
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@91.193.59.187:8880?security=none&type=httpupgrade&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.59.187:8880
+vless://a268ce39-7687-4817-aa5f-def4f653fb88@104.16.116.221:2096?security=tls&sni=robook.dpdns.org&type=ws&host=robook.dpdns.org&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.221:2096
+vless://3c3ff8d8-5239-4fc7-bc9f-8be850953b48@104.19.223.79:443?security=tls&sni=638813915763477423.madrid-pnthprx-aaaaa.info&type=ws&host=638813915763477423.madrid-pnthprx-aaaaa.info&path=%2Fyapyorws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
+vless://1afa6999-97a1-494e-bcb3-c8f8ed4bc3b7@104.21.15.33:2096?security=tls&sni=support.sabapardaziran.ir&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.15.33:2096
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.233:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.158:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.158:80

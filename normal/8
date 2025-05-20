@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.52.178:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇩🇪 DE-3.76.52.178:22224
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.162:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.162:80
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@156.238.18.168:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.168:8880
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.63:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.63:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.161:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.161:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.2.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.2.79:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.37:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.37:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.79:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-94.247.142.79:80
@@ -603,3 +598,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880?sni=reedfree8mah
 vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇪🇪 EE-109.206.241.155:443
 vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.23:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.23:8080
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.124:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.124:80
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@91.193.59.15:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.59.15:8880
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.195.61:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.61:443
+vless://33750dde-2801-4708-80be-680218439b01@195.238.240.53:8081?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.238.240.53:8081
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.81:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.81:80
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.63.102:443

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.67.29.218:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.29.218:443
-vless://b1533182-6015-4f0d-b393-d3b94f55877f@151.101.2.165:80?security=none&type=ws&host=taxi.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
-vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.229.214:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.229.214:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.229.84:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.229.84:443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.37.29:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇦🇺 AU-192.65.217.20:8880
@@ -603,3 +600,6 @@ vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.196.131:80?type=ws&host=www.
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.88:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.88:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.99:443
 vless://5389571a-da53-47b1-9ea1-06eaab48f07f@140.248.149.43:80?type=ws&host=JoinBede--Eliv2-Ray.iR&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY----Channel-ELiV2RAY%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-140.248.149.43:80
+vless://43324bdf-a0e8-4f6f-8bdc-5482db82fd0f@172.67.133.248:443?security=tls&sni=CCAv.890604.FILEgEaR-sG.Me&type=ws&host=ccav.890604.filegear-sg.me&path=%2Fh1iXYtqUZkDQMvgKagyIefJfM0OQ&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.248:443
+vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.6.167:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.167:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.32.1:8880?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.1:8880

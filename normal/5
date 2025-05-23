@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.147:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.147:2096
+vless://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.78.243:443?security=tls&sni=cCVBNhJ.7282728.XYZ&type=ws&host=ccvbnhj.7282728.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.243:443
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@190.93.246.67:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.67:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.76:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.76:443
 vless://77f806f0-8f87-4c01-8e07-c88d52092e92@172.67.150.87:443?security=tls&sni=cs2.film2serial.cloud&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.150.87:443
@@ -601,5 +603,3 @@ vless://c4a33847-5816-4462-e1a0-61bc46c9a8ec@162.159.24.142:80?security=none&typ
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.217:443?sni=cb.dong2025.cfd&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.35.217:443
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.6:2053
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@103.75.118.144:2053?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇯🇵 JP-103.75.118.144:2053
-vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@104.20.75.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.75.10:443
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NONE 🇺🇸 US-168.100.6.173:2095

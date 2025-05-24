@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.31.60:80?path=/Telegram#🔒 VL-TCP-NA 🏴‍☠️ NA-104.18.31.60:80
 vless://bde95043-c1da-4177-90b5-101d64cbfd94@104.16.157.153:443?security=tls&sni=zlgmz.top&type=ws&host=zlgmz.top&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.157.153:443
 vless://5d8eb0fb-a99e-43ea-bb60-cddca6a6e45b@45.131.209.53:80?sni=cdn.sudolog.ir&type=ws&host=cdn.sudolog.ir&path=/wp-admin?ed%3D2048&fp=chrome#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.53:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.34.228.177:2052?type=ws&host=redw.pooriam.ir&path=%2FTM-ShadowProxy66%3Fed#🔒 VL-WS-NA 🇺🇸 US-199.34.228.177:2052
@@ -603,3 +602,4 @@ vless://344f7b4c-eb32-4e75-840c-cbdd10596a95@5.10.245.97:443?sni=hax-us2.lzj520h
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@185.135.9.105:443?security=tls&sni=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=/#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.105:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.73.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.73.29:8880
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.233:443?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.233:443

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.167.96:80
 vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.131:443
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@108.162.195.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=/wss&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.33:80
 vless://585acd30-52bf-4b70-a537-e13649fafefc@162.159.140.167:443?security=tls&sni=XszAW34.7282728.xYZ&type=ws&host=xszaw34.7282728.xyz&path=%2FrU9rSjDSOd4yY2fOe%3Fed%3D2048%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.140.167:443
@@ -603,3 +602,4 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.148.104.218:8880?security=none&
 vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.253:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.253:80
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:8880?security=none&type=ws&host=stARt.SItEG52770.wORkERS.DEV&path=%2FoqisYFWsXbEI2upX%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.8.94:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.8.94:443

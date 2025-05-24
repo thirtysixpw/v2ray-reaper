@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.67:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.67:2096
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.216.192:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.216.192:8880
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.80:443
-vless://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:80?security=none&type=xhttp&host=barayeazadi.sbs&path=%2FIHavEComEHOmEWIthOnlyONEGoal%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.69.22:80
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.3.6:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=%2FLNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.3.6:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.29:8880
 vless://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.23:2086?security=none&type=httpupgrade&host=DarkShield.nl.wowshops.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.23:2086
@@ -603,3 +599,7 @@ vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.13.140:8443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.154:443
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.192.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.241:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.89:8443
+vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.111:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.152:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.7.152:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-155.46.213.29:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.45:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.45:80

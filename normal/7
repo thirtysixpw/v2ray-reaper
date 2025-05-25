@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.221:443
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@103.75.118.144:2053?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇯🇵 JP-103.75.118.144:2053
-vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.16:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.16:443
-vless://d6660712-4d18-47fd-b095-0c36db667250@104.18.202.232:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@5.180.45.70:12000?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒 VL-WS-TLS 🇨🇾 CY-5.180.45.70:12000
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.241:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.241:8880
 vless://27cbfd99-8afe-4f86-aaf8-e4d4af202eee@151.101.42.133:80?type=xhttp&host=joinbede_vmessorg.ir&path=%2F%40v%6de%73s%6frg----%40v%6de%73s%6frg-----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg%3Fed%3D2480#🔒 VL-XHTTP-NA 🇺🇸 US-151.101.42.133:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.59:80?security=none&type=ws&host=ipsycho.suex12.ir&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.59:80
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.69:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒 VL-GRPC-TLS 🇷🇺 RU-45.135.235.69:443
@@ -603,3 +597,9 @@ vless://def453c6-c747-4900-a1fa-71ae4dc503a8@108.162.195.111:443?sni=vless.treve
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.239:8443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.239:8443
 vless://5ee22d62-5c0b-4490-ab6b-bbc3f5523180@172.67.210.123:8080?security=none&type=ws&host=ip.sitwe.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.123:8080
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.178.177:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.178.177:2087
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@141.11.203.167:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.203.167:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.45.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.45.20:8880
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.207:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.35.207:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.8:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.8:80
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.207:443
+vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.68.33:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.33:443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.47:2083?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.47:2083
 vless://6aec167a-236f-4cb2-aa32-56efd7036be7@104.16.172.248:443?security=tls&sni=duohereshui.pages.dev&type=ws&host=duohereshui.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.172.248:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.63.138:443
 vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?security=tls&sni=xuy.cyberkotakbas.ru&type=xhttp&host=x1.cyberkotakbas.ru&path=%2F&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🇺🇸 US-216.221.222.153:443
@@ -602,4 +603,3 @@ vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.16.1:2052?security=none&type
 vless://0b193b9c-6ad3-41a2-83c0-d3de9b86b70e@172.67.204.84:8443?security=tls&sni=frbn.musics-fa.ru&type=ws&host=frbn.musics-fa.ru&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@172.66.41.21:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.41.21:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.10.135:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.10.135:443
-vless://7557597d-5a65-4463-8f16-ce6b8c60ec19@104.22.14.116:443?security=tls&sni=goreng.cepu.us.kg&type=ws&host=goreng.cepu.us.kg&path=/Free-CF-Proxy-RU1&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.116:443

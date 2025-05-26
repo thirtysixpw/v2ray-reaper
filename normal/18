@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.136:28504?sni=green2.cdntencentmusic.com#🔒 TR-TCP-NA 🇹🇼 TW-220.130.58.136:28504
+trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.176.206:2053
 trojan://vip@104.19.222.79:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.222.79:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.226:2087?security=tls&sni=1744156312.speed.rdsactaa.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.226:2087
 trojan://Aimer@162.159.153.116:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.153.116:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@80.92.204.106:9098#🔒 SS-TCP-NA 
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:5003
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🔒 SS-TCP-NA 🇻🇳 VN-103.186.155.22:38388
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:8000
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.103:8080#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.103:8080
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5000

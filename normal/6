@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.216:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.216:2096
-vless://a04be978-3b21-42cf-a80c-4832894d26f0@104.21.56.210:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.210:8080
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.219:8443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.96:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇸🇬 SG-154.194.12.96:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.101:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.101:443
@@ -603,3 +601,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.239.72.20:8880?security=none&ty
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.64.80:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.45.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.45.29:8880
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:443
+vless://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:2095?security=none&type=ws&host=0124.5zvmocbv.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2095
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.101:443

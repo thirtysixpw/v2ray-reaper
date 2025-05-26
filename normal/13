@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.22.1.49:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.1.49:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.134:8880?type=ws&host=us.laoyoutiao.link&path=Telegram#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.134:8880
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp4245C64m.MoLaNaMaMaLi1.InFo&type=ws&host=Tp4245C64m.MoLaNaMaMaLi1.InFo&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2087
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇲🇩 MD-94.232.244.5:2198
 vless://ebc5b01a-d736-4e8d-bbd1-7dda5195742b@164.38.155.245:443?security=tls&sni=cdn-nodes.maviks.eu&type=ws&host=cdn-nodes.maviks.eu&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.245:443
@@ -603,3 +601,5 @@ vless://c8a4ced0-b100-4700-8857-d06ca3b251af@198.41.193.154:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.216.86:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.86:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.25.46:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.25.46:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.234:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-147.185.161.234:443
+vless://15d7ddce-151e-400a-94d0-2b7f8d30e331@172.66.44.209:443?security=tls&sni=MaHDiSERver-kaO.pagES.DeV&type=ws&host=mahdiserver-kao.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.209:443
+vless://ee29fa1d-a706-4035-bea1-ae1f73845f65@172.64.150.8:8443?security=tls&sni=usa.v2ray.com.br&type=ws&host=usa.v2ray.com.br&path=%2Frussian&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.8:8443

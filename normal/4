@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://29ee1647-2393-48ea-a8bc-af66587d0841@78.157.214.115:8504?security=tls&sni=mot.morisi.ggff.net&type=ws&host=mot.morisi.ggff.net&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇬🇧 GB-78.157.214.115:8504
-vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.189:2086
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.253:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@156.238.18.213:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.213:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.183:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.183:8443
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.221.160.29:8880?type=ws&host=hk
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.150.115.247:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇨🇾 CY-45.150.115.247:443
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@151.101.42.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.42.133:443
 vless://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@188.114.97.179:2087?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.179:2087
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-160.79.105.29:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.163:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-31.43.179.163:8880

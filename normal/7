@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:2095?security=none&type=ws&host=0124.5zvmocbv.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2095
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.101:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.99.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.123:443
 vless://4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?security=tls&sni=899.288288.shoP&type=ws&host=899.288288.shop&path=%2FwAlPWPCQWnsVcNgLsMVz&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.126:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.157:80?path=Telegram#🔒 VL-TCP-NA 🇳🇱 NL-45.131.4.157:80
@@ -603,3 +601,5 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.202:80?sni=digitalscientif
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&path=telegramFreeV2Alpha%3D88.218.78.212&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.18:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.21:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.21:8880
 vless://f4f67bdc-227c-4302-a478-28327583b79c@172.67.224.246:443?security=tls&sni=2574.papala.filegear-sg.me&type=ws&host=2574.papala.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.224.246:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.166.207:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-104.129.166.207:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.81.58.170:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-45.81.58.170:8880

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.93:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.118.93:2095
-vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.147.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.147.32:8443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.78:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.78:2096
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@102.177.189.60:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.60:8880
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?security=tls&sni=5eR.WWW890604.dPDNS.OrG&type=ws&host=5er.www890604.dpdns.org&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.179:443
@@ -603,3 +601,5 @@ vless://621a5d75-7cfa-4677-8826-c4acec005dcf@104.24.159.174:443?security=tls&sni
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.166.182:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.166.182:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@91.193.59.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.59.235:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.138:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.138:80
+vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.24.71.251:443?security=tls&sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.71.251:443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.191:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.191:2096

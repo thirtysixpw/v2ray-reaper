@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?security=reality&sni=fr.ign.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒 VL-TCP-RLT 🇫🇷 FR-45.95.233.8:2040
-vless://fb726125-95f2-4354-a1b7-12a4b8edd9ee@212.95.33.206:26528?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#🔒 VL-GRPC-RLT 🇩🇪 DE-212.95.33.206:26528
-vless://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:2029?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇩🇪 DE-188.245.120.39:2029
-vless://715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443?security=reality&sni=www.cdn77.com&type=tcp&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#🔒 VL-TCP-RLT 🇳🇱 NL-46.243.3.15:443
-vless://387620fc-e932-4767-abeb-b16953c3b256@161.35.177.32:21337?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒 VL-TCP-RLT 🇺🇸 US-161.35.177.32:21337
 vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@138.68.80.238:5591?security=reality&sni=www.pcmag.com&type=tcp&fp=chrome&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#🔒 VL-TCP-RLT 🇩🇪 DE-138.68.80.238:5591
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🔒 VL-TCP-RLT 🇦🇱 AL-45.15.170.80:28495
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8080?security=reality&sni=rEfErSion.Com.&type=grpc&fp=chrome&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa#🔒 VL-GRPC-RLT 🇺🇸 US-165.227.185.247:8080
@@ -603,3 +598,8 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.246:443?security=tls&sni
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087?security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.51:2087
 vless://b4a7532a-777d-4fc4-839f-37a34e3f4970@151.101.66.133:80?security=none&type=ws&host=khorzokhan.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.133:80
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.202:2053
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.24.121:443
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.122.113:443
+vless://344f7b4c-eb32-4e75-840c-cbdd10596a95@5.10.244.135:443?security=tls&sni=haxus2.lzj520hxw.dpdns.org&type=ws&host=haxus2.lzj520hxw.dpdns.org#🔒 VL-WS-TLS 🇳🇱 NL-5.10.244.135:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.190:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.190:8880
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.242:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-154.211.8.242:443

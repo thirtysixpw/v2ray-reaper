@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@194.36.55.247:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-194.36.55.247:443
-vless://f987f930-a619-450b-bea2-9681a641cefd@172.67.170.147:8080?security=none&type=httpupgrade&host=blog.thorav.ir&path=%2FTELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.170.147:8080
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.41.202:2087?security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.202:2087
-vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?security=tls&sni=id.lanexa.my.id&type=ws&host=id.lanexa.my.id&path=/vless&allowInsecure=1#🔒 VL-WS-TLS 🇮🇩 ID-160.19.167.184:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.57.90:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.57.90:443
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-104.248.168.91:80
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@45.194.53.13:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.13:2096
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=tls&sni=www.samsung.com&fp=firefox&allowInsecure=0#🔒 VL-TCP-TLS 🇦🇱 AL-78.159.131.160:443
@@ -603,3 +598,8 @@ vless://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@190.93.246.224:2083?security=tls&sn
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.14:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.14:80
 vless://e64c466e-912d-4ee9-8d9a-02f560562f2b@172.67.180.227:80?security=none&sni=fl.likelike.ddns-ip.net&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.227:80
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2087
+vless://71b0a2f6-77eb-457c-b060-13de21b976c9@140.248.75.255:443?security=tls&sni=netpie.com&type=ws&host=netpie.com&path=%2FTelegram-NetPie#🔒 VL-WS-TLS 🇩🇪 DE-140.248.75.255:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.178:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.178:8880
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@185.174.138.194:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.194:80
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@92.53.190.248:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇸🇮 SI-92.53.190.248:2096

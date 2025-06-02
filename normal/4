@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.82.39:443?security=tls&sni=8uiop.191288.xyz&type=ws&host=8uiop.191288.xyz&path=%2F4U4Is3KKzxRV9PS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.39:443
-vless://d2947a55-5fa6-4d21-93c6-b558c662ec8d@46.29.239.149:443?security=tls&sni=unixkey.nobatow.site&type=ws&host=unixkey.nobatow.site&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🇳🇱 NL-46.29.239.149:443
 vless://37243333-f398-4239-817b-fcdc40922ce4@162.159.44.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.250:443
 vless://4ae4f96c-98cf-467e-b97c-c12c625e1f37@148.113.195.27:26352?security=tls&sni=wiz.musicbaaz.ir&type=tcp&host=tc.donya-e-eqtesad.com&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇨🇦 CA-148.113.195.27:26352
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.221:2096
@@ -603,3 +601,5 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.144.192:443?sni=xv6.jpmj.dpd
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.48.170:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.48.170:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.166.207:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-104.129.166.207:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.184:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.184:80
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.116:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.30.116:2096
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.48:2095

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.18.185.80:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.185.80:443
-vless://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.57.38:443?security=tls&sni=Dfr.930.pP.UA&type=grpc&serviceName=eq5Bb2boLXSfSLavGl1pjr&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.57.38:443
 vless://e3a62b76-8a54-4043-83b4-9b0a1ed5aa6e@190.93.244.30:443?sni=tunnel.ethcdn.net&type=ws&host=tunnel.ethcdn.net&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.30:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.197.108.48:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇨🇿 CZ-154.197.108.48:8880
 vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.223:443?security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.223:443
@@ -603,3 +601,5 @@ vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?security=none&type=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.7.174:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.219.144:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-45.159.219.144:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.53:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.53:80
+vless://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.82.39:443?security=tls&sni=8uiop.191288.xyz&type=ws&host=8uiop.191288.xyz&path=%2F4U4Is3KKzxRV9PS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.39:443
+vless://d2947a55-5fa6-4d21-93c6-b558c662ec8d@46.29.239.149:443?security=tls&sni=unixkey.nobatow.site&type=ws&host=unixkey.nobatow.site&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🇳🇱 NL-46.29.239.149:443

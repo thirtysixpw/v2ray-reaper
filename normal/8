@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d687fb60-b650-4429-9187-58bad6d689d5@162.159.24.142:443?security=tls&sni=messi10.pages.dev&type=ws&host=messi10.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:443
-vless://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.57.88:443?security=tls&sni=ddfRt.iRaN.pp.Ua&type=ws&host=ddfrt.iran.pp.ua&path=%2FmaYYKd6RvMo1YauoQwY5&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.88:443
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@77.246.100.169:2040?security=tls&sni=github.com&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-77.246.100.169:2040
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.199:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.189.65:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.189.65:8880
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.80:8880?sni=yd.laoyoutia
 vless://141cda77-aa22-4b17-93e4-0fe1a0ea6058@104.16.147.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.147.32:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.180.27:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.27:8880
 vless://9b7645aa-91f4-4f6d-98d9-c22f4ce8784f@151.101.1.91:80?type=ws&host=trickshow.silaber.net&path=%2F%3Fed%3D1024#🔒 VL-WS-NA 🇺🇸 US-151.101.1.91:80
+vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=bale.ai&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1flow%3D-udp443#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.193:80

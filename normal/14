@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://599a3443-4db5-4d91-9117-066ef0bda053@188.114.98.216:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.216:443
-vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.194.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.216:80
 vless://a6482ca2-a491-45b8-aa27-35d5dd0c560c@173.245.59.132:2052?security=none&type=httpupgrade&host=External_net.ysphs.top.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:2052
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.136:36380?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.136:36380
 vless://5177172c-125a-47fa-bccd-3778b459a75e@173.245.59.113:443?sni=vless04.trevely.us.kg&type=ws&host=vless04.trevely.us.kg#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.113:443
@@ -603,3 +601,5 @@ vless://8e63322f-94fc-4d6c-bbfa-5b89118e8930@198.71.188.119:8880?security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.79:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.79:80
 vless://10d9df89-9a20-4110-9711-bca119490ee9@103.160.204.37:2086?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM-@AZARBAYJAB1#🔒 VL-WS-NONE 🏴‍☠️ NA-103.160.204.37:2086
 vless://ae8ee2e7-4e62-44ea-8cc3-c584515bacb1@172.67.204.120:443?security=tls&sni=mas3d1.890614.xyz&type=ws&host=mas3d1.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.120:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.71:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.71:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.149.157:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.149.157:443

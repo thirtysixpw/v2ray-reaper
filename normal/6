@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&type=ws&host=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.109:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.99:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.99:8880
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.72.252:8080?security=none&type=ws&host=127.0.0.1.freeConnectix.shop&path=%2Fconnectix#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.72.252:8080
 vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?security=none&type=ws&host=crimson-cell-5828-ppal03.febox45376.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.129:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@198.41.208.69:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.208.69:443
@@ -603,3 +601,5 @@ vless://ac0c932b-e9f6-4c54-a632-892231d154b8@104.17.21.157:8080?type=httpupgrade
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.2.145:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.2.145:443
 vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:1519?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-49.13.237.7:1519
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.253.97:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.253.97:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTM-%40AZARBAYJAB1#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.16:2052
+vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-185.16.110.30:2052

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.42.81:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.42.81:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.47:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.47:8443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.147:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.147:80
 vless://4bdab609-92da-4c23-b993-bbcb8caf2b03@188.114.96.1:443?security=tls&sni=r9ihm85sq4egopelgbfjgeigbox2dd4ljfouocj8eewswjghmtfuhrdl1agzy7s.2mievr34.workers.Dev&type=ws&host=r9ihm85sq4egopelgbfjgeigbox2dd4ljfouocj8eewswjghmtfuhrdl1agzy7s.2mievr34.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:443
@@ -603,3 +602,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.26:80?security=none&typ
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.122:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.122:2096
 vless://21985130-6586-483d-a0ba-41d0642a84c8@199.59.243.228:443?security=tls&sni=ProxiIraniii.connectmemore.shop&type=ws&path=/@ProxiIraniii&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.228:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.51.26:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.51.26:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.39:8880

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.39:8880
 vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-2.188.233.150:18010
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.175:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.175:8880
 vless://2df93a57-f468-40b3-8a3f-d0f61409f3d1@146.75.38.133:80?security=none&type=xhttp&host=jointo_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480#🔒 VL-XHTTP-NONE 🇺🇸 US-146.75.38.133:80
@@ -603,3 +602,4 @@ vless://e5b9b393-bac0-4bea-ad96-53acc299e622@104.21.48.1:2053?security=tls&sni=s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.63:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.63:80
 vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.24.233.121:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.233.121:443
 vless://3f789164-ca20-4041-89c0-bc553819970c@194.127.173.202:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-194.127.173.202:8443
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.20:13118?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-140.83.57.20:13118

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.131.245:443
 trojan://Aimer@104.26.12.208:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.12.208:443
 trojan://Aimer@104.16.5.112:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.5.112:443
 trojan://Aimer@104.22.57.142:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.57.142:443
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.114:2377#🔒 SS-TCP-NA 🇨🇳 CN-221.215.48.114:2377
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.230:5601
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5OHc4R21DS3BkcHVoanlnS1dQQVR5@77.110.109.86:4443#🔒 SS-TCP-NA 🇺🇸 US-77.110.109.86:4443
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.164:443
-ss://YWVzLTI1Ni1nY206TkZWSTM5MjdHOEw5NFAzUw==@37.143.128.125:20012#🔒 SS-TCP-NA 🇨🇱 CL-37.143.128.125:20012

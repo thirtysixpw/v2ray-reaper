@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?security=none&sni=pqh34v8.bloger34art.shop&type=grpc&host=pqh34v8.bloger34art.shop#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.162:8880
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.116:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.116:8443
-vless://3d2cbfd1-b6ef-49fb-8fc3-c1623c66da59@104.16.0.77:443?security=tls&sni=us2.xyxy.dpdns.org&type=ws&host=us2.xyxy.dpdns.org&path=%2Fgb5xvq6h#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.0.77:443
 vless://31adff17-0d00-4cdf-8434-3b560569c151@188.114.97.155:8080?security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.155:8080
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.205:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.205:8880
 vless://03c93f49-d573-4889-a4bb-187047c5a314@104.21.40.251:443?security=tls&sni=m7rtTYu.777169.xyz&type=ws&host=m7rttyu.777169.xyz&path=%2FbstMMelSTch7YcAPgiEbt&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.251:443
@@ -603,3 +600,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?security=tls&sni=
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@91.149.239.122:443?security=tls&sni=mmdserver.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.122:443
 vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?security=none&type=tcp&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI#🔒 VL-TCP-NONE 🇨🇭 CH-84.234.31.243:20244
 vless://d4a637d6-0c7c-4a0f-8ec4-9a5f643e6bfc@151.101.63.2:80?security=none&type=xhttp&host=telegram-netpie.com&path=%2Fnetpie#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.63.2:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.55.132:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.55.132:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.39:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.12.155:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.12.155:443

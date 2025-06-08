@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://463dab82-af4f-4b16-8f05-36bd1c71477b@188.114.96.3:2096?security=tls&sni=JOiNmAHDisERVeR-Sh8.paGEs.DeV&type=ws&host=joinmahdiserver-sh8.pages.dev&path=%2F3iSRXE0aYaBPlNOF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2096
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.180.129:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.129:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.47.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.47.109:443
 vless://40d3fdd7-e534-4762-a125-359484e522ef@104.21.65.172:443?security=tls&sni=PpAL03.MagDalENA-GaYLoRd.workERs.dEV&type=ws&host=pPAL03.mAGdalena-GayloRd.WOrkERS.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.65.172:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.7.41:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.41:443
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.106.64:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=join+my+channel+++v2raynplus+++%2F%3Fed%3D2048%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.106.64:443
@@ -603,3 +600,6 @@ vless://85e11d8a-6868-44d3-b241-d6c8c11a82be@162.159.195.149:443?security=tls&sn
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.152.18:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.18:443
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:8080?security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:8080
 vless://28886c09-721a-447d-a82e-72c5500858f3@172.67.141.68:8443?security=tls&sni=tasNIM.itn24.iR&type=httpupgrade&host=tasnim.itn24.ir&path=%2FMaQIF0WpCGegyci&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.141.68:8443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.177:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.177:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@46.254.92.222:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-46.254.92.222:8880
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.133:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.133:80

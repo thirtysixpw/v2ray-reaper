@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.55.132:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.55.132:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.39:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.12.155:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.12.155:443
 vless://6bc29783-3ff6-4379-8650-611a7095307b@104.18.22.235:443?security=tls&sni=nl1n.yfjc.sbs&type=ws&host=nl1n.yfjc.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.235:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.188.14:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.250.188.14:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.208.227.229:443
@@ -603,3 +600,6 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.10.173:443?sni=xv6.jpmj.dpdn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.244.20:8880
 vless://de67740f-b6fe-4844-adb0-55431f2e162c@65.109.182.97:1483?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.182.97:1483
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.118.224:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.118.224:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-45.82.251.143:8880
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@66.81.247.203:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.203:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.47:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.12.31.47:8880

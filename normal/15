@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.1.125:2086
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.228:80?sni=redfree8.pooriashop.ir&type=ws&path=Telegram@WangCai2/?ed#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.228:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.110:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.110:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.189.245:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.245:8880
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.97.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.87:443
@@ -603,3 +601,5 @@ vless://e1155f68-1178-4226-8afc-e26ab1cb4f30@162.159.152.101:443?security=tls&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.71:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.71:80
 vless://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.226:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.12.30.232:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇷🇴 RO-45.12.30.232:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.180.149:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.149:8880
+vless://55e5353f-4ba9-4971-922f-3d897a36302a@172.64.42.48:2096?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.42.48:2096

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.18.158.239:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.158.239:443
-vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.16.171.146:2087?security=tls&sni=smart.trainofy.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.171.146:2087
 vless://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?security=tls&sni=pro-b.ponyo.lat&type=ws&host=pro-b.ponyo.lat&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:8443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.104:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.104:8880
 vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=bale.ai&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
@@ -603,3 +601,5 @@ vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type
 vless://401374e6-df77-41fb-f638-dad8184f175b@164.38.155.97:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇬🇧 GB-164.38.155.97:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@213.109.205.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-213.109.205.20:8880
 vless://85e11d8a-6868-44d3-b241-d6c8c11a82be@104.16.225.110:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.225.110:443
+vless://bbcf346d-b058-4a72-b471-a606e25b6775@162.159.192.45:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.45:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇸🇮 SI-92.53.189.29:8880

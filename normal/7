@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://bbcf346d-b058-4a72-b471-a606e25b6775@162.159.192.45:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.45:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇸🇮 SI-92.53.189.29:8880
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.15.136:2052?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.136:2052
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.81:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.81:8880
 vless://1d7a7b23-725f-41a4-96e8-517c4af78e58@172.66.44.245:443?security=tls&sni=mAHDIseRVer-PjA.pages.DEv&type=ws&host=mahdiserver-pja.pages.dev&path=%2F4SRctKJJ08D87Q3k%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.245:443
@@ -603,3 +601,5 @@ vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@172.64.89.161:443?security=tls&sni=
 vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@104.17.190.134:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.190.134:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.157.21:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.21:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.8.54:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.8.54:443
+vless://d7930357-a535-43e7-9343-d69946d06163@104.26.14.85:2087?security=tls&sni=crm.gamingbazirani.ir&type=ws&host=crm.gamingbazirani.ir&path=%2FV2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2087
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.117:443

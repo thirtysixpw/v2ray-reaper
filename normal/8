@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d7930357-a535-43e7-9343-d69946d06163@104.26.14.85:2087?security=tls&sni=crm.gamingbazirani.ir&type=ws&host=crm.gamingbazirani.ir&path=%2FV2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2087
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.117:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.117:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.174.138.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.29:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.13.23:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.13.23:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.81.58.130:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-45.81.58.130:8880
@@ -603,3 +601,5 @@ vless://69d6a749-1cc8-4322-da5e-b9a74ae83ba5@104.21.23.162:2087?security=tls&flo
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.16.116.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.19:443
 vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?type=httpupgrade&host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.19.150.10:2086
 vless://5380824d-2c49-4d0d-8b2b-03c63dcf4ca7@104.17.21.157:8080?type=httpupgrade&host=selllv2rayng.nanvrfood.ir.&path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.17.21.157:8080
+vless://7142b57d-d2ce-4eb3-a5fb-84405d0d36ae@185.235.197.22:4001?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.235.197.22:4001
+vless://adec6fda-bd8b-4348-a3d8-a82c3d270532@162.159.192.214:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.214:443

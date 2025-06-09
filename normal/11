@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.207:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.207:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.35.219:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.35.219:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.216.112:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.216.112:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.205:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.205:443
 vless://5177172c-125a-47fa-bccd-3778b459a75e@173.245.59.113:443?sni=vless04.trevely.us.kg&type=ws&host=vless04.trevely.us.kg#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.59.113:443
@@ -603,3 +601,5 @@ vless://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:2082?type=ws&host=0531
 vless://0c27902d-c232-4044-ba68-b808c8ad8231@104.16.163.32:443?security=tls&sni=v2ray-confs.fariborzmohammadi1383.workers.dev&type=ws&host=v2ray-confs.fariborzmohammadi1383.workers.dev&path=%2Fvpn.6662221.xyz%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.32:443
 vless://5c87a3a5-d2c4-4cd9-878e-07e307b386d6@47.236.181.185:8443?security=tls&sni=mot.majusti.dpdns.org&type=ws&host=mot.majusti.dpdns.org&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇸🇬 SG-47.236.181.185:8443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.136:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-92.243.75.136:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.178:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:8443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.119.86:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.119.86:443

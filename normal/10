@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.150:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.20.150:2086
-vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.66.47.67:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.66.47.67:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.234:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.32:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.32:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?security=tls&sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.188:443
@@ -603,3 +601,5 @@ vless://c540f740-7a41-417b-981e-6b1911cacef0@178.255.222.171:3735?security=none&
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@168.138.46.67:443?security=tls&sni=agedgv.ambercc.filegear-sg.me&type=ws&host=agedgv.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-168.138.46.67:443
 vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.178.56.158:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=%2Fws%2F63b84876f2e89b42bbc19e48%2FX&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.178.56.158:443
 vless://43ef1f94-978f-4539-ba01-1e6005859950@172.67.200.192:443?sni=hostone-sg.zdsa.me&type=ws&host=hostone-sg.zdsa.me&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.200.192:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.172:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.152.172:443
+vless://5adc27e8-57e1-480b-a67c-ea0db8d4bdff@152.42.254.253:443?security=tls&sni=aka.ms&type=ws&path=%2FShalana&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-152.42.254.253:443

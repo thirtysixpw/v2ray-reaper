@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.21.69.44:2086?type=httpupgrade&host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.69.44:2086
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.96.217:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.217:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.220.248:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.220.248:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.249.6:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.249.6:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.3.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.3.175:443
@@ -603,3 +601,5 @@ vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.68.100:443?security=tls&sni=
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443?security=tls&sni=d1.medicaldream.ir&type=ws&host=d1.medicaldream.ir&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.149:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.40.78:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.40.78:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.162.228.57:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇦🇲 AM-185.162.228.57:2096
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.227.116:443?sni=hn.ylka.dpdns.org&type=ws&host=hn.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.9.227.116:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.217:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.217:443

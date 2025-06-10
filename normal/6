@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.242:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.242:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.9.49.29:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇷🇺 RU-193.9.49.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.45:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.45:80
 vless://b7685198-c09e-4683-a2da-1ec3729b1207@172.66.44.162:8443?security=tls&sni=BEstiVPN.PAGeS.Dev&type=ws&host=bestivpn.pages.dev&path=%2FTVudYKoTabgHzELB%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.162:8443
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.18.70.214:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.70.214:443
@@ -603,3 +601,5 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.152.18:443?sni=edccd.amberc
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.244:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.244:8880
 vless://0a23af3f-3f9b-4333-ae89-796f7fe2f9ce@172.67.175.139:443?security=tls&sni=S859886xYZXs.859886.xYz&type=ws&host=s859886xyzxs.859886.xyz&path=%2F25Rajr8UdFGa29fCwxS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.139:443
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.26.9.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.101:443
+vless://19521f09-daa8-4929-b806-f0a119a2bb88@172.66.47.130:2053?security=tls&sni=JoiNMAhDIsERVer-pa1.PaGEs.DEv&type=ws&host=joinmahdiserver-pa1.pages.dev&path=%2FMsiQtHbHPconTGbE%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:2053
+vless://b8c59cae-73a8-4f44-88f9-4e40a7b94058@104.19.54.50:8080?security=none&type=ws&serviceName=/@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh----@Filterk0sh?ed&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080

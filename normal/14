@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.99:443
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.218.15.238:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇭🇰 HK-154.218.15.238:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.96:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.96:443
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@173.245.59.124:443?security=tls&sni=ivsfa.sofia-biaborotookoocheh.info&type=ws&host=ivsfa.sofia-biaborotookoocheh.info&path=%2Ftiger%23Telegram%40V2ray_Alpha&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.124:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.221.191:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.221.191:443
@@ -603,3 +601,5 @@ vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?security=none&type=ws&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.249:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.36:8880
 vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?security=tls&sni=de.xyxy.dpdns.org&type=ws&host=de.xyxy.dpdns.org&path=%2Fb4e8f51d#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.229.45:443
+vless://37243333-f398-4239-817b-fcdc40922ce4@162.159.44.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.250:443
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.169:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.169:2096

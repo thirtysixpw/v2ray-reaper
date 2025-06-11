@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2FTelegram%40V2ray_Alpha#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.196:443
+trojan://Aimer@173.245.59.201:443?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.201:443
+trojan://0df6b9c4e7d58d84@54.178.71.192:443?security=tls&sni=n2.gladns.com&type=grpc&serviceName=db&alpn=h2#🔒 TR-GRPC-TLS 🇯🇵 JP-54.178.71.192:443
+trojan://trojan@104.18.12.229:8443?security=tls&sni=sunnyfish.pages.dev&type=ws&host=sunnyfish.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
+trojan://Aimer@104.22.61.103:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.61.103:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.18.144:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.18.144:443
 trojan://Aimer@104.16.41.210:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.41.210:443
 trojan://vip@104.17.64.70:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.64.70:443
@@ -598,8 +603,3 @@ trojan://Aimer@104.22.60.124:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0
 trojan://blue2024@104.19.90.210:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.90.210:443
 trojan://Aimer@108.165.152.80:2083?sni=epcco.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🇺🇸 US-108.165.152.80:2083
 trojan://Aimer@140.238.5.75:13644?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-140.238.5.75:13644
-trojan://Aimer@162.159.140.211:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.140.211:443
-trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.31:8443
-trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-45.194.53.81:2087
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
-trojan://Aimer@206.238.236.90:2087?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.90:2087

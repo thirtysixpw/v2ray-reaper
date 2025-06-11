@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.250:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.8.211.250:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.48:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-194.36.55.48:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.140:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.140:8880
+vless://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.61.229:443?security=tls&sni=Eeed43.FrEevPn2027.dPdNS.ORg&type=grpc&serviceName=RVZdZGSrg42QMKbEc4N8D&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.229:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.87:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.87:80
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.58.134:8443?security=tls&sni=mil-it.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇹 IT-84.17.58.134:8443
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.34:443
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.129.124:80?security=none&type=ws&host=danuwazero.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.129.124:80
@@ -598,8 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.119:8880?security=none&sni
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.146:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.74.146:443
 vless://9cbd71c9-0419-4093-a8f8-883e29408a2f@173.245.59.132:80?security=none&type=httpupgrade&host=v2ngfast.nanvrfood.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:80
 vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.142.185:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-192.9.142.185:443
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.214:80?security=none&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.214:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.20:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.20:8880
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.83.58:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-185.207.197.29:8880
-vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@140.248.129.58:80?security=none&type=ws&host=Channel--VPNCUSTOMIZE.ir&path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls#🔒 VL-WS-NONE 🇺🇸 US-140.248.129.58:80

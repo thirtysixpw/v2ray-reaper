@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.201:443
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.122.113:443
+vless://3232953e-5959-495c-b969-d6d86a635089@162.159.195.98:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.98:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.103:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.103:8880
+vless://e8a21fb1-007c-462f-a267-328bde3d0352@104.21.82.227:2053?security=tls&sni=worker-icy-wave-918c.333taim.workers.dev&type=ws&host=worker-icy-wave-918c.333taim.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.227:2053
 vless://9f30f465-e9c1-4726-87e8-6738ee3af36c@185.79.158.147:8087?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.147:8087
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.226:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.226:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.158.201:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.158.201:443
@@ -598,8 +603,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&
 trojan://xJ6KJem6QIwQ@104.21.71.8:8443?security=tls&sni=shabestan.itn24.ir&type=httpupgrade&host=shabestan.itn24.ir&path=/🆔@M3HDIO1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.71.8:8443
 trojan://Aimer@92.243.74.239:8443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-92.243.74.239:8443
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=/Telegram@FreeV2Alpha#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?security=tls&sni=icecream.955850.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-192.0.54.184:443
-trojan://Aimer@185.169.107.15:2053?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-185.169.107.15:2053
-trojan://telegram-id-directvpn@63.178.131.4:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.178.131.4:22223
-trojan://Aimer@104.19.39.28:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.39.28:443
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇵🇭 PH-154.83.2.54:2096

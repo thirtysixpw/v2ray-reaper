@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.47.173:443?security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&type=ws&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.173:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.234:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.157.234:443
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.63:2083
 vless://b1533182-6015-4f0d-b393-d3b94f55877f@151.101.8.51:80?security=none&type=ws&host=taxi.ir#🔒 VL-WS-NONE 🇧🇪 BE-151.101.8.51:80
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.78:80?path=Telegram🇨🇳#🔒 VL-TCP-NA 🇱🇹 LT-89.116.250.78:80
@@ -600,6 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.11.69:443?sni=xv6.jpmj.dpdns
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.16.100.13:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.100.13:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.157.45:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.45:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.211.8.76:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.211.8.76:8880
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F#🔒 VL-WS-NA 🇺🇸 US-66.235.200.30:80
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.209.237:80?sni=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&type=ws&path=Telegram@WangCai2/?ed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.237:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.159.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇦🇲 AM-188.164.159.29:8880

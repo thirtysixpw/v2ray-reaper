@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.177:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇩🇪 DE-45.80.111.177:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.40:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.45.40:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.165.43:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.165.43:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.159.178:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.159.178:443
 vless://95d42931-5fcc-4886-82a6-594c671a3286@146.75.78.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.78.133:443
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:443?security=tls&sni=DoMAIn2025.DPdNS.OrG&type=ws&host=domain2025.dpdns.org&path=%2FTIc4GnfRFFyXK6r7%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.215.253:443
@@ -600,6 +603,3 @@ vless://9a9a8e07-2735-46cb-9a94-686d030ca654@104.21.44.35:443?security=tls&sni=h
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@195.26.230.120:587?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇫🇮 FI-195.26.230.120:587
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.210.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.210.36:8880
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.195.108:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.108:443
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&sni=147135010103.sec19org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-51.81.124.80:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.157.21:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.21:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.158.59:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.59:443

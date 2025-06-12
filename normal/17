@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://87b566e0-6166-c655-0451-6c23d816b293@188.245.120.39:8249?security=none&sni=all88-vip.f-sub.com&type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.120.39:8249
+vless://5b973531-c165-480e-967e-5259409e644a@104.26.13.8:2096?security=tls&sni=mz.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.111:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇩🇪 DE-5.10.215.111:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.216:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.216:8880
 vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.16:80
@@ -600,6 +603,3 @@ trojan://d4c22fd9-1474-4e9f-baf7-80b162f3e60c@185.14.47.199:12002?security=tls&s
 trojan://Aimer@172.64.144.173:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.144.173:443
 trojan://Aimer@5.182.85.189:2096?sni=epccn.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.85.189:2096
 trojan://juzi@3.66.115.225:443?sni=juzi8186-sr1.pages.dev#🔒 TR-TCP-NA 🇩🇪 DE-3.66.115.225:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.68.86:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.86:443
-trojan://Aimer@175.215.175.175:50003?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.215.175.175:50003
-trojan://Aimer@209.208.227.79:443?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-209.208.227.79:443

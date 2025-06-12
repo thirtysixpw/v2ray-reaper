@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?encryption=none&security=none&type=ws&host=0210.uous1wog.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%A8%F0%9F%87%BE%20CY-195.85.59.95%3A2082
+vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&mode=gun#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-194.182.79.218%3A19608
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.150:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#%F0%9F%94%92%20VL-RAW-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-135.148.74.150%3A443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B7%F0%9F%87%B4%20RO-45.12.30.81%3A8443
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.183.83%3A80
 vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?encryption=none&security=tls&sni=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&host=kosesher2.nayase6031.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-50.7.85.221%3A443
@@ -600,6 +603,3 @@ vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.31.16.120:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.23:443?security=tls&sni=V2NGFASt-6N7.pAges.dEv&type=ws&host=V2Ngfast-6N7.pAgEs.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.23:443
 vless://68279b84-36f7-47c8-ba27-40de2d20153d@[0:0:0:0:0:ffff:b94f:9e93]:8087?security=none&type=tcp&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-[0:0:0:0:0:ffff:b94f:9e93]:8087
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.168:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.168:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@66.225.252.224:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-66.225.252.224:8880
-vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@188.114.97.88:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.88:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.150.133:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.150.133:443

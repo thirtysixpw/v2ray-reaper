@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.143:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.143:8880
-vless://822abf1e-f617-407b-9ff0-ce40eb821f71@104.16.217.226:2096?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.217.226:2096
 vless://9bbaef0c-7403-44ec-b412-244437e8e74a@188.114.98.189:8443?sni=hi.univermap.site&type=ws&host=hi.univermap.site#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.98.189:8443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.175.16.6:10023?sni=edms.ambercc.filegear-sg.me&type=ws&host=edms.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-121.175.16.6:10023
 vless://0870a931-b121-1278-f010-b140a958a300@185.148.106.19:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.148.106.19:443
@@ -603,3 +601,5 @@ vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@104.27.62.243:443?security=tls&sni=
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.193:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443?security=tls&sni=d1.medicaldream.ir&type=ws&host=d1.medicaldream.ir&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.149:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.228:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.228:8880
+vless://6aec167a-236f-4cb2-aa32-56efd7036be7@104.16.171.216:443?security=tls&sni=duohereshui.pages.dev&type=ws&host=duohereshui.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.171.216:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@104.18.94.238:443?sni=as.bgm2024.dpdns.org&type=ws&host=as.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.94.238:443

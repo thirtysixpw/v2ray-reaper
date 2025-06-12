@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.104:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.126:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.7.126:8880
 vless://c335c896-8893-4282-808d-13c2ddbefa7a@104.26.8.179:443?security=tls&sni=usla3.jsjc.sbs&type=ws&host=usla3.jsjc.sbs&path=%2Fjsjc%2Fus3&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.179:443
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.211.208:443
 vless://877be3a0-91d0-496c-a224-4413dd6fcc6b@37.59.27.66:2053?security=tls&sni=marzban.negintel.xyz&type=grpc&serviceName=wizard#🔒 VL-GRPC-TLS 🇫🇷 FR-37.59.27.66:2053
@@ -603,3 +601,5 @@ vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.163:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.142.120.163:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.114.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%40Selinc%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.114.20:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.212:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.212:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.215.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.29:8880
+vless://43ef1f94-978f-4539-ba01-1e6005859950@104.21.50.46:443?sni=hostone-sg.zdsa.me&type=ws&host=hostone-sg.zdsa.me&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.50.46:443

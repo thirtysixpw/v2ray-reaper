@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.21.98:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.98:443
-vless://4ae4f96c-98cf-467e-b97c-c12c625e1f37@148.113.195.27:26352?security=tls&sni=wiz.musicbaaz.ir&type=tcp&host=tc.donya-e-eqtesad.com&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇨🇦 CA-148.113.195.27:26352
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.217:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTABRIZ.NET%2C+%40Azarbayjab1.googleapis.com%2C+%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3Dtabrizm137.com#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.217:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?security=none&sni=pqf1v1.fomula1race.shop&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.105:8880
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@104.16.84.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.84.81:443
@@ -603,3 +601,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.83:443?sni=sl.ylka.dpdns.
 vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?security=tls&flow=xtls-rprx-vision-udp443&sni=www.hkust.edu.hk&fp=edge&allowInsecure=0#🔒 VL-TCP-TLS 🇭🇰 HK-38.225.102.22:43000
 vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@173.245.58.100:2086?security=none&type=httpupgrade&host=soed.serrjioo.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:2086
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.122:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-45.150.115.122:8880
+vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.43.27:5019
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.29:2083

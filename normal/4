@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://7f56467b-597a-4549-b3a7-2288c47a1d86@162.159.152.118:8443?sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.118:8443
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@104.26.11.126:443?security=tls&sni=mmd-p9k.PagEs.Dev&type=ws&host=mmd-p9k.pages.dev&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.126:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.179:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.179:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@156.238.18.41:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.41:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.187:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.211.187:8880
@@ -603,3 +601,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.152.104:8880?security=none&
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.26.8.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.225:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@91.193.58.178:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.58.178:8880
 vless://51385ef4-f91d-40f0-9acd-10fda0032ac8@172.66.47.45:2083?security=tls&sni=MaHdiSerVER-3ZO.PAgeS.DeV&type=ws&host=mahdiserver-3zo.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.45:2083
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=/#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.33:80
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.160:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-103.160.204.160:443

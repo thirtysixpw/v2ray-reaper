@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.0:80
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.155.86:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.86:443
 vless://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.71.131:443?security=tls&sni=m5rtghj.999854.xyz&type=ws&host=m5rtghj.999854.xyz&path=%2FGsJV4ORk0e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.131:443
 vless://9755cc88-09d8-437f-bd89-d4a89915d9ae@162.159.153.222:2096?sni=keji.madcity.lol&type=ws&host=keji.madcity.lol&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.222:2096
 vless://9fea4f96-8cc8-44c5-9450-797c3be88a31@104.21.32.226:2087?security=tls&sni=sina-mci-panel.eystem.ir&type=grpc&serviceName=@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.226:2087
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.190:8880?sni=sk.laoyoutia
 vless://7848a81e-3ed7-488f-8339-5a032e1c46c2@104.24.25.27:443?security=tls&sni=227123.xyz&type=ws&host=227123.xyz&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.25.27:443
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@216.24.57.202:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.202:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.15.55:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.15.55:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=pqh31v6.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.3.186:443
+vless://5ae1ff2c-6e74-4b47-930d-f04f89c31cfe@162.159.153.109:443?security=tls&sni=washing-decline-viewed-mysimon.trycloudflare.com&type=ws&host=washing-decline-viewed-mysimon.trycloudflare.com&path=%2F5ae1ff2c-6e74-4b47-930d-f04f89c31cfe-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.109:443

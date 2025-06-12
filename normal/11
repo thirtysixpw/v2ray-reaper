@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://919e64f3-f3d7-481b-b2d4-9dc5409c615f@104.21.77.230:2096?security=tls&sni=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&type=ws&host=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.230:2096
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.85.119.162:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.162:2096
 vless://55520747-311e-4015-83ce-be46e2060ce3@119.197.201.29:11481?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-119.197.201.29:11481
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.214.14:80
@@ -603,3 +602,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.85:2198?security=none&typ
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?security=tls&sni=vle.amclubsapp.dpdns.org&type=ws&host=vle.amclubsapp.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.254.4:2087
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.97:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.97:80
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.7.215:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-31.12.75.36:8880

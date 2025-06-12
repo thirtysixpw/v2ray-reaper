@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.190.11:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.190.11:443
 vless://e2937675-bf5e-444c-decb-8b9da4fb8b62@104.21.23.162:2096?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.162:2096
 vless://7d9a91e3-b560-45cc-8a98-0b5b0cc85507@199.232.5.153:443?security=tls&sni=connectcarolina.sites.unc.edu&type=ws&host=fast-ali.ecomeco.xyz&path=/download.zula_v1.8.10&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.153:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.131:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.131:80
@@ -603,3 +602,4 @@ vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@172.66.43.175:443?security=tls&sni=
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@170.114.45.216:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.216:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.188.41:80?sni=proud-queen-55500071.cexonoc962.workers.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.188.41:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.99:80
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.184.92:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.184.92:443

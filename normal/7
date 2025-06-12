@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.61.112:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.61.112:443
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@162.159.192.159:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.159:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@170.114.46.236:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-170.114.46.236:8880
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.89:80
@@ -603,3 +602,4 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.63.61:443?sni=xv6.jpmj.dpdns
 vless://1113a576-d328-447a-99a7-6fe72aac9596@172.67.210.173:443?security=tls&sni=HTTPSTMeYushIkvpn.wI1KEd9-2222.WorkERs.deV&type=ws&host=htTpSTMeyuSHIkVPn.wI1KED9-2222.workeRS.DEV&path=%2F-iTHd_IhWEGiFXyL%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.210.173:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.232:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇯🇵 JP-156.238.19.232:443
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.142.75:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=0#🔒 VL-WS-TLS 🇸🇪 SE-77.221.142.75:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.111.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇩🇪 DE-45.80.111.20:8880

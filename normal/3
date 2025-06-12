@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.173:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.173:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.55:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.55:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.110:443?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.110:443
 vless://774f044e-434e-4a2e-9619-4bf3ebb7687f@[0:0:0:0:0:ffff:b94f:9e93]:8087?type=tcp&host=%2FChannel%3A---%40MTMVPN---%40MTMVPN---%40MTMVPN&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-[0:0:0:0:0:ffff:b94f:9e93]:8087
@@ -603,3 +602,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.199:443?sni=edccf.aimercc.
 vless://fa8569b9-69e2-4a6d-cc80-7a0130f176af@104.24.196.20:2086?security=none&type=httpupgrade&host=wwW.speedtesT.net.eLectrolUxxv.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.196.20:2086
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@151.101.194.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://3834a452-778b-42d5-be27-b12236597a0d@104.18.26.50:8080?security=none&type=ws&host=vPncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FChannel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY----Channel-%40ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.50:8080
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.190.11:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.190.11:443

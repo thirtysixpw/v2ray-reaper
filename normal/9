@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.0:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.140:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.140:8880
 vless://d73f7804-d488-4aae-e499-88bece38f73a@172.67.163.103:8443?security=tls&sni=are.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:8443
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.17.225.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.225.171:443
@@ -603,3 +602,4 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.153.215:443?sni=xv6.jpmj.dpd
 vless://8b6ad77f-aeef-413d-b1a1-6419770a8bc7@104.24.191.191:443?sni=vless-new.linginglu.eu.org&type=ws&host=vless-new.linginglu.eu.org&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.191.191:443
 vless://6bc29783-3ff6-4379-8650-611a7095307b@165.1.68.155:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-165.1.68.155:443
 vless://3054a28e-177a-412f-9b03-9855d79aa728@104.26.13.31:8880?security=none&type=ws&host=0609.sunnyfish.dpdns.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.31:8880
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-185.59.218.58:443

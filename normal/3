@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.46.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-89.116.46.213:8880
-vless://eea0cd66-f631-46e5-8a68-e74797784eeb@172.66.46.213:443?security=tls&sni=speedtest1.svgspeedtest.net&type=ws&host=speedtest1.svgspeedtest.net&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.4.48:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.48:443
-vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.164.195:80
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@185.176.26.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.53:443
-vless://a089baeb-4c34-4faa-8fe3-17f59d6cda89@46.38.149.108:2096?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-46.38.149.108:2096
-vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.220.9:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.220.9:443
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@5.180.45.70:12000?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒 VL-WS-TLS 🇹🇷 TR-5.180.45.70:12000
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.80:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇸🇨 SC-154.194.0.213:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.26:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.26:80
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@151.101.194.219:80?security=none&type=ws&host=JoiIInNn--DIgiv2Ray.Ir.&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.21.96.65:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.65:443
@@ -603,3 +592,14 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.203:443?sni=hj.ylka.dpd
 vless://2b644d9c-ada7-4f0f-b2d1-039fcf09f377@104.16.179.31:443?sni=cf.cure.ren&type=ws&host=cf.cure.ren&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.179.31:443
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@205.233.181.184:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.184:2096
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@135.84.65.11:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.65.11:80
+vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.58:2086?security=none&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.58:2086
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.139:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.139:8880
+vless://ffbcc76d-0d20-4ece-bad2-50ff8180b0a5@173.245.59.132:8080?type=httpupgrade&host=mahdiserver.nanvrfood.ir.#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-173.245.59.132:8080
+vless://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.22.36.243:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.244:80?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.244:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.24:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.24:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.90:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.90:80
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.36.135:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.36.135:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.5:443?security=tls&sni=1749023174552.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&type=ws&host=1749023174552.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.224.5:443
+vless://de67740f-b6fe-4844-adb0-55431f2e162c@65.109.200.1:1483?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.200.1:1483
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.30.60:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.60:80

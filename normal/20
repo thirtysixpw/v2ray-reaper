@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.69.50:443?sni=4o.191292.xyz&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.69.50:443
+trojan://Aimer@156.225.72.199:2096?sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-156.225.72.199:2096
 trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-52.40.102.162:443
 trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.251.7.76:50000
 trojan://Aimer@104.17.178.92:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.178.92:443
@@ -601,5 +603,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.243:2053?security=tls&
 trojan://i6Q2Mgkvwc@198.41.221.63:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.63:443
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.96.1:2096?security=tls&sni=ExpREsSTv.Twn24.ir&type=ws&host=expresstv.twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.96.1:2096
 trojan://Aimer@216.198.53.212:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-216.198.53.212:8443
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443?security=tls&sni=golinkwuxian.top&type=ws&host=8888.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🇧🇷 BR-144.22.250.122:443
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.53:443

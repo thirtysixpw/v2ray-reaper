@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.99.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.87:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.211.8.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-154.211.8.20:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.95.253:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.253:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.41.148:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.41.148:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.66.46.66:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.46.66:443
@@ -601,5 +603,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?security=none&ty
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.180:8443?security=tls&sni=edccw.aimercc.filegear-sg.me&type=ws&host=edccw.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.180:8443
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.217.204:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.217.204:443
-vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@172.67.214.223:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.223:443
-vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:1519?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-49.13.237.7:1519

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.75:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=1#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.75:8880
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.167:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.167:80
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.161.104:443?security=tls&sni=azadnet-btq.pages.dev&type=ws&host=azadnet-btq.pages.dev&path=%2Fazadnet-btq.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:443
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@104.19.250.20:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.250.20:443
 vless://3054a28e-177a-412f-9b03-9855d79aa728@104.21.1.11:8880?type=ws&host=0609.sunnyfish.dpdns.org&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.1.11:8880
@@ -601,5 +603,3 @@ vless://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.58.83:443?security=tls&sni=x
 vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
 vless://13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.185.107:443?security=tls&sni=wWwde.00890604.xyz&type=ws&host=wwwde.00890604.xyz&path=%2FWfxcqrR5ycVpIit2OdWk0KwirdY&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.107:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.122:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.122:2096
-vless://66623734-6266-4361-b037-613830383631@162.159.136.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:443
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.213:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-104.129.167.213:8880

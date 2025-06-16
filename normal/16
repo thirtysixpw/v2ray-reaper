@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.24.72.125:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.72.125:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.29:8880?type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🔒 VL-WS-NA 🇦🇪 AE-94.140.0.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.219:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-45.80.111.219:80
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@94.142.255.97:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇵🇱 PL-94.142.255.97:443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@198.41.193.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.193.154:443
@@ -601,5 +603,3 @@ vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?security=tls&sni
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.113:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.63.113:443
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@162.159.193.194:443?security=tls&sni=ZyzZzoAO.puTAta.eu.ORg&type=ws&host=zyzzzoao.putata.eu.org&path=%2FN5Ank0DUsNvJIVyL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.193.194:443
 vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?security=tls&sni=hk.mehun.me&type=ws&host=hk.mehun.me&path=%2Fbing#🔒 VL-WS-TLS 🇭🇰 HK-156.59.125.66:443
-vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.99.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.87:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.211.8.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-154.211.8.20:8880

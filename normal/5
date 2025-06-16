@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.7:2083?sni=1749800457620.a1.a2.a3.a4.a5.a6.a7.a8.a9.a10.a11。#🔒 VL-TCP-NA 🏴‍☠️ NA-141.101.120.7:2083
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.104.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.148.104.213:8880
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.lovelive-anime.jp&fp=chrome#🔒 VL-TCP-TLS 🇯🇵 JP-219.94.255.221:443
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@162.159.195.49:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.49:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.209.20:8880
@@ -601,5 +603,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.77.25.6:27854?security=tls&sni=p
 vless://85b82e66-e9cb-49c7-be5b-81b3ae1bda90@104.22.22.164:443?security=tls&sni=mehdiama.vpntestvpn794.workers.dev&type=ws&host=mehdiama.vpntestvpn794.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.164:443
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?security=none&sni=delam.ahaysiahzangi.dpdns.org&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.1.106:80
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-103.133.1.227:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.61.45:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.61.45:443
-vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=/ws-connect/download/update/check/version/2.1.9/patch/force&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.227:443

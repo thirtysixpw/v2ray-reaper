@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.165.226:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.165.226:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.53:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒 VL-WS-NA 🇺🇸 US-141.193.213.53:80
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.16.77.60:2087?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.77.60:2087
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.154:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.154:80
@@ -602,4 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@198.41.220.80:443?sni=xv6.jpmj.dpdn
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.195:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.195:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇭🇷 HR-213.182.199.213:8880
 vless://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.127:6000?type=ws&path=%2Fconnect%2Fws%2F#🔒 VL-WS-NA 🇮🇷 IR-85.133.234.127:6000
-vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@190.93.245.89:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=%2Ffp%3Dchrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.89:443

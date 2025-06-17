@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://dd63d759-c96a-4c05-bdfa-f430fb82ec51@173.245.59.132:2053?security=tls&sni=de.gt-ov.com&type=ws&host=de.gt-ov.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.132:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@181.214.1.20:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir#🔒 VL-WS-NONE 🇦🇪 AE-181.214.1.20:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.137.37:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.37:443
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.21.96.1:80?security=none&type=ws&host=LG2.topshop20.com&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.1:80
@@ -602,4 +603,3 @@ vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?type=ws&host=icy-b
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.244:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/Telegram@Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.20.244:2086
 vless://2e19ad3d-133c-4e88-bfc4-2d8b0e9ee43d@147.78.140.162:8080?security=none&type=httpupgrade&host=pivaz-i.plas-nim.org&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇧🇬 BG-147.78.140.162:8080
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.140:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.140:8880
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.81.58.130:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-45.81.58.130:8880

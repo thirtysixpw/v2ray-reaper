@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@190.93.245.89:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=%2Ffp%3Dchrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.89:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.65:8880?type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.65:8880
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.66.210.188:80?security=none&sni=a1.ghormehsabzi.dpdns.org&type=ws&host=a1.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.210.188:80
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?security=tls&sni=azadnet1-706.pages.dev&type=ws&host=azadnet1-706.pages.dev&path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.67:8443
@@ -602,4 +603,3 @@ vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.6.85:80?sni=worker-soft-mous
 vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@172.67.68.242:443?security=tls&sni=azarandooz.prospective.workers.dev&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.242:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.0.209:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.0.209:443
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@104.129.167.23:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.23:8880
-vless://dd63d759-c96a-4c05-bdfa-f430fb82ec51@173.245.59.132:2053?security=tls&sni=de.gt-ov.com&type=ws&host=de.gt-ov.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.132:2053

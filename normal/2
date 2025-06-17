@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?encryption=none&security=none&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.41.138%3A8880
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?encryption=none&security=tls&sni=freedom13.bypasojd.workers.dev&fp=chrome&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.168.58%3A443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.230%3A8880
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?encryption=none&security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.128.212%3A443
@@ -602,4 +603,3 @@ vless://51542914-e2ff-4b72-9229-268f4c04f8ba@172.66.47.137:2083?security=tls&sni
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@66.225.252.25:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-66.225.252.25:8880
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?security=none&type=ws&host=photographipictureai.ir&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.112:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.153.140:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.153.140:443
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.165.226:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.165.226:443

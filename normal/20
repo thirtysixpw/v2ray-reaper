@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://f8765e8a-8e83-41da-8379-451ddd2cf56a@185.83.182.217:1007?type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.83.182.217:1007
-vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@167.68.11.96:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.11.96:2082
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.43.217:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.43.217:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.217.170:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.217.170:443
-vless://a2e60452-9974-45a7-a32f-719a78ee21b0@104.21.79.42:8080?security=none&type=httpupgrade&host=blog.fastroot.ir&path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.79.42:8080
-vless://5b6e1f05-8369-4574-aa19-70effd1639c7@37.202.235.20:39666?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.235.20:39666
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.14:443?security=tls&sni=147135001178.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.14.14:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇰🇿 KZ-185.176.26.29:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.0.211:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.0.211:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.37:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇧🇬 BG-147.78.140.37:8880
-vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@213.159.68.143:443?security=tls&sni=blog.demo98.ir&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇫🇮 FI-213.159.68.143:443
-vless://9b7645aa-91f4-4f6d-98d9-c22f4ce8784f@151.101.1.91:80?type=ws&host=trickshow.silaber.net&path=%2F%3Fed%3D1024#🔒 VL-WS-NA 🇺🇸 US-151.101.1.91:80
-vless://a51814bb-7783-4cfe-a629-6f0054fd7a9d@162.159.138.232:80?security=none&type=ws&host=TMCUSTOMIZE-TMCUSTOMIZE.v2ray.motorcycles&path=/@VPNCUSTOMIZE#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:80
 vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?security=tls&sni=google.com&type=ws&host=www.digiato.com&path=/home?id%3D10&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-167.82.231.255:443
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.5.114:443
 vless://4d91cb19-dbf7-4a01-9874-df9e167c619f@194.31.108.142:12972?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-194.31.108.142:12972
@@ -603,3 +590,16 @@ trojan://Aimer@104.16.197.190:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.205:2053
 trojan://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.24.172:443?security=tls&sni=cDvFbNMjkI9.852224.dPdNs.Org&type=ws&host=cdvfbnmjki9.852224.dpdns.org&path=%2FjQJHvSHXKUctFw6Ri5y2&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.24.172:443
 trojan://Aimer@104.17.234.72:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.234.72:443
+trojan://Aimer@172.67.152.128:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.152.128:443
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.189:443
+trojan://vip@104.26.6.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.6.112:443
+trojan://Aimer@23.94.211.148:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-23.94.211.148:443
+trojan://Aimer@5.182.84.66:2083?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.66:2083
+trojan://Aimer@45.154.98.230:7102?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-45.154.98.230:7102
+trojan://Aimer@91.149.239.198:443?sni=epmw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-91.149.239.198:443
+trojan://Aimer@104.26.6.237:443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.237:443
+trojan://Aimer@172.64.35.95:443?sni=epccc.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.95:443
+trojan://Aimer@162.159.141.228:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.141.228:443
+trojan://Aimer@188.164.159.241:2096?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.241:2096
+trojan://juzi@18.135.188.86:443?sni=juzi8186-sr1.pages.dev#🔒 TR-TCP-NA 🇬🇧 GB-18.135.188.86:443
+trojan://ttfang@128.199.237.143:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-128.199.237.143:443

@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://26224a7a-804d-48cc-bc95-cd86e6faf525@144.202.22.147:443?security=tls&type=tcp&sni=v12.nmcf.me#US2
-trojan://Aimer@162.159.134.201:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A513
-trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A514
-trojan://ttfang@198.41.221.13:443?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A515
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.17:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A516
-trojan://Aimer@104.16.4.25:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A517
-trojan://Aimer@199.34.228.66:2053?sni=epmw.ambercc.filegear-sg.me#US3
-trojan://Aimer@108.165.152.82:8443?sni=epcch.ambercc.filegear-sg.me#US4
 trojan://Aimer@162.159.143.219:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A518
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkiLCJhZGQiOiIxMTEuNDcuMjEyLjQ3IiwicG9ydCI6IjM1MjE1IiwiaWQiOiJjMzEzNjgxNC1hMDdlLTQxZjYtYWQ5NC04ZTIwNDU4YzBkMjEiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndlYi54Y2pzLmluZm8iLCJwYXRoIjoiL2hvbWUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqcDUuZzIubW9vbmJhc2UubGlmZSIsInRlc3RfbmFtZSI6IjE5In0=
 trojan://Aimer@154.197.64.228:2083?sni=epccd.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A520
@@ -603,3 +595,11 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%A
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0323
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.38-0315
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0312
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.230-0308
+vmess://ewogICAgImFkZCI6ICJucG1qcy5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrZTdoejM2ZXd6LTQ1MTUwMTc0NzMubWFzaGFsbGFoYmV0LmNvbSIsCiAgICAiaWQiOiAiNmNiYzljNzgtMWNiMS01N2Q0LWE5OTktZTJmNGUzNGMxZTAzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL25hc25ldC9jZG4iLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTcuMTc2LjE3MS0xMDMwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US-172.233.128.126-0318
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0328
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWDc2bmRnVGN5RVNlVW5aZTByNWRP@150.241.69.126:3452#%F0%9F%87%B3%F0%9F%87%B1NL-150.241.69.126-1017
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0326
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%F0%9F%87%AA%F0%9F%87%B8ES-92.38.171.215-0339
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE-45.144.54.33-0324

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@172.67.159.44:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.159.44:443
-trojan://i6Q2Mgkvwc@198.41.221.63:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.221.63:443
 trojan://ttfang@91.192.81.154:8443?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-91.192.81.154:8443
 trojan://Aimer@103.116.7.189:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.189:443
 trojan://Aimer@104.129.166.131:8443?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-104.129.166.131:8443
@@ -603,3 +601,5 @@ trojan://Aimer@104.26.3.198:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.26.69:443?security=tls&sni=BoSTON03.862224.ggFf.neT&type=ws&host=boston03.862224.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.26.69:443
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=raw&fp=chrome#🔒 TR-RAW-TLS 🇸🇬 SG-38.180.249.177:8443
 trojan://Aimer@104.26.2.145:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.2.145:443
+trojan://Aimer@107.174.192.67:42522?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-107.174.192.67:42522
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.15:2053

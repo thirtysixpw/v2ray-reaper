@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?type=ws&host=yd.laoyoutiao.link&path=Telegram#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.17:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.165.101:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.165.101:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.243.74.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-92.243.74.20:8880
 vless://acdfe24e-3e2c-4e66-8274-478ab44cd71d@216.24.57.134:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.134:2096
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.191:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.191:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.222.213:8880
@@ -603,3 +600,6 @@ vless://49e6a7af-97c5-4c33-b749-e59d7b5eaa30@59.15.182.92:21825?security=tls&sni
 vless://a7e48dcf-c612-41d3-9af2-3a4e7bcf23db@104.22.33.78:8880?type=ws&host=join.vPncustomize.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.33.78:8880
 vless://f8467c42-f9e5-4c07-9854-517ef3090ef5@104.16.117.254:2083?sni=fantin.dpdns.org&type=ws&host=fantin.dpdns.org&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.117.254:2083
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?security=none&sni=aymng.bahareh.dpdns.org&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.85.22:80
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.17.92:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.17.92:2087
+vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@199.232.170.133:80?type=xhttp&host=joinbede_unlimiteddev.ir#🔒 VL-XHTTP-NA 🇫🇷 FR-199.232.170.133:80
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@74.49.214.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-74.49.214.247:8880

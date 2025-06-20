@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.153.55:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.55:443
-vless://55520747-311e-4015-83ce-be46e2060ce3@104.17.25.173:443?security=tls&sni=fs.bgm2024.dpdns.org&type=ws&host=fs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.25.173:443
-vless://dbbfc9a5-7bed-45fd-afae-a655f285788d@104.26.15.85:8880?security=none&type=ws&host=de-snapp.academigroup.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:8880
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.90.193.159:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=1#🔒 VL-WS-TLS 🇨🇭 CH-91.90.193.159:443
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3.112.235.148:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇯🇵 JP-3.112.235.148:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.4.231:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.231:443
@@ -603,3 +600,6 @@ vless://99727208-0086-43f9-f0ad-9e30f546b822@14.102.229.38:8880?type=httpupgrade
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@141.147.188.120:443?sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-141.147.188.120:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.250:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.250:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.42.47:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FaU9CfsWoY5YeBGLV%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.47:443
+vless://d91894d8-c06b-44aa-b905-57ef6e9354aa@45.131.4.7:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=%EA%84%93o%EA%84%AFr%EA%85%8Aa%EA%85%A1f%EA%85%BBi%EA%86%90c%EA%86%AA%EA%87%8D%EA%87%B1%EA%88%8D%EA%84%B0%EA%85%8B%EA%88%A9%EA%88%BF%EA%89%9C%EA%89%AD%EA%89%BF.YaHvE111.COM.&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.4.7:2087
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.229:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.229:8880
+vless://95d42931-5fcc-4886-82a6-594c671a3286@151.101.18.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.18.133:443

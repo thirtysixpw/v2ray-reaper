@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.146.57:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.146.57:443
-vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.247.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.54.120:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.54.120:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.217.47:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.217.47:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.185:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.185:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.180:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.80.180:2052
@@ -603,3 +600,6 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.147.36:443?security=tls&sni=
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.155:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.155:8443
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.25.165.81:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.165.81:443
 vless://31348b17-4ab2-40c0-b79e-c81032331d30@104.16.140.135:2087?security=tls&sni=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&type=ws&host=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.140.135:2087
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.119:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.119:80
+vless://31022df4-d581-4e3a-b891-be3cd029e675@104.21.77.44:2087?security=tls&sni=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&type=ws&host=mas33a9278f1-c22b-aecb-72b1-bc8ddc42b35f.890603.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.44:2087
+vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.97.201:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.201:443

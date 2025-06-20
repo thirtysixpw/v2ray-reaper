@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@104.25.135.62:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.135.62:443
-vless://c8a1782e-2b67-4933-b80b-5a87b5653f04@172.64.46.220:2083?security=tls&sni=robook.dpdns.org&type=ws&host=robook.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.46.220:2083
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.227:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-141.193.213.227:80
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.59:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.59:8880
 vless://c3c20db7-d32b-454a-9843-ec22d064a842@104.21.41.131:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.131:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.16:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.208.16:8880
@@ -603,3 +600,6 @@ vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.44.225:2087?sni=nEwMTPROxI.P
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@162.159.192.130:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.130:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.168:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.168:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.165.161:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.165.161:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.99:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.99:80
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@155.46.213.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-155.46.213.247:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.48:80?security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@MxlShare%2B@WangCai2%2B%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.48:80

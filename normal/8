@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://55e5353f-4ba9-4971-922f-3d897a36302a@172.64.42.48:2096?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.42.48:2096
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.97:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.97:80
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.63.224:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.63.224:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.111:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.111:8880
 vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.68.100:443?security=tls&sni=m1qqqqqqq.777289.xyz&type=ws&host=m1qqqqqqq.777289.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.100:443
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.185.187:2053?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.185.187:2053
@@ -603,3 +600,6 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?security=tls&sni=
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.183.150:2052?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.183.150:2052
 vless://dc100d19-987f-4eae-8f40-6ef942fb9e96@172.66.44.93:2083?security=tls&sni=JoiNMAhdiSeRVEr-tc5.Pages.dEV&type=ws&host=joinmahdiserver-tc5.pages.dev&path=%2Fd6Yfzw560AUxW64Q%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.93:2083
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.97.132:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.132:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.85:80?security=none&type=ws&host=ipsycho.suex12.ir#🔒 VL-WS-NONE 🇧🇬 BG-147.78.140.85:80
+vless://0fdf994e-c44f-4781-9d77-244b17904380@91.99.150.157:3789?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:3789
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?security=none&sni=dw.alibichareh.dpdns.org&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.209.145:80

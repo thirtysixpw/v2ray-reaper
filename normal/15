@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.7.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.63:8880
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.16.64.172:443?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.64.172:443
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.22.19.174:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.19.174:443
 vless://b8bea0dc-a1e4-4327-bcbf-0f0056986e71@172.67.187.26:2052?type=ws&host=wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.&path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.187.26:2052
@@ -603,3 +602,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.20:8880?security=none&typ
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.52.87:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.52.87:443
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.99:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.206:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.206:80
+vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@104.19.0.251:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.0.251:443

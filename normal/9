@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://33428626-237f-44ce-93c3-efe007db8a7f@173.245.58.181:443?security=tls&sni=qsc0wrja.yandixpartners.com&type=ws&host=qsc0wrja.yandixpartners.com&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.181:443
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@45.131.6.58:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2F%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.58:2086
 vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.178.56.158:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=%2Fws%2F63b84876f2e89b42bbc19e48%2FX&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.178.56.158:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@159.112.235.58:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-159.112.235.58:8880
@@ -603,3 +602,4 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.131:8880?security=none&t
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.94:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.94:443
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@217.61.61.190:42538?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇮🇹 IT-217.61.61.190:42538
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.96.197:12902?security=tls&sni=edcce.ambercc.filegear-sg.me&type=ws&host=edcce.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇭🇰 HK-8.210.96.197:12902
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@154.218.15.25:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇭🇰 HK-154.218.15.25:8880

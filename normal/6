@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.18.0.181:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.0.181:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=none&sni=pqh32v6.film32western.shop&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.176:8880
 vless://0a614a84-af05-4806-8d7a-209375837be8@104.17.234.128:443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za&type=ws&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.128:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.176.253:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇿🇦 ZA-102.177.176.253:8880
@@ -603,3 +602,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.149:34045?security=tls&s
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.17.148.22:2052?type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.22:2052
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.9.156:443?security=tls&sni=yx.yushan.dpdns.org&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.156:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.39:8880
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@154.206.12.52:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.206.12.52:8880

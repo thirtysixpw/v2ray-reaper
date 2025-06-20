@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.20.151:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.151:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.34:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.34:8880
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?security=none&type=ws&host=pormang.webhost99.workers.dev#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.128:80
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-94.103.183.229:2053
@@ -603,3 +602,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.64:80?security=none&typ
 vless://be40e282-0efd-489b-9350-a1dd266c9961@162.159.130.234:2096?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096
 vless://ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@140.248.125.7:80?security=none&type=xhttp&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-140.248.125.7:80
 vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.24:8880
+vless://8ecc2a9f-b164-453b-b768-6447ce1eb549@104.18.165.203:2052?security=none&type=httpupgrade&host=gmmm-opiranbooster.superip.ir.&path=%2F%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.165.203:2052

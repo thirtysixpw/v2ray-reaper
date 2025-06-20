@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2095
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@31.133.0.159:2053?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇵🇱 PL-31.133.0.159:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.224.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.224.29:8880
@@ -603,3 +602,4 @@ vless://ebbd3aa7-60ac-4a1a-9377-91ef60b7d6e9@185.143.235.1:443?security=tls&sni=
 vless://f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?security=tls&sni=www.gcore.com&type=ws&host=cdn.dafiemikonetheweekendplay.space&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-81.28.12.12:443
 vless://16f00fd0-b0e4-4277-a159-b62b12c10cc5@104.17.148.22:2087?security=tls&sni=UK2WBo0IKX3iYI4i9wJdyu6y-o28eT7o.pAgES.dEV&type=ws&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&path=%2FiNyVbdkkx2FGfQry%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
 vless://37923a01-14f0-40c2-a5dd-d0349ca27210@104.21.23.63:2052?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.23.63:2052
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.182.185:80?security=none&sni=havvas.shohreh.dpdns.org&type=ws&host=havvas.shohreh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.182.185:80

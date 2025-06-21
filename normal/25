@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@103.116.7.100:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.100:2087
+trojan://Aimer@104.18.46.91:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.46.91:443
+trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.16.1:2096?security=tls&sni=ExpREsSTv.Twn24.ir&type=ws&host=expresstv.twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.16.1:2096
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@172.67.201.36:443?security=tls&sni=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.Org&type=ws&host=gggggggggggggggy.freevpn2026.dpdns.org&path=%2Fl96MZ8se5Kl2p8BiMhP42l&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.201.36:443
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?sni=www.yrtok.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-203.156.253.11:39001
 trojan://L8U%7DdsK%26%21p%5B3@104.17.147.22:8443?security=tls&sni=0HvsNO270bvRxG6EKbY8uMsQn-6941Fa.paGeS.dEV&type=ws&host=0hvsno270bvrxg6ekby8umsqn-6941fa.pages.dev&path=%2Ftr03UmdqNDGl46xp6G%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
@@ -600,6 +603,3 @@ trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&sni
 trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-221.154.119.147:34422
 trojan://Aimer@162.159.38.104:2087?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.38.104:2087
 trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@104.18.15.19:443?security=tls&sni=azarandooz.azarina.workers.dev&type=ws&host=azarandooz.azarina.workers.dev&path=/trojan-ws/@AzarAndoozVPN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.15.19:443
-trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@172.67.170.147:443?security=tls&sni=m5ttty.999854.xyz&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.170.147:443
-trojan://Aimer@172.64.35.199:443?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.199:443
-trojan://Aimer@162.159.130.112:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.112:443

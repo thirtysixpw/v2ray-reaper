@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.135.107:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.107:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.49.188:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.49.188:443
+vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@[2606:4700:20::681a:d65]:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=%2Fdhcfh%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-[2606:4700:20::681a:d65]:8880
 vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.248:5112?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:5112
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.132.38:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-99.81.132.38:22222
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@45.149.12.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.149.12.251:8880
@@ -600,6 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&host=hk.l
 vless://b3ec1385-e08f-422e-b32a-9d032f80ea01@172.66.47.59:443?security=tls&sni=MahDISERveR-xnr.pAgES.dev&type=ws&host=mahdiserver-xnr.pages.dev&path=%2FrFUTD89NIbVo64GI%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.59:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.63:8880
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@91.99.150.157:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:1522
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.0:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.0:2087
-vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.198:80?security=none&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-103.116.7.198:80
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇫🇮 FI-65.109.145.54:443

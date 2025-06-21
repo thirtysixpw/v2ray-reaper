@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@108.165.152.252:2096?security=tls&sni=epccf.ambercc.filegear-sg.me&type=ws&host=epccf.ambercc.filegear-sg.me&path=/#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.252:2096
+trojan://Aimer@172.64.152.59:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.152.59:443
+trojan://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.57.88:443?security=tls&sni=eeeeeEE4.iRan.PP.uA&type=ws&host=eeeeeee4.iran.pp.ua&path=%2F51ilfH8vHwxilZqfwAwY2SNm&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.57.88:443
 trojan://NISHIKUITAN111@104.19.44.160:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.44.160:443
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23003?sni=sni.eos-suzhou-4.cmecloud.cn&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23003
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.200.17:443?security=tls&sni=jp.mjt001.com#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.200.17:443
@@ -600,6 +603,3 @@ trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-2
 trojan://bpb-trojan@168.138.185.234:443?sni=skwygx.top#🔒 TR-TCP-NA 🇸🇬 SG-168.138.185.234:443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.241:2096?security=tls&sni=1744156312.speed.nycvara.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.241:2096
 trojan://Aimer@104.26.15.183:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.15.183:443
-trojan://Aimer@103.116.7.100:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.100:2087
-trojan://Aimer@104.18.46.91:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.46.91:443
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.16.1:2096?security=tls&sni=ExpREsSTv.Twn24.ir&type=ws&host=expresstv.twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.16.1:2096

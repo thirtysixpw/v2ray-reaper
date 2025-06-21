@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.183:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.183:2096
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@184.174.80.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-184.174.80.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-193.33.87.63:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.39:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.39:8880
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.48.1:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.48.1:2087
@@ -601,5 +603,3 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@92.53.190.248:2096?security=tls&sni
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.24.0.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.14:443
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?security=tls&sni=github.com&fp=chrome#🔒 VL-TCP-TLS 🇱🇺 LU-45.12.139.44:2040
 vless://e6df2bfc-1469-41be-9d04-cecd4ab54ed1@172.66.44.229:2083?security=tls&sni=MAhDISERVeR-JsU.pAGEs.DeV&type=ws&host=mahdiserver-jsu.pages.dev&path=%2F8ko13fPjoziez0fk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.229:2083
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@108.162.192.100:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.192.100:2052
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.233:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.233:80

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.64.158.193:443?security=tls&sni=rayan-08.parastoo.dpdns.org&type=ws&host=rayan-08.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.158.193:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.34.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=1#🔒 VL-WS-NA 🇩🇪 DE-5.182.34.29:8880
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.207.226.166:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-34.207.226.166:443
 vless://3054a28e-177a-412f-9b03-9855d79aa728@104.26.13.31:8880?security=none&type=ws&host=0609.sunnyfish.dpdns.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.31:8880
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@86.38.156.247:2053?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-86.38.156.247:2053
@@ -601,5 +603,3 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@88.216.67.191:8880?security=none&ty
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.97:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.97:8880
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?security=none&sni=fggerlad.gerald81.dpdns.org&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.138.81:80
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?security=none&type=ws&host=aio.loophole.Biz.iD&path=%2Faioproxybot%2F8.215.59.6-443#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.188.18:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.140.89:80?sni=301.pooriam.ir&type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.140.89:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.19:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.19:8880

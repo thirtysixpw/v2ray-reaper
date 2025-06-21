@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a2e4c95a-9257-4833-81ca-2c4e634a521a@86.105.4.199:8295?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s#🔒 VL-TCP-RLT 🇹🇷 TR-86.105.4.199:8295
+vless://0a4ff1fa-fcad-4c7b-aeb8-6f8c63456511@91.99.113.219:443?security=reality&sni=www.cdn77.com&type=grpc&fp=chrome&pbk=Z-psI2tV8An0mWDONYt9uJeHZS19c1hrwlLQ1ZEtPAw&sid=732b4e7f9b4f5f#🔒 VL-GRPC-RLT 🇩🇪 DE-91.99.113.219:443
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@85.114.138.122:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-85.114.138.122:8443
 vless://0A1DDFE6-A16A-43FA-A6E3-70EDE4EA61C3@34.220.114.119:10122?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#🔒 VL-TCP-RLT 🇺🇸 US-34.220.114.119:10122
 vless://cb31e3e6-3618-4b5f-905c-d64161ddeb12@194.87.84.113:7005?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk#🔒 VL-TCP-RLT 🇷🇺 RU-194.87.84.113:7005
@@ -601,5 +603,3 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?sni=steep.skyfigu
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@220.120.172.116:12365?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-220.120.172.116:12365
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.112.235.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-159.112.235.213:8880
 vless://0fc8452a-17f9-47de-95dd-65de502d39da@147.182.246.69:58017?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-147.182.246.69:58017
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.105:8880
-vless://75747df9-9efb-4842-acf0-86854d42115a@104.26.15.85:80?security=none&type=ws&host=aleRtEd-EntErTAinmeNT.ONEEAT.co.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80

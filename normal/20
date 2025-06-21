@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://32b1630f-7964-4d58-847c-1cea931e60ed@188.114.96.5:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.5:443
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?security=none&sni=kssepa.sabzipolobamahi.dpdns.org&type=ws&host=kssepa.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.9.145:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.135.107:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.107:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.49.188:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.49.188:443
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@[2606:4700:20::681a:d65]:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=%2Fdhcfh%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-[2606:4700:20::681a:d65]:8880
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880?security=none&ty
 vless://0fdf994e-c44f-4781-9d77-244b17904380@91.99.150.156:3799?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.156:3799
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇺 LU-188.42.89.29:8880
 vless://b3ec1385-e08f-422e-b32a-9d032f80ea01@172.66.47.59:443?security=tls&sni=MahDISERveR-xnr.pAgES.dev&type=ws&host=mahdiserver-xnr.pages.dev&path=%2FrFUTD89NIbVo64GI%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.59:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.63:8880
-vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@91.99.150.157:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:1522

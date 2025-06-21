@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.147:8880?type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.147:8880
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@103.245.228.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇮🇳 IN-103.245.228.251:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.207:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-141.193.213.207:80
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.99.50:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.50:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:8880?security=none&type=httpupgrade&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.138:8880
@@ -601,5 +603,3 @@ vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2087?sni=nEwMTPROxI.PA
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@104.18.20.135:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.135:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.46.30.213:8880?security=none&type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NONE 🇺🇸 US-209.46.30.213:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.108:8443?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.2.108:8443
-vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.24.180.93:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.93:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@164.38.155.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-164.38.155.63:8880

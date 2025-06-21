@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2087
+vless://99727208-0086-43f9-f0ad-9e30f546b822@89.116.180.127:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.127:8880
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.0.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.0.117:2083
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-45.153.7.63:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.110:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.110:8880
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.7.50:80?path=%2Fby-AB_841.[#
 vless://9a7c1d8e-1234-4567-890a-bcdef0123456@65.254.242.180:443?security=tls&sni=mydomain.com&type=ws&host=mydomain.com&path=%2Fv2raypath#🔒 VL-WS-TLS 🇺🇸 US-65.254.242.180:443
 vless://4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?security=tls&sni=899.288288.shoP&type=ws&host=899.288288.shop&path=/wAlPWPCQWnsVcNgLsMVz&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.126:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.223:8880?type=ws&host=sk.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.223:8880
-vless://25d5ece5-8952-4529-98fa-30b09bacd307@104.21.78.12:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.78.12:2053
-vless://48869bb7-60ba-46a6-b0ab-60474ed6e6e5@104.16.72.128:443?sni=passwall-8sv.pages.dev&type=ws&host=passwall-8sv.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.72.128:443

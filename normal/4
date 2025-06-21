@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.191.110:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.250.191.110:443
+vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?security=none&type=grpc&serviceName=1717vless#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.215.24:1717
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.86.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-13.217.86.162:443
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.142.120.180:2087?security=tls&sni=Tp436Rw6De.BaBaUsMaN1.iNfO&type=ws&host=Tp436Rw6De.BaBaUsMaN1.iNfO&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.180:2087
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.212:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.212:443
@@ -601,5 +603,3 @@ vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@[2606:4700:3035::ac43:a407]:443?sec
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.64.33.124:443?security=tls&sni=ivsfa.sofia-biaborotookoocheh.info&type=ws&host=ivsfa.sofia-biaborotookoocheh.info&path=%2Ftiger%23Telegram%40V2ray_Alpha&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.124:443
 vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@172.64.89.161:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.89.161:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.165.216.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-108.165.216.213:8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.42:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-176.124.223.42:8880
-vless://9fdb03a7-f46d-4b75-f386-adae42abcbfc@91.99.165.192:80?security=none&type=ws&host=TiKdar.Motorphrotan.iR#🔒 VL-WS-NONE 🇩🇪 DE-91.99.165.192:80

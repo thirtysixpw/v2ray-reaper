@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2096?security=tls&sni=XpSiNnBoCh.BaBaUsMaN2.iNfO&type=ws&host=XpSiNnBoCh.BaBaUsMaN2.iNfO&path=/&alpn=h3h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2096
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-194.59.5.63:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.226:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.226:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.193:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.193:8880
 vless://e8a21fb1-007c-462f-a267-328bde3d0352@104.21.82.227:2053?security=tls&sni=worker-icy-wave-918c.333taim.workers.dev&type=ws&host=worker-icy-wave-918c.333taim.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.227:2053
@@ -601,5 +603,3 @@ vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.67.64.93:443?security=tls&sni=A
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.238.228.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.238.228.251:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@184.174.80.219:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-184.174.80.219:8880
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?security=none&type=ws&host=br.presskiwi.dpdns.org&path=%252F%253Fed%253D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.92.147:80
-vless://32b1630f-7964-4d58-847c-1cea931e60ed@188.114.96.5:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.5:443
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?security=none&sni=kssepa.sabzipolobamahi.dpdns.org&type=ws&host=kssepa.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.9.145:80

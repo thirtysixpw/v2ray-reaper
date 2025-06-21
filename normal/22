@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@135.84.74.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-135.84.74.251:8880
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.89:8443
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-104.248.168.91:80
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.97.233:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.233:443
 vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?security=tls&sni=IiIIIiiIIIiiO.459.pp.uA&type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=%2FdtBdvnoJO8180gomOew3d&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.17:443
@@ -601,5 +603,3 @@ trojan://Aimer@104.22.50.194:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://Aimer@104.17.234.72:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.234.72:443
 trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none&type=tcp&host=sourceforge.net&path=%2F&headerType=http#🔒 TR-TCP-NONE 🇨🇦 CA-99.199.73.53:46780
 trojan://9Qtb5266ijqU@172.67.202.155:2053?security=tls&sni=aryanews.onetwothree123.ir&type=ws&host=aryanews.onetwothree123.ir&path=/🆔@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.202.155:2053
-trojan://blue2024@104.17.57.75:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.57.75:443
-trojan://Aimer@65.75.194.7:12266?sni=epcce.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-65.75.194.7:12266

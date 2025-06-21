@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.105:8880
+vless://75747df9-9efb-4842-acf0-86854d42115a@104.26.15.85:80?security=none&type=ws&host=aleRtEd-EntErTAinmeNT.ONEEAT.co.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.100:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.251.179.100:443
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@185.93.88.179:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.93.88.179:2052
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.4:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.4:8880
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.48:8880?security=none&sni=
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.21.235.115:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.115:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.27.63:8880
 vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?security=tls&sni=PAgEs.dev&type=ws&host=342647820-000291.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.245.144.178:443
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.191.110:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-142.250.191.110:443
-vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?security=none&type=grpc&serviceName=1717vless#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.215.24:1717

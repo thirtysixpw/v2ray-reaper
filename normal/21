@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://32b1630f-7964-4d58-847c-1cea931e60ed@172.67.127.210:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.127.210:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.116:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.116:8880
+vless://58457294-b27a-44b2-8a6f-161585ad50b8@151.101.38.133:443?security=tls&sni=mio.splashthat.com&type=ws&host=Unique98.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-151.101.38.133:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.131:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.228.131:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.25:8880?security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@MxlShare+@WangCai2+%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.25:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.137.128:2053
 vless://69678f53-fe48-4d6f-8da1-61f90a6a1ed7@172.67.160.119:443?security=tls&sni=99999I.999864.xyZ&type=grpc&serviceName=omHRSd2bRymTWtdvOJJrQMhgkgy4LE&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.160.119:443
@@ -599,7 +603,3 @@ trojan://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.15.232:443?security=tls&sni
 trojan://Aimer@104.16.200.210:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.200.210:443
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.78.243:443
 trojan://Aimer@162.159.137.50:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.137.50:443
-trojan://aa424865-2762-404c-b767-66c9f98e026b@172.67.219.54:443?sni=4RrrrRrrrRrRRRtTtTTTtTYyyYYYyYYiIIIiiiiOooOOoOoOoooO.hUaNgdI2031.DPDnS.orG&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.219.54:443
-trojan://GlxLO2T3Gz@104.21.80.1:2096?security=tls&sni=tabnak.twn24.ir&type=ws&host=tabnak.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:2096
-trojan://ttfang@59.2.114.243:22122?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-59.2.114.243:22122
-trojan://juzi@172.66.46.221:443?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.46.221:443

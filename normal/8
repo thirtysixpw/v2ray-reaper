@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.83:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.83:8880
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?security=tls&sni=MYPhoTOgrapICPictURe.IR&type=ws&host=myphotograpicpicture.ir&path=/E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:443
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-86.38.214.53:8880
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@85.192.63.54:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-85.192.63.54:443
 vless://9a934409-c0b5-4bdf-885f-b2dd838896c2@172.67.202.125:8443?security=tls&sni=api.lunarmc.ir&type=ws&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.125:8443
 vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@188.114.97.9:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.9:443
@@ -600,6 +603,3 @@ vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@104.19.20.26:443?security=tls&sni=x
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.34:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.34:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.142.237:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.142.237:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.203.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇫🇷 FR-141.11.203.63:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.169.162:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.162:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.33.120:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.33.120:443
-vless://5cad53e2-4811-45c9-9835-b60c89821bcc@104.21.5.169:2087?security=tls&flow=xtls-rprx-vision&sni=mas3jd3.shang2025.ggff.net&type=ws&host=mas3jd3.shang2025.ggff.net&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.169:2087

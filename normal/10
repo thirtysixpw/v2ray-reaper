@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://439dbc9e-5519-40ae-9856-47070807d87a@162.159.136.234:2087?security=tls&sni=blog159.v2box.lol&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2087
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.234.239.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-104.234.239.63:8880
+vless://23fe1dc6-56e3-45b9-b5e5-f6762c4ba1d0@104.16.97.52:443?sni=kexuesw.jiahe.buzz&type=ws&host=kexuesw.jiahe.buzz#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.97.52:443
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@[2606:4700::6810:be29]:443?security=tls&sni=d6.medicalhistory.ir&type=ws&host=d6.medicalhistory.ir&path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowlvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700::6810:be29]:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.52.227:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.52.227:443
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?security=tls&sni=nl36.vlessx.us&type=ws&host=nl36.vlessx.us&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.41:8443
@@ -600,6 +603,3 @@ vless://d80aab36-d8da-460b-f826-9929981a57b8@99.199.73.53:20920?security=none&ty
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.162.198.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.198.63:8880
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@159.246.55.233:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.233:8443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.148.223:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.148.223:443
-vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir#🔒 VL-WS-TLS 🇺🇸 US-209.208.227.239:443
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@103.160.204.11:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-103.160.204.11:8880
-vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@172.67.175.204:443?security=tls&sni=pPaL03.JeSSy-pAdbeRG.wORkeRs.DEv&type=ws&host=PpaL03.jessY-PaDbErg.WORkers.dEv&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.204:443

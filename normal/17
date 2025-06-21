@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@45.94.213.91:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.91:4242
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-45.159.217.29:8880
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@45.149.12.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.149.12.251:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.157.55:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.55:443
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@104.18.41.176:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.176:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.106:8443?security=tls&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&type=ws&host=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.106:8443
@@ -600,6 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.225.115:443?sni=xv6.jpmj.dpd
 vless://a6125fc7-370a-4e23-b99d-90709d59f7dc@172.67.209.117:2082?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.209.117:2082
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?security=none&type=ws&host=fast.com&path=%2F%40VPNLime#🔒 VL-WS-NONE 🇩🇪 DE-49.13.74.174:8080
 vless://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@104.16.94.194:2096?security=tls&sni=agstick.eu.org&type=ws&host=agstick.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.94.194:2096
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.106:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.106:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.132:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.132:8880
-vless://15868173-1378-4984-a4e2-07d51591b237@188.244.122.224:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.224:2096

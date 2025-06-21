@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.26.12.142:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.142:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.39:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.39:2083
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@108.162.198.69:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.198.69:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.235.84:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.84:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.143.86:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.143.86:443
 vless://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443?security=tls&sni=ddFR.191266.XYZ&type=ws&host=ddfr.191266.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.154:443
@@ -600,6 +603,3 @@ vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?type=grpc&servi
 vless://db9525de-a032-4685-98cf-d8d18f835a2b@161.35.145.85:2053?security=none&type=ws&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-161.35.145.85:2053
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.227:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.227:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-192.0.54.63:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.55.76:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.55.76:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.17.194:2082?security=none&type=ws&host=redw.pooriam.ir&path=%2Fvless.txt%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.17.194:2082
-vless://a6ebd65f-2ab3-46f0-bf6b-3605f747434f@91.193.59.187:8080?security=none&type=ws&host=sNaPp.MaStErSrV.ir.#🔒 VL-WS-NONE 🇬🇧 GB-91.193.59.187:8080

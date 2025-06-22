@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://82b884ab-d297-4726-9596-67c6d49acf6a@212.34.142.40:443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.deepl.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇳🇱 NL-212.34.142.40:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.18.31.5:80?security=none&type=ws&host=psycho.suex12.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.31.5:80
+vless://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?security=tls&sni=oo098.89060004.xyZ&type=ws&host=oo098.89060004.xyz&path=%2FVlJKGXt3aXBStn7&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.189:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.155.185:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.155.185:443
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.108:8443?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.2.108:8443
 vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@104.21.235.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.171:443
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.221:2096
 vless://1eae562e-72cd-4752-a864-7969633e6e14@185.133.125.5:18009?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.5:18009
@@ -598,8 +603,3 @@ vless://fdb667db-7ba5-4f9c-aa1f-705504706257@104.21.64.1:2095?security=none&type
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.79:443?security=tls&sni=fs.bgm2024.dpdns.org&type=ws&host=fs.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.79:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.80.111.113:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.113:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.191.132:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-51.44.191.132:22222
-vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@199.34.228.162:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:2096
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.35.219:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.35.219:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.123:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%942%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.123:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.65.10:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.65.10:443
-vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.60.8:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:2083

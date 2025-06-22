@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?security=tls&sni=Nl2-FulL.PrIvAteiP.NeT&type=ws&host=Nl2-FulL.PrIvAteiP.NeT&path=%2FVLESS#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.197:443
+vless://e7553661-4261-c330-124c-0acd5b12bffe@85.133.194.51:20443?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.194.51:20443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.62.62.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-198.62.62.213:8880
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.228:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇰🇿 KZ-31.43.179.228:80
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?security=tls&sni=zz.bgm2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.30:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-104.129.167.253:443
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.18.158.152:443?security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws&host=f1.parsa.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.158.152:443
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-199.232.13.59:80
@@ -598,8 +603,3 @@ vless://889cd5fb-82b9-4612-819e-cbe33044c38e@104.238.171.160:2053?security=none&
 vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.197.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.197.131:80
 vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@172.64.148.115:443?security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram-JOKERRVPN_Join_Bade_Channel@JOKERRVPN%3Fed%3D5460#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.148.115:443
 vless://d80aab36-d8da-460b-f826-9929981a57b8@99.199.73.53:20920?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-99.199.73.53:20920
-vless://b77bbf9b-96f3-4417-9ba3-1aabd14aa033@2.189.243.132:2021?security=none&type=tcp&host=reata.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.243.132:2021
-vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?security=tls&sni=google.com&type=ws&host=www.digiato.com&path=/home?id%3D10&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-167.82.231.255:443
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.104.253:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-34.229.104.253:443
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.85.118.35:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.35:8880
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@88.216.67.234:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.67.234:8880

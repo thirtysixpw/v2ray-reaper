@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.124.233:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.124.233:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.143.211:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.143.211:443
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.24.87.16:2096?sni=www.pjw5.top&type=ws&host=www.pjw5.top#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.87.16:2096
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.36.135:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.36.135:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.68:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.68:80
@@ -601,5 +603,3 @@ vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.5.24:80?sni=yuming.kkllllkkk
 vless://4f56794f-91bf-453b-be71-5b39f870ec30@109.122.241.43:56679?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-109.122.241.43:56679
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.195.67:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.67:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-66.225.252.213:8880
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.212:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.212:80
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.208.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-146.235.208.162:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-5.78.53.184:443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.67:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.67:2096
 vless://a523d04c-97c2-408e-9961-d2b3ade6af7c@104.19.223.79:8443?security=tls&sni=usaall.netpilotserverne22twork.ir&type=ws&host=usaall.netpilotserverne22twork.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:8443
 vless://00a9a559-8bb0-425e-bc97-c9885a575455@5.10.244.44:443?sni=usargo.lzj520hxw.dpdns.org&type=ws&host=usargo.lzj520hxw.dpdns.org#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.44:443
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.18.21.228:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.228:443
@@ -601,5 +603,3 @@ vless://c8a4ced0-b100-4700-8857-d06ca3b251af@104.19.57.197:443?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.237.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.237.109:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-154.197.121.138:2052
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@104.21.32.1:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&path=%2Fadmins%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2053
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@[2606:4700:3033::ac43:8c43]:443?security=tls&sni=crolindd.dearcarlotta.cloudns.org&type=ws&host=crolindd.dearcarlotta.cloudns.org&path=%2Fproxyip%3Dcitlali.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3033::ac43:8c43]:443
-vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.46.247:443?security=tls&sni=MiSTliNK-CL9.pAgEs.Dev&type=ws&host=MiSTliNK-CL9.pAgEs.Dev&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.247:443

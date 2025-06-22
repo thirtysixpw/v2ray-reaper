@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.26:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.26:80
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.21.46.149:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.149:443
 vless://919e64f3-f3d7-481b-b2d4-9dc5409c615f@104.21.77.230:8443?security=tls&sni=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&type=ws&host=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.230:8443
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.232:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.133.78:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.78:443
@@ -601,5 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.63:8880?sni=sg.laoyoutiao
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@25.26.27.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-25.26.27.247:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇩🇪 DE-140.99.233.29:8880
 vless://33428626-237f-44ce-93c3-efe007db8a7f@108.162.192.181:443?security=tls&sni=qsc0wrja.yandixpartners.com&type=ws&host=qsc0wrja.yandixpartners.com&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.181:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@159.246.55.245:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-159.246.55.245:8880
-vless://99727208-0086-43f9-f0ad-9e30f546b822@66.225.252.129:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-66.225.252.129:8880

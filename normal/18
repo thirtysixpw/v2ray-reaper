@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://474b5b35-4ce5-4889-ae0c-cb105ea8f5aa@46.38.149.175:4909?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.149.175:4909
+vless://9755cc88-09d8-437f-bd89-d4a89915d9ae@162.159.153.222:2096?sni=keji.madcity.lol&type=ws&host=keji.madcity.lol&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.222:2096
+vless://4b5c9d3d-4075-43e9-82cf-0fc35309f029@2.144.6.14:443?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-2.144.6.14:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.164:2087?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.164:2087
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.135.9.132:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-185.135.9.132:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.244:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.244:80
 vless://8df60790-c903-4661-b85d-64c0009378e5@172.67.218.254:443?security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws&host=f1.parsa.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.254:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.242:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-5.182.84.242:8880
@@ -598,8 +603,3 @@ vless://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?security=tls&sni=
 vless://401374e6-df77-41fb-f638-dad8184f175b@170.114.46.190:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.190:443
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.17.225.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.225.171:443
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.182.185:80?sni=havvas.shohreh.dpdns.org&type=ws&host=havvas.shohreh.dpdns.org&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.182.185:80
-vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.8:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-199.212.90.8:443
-vless://9a620099-7df2-4935-9c01-d52a3897512a@151.101.59.174:80?security=none&type=xhttp&host=Zedmodeonjoiningyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.59.174:80
-vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@104.22.52.235:80?type=ws&host=cc.ailicf.us.kg&path=/b5cdabf0-e04#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.52.235:80
-vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.1.117:2083
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.191.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇮 SI-92.53.191.20:8880

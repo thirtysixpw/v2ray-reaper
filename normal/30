@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
-trojan://Aimer@104.24.165.5:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.165.5:443
-trojan://00a9a559-8bb0-425e-bc97-c9885a575455@104.26.12.54:443?sni=usargo.lzj520hxw.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.12.54:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.68.86:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.86:443
-trojan://telegram-id-privatevpns@13.134.6.160:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.134.6.160:22222
-trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@44.246.215.62:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇺🇸 US-44.246.215.62:20230
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.21:443
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-95.179.246.122:443
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-161.35.34.48:443
-trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@104.21.86.106:443?sni=M4rrT.999157.XYz&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.86.106:443
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-162.210.196.168:443
-trojan://trojan@91.193.58.0:443?sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org#🔒 TR-WS-NA 🇬🇧 GB-91.193.58.0:443
 trojan://e2d4ffbd-d0fa-4074-b844-9e8b4e34cd4c@183.240.210.75:38029?sni=jp004.xiaoniuyun.cc&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-183.240.210.75:38029
 trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.204.177:443?sni=4o.191292.xyz&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.204.177:443
 trojan://Aimer@138.2.226.225:32322?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-138.2.226.225:32322
@@ -603,3 +591,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDgzNTZlNy1lMjI1LTQ4YjYtYTBlNy00ZjA3N2Q2YjA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4M09OYlQzeklIQTVZaklOb3pVcUxq@178.23.190.216:19609#🔒 SS-TCP-NA 🇳🇱 NL-178.23.190.216:19609
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@143.244.62.106:989#🔒 SS-TCP-NA 🇦🇺 AU-143.244.62.106:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYjNYbUdGYmVKSXFxYU9EVVlic2M2@45.95.232.236:4248#🔒 SS-TCP-NA 🇨🇭 CH-45.95.232.236:4248
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.244:443
+ss://YWVzLTI1Ni1nY206M2VlOTBhYTktODgzMS00ZWEzLTk0MjUtYzM2MTA5MGE5Mzhk@120.198.71.135:20251#🔒 SS-TCP-NA 🇨🇳 CN-120.198.71.135:20251
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY3gzZG9TS0V5b2I2eUEwQ0t5RmdX@91.132.196.176:44324#🔒 SS-TCP-NA 🇳🇱 NL-91.132.196.176:44324
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067
+ss://YWVzLTI1Ni1nY206ZDNkMDYwMDktNTgwYy1kMGY1LWVlMGUtNjg0NGU4MTU1NTQy@185.97.119.204:11305#🔒 SS-TCP-NA 🇮🇷 IR-185.97.119.204:11305
+ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA==@31.40.212.221:20006#🔒 SS-TCP-NA 🇦🇷 AR-31.40.212.221:20006
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.166:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.129:8080
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#🔒 SS-TCP-NA 🇺🇸 US-23.150.248.50:8090
+ss://YWVzLTI1Ni1nY206UlpXR1FHN01OTzFaRVZUNQ==@91.148.134.106:20005#🔒 SS-TCP-NA 🇨🇴 CO-91.148.134.106:20005
+ss://YWVzLTI1Ni1nY206M2VlOTBhYTktODgzMS00ZWEzLTk0MjUtYzM2MTA5MGE5Mzhk@36.151.194.51:64931#🔒 SS-TCP-NA 🇨🇳 CN-36.151.194.51:64931
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWU3YmY5Mi1lZmFiLTRjYmUtOTEwZi02NjdlZDZlYzFjNzU=@120.232.218.106:31243#🔒 SS-TCP-NA 🇨🇳 CN-120.232.218.106:31243

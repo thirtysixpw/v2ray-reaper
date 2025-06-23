@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.116.7.158:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-103.116.7.158:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.189.218:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.218:8880
+vless://0fdf994e-c44f-4781-9d77-244b17904380@91.99.150.157:3789?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.157:3789
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.85.119.56:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.56:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.69.44:443?security=tls&sni=Tp773WeWsV.aLtAbAnIc.Ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:443
 vless://db56d269-4591-4aaf-9818-885f8b4a7661@188.114.98.224:2086?security=none&type=httpupgrade&host=wwW.speedtesT.net.eLectrolUxxv.ir.&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.98.224:2086
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.216.229:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.216.229:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.70.73:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.70.73:443
@@ -598,8 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.254.111:443?sni=xv6.jpmj.dpd
 vless://99727208-0086-43f9-f0ad-9e30f546b822@102.177.189.192:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.192:8880
 vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@104.16.12.75:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.75:443
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@5.198.168.141:8080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.198.168.141:8080
-vless://26b63e3a-60f9-4630-b180-fde6c4339602@188.114.97.1:8880?security=none&type=ws&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.62:80?type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJoin_Bade_Channel%40ShadowProxy66#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.62:80
-vless://5ae1ff2c-6e74-4b47-930d-f04f89c31cfe@162.159.153.109:443?security=tls&sni=washing-decline-viewed-mysimon.trycloudflare.com&type=ws&host=washing-decline-viewed-mysimon.trycloudflare.com&path=%2F5ae1ff2c-6e74-4b47-930d-f04f89c31cfe-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.109:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.103:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-5.10.214.103:8880
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.194.12.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-154.194.12.251:8880

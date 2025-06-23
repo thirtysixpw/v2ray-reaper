@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.27.71.201:443?security=tls&sni=rayan-11.parastoo.dpdns.org&type=ws&host=rayan-11.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.71.201:443
+vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.135.42:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.42:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-160.153.137.213:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@181.214.1.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇦🇪 AE-181.214.1.213:8880
+vless://3d4eb0d2-55f3-4961-b032-c63bb884dfed@[2606:4700:3036::6815:5ea8]:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3036::6815:5ea8]:80
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.199.19:2086
 vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.215:443
 vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@154.92.9.2:8443?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&path=/?ed#🔒 VL-WS-TLS 🇨🇾 CY-154.92.9.2:8443
@@ -598,8 +603,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.180.129:8880?security=none&t
 vless://ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@140.248.125.7:80?security=none&type=xhttp&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-140.248.125.7:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.55:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.85.118.55:8880
 vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@104.21.16.91:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.91:8443
-vless://dffb97d9-7a40-4f06-9ba7-56455d16fdc3@151.101.192.155:80?security=none&type=xhttp&host=detvhreefgyour-name.global.ssl.fastly.net&path=%2Fsdrge#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.192.155:80
-vless://4b33b482-25bc-49e4-b866-878c914d945a@[2606:4700:3037::ac43:9b8c]:443?security=tls&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG&type=ws&host=iiiiiiiiiiio.huangshang.dpdns.org&path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3037::ac43:9b8c]:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.3.160:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.3.160:443
-vless://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@172.67.196.100:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.100:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700::41:6f95:7e1b]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700::41:6f95:7e1b]:443

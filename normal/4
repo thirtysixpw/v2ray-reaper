@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.13:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-108.165.216.13:8880
+vless://bc99a2aa-e094-4add-a969-9e72c97efd06@188.114.97.255:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.255:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.147.54:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.147.54:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@155.46.213.82:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-155.46.213.82:8880
+vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.21.54.238:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.238:443
 vless://157d0689-3f11-4937-8e48-78c09476c4f2@194.182.79.216:52843?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.216:52843
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.154:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.154:2096
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.57:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.57:80
@@ -598,8 +603,3 @@ vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082?security=none&ty
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.247:6687?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.247:6687
 vless://38c43ecd-23d4-4e20-9b14-fc624708f01d@104.16.157.108:8080?type=httpupgrade&host=masterserver1.nanvrfood.ir.&path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.16.157.108:8080
 vless://b00fb164-0491-432a-baf0-c904d1953425@[2a04:4e42:400::731]:80?security=none&type=ws&host=speedtest.net.km&path=%2Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-[2a04:4e42:400::731]:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.191:8880?type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.191:8880
-vless://35dd9fa1-7d51-45ec-ad35-6e3692f8742d@81.12.33.41:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.33.41:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.244:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇳🇱 NL-5.10.246.244:8880
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.189.245:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.245:8880
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.10.124:80?security=none&type=ws&host=a1.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2580#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.10.124:80

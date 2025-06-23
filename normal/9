@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.107:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.97.107:443
+vless://5ea08aa1-96db-4614-b5b5-823717d27c17@198.41.220.80:443?security=tls&sni=vless3.114514660.xyz&type=ws&host=vless3.114514660.xyz&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.80:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.7.191:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.191:80
+vless://0970359e-7e8c-4003-b991-863e0f26be7c@46.38.149.146:443?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-46.38.149.146:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@162.159.135.79:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.79:2087
 vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.66.47.67:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.66.47.67:443
 vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@104.21.60.125:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.125:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.252:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F%23Telegram%40V2ray_Alpha&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.252:8443
@@ -598,8 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.120:80?sni=301.pooriam.ir&
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@104.19.222.79:443?security=tls&sni=piqie.justin-lifeistooshort.info&type=ws&host=piqie.justin-lifeistooshort.info&path=%2Ftiger#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=none&sni=pqh27v6.nature27.shop&type=grpc&host=pqh27v6.nature27.shop#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.144:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.179:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.179:80
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.27.71.201:443?security=tls&sni=rayan-11.parastoo.dpdns.org&type=ws&host=rayan-11.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.71.201:443
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.135.42:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.42:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-160.153.137.213:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@181.214.1.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇦🇪 AE-181.214.1.213:8880
-vless://3d4eb0d2-55f3-4961-b032-c63bb884dfed@[2606:4700:3036::6815:5ea8]:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3036::6815:5ea8]:80

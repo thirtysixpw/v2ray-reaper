@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.204.177:443?sni=4o.191292.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.204.177:443
+trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?security=tls&sni=MaHSA2.cffoRm.SitE&type=ws&host=mahsa2.cfform.site&path=/trWCuRIwSn9S6fDZGE/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.75.120:2053
+trojan://faee6828-82e8-4716-934e-d9949caead07@209.209.48.19:38032?security=tls&sni=aliyun.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-209.209.48.19:38032
 trojan://telegram-id-privatevpns@13.39.72.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.72.77:22222
 trojan://Aimer@188.164.159.45:8443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.45:8443
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.191:2053
@@ -600,6 +603,3 @@ trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.17:443?security=tls&sn
 trojan://telegram-id-privatevpns@51.44.136.20:22222?security=tls&sni=trojan.burgerip.co.uk#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.136.20:22222
 trojan://Aimer@104.16.149.162:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.149.162:443
 trojan://Aimer@162.159.136.159:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.136.159:443
-trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.72.77:22223
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.239:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.239:443
-trojan://Aimer@77.238.236.134:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-77.238.236.134:8443

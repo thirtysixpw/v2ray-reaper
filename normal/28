@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.5.57:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.57:443
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.135:443?sni=kc.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.135:443
+trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.47.170:443
+trojan://Aimer@175.214.237.120:50000?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.214.237.120:50000
 trojan://auto@172.66.44.106:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:8443
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@104.21.38.163:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.38.163:443
 trojan://telegram-id-v2rayvpnchannel@13.37.74.102:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.74.102:22222
@@ -599,7 +603,3 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.153.54:443?security=tls&sni
 trojan://Aimer@104.22.58.188:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.58.188:443
 trojan://Aimer@172.67.148.158:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.148.158:443
 trojan://NuL1nBAAaM@104.21.15.33:2083?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.15.33:2083
-trojan://ttfang@203.243.63.166:27249?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-203.243.63.166:27249
-trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=SsSxderT.fREevPnatM.Dpdns.ORG&type=ws&host=sssxdert.freevpnatm.dpdns.org&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.137.6:443
-trojan://telegram-id-directvpn@35.180.241.27:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.241.27:22223
-trojan://Aimer@108.165.152.131:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.131:443

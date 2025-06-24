@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@14.32.9.120:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-14.32.9.120:50000
+trojan://Aimer@91.107.253.14:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇩🇪 DE-91.107.253.14:8443
+trojan://Aimer@185.218.7.155:6667?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-185.218.7.155:6667
+trojan://bpb-trojan@168.138.184.172:443?sni=skwygx.top#🔒 TR-TCP-NA 🇸🇬 SG-168.138.184.172:443
 trojan://telegram-id-v2rayvpnchannel@13.48.140.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.140.216:22222
 trojan://Aimer@172.64.155.78:443?sni=epmf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.155.78:443
 trojan://6fef5ff0-48a4-11f0-b000-1239d0255272@103.253.24.216:443?security=tls&sni=sg3.6n6.net&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-103.253.24.216:443
@@ -599,7 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🔒 SS-TCP-NA 🇺🇸 
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.98:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.98:2377
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw==@13.250.23.45:443#🔒 SS-TCP-NA 🇸🇬 SG-13.250.23.45:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbVMydGU5dTVsT0JHV01IQXhyUFo5@150.241.77.214:4443#🔒 SS-TCP-NA 🇸🇪 SE-150.241.77.214:4443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZmI0OGVlOS02YmVjLTRlZTAtYTBkOC0xMmQwOWUxYjlkZDA=@156.246.95.70:34008#🔒 SS-TCP-NA 🇯🇵 JP-156.246.95.70:34008
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#🔒 SS-TCP-NA 🇺🇸 US-138.199.42.68:8080
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#🔒 SS-TCP-NA 🇺🇸 US-23.150.248.235:2376

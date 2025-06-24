@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@173.245.59.128:443?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.128:443
+trojan://Aimer@104.168.87.155:3306?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-104.168.87.155:3306
+trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.106:443?sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#🔒 TR-TCP-NA 🇺🇸 US-141.193.213.106:443
+trojan://Aimer@108.162.193.128:443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.193.128:443
+trojan://0bfa2050-b165-4156-859c-70f36d300dce@13.115.255.156:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-13.115.255.156:20230
+trojan://Aimer@104.21.229.169:443?sni=epccn.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.229.169:443
+trojan://Aimer@46.29.235.31:2053?security=tls&sni=agepq.ambercc.filegear-sg.me&type=ws&host=agepq.ambercc.filegear-sg.mehttp/1.1&path=/#🔒 TR-WS-TLS 🇩🇰 DK-46.29.235.31:2053
+trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#🔒 TR-TCP-TLS 🇸🇬 SG-47.128.216.161:6001
+trojan://Aimer@104.19.63.216:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.63.216:443
+trojan://Aimer@170.106.152.78:443?sni=epccq.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-170.106.152.78:443
 trojan://0bfa2050-b165-4156-859c-70f36d300dce@18.183.76.204:20230?security=tls&sni=jp005.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-18.183.76.204:20230
 trojan://Aimer@16.162.225.15:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-16.162.225.15:443
 trojan://Aimer@104.19.49.42:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.49.42:443
@@ -593,13 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c=@195.35.113.79:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqbE5LTmFiamJTcDVJWGVQSmdWQlZt@212.113.106.76:29149#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:29149
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@159.69.246.135:8080#🔒 SS-TCP-NA 🇩🇪 DE-159.69.246.135:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@185.231.205.179:8388#🔒 SS-TCP-NA 🇫🇷 FR-185.231.205.179:8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.159:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.159:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWU3YmY5Mi1lZmFiLTRjYmUtOTEwZi02NjdlZDZlYzFjNzU=@120.232.218.106:31243#🔒 SS-TCP-NA 🇨🇳 CN-120.232.218.106:31243
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#🔒 SS-TCP-NA 🇸🇬 SG-68.183.227.45:8080
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.163:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRelBmSWsyV2I4enp4WXJnbFVreWxrT1NWbjdMVThtc2F2UHFyRDd5TXNZPQ==@167.172.95.249:37202#🔒 SS-TCP-NA 🇸🇬 SG-167.172.95.249:37202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#🔒 SS-TCP-NA 🇫🇷 FR-161.97.68.139:443
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:8118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTU0ZjYxOS0zNGIyLTRkYzktODNhMS1mNWIwMDUzY2Q3MDk=@120.232.218.106:36141#🔒 SS-TCP-NA 🇨🇳 CN-120.232.218.106:36141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTRmMTYwYTMzNmI=@137.220.142.140:443#🔒 SS-TCP-NA 🇯🇵 JP-137.220.142.140:443
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@84.17.53.160:989#🔒 SS-TCP-NA 🇨🇭 CH-84.17.53.160:989

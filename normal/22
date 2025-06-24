@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-45.142.120.57:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.211:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.211:8880
+vless://f898ffcb-6417-4373-9640-0b66091e8206@[2606:4700:3033::6815:169f]:443?security=tls&sni=q12.11890604.xyz&type=ws&host=q12.11890604.xyz&path=%2F33CYL4twIwItuzXyJ5XNeH1R1&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3033::6815:169f]:443
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?type=tcp#🔒 VL-TCP-NA 🇹🇷 TR-94.131.108.195:53221
 vless://0b2d7a52-d209-4910-8858-997351d2f4ad@46.38.146.188:2001?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.146.188:2001
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@66.235.200.94:8880?type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%2B%2B%2B#🔒 VL-WS-NA 🇺🇸 US-66.235.200.94:8880
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
@@ -599,7 +603,3 @@ vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@198.41.206.64:443?security=tls&sni=
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@91.209.253.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇦 SA-91.209.253.254:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.4.50:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇫🇷 FR-13.39.4.50:22224
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.209.182:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.209.182:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.24.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-185.176.24.20:8880
-vless://7111df18-647b-40f9-aa89-4459d70b4656@159.89.249.32:443?security=tls&sni=uk.bntabriz.ir&type=ws&host=uk.bntabriz.ir&path=%2F40148%2Froot&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-159.89.249.32:443
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@141.95.17.10:2053?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-141.95.17.10:2053
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.142.120.77:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.77:2096

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.16.94.219:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.94.219:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.40.78:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.40.78:443
+vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@54.169.220.207:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg01.download.pikoport.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-54.169.220.207:443
+vless://08ef1330-8ffb-4001-a15e-96befc065c06@185.148.105.1:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-185.148.105.1:443
 vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.96:8088?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.176.96:8088
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.137:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.137:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.128:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.128:2096
@@ -599,7 +603,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.116:8443?security=tls&sni
 vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.150.221:8821
 vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@217.60.38.54:53758?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.38.54:53758
 vless://213d6337-7e90-43cb-b515-e392c946b371@172.64.154.144:443?security=tls&sni=WWW.felafel.org.&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.154.144:443
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@103.160.204.105:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-103.160.204.105:8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.80:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.80:8880
-vless://a4210a46-0113-4a69-b656-29d48436e8fb@46.38.148.47:8447?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.47:8447
-vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.247:443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.149.12.247:443

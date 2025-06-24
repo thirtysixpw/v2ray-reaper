@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://eb899be2-f306-468e-bb4d-1c43f7d49c00@104.16.102.112:2086?type=httpupgrade&host=mci.mtn.ir.com.org.net.om.org.net.javadv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.16.102.112:2086
+vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@104.22.68.117:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.68.117:443
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@[2606:4700:20::681a:f55]:80?type=ws&host=eLOQuENt-caSE.ZUlaIR.orG.&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:20::681a:f55]:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
 vless://03916a27-4ba6-4549-b979-da4216ad3cf8@0.0.0.0:80?security=none&type=xhttp&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#🔒 VL-XHTTP-NONE 🏴‍☠️ NA-0.0.0.0:80
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?security=tls&sni=5eR.WWW890604.dPDNS.OrG&type=ws&host=5er.www890604.dpdns.org&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.179:443
 vless://99727208-0086-43f9-f0ad-9e30f546b822@167.68.11.143:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.11.143:8880
@@ -599,7 +603,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.200:80?type=ws&host=gozarg
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.236:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.236:8880
 vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@104.26.14.28:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.28:443
 vless://b28a0d8d-6964-4226-b41e-ef22b7624a01@188.114.97.3:8080?security=none&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:8080
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.79:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.79:8880
-vless://703c3ddd-b6a7-4c08-bff0-1c05dd66322c@85.198.22.20:30282?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.198.22.20:30282
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.133.226:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.226:443
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@150.230.196.248:443?security=tls&sni=piqie.justin-lifeistooshort.info&type=ws&host=piqie.justin-lifeistooshort.info&path=%2Ftiger#🔒 VL-WS-TLS 🇯🇵 JP-150.230.196.248:443

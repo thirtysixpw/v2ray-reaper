@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://juzi@91.107.233.151:8443?sni=juzi8186-sr1.pages.dev#🔒 TR-TCP-NA 🇩🇪 DE-91.107.233.151:8443
 trojan://Aimer@77.238.236.134:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-77.238.236.134:8443
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@18.140.75.162:443?security=tls&sni=jp.mjt001.com#🔒 TR-TCP-TLS 🇸🇬 SG-18.140.75.162:443
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&sni=pardazeshvpn-tg104.pages.dev&type=ws&host=pardazeshvpn-tg104.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.171:443
@@ -602,4 +603,3 @@ trojan://Aimer@104.16.8.154:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?sni=tt1.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.128.1:2096
 trojan://telegram-id-privatevpns@18.134.86.195:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#🔒 TR-TCP-NA 🇬🇧 GB-18.134.86.195:22222
 trojan://Aimer@5.182.84.120:443?sni=agepy.aimercc.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.120:443
-trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.192.222.112:8443

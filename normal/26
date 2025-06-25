@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.243:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.243:443
+vless://99727208-0086-43f9-f0ad-9e30f546b822@88.216.67.104:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.67.104:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.8:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.8:80
 vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.68.33:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.33:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.122:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.122:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.159.144:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.159.144:443
@@ -599,7 +603,3 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.22.1.106:443?security=tls&sni=b
 vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?security=tls&sni=nxginix.pages.dev&type=tcp&alpn=h3#🔒 VL-TCP-TLS 🇫🇷 FR-185.16.110.2:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇵🇭 PH-154.83.2.117:443
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@198.202.211.251:8880?type=ws&host=0926.qiang2000.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NA 🇺🇸 US-198.202.211.251:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.136:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramрЯЗ®рЯЗ≥&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.136:8880
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.41:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.41:2096
-vless://2843fb92-b3c6-4d77-8e02-095eb68ef48c@206.189.244.172:52234?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-206.189.244.172:52234
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.41:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-176.124.223.41:8880

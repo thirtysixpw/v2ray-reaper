@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.195:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.195:443
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.116:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.116:443
+vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.89:443
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@88.216.67.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇱🇹 LT-88.216.67.251:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@141.11.203.96:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.203.96:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇧🇬 BG-147.78.140.63:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.61:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.61:8880
@@ -599,7 +603,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&sni=c
 vless://6bc29783-3ff6-4379-8650-611a7095307b@18.179.206.207:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇯🇵 JP-18.179.206.207:443
 vless://8b59e773-58f3-4230-b352-3e4ad9d9667d@151.232.52.207:50002?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.232.52.207:50002
 vless://d2ab193e-9c7a-4671-df75-a95d0184931a@104.21.5.96:443?security=tls&sni=test.dnss-mobile.ir&type=httpupgrade&host=test.dnss-mobile.ir&fp=qq&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.5.96:443
-vless://498b2237-0990-41b3-921d-dc69f23d3c93@95.38.210.118:6890?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.210.118:6890
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@148.113.43.228:8443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=/bing#🔒 VL-WS-TLS 🇮🇳 IN-148.113.43.228:8443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.175.16.6:10023?sni=edms.ambercc.filegear-sg.me&type=ws&host=edms.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-121.175.16.6:10023
-vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.96.1:8080?security=none&type=ws&host=gshsgshs.jqxkqk.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.1:8080

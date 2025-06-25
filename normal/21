@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://7e7722d7-9ea4-4499-a74c-bfff7d0755b0@104.18.26.90:2087?security=tls&sni=laptop.vistait.fun&type=ws&host=laptop.vistait.fun&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.90:2087
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2087?security=tls&sni=6KzZjDtHwN.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2087
+vless://30a4ba32-1e37-45f7-9a76-6ac5139220f0@85.198.23.170:2095?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.23.170:2095
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.44.8:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.44.8:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.154.249:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.154.249:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.168:443?security=tls&sni=pPal03.aVeer-JAmEIson.WoRKeRS.DEV&type=ws&host=PpAl03.aVEEr-jAMeISOn.woRKERS.DEV&path=%2Foooq4unxrT4UQHPC%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.168:443
 vless://41467dbf-b496-4b28-93a1-425ef36084b7@37.32.43.27:5110?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.43.27:5110
@@ -599,7 +603,3 @@ vless://69d6a749-1cc8-4322-da5e-b9a74ae83ba5@172.67.212.82:2053?security=tls&flo
 vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?security=tls&sni=vless1.chuyangz1.sbs&type=ws&host=vless1.chuyangz1.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.150.187:2087
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.245.221.187:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇰🇿 KZ-195.245.221.187:8880
 vless://12139db7-7f56-4285-9d41-3824523b572e@185.143.235.201:8443?security=tls&sni=decd.edgeofknf.info&type=ws&host=decd.edgeofknf.info&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.235.201:8443
-vless://5543ae5c-c24f-405a-9266-597cbc43c818@8.222.213.91:587?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-8.222.213.91:587
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:80
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.67.218.184:80?security=none&sni=abcd.taraneh.dpdns.org&type=ws&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.184:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.209.44:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=TELEGRAM%3A%40MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.209.44:80

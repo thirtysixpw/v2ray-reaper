@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.131:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.131:80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.62:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.62:80
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@[2606:4700:3035::1a4f:5642]:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3035::1a4f:5642]:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇸🇨 SC-154.194.0.63:8880
 vless://ed6fb549-d962-4e32-bb16-544c58b7b31f@5.160.35.249:5118?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:5118
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.117:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.117:8880
 vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.223.18:80?security=none&type=xhttp&host=de.tunnel.irangroupz.ir#🔒 VL-XHTTP-NONE 🏴‍☠️ NA-104.17.223.18:80
@@ -599,7 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.164.79:443?sni=xv6.jpmj.dpdn
 vless://3a161450-21b5-4108-b99f-f176ae970202@46.38.144.5:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-46.38.144.5:8080
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.191:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.191:8880
 vless://f8765e8a-8e83-41da-8379-451ddd2cf56a@185.83.182.217:1007?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.182.217:1007
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.56:8880
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.197.3.157:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇻 LV-91.197.3.157:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:443
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@77.232.140.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-77.232.140.247:8880

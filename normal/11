@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@104.21.30.37:443?security=tls&sni=3333e.444682.xyz&type=ws&host=3333e.444682.xyz&path=%2FnSABZLQbEUSLppj7jCmY&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.30.37:443
+vless://0a022137-d5d7-48f9-96cf-11b57210d12d@190.93.245.137:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.245.137:8880
+vless://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.97.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.15:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.243:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.243:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.154.170:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.154.170:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@[2606:4700:0:e7d1:5409:ea8b:6e40:3a51]:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-[2606:4700:0:e7d1:5409:ea8b:6e40:3a51]:443
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@103.116.7.1:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇺🇸 US-103.116.7.1:80
@@ -599,7 +603,3 @@ vless://d5fdc459-436b-459d-beda-b06d70c93af1@5.160.35.246:5131?security=none&typ
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.145.197:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.145.197:443
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.153.137.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-160.153.137.251:8880
 vless://bf72c0c8-4309-4661-aff0-144d67db02ff@104.16.147.32:443?security=tls&sni=ad1.xiqpanelz.com&type=ws&host=ad1.xiqpanelz.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.147.32:443
-vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@162.159.128.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.53:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.107.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇷🇺 RU-185.148.107.213:8880
-vless://6d4bc80d-ca8f-43b7-a0e6-1655631f8860@[2606:4700:3033::ac43:8242]:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3033::ac43:8242]:8080
-vless://8247c690-5157-58f2-a7a2-21a78377bd98@141.101.122.211:2052?type=ws&host=sPeedtest2.sbs.us.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.122.211:2052

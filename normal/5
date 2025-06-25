@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@192.200.160.26:2087?security=tls&sni=dns.tron2tron.ir&type=ws&path=/inboundsCWNeRzWFjgWHWZFw?ed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.26:2087
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.61.180:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2F4McLR3NKFOydbxDs%2FMTguMTk5LjIxMy4yMDE#🔒 VL-WS-TLS 🇯🇵 JP-138.2.61.180:443
+vless://3ab9c2a4-bf80-4920-89b0-e4dd2583a9b4@104.26.14.84:443?security=tls&sni=parsdl.xyz&type=ws&host=nb-de.parsdl.xyz&path=%2Fhajmi%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.84:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇰🇿 KZ-31.43.179.43:443
 vless://2ca25dc0-c98b-4626-a5da-a3f03c61507b@5.253.25.99:1003?security=none&type=tcp&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.253.25.99:1003
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.195.108:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.108:443
 vless://da1796fd-0916-4939-8c5e-e9593593f96c@172.67.204.120:2083?security=tls&sni=mas3f2e9e7a0-76d0-6ef2-8403-2a2ccb5da856.890602.xyz&type=ws&host=mas3f2e9e7a0-76d0-6ef2-8403-2a2ccb5da856.890602.xyz&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.120:2083
@@ -599,7 +603,3 @@ vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@172.67.204.84:80?security=none&type
 vless://527a9fdf-c0b4-40ca-ab96-b0c593f111c7@85.133.225.137:1001?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.225.137:1001
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇬🇧 GB-102.177.189.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.93:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.93:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.195:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.195:443
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.116:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.116:443
-vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.89:443
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@88.216.67.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇱🇹 LT-88.216.67.251:8880

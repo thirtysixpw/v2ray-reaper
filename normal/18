@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c8a4ced0-b100-4700-8857-d06ca3b251af@172.66.40.57:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.57:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.235.200.213:8880?security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.213:8880
-vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.26.9.239:80?security=none&type=ws&host=pamchall.com.&path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.239:80
-vless://81936cbd-6f9a-4f53-adf8-b8822e77b461@188.114.97.92:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.92:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.157.123:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.123:443
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@45.12.134.250:443?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-45.12.134.250:443
-vless://683c95fa-672b-49a3-bf44-342adfbb7c36@104.26.7.95:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.95:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.160.204.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-103.160.204.20:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.145:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.145:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.43.178:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.43.178:443
@@ -603,3 +596,10 @@ vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@85.133.196.6:3073?security=none&typ
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.12:443?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.12:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-185.148.106.56:80
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇱🇹 LT-89.116.180.248:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.28.133:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.28.133:443
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.254:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.254:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.74.5:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-92.243.74.5:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.254:8880?security=none&type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.254:8880
+vless://0a2a0bbb-c0f2-4df0-8c04-cac8cbc36957@94.142.138.73:443?security=tls&sni=rebix.zone.id&type=ws&host=rebix.zone.id&path=%2Fcourses%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇮 FI-94.142.138.73:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.152.65:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.152.65:443
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.6:443?security=tls&sni=147135001178.sec22org.com&type=tcp&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.14.6:443

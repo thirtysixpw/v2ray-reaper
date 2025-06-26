@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.137.66:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.66:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.211.172:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.211.172:443
-vless://51867ea4-443c-4539-a03e-cf7505db5521@5.198.168.163:8080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.198.168.163:8080
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.50:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.50:80
-vless://599a3443-4db5-4d91-9117-066ef0bda053@172.67.153.29:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.29:443
-vless://ab6f7722-4602-4e66-902a-32fc2418ee37@172.67.138.171:443?security=tls&sni=adderall2.adaspolo.online&type=ws&host=adderall2.adaspolo.online&path=/downloader.php?ed%3D2560&fp=chrome&alpn=h2&allowInsecure=false#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.171:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.98:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.98:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.175.36:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.175.36:2087
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.162.228.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇦🇲 AM-185.162.228.213:8880
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=tls&flow=xtls-rprx-vision-udp443&sni=speed.cloudflare.com&fp=chrome#🔒 VL-TCP-TLS 🇸🇨 SC-146.19.90.10:443
@@ -603,3 +596,10 @@ vless://ac058631-9f5d-4717-9558-3409d22271e9@104.18.37.146:8443?security=tls&sni
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@172.67.151.188:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.67.151.188:8443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.230.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-199.34.230.247:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?type=ws&host=redw.pooriam.ir&path=Telegram%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.234:80
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.11.219:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.11.219:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@108.162.193.100:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.100:2052
+vless://c59030ea-9a3b-46aa-854a-db32e0fc845f@172.67.161.74:443?security=tls&sni=support.sabapardaziran.ir&type=grpc&serviceName=/37207/@M3HDIO1&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.74:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.44.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-195.13.44.213:8880
+vless://5cad53e2-4811-45c9-9835-b60c89821bcc@104.21.5.169:2096?security=tls&flow=xtls-rprx-vision&sni=mas3jd4.shang2025.ggff.net&type=ws&host=mas3jd4.shang2025.ggff.net&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.169:2096
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.80.111.99:443?security=tls&sni=UoIrHqRs.cAfUnEaR.InFo&type=ws&host=UoIrHqRs.cAfUnEaR.InFo&alpn=h2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.99:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.175.141.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.175.141.63:8880

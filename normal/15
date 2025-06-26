@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-45.8.211.20:8880
-vless://948f6596-66f9-4707-aa92-3107a214ce53@131.186.18.212:28887?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-131.186.18.212:28887
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.209.115:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.115:2096
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.168:8880?type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.168:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.135:443?security=tls&sni=zn.ylka.dpdns.org&type=ws&host=zn.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.135:443
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.251.81.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.247:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇺 LU-188.42.89.63:8880
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.148.107.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.107.251:8880
 vless://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@172.64.35.176:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.176:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.29:8880?security=none&type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇱🇹 LT-88.216.69.29:8880
@@ -603,3 +596,10 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@74.49.215.251:8880?type=ws&host=092
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?security=none&type=ws&host=domain2025.dpdns.org&path=%2FlaBjKYcEVdNBNCu9%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.215.253:2052
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.155.134:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.134:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.146.238:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.146.238:443
+vless://30817656-b6c2-46f2-9975-c907aef56e0e@92.114.50.59:8080?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.50.59:8080
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.250.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-89.116.250.63:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.145:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.145:8880
+vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.16.192.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.192.25:443
+vless://99727208-0086-43f9-f0ad-9e30f546b822@77.75.199.161:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-77.75.199.161:8880
+vless://571d8de2-fe24-4e59-9076-e00a3042a3df@172.67.36.124:443?security=tls&sni=goreng.cloudproxyip.my.id&type=ws&host=goreng.cloudproxyip.my.id&path=/Free-CF-Proxy-CA1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.36.124:443
+vless://8a388816-adcb-4d6f-920b-30c8304901f6@43.134.23.141:20223?security=tls&sni=mot.morisi.ggff.net&type=ws&host=mot.morisi.ggff.net&allowInsecure=0#🔒 VL-WS-TLS 🇸🇬 SG-43.134.23.141:20223

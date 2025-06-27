@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://Aimer@154.197.64.240:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.240:8443
+trojan://Aimer@104.19.39.28:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.39.28:443
+trojan://Aimer@104.17.19.20:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.19.20:443
+trojan://Aimer@104.17.150.82:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.150.82:443
+trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2096?security=tls&sni=MehRnEWs.twn24.Ir&type=ws&host=mehrnews.twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.1:2096
+trojan://Aimer@104.18.9.214:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.9.214:443
+trojan://Aimer@162.159.44.230:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.230:2053
+trojan://Aimer@89.248.207.37:443?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇷🇺 RU-89.248.207.37:443
+trojan://Aimer@104.17.110.118:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.110.118:443
+trojan://Aimer@104.16.49.230:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.49.230:443
+trojan://Aimer@162.159.134.189:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.134.189:443
+trojan://Aimer@104.19.152.52:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.152.52:443
 trojan://ttfang@129.150.50.21:44009?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-129.150.50.21:44009
 trojan://Aimer@104.26.10.101:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.10.101:443
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13208?sni=141.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:13208
@@ -591,15 +603,3 @@ trojan://c7cdf323-25d4-4c82-ad35-0aca769041c2@104.16.249.115:443?security=tls&sn
 trojan://ttfang@158.178.243.152:61731?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇸🇬 SG-158.178.243.152:61731
 trojan://Aimer@172.64.152.49:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.152.49:443
 trojan://e9hkqBwKCK@104.21.71.8:2087?security=tls&sni=esna.itn24.ir&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.71.8:2087
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.89:443?sni=tx.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.89:443
-trojan://Aimer@148.135.15.148:443?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-148.135.15.148:443
-trojan://Aimer@162.159.133.40:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.133.40:443
-trojan://Aimer@104.17.149.205:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.149.205:443
-trojan://Aimer@172.67.68.241:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.68.241:443
-trojan://Aimer@192.3.86.244:995?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.3.86.244:995
-trojan://vs6f8hvt@104.26.4.157:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.4.157:443
-trojan://Aimer@104.16.42.81:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.42.81:443
-trojan://Aimer@172.67.164.80:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.164.80:443
-trojan://ttfang@59.15.182.92:30017?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-59.15.182.92:30017
-trojan://telegram-id-v2rayvpnchannel@52.47.70.112:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.70.112:22223
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.59:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.59:2053

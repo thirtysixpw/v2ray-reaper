@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://948f6596-66f9-4707-aa92-3107a214ce53@108.160.139.154:8443?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-108.160.139.154:8443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.2:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-23.134.82.2:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.136:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.136:80
 vless://5dead573-8b28-45a9-be86-f09f7f6839e3@87.236.38.73:2053?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.73:2053
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.11:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.11:443
@@ -601,5 +603,3 @@ vless://2e19ad3d-133c-4e88-bfc4-2d8b0e9ee43d@104.129.167.203:8080?security=none&
 vless://5b2b253e-feda-4089-8cb7-eb3bdc88135f@104.26.5.57:8080?security=none&type=httpupgrade&host=blog.acveo.ir&path=%2Fjoin-----MTMVPN----join-----MTMVPN----join-----MTMVPN----join-----MTMVPN----join-----MTMVPN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.5.57:8080
 vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@185.146.173.200:443?security=tls&sni=pages.dev&type=ws&host=mc0.pages.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:443
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.37:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.37:8880
-vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?security=tls&sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws&host=37c60f8d.albangurakuqi.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.68:443
-vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@172.67.141.52:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.141.52:443

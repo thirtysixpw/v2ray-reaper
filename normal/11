@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.14:2053
+vless://a6125fc7-370a-4e23-b99d-90709d59f7dc@104.21.23.63:2082?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.23.63:2082
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.1.47:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.135:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.135:80
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.22.11:2052?security=none&type=ws&host=0118.kznyoum2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.22.11:2052
@@ -601,5 +603,3 @@ vless://348bb79c-da1b-40c7-9f95-9b267526534d@54.36.162.250:443?security=tls&flow
 vless://99727208-0086-43f9-f0ad-9e30f546b822@88.216.66.88:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.66.88:8880
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@104.21.48.1:2086?security=none&type=ws&path=speedtest.net#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.48.1:2086
 vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.188.157:2092
-vless://948f6596-66f9-4707-aa92-3107a214ce53@121.155.154.142:24251?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.155.154.142:24251
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@167.71.50.61:2087?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-167.71.50.61:2087

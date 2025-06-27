@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.235:8880
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.149.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.149.175:443
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@104.24.152.190:443?security=tls&sni=what.zhonghuoxing.top&type=ws&host=what.zhonghuoxing.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.152.190:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.105:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.51:80
@@ -601,5 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.7.63:8880?sni=jp.laoyoutiao.
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:443?security=tls&sni=Channel-ELiV2RAY--ELiV2RAY.nET&type=ws&host=Channel-ELiV2RAY--ELiV2RAY.nET&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-199.232.13.32:443
 vless://6a0eb77b-3b63-4cdd-97df-a7890d52ade0@91.107.180.105:43802?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.180.105:43802
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?type=ws&host=redw.pooriam.ir&path=Telegram#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.205:80
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.85.119.154:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.154:2096
-vless://5a1d5707-472a-4808-ad98-eb07b2ca921a@190.93.247.155:8443?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=ws&host=Punisher-V2rayCnc.radiotehran.org&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:8443

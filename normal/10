@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://c2a1fe98-5a25-4173-be3e-9fe9c7591484@172.67.133.67:443?security=tls&sni=alfred.dnss-mobile.ir&type=ws&host=alfred.dnss-mobile.ir&path=/alfred%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.67:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.217:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-147.185.161.217:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.208.67:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.208.67:443
 vless://e2937675-bf5e-444c-decb-8b9da4fb8b62@172.67.212.82:2083?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.82:2083
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?security=tls&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev&type=ws&host=BPB-a-montH-aFTER-July.pAGeS.dEV&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.164.167:443
@@ -601,5 +603,3 @@ vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@77.75.199.20:8880?type=httpupgrade&
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.164.244:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-104.129.164.244:443
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@172.67.199.79:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.79:443
 vless://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.98:33326
-vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.14:2053
-vless://a6125fc7-370a-4e23-b99d-90709d59f7dc@104.21.23.63:2082?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.23.63:2082

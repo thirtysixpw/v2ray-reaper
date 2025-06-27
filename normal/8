@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.85.119.154:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.154:2096
+vless://5a1d5707-472a-4808-ad98-eb07b2ca921a@190.93.247.155:8443?security=tls&sni=Punisher-V2rayCnc.radiotehran.org&type=ws&host=Punisher-V2rayCnc.radiotehran.org&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.8.14:80?type=ws&host=UUhuHYYGEsdfGh.UYhJhGVgfcjguJHBUiLbVFDXdXm.Xyz&path=%2FlB95uXNiHaJ1KjVD%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.8.14:80
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@162.159.195.212:443?security=tls&sni=newus.sspeednetokala.uS.kg&type=ws&host=newus.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.212:443
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.102:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.97.102:443
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.120:8880?security=none&sni
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&sni=cr7.medicaltreatment.ir&type=ws&host=cr7.medicaltreatment.ir&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.8.55:443
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.165.38:8443
 vless://58d001a7-7969-42a7-a39d-62b4b17402ac@91.99.150.159:4928?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.159:4928
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.238.228.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.238.228.3:8880
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2053?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2053

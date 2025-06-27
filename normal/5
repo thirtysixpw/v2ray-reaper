@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.229.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-14.102.229.63:8880
+vless://03e92910-34b1-4245-ac63-04a865f43cd5@104.21.84.242:443?security=tls&sni=3eRt.4444916.xyz&type=ws&host=3ert.4444916.xyz&path=%2Ff7vKDX2UecxmlPhIJoo2wcE6Q&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.242:443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.101.113.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.113.247:8880
 vless://6b6e7ff7-02e8-4800-981b-4a61acaa46b2@91.107.131.168:443?security=tls&sni=mw12.asalemaraghe.ir&type=ws&host=mw12.asalemaraghe.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-91.107.131.168:443
 vless://6a29215e-52fd-44aa-ad2b-8ea04546f8f2@104.19.174.68:2087?security=tls&sni=prx11.proxystore11.news&type=ws&host=prx11.proxystore11.news&path=%2Fprx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2087
@@ -601,5 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.27:80?security=none&typ
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.53.233:80?security=none&type=ws&host=di.dibdibini.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2570#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.53.233:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.205.52.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-216.205.52.213:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.124:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@170.114.46.213:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NONE 🇺🇸 US-170.114.46.213:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.44:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.44:80

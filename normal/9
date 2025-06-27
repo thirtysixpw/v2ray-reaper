@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.238.228.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.238.228.3:8880
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2053?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.190:2053
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.217.1.110:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.217.1.110:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.25:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.232:2083
@@ -601,5 +603,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.216.136:8880?security=none&
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@160.153.0.132:443?security=tls&sni=escoffier.changli.ddns-ip.net&type=ws&host=escoffier.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.132:443
 vless://ad979cf9-8274-4640-b885-17800c527b15@92.223.124.27:443?security=tls&sni=speedtest-fr5.gcore.com&type=ws&host=uds.com&path=/fuckfuckfuck&fp=firefox#🔒 VL-WS-TLS 🇩🇪 DE-92.223.124.27:443
 vless://e0fe6184-d21d-4a5c-a31c-2453e6854991@172.66.47.55:443?security=tls&sni=mAhDiserVER-9Tw.pAgEs.DeV&type=ws&host=mahdiserver-9tw.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.55:443
-vless://c2a1fe98-5a25-4173-be3e-9fe9c7591484@172.67.133.67:443?security=tls&sni=alfred.dnss-mobile.ir&type=ws&host=alfred.dnss-mobile.ir&path=/alfred%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.67:443
-vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.217:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-147.185.161.217:443

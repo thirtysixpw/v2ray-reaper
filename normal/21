@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.141:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.141:2087
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.62.168:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.62.168:443
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.40:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.45.40:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.182:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.120.182:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.218.213:8880?security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.218.213:8880
@@ -601,5 +603,3 @@ vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@104.21.64.1:2086?security=none&type
 vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.36:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.36:2400
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.158.7:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.158.7:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.195.83:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.195.83:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.193.30.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-185.193.30.63:8880
-vless://108bf43b-bf9b-4683-871e-ef3c4205c39f@188.114.97.64:443?sni=vpn2-80q.pages.dev&type=ws&host=vpn2-80q.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.97.64:443

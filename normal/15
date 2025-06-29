@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.147.42:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.147.42:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.240:443?security=tls&sni=hl.ylka.dpdns.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.240:443
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.186:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.186:2096
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.154:2087?security=tls&sni=a17.nnotamel-01.fun&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2087
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.10.173:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.10.173:443
@@ -601,5 +603,3 @@ vless://7662c5a9-0824-42cb-b42d-f0339d67568c@188.114.97.7:443?security=tls&sni=a
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@172.64.146.80:443?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=/Telegram-@AstroVPN_Official#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.80:443
 vless://00a03bb1-91d7-4fa4-a623-0cdad5a87cf8@104.18.20.69:443?security=tls&sni=us5s.pqvip.top&type=ws&host=us5s.pqvip.top&path=%2Fpq%2Fus5&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.69:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@170.114.46.236:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-170.114.46.236:8880
-vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@162.159.195.38:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.38:443
-vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.112.1:2083?security=tls&sni=meHRnEws.tWN24.Ir&type=httpupgrade&host=mehrnews.twn24.ir&path=%2F1TEFUc8jfdS517rirmowmH&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.112.1:2083

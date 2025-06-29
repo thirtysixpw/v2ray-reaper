@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@156.238.18.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇯🇵 JP-156.238.18.26:8880
+vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@104.21.14.54:443?security=tls&sni=XXCsDERT6.777159.XyZ&type=ws&host=xxcsdert6.777159.xyz&path=%2FO9jlBCbIm3xr1D40NK&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.14.54:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.123:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.123:80
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@202.182.124.217:56659?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇯🇵 JP-202.182.124.217:56659
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?security=tls&sni=147135004002.sec20org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-135.148.74.154:443
@@ -601,5 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.159.215:443?sni=xv6.jpmj.dpd
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.118:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.118:8880
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.54.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🔒 VL-WS-NA 🇺🇸 US-192.0.54.254:8880
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@188.114.97.29:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.29:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.64.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇸🇨 SC-154.197.64.213:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.6.35:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.6.35:443

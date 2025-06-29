@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://c91ca460-51e6-470f-99ab-2b1d3439f194@190.93.244.201:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.201:443
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.74.75:8880?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.74.75:8880
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@45.131.208.42:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.42:8443
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.187:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.187:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.89:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.89:8880
@@ -601,5 +603,3 @@ vless://5e109c38-3ce7-471f-a0c5-1e48f5734c60@104.24.196.20:2086?type=httpupgrade
 vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@45.150.174.82:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.82:443
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.39.214:2096?security=tls&sni=iNviNCIBlE.Fafa20.SHop&type=ws&host=invincible.fafa20.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.214:2096
 vless://dd278bce-4973-40a0-8070-cd73e988e16a@95.38.38.143:13131?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.38.143:13131
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.159.218.145:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.218.145:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.75:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=1#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.75:8880

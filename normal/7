@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.9.156:443?security=tls&sni=yx.yushan.dpdns.org&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.156:443
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@25.26.27.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram#🔒 VL-WS-NA 🇬🇧 GB-25.26.27.254:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.4.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.254.140.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-104.254.140.29:8880
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@83.147.252.63:2040?security=tls&sni=fr.ign.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇮 FI-83.147.252.63:2040
@@ -601,5 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.246:443?sni=xv6.jpmj.dpd
 vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.146:80
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.22.11:2052?security=none&type=ws&host=0118.kznyoum2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.22.11:2052
 vless://796d4e26-9e86-4551-a232-26ae2a25676d@172.67.69.236:2083?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2083%2F%40VRayyNGvpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2083
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.85.119.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.251:8880
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.193:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.193:8880

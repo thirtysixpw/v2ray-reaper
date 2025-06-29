@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.7.66:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.7.66:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.166.177:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.166.177:443
 vless://c93b1359-c570-4703-894a-ce18883faac3@104.26.0.73:443?security=tls&sni=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev&type=ws&host=bsw8xmeczkaqznfcbu7sdx39baabahluzcnr9xyifcgpnzls6jsodqndaygtww3.yju9y2x.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.0.73:443
 vless://33de8a6b-e3bc-4263-9cdd-fd676816c875@77.221.140.134:44481?security=none&type=tcp&host=stackoverflow.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-77.221.140.134:44481
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?type=ws&host=pormang.webhost99.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NA 🇺🇸 US-66.235.200.149:80
@@ -601,5 +603,3 @@ vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@104.21.16.169:443?security=tls&sni=
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&type=ws&host=ru05.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇷🇺 RU-2.56.178.47:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.93:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.93:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.16.227.89:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.227.89:443
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@172.232.157.252:2053?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-172.232.157.252:2053
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@129.159.241.172:443?security=tls&sni=147135004002.sec20org.com&allowInsecure=0#🔒 VL-TCP-TLS 🇩🇪 DE-129.159.241.172:443

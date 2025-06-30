@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%F0%9F%87%BA%F0%9F%87%B864%20%7C%20%201.3MB/s%7C46%25%7COpenai%7CGem...
-vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?sni=5eR.WWW890604.dPDNS.OrG&alpn=http/1.1&type=ws&host=5er.www890604.dpdns.org&path=/C1SukvGdr58yeduy9AOGfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B873%20%7C%20%201.9MB/s%7C50%25%7COpenai%7CGem...
-vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?sni=bBA.890601.pP.UA&alpn=http/1.1&type=ws&host=bba.890601.pp.ua&path=/rU9rSjDSOd4yY2fOefp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B879%20%7C%20%201.7MB/s%7C30%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.111.223:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B884%20%7C%20%204.0MB/s%7C30%25%7COpenai
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?type=ws&path=/6603a779fp=chrome#%F0%9F%87%AE%F0%9F%87%B71%20%7C%20%201.3MB/s%7C0%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%201.7MB/s%7C61%25%7CDisney%7COpen...
@@ -283,9 +280,9 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@102.177.189.13:8880?allowInsecure=0
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@102.177.176.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0257
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@102.132.188.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0258
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@102.177.176.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0259
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506261935105-8wt2dE37PQ.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MGIxOTEwNzZkMThm@156.251.179.136:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fugiibpkbca%3Bhost%3Dhk6v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYzlkZjdhYWI1OTU@137.220.142.140:36937?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fjlyoefhqt%3Bhost%3Djp5v1.8vote.cn%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506261935105-8wt2dE37PQ.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506261935105-8wt2dE37PQ.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0285
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0286

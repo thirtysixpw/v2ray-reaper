@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.207.135:51615
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.208:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.208:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.143.86:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.143.86:443
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@63.141.128.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-63.141.128.13:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-31.12.75.20:8880
@@ -603,3 +601,5 @@ vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?security=tls&flow=
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.159.216.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🔒 VL-WS-NA 🇺🇸 US-45.159.216.254:8880
 vless://919e64f3-f3d7-481b-b2d4-9dc5409c615f@172.67.212.144:8443?security=tls&sni=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&type=ws&host=grop-selinc-selinc-selinc-selinc.ziffjy.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.144:8443
 vless://19335546-8ae2-4dd1-86da-987b2daa5a6c@62.60.176.99:8088?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.176.99:8088
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@[::ffff:156.238.18.136]:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-[::ffff:156.238.18.136]:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.219:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.219:8880

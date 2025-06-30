@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@140.99.233.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇩🇪 DE-140.99.233.20:8880
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.194.220:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.194.220:443
 vless://2954224a-13ca-4af7-8e44-1c83622f6ab0@104.22.79.190:443?security=tls&sni=presidential-salmon-vz-a587c1b2.koyeb.app&type=ws&host=presidential-salmon-vz-a587c1b2.koyeb.app&path=/vl#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.79.190:443
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-5.10.244.109:443
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@159.246.55.233:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&path=%2FTl%40vlees_v2rayng%3Fed%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.233:8443
@@ -603,3 +601,5 @@ vless://aa188240-cf10-4df6-9543-5223800891be@91.99.188.10:8880?security=none&typ
 vless://401374e6-df77-41fb-f638-dad8184f175b@88.216.67.84:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇱🇹 LT-88.216.67.84:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.48.32:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.48.32:443
 vless://32b67990-fb70-457f-8f02-c7c62e4156ca@94.182.142.28:2020?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.142.28:2020
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@88.216.69.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-88.216.69.177:8880
+vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@172.64.157.3:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.157.3:8443

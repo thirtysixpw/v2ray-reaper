@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?security=tls&sni=crolindd.dearcarlotta.cloudns.org&type=ws&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.26:443
-vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JesSy-PADBerg.WorkeRS.DEv&type=ws&host=pPaL03.JesSy-PADBerg.WorkeRS.DEv&path=%2Flmuv-8ifb5aof3_-%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.87:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.144.210:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.144.210:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.92.52:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.92.52:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.22.182:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.22.182:443
@@ -603,3 +601,5 @@ vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@37.32.126.116:8081?security=none&ty
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.175.162:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.175.162:443
 vless://15868173-1378-4984-a4e2-07d51591b237@188.244.122.224:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.224:2096
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@150.230.196.248:443?security=tls&sni=piqie.justin-lifeistooshort.info&type=ws&host=piqie.justin-lifeistooshort.info&path=%2Ftiger#🔒 VL-WS-TLS 🇯🇵 JP-150.230.196.248:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-23.94.208.154:53485
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.22.186:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.186:443

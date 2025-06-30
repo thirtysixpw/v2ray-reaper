@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6bfe29b6-6b37-4186-a9c1-377503f5ea0d@212.16.71.16:41577?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-212.16.71.16:41577
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.39.223:443?security=tls&sni=edmx.ambercc.filegear-sg.me&type=ws&host=edmx.ambercc.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.223:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.118:443?security=tls&sni=ls.bgm2024.dpdns.org&type=ws&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.118:443
 vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2053?security=tls&sni=snappfood.ir&type=ws&host=mail.link.link-kon.ir&path=%2FdW93cLS7AMqX89Z9%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.235.201:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.123:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.123:8880
@@ -603,3 +601,5 @@ vless://26424574-6d67-440f-8972-90cc4c4832cb@85.133.247.43:2086?security=none&ty
 vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@104.22.70.81:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.70.81:443
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.137.66:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.66:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇱🇹 LT-86.38.214.213:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.75.50:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-92.243.75.50:8880
+vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.175.148:2083?security=tls&sni=FreEdOm.pANotosU.stOre&type=ws&host=FreEdOm.pANotosU.stOre&path=%2Fkshty81cfjdnvixr%2Fc2hpcmvulnlhzw1pa28uz2dmzi5uzxq%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.148:2083

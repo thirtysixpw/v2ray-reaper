@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://c8aea861-7ce9-47b1-bdbd-7b1ac98f86dd@139.144.219.15:2321?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-139.144.219.15:2321
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@164.38.155.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-164.38.155.3:8880
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.227.99.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇲🇹 MT-193.227.99.3:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.93:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.93:443
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.129.167.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-104.129.167.3:8880
@@ -603,3 +601,5 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.158.250:443?sni=0926.qiang20
 vless://99727208-0086-43f9-f0ad-9e30f546b822@104.129.167.30:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.30:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.72:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.72:443
 vless://3091b7ac-ed37-4e51-bc21-a56284e324ec@104.22.78.49:443?security=tls&sni=bamobhamtest.3748azazaz.workers.dev&type=ws&host=bamobhamtest.3748azazaz.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.78.49:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.249.115:443?security=tls&sni=xv.ylks0033.dpdns.org&type=ws&host=xv.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.249.115:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.158:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.158:8880

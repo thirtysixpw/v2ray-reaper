@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@172.67.73.163:80?type=ws&host=DECENt-ReFerEnCE.ZUlAir.oRG.&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.73.163:80
-vless://ee74773d-d4bd-4d55-9984-8a51be0b66a8@104.16.199.75:2096?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.199.75:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.87.52:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.46.197:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.46.197:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.117.112.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-89.117.112.63:8880
@@ -603,3 +601,5 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80?security=none&type
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.254.111:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.254.111:443
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.5.114:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.214:80?security=none&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.214:80
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.207.135:51615
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.208:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.208:80

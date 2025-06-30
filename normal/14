@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:8443?security=tls&sni=app.soft10.ir&type=httpupgrade&host=app.soft10.ir&path=/8PaKguUsL3cShypYFXoLUeVZ81vwc&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.203.189:8443
-vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇸🇬 SG-27.50.48.192:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.55:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NONE 🇩🇪 DE-5.10.215.55:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.43:443?security=tls&sni=vb.bgm2024.dpdns.org&type=ws&host=vb.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.43:443
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.46.30.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.46.30.3:8880
@@ -603,3 +601,5 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@18.183.158.211:443?security=tls&sni
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.210.128:80?sni=workerr.dimon22287.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.128:80
 vless://4c5005e6-7f17-476d-9f30-15adb302e253@37.152.173.135:2096?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.173.135:2096
 vless://897a4bec-26b8-11e8-94be-00505695472c@162.159.140.178:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.140.178:443
+vless://6bfe29b6-6b37-4186-a9c1-377503f5ea0d@212.16.71.16:41577?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-212.16.71.16:41577
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.39.223:443?security=tls&sni=edmx.ambercc.filegear-sg.me&type=ws&host=edmx.ambercc.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.223:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@[::ffff:156.238.18.136]:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-[::ffff:156.238.18.136]:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.219:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.219:8880
 vless://8d201d45-0638-4bf5-a1f6-ab7d4d715380@195.182.38.28:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-195.182.38.28:2086
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.80.1:8880?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.1:8880
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.87.190.57:8443?security=tls&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇿 CZ-194.87.190.57:8443
@@ -603,3 +601,5 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.147:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.147:8880
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&sni=cr7.medicaltreatment.ir&type=ws&host=cr7.medicaltreatment.ir&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.8.55:443
 vless://db9d419e-3094-4942-9313-d39afd3dd163@104.16.101.143:80?sni=spx.lindak.dpdns.org&type=ws&host=spx.lindak.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.101.143:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.6.239:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.6.239:443
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.248:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.229.248:8880

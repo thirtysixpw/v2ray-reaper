@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.242:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3&allowInsecure=0#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.242:8443
-vless://9d22dd97-583f-49c1-9c09-c8cab019f176@140.248.125.4:80?security=none&type=xhttp&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-140.248.125.4:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.132:443?security=tls&sni=1750120447146.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&type=ws&host=1750120447146.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.132:443
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.49.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.49.253:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇺 LU-188.42.89.29:8880
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.213:8880?type=ws&host=jp
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@155.46.213.246:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-155.46.213.246:8880
 vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?security=tls&sni=de.gt-ov.com&type=ws&host=de.gt-ov.com&path=%2F%23telegram%40V2ray_Alpha&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.132:2053
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@155.46.213.14:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-155.46.213.14:8880
+vless://c8aea861-7ce9-47b1-bdbd-7b1ac98f86dd@139.144.219.15:2321?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-139.144.219.15:2321
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@164.38.155.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-164.38.155.3:8880

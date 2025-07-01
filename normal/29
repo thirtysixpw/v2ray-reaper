@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@104.17.28.186:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.28.186:443
-trojan://Aimer@211.193.36.238:16017?sni=agepk.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.193.36.238:16017
-trojan://Aimer@104.17.56.33:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.56.33:443
-trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&sni=z9.gozargah.one#🔒 TR-TCP-TLS 🇺🇸 US-103.224.182.249:443
 trojan://Aimer@92.243.74.239:8443?sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-92.243.74.239:8443
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.10.222:443?sni=kc1.vs2024.dpdns.org#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.10.222:443
 trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.157.254:443?security=tls&sni=uuujjnmm.444752.xyz&type=ws&host=uuujjnmm.444752.xyz&path=%2FctHoQlqeZn8pbEUSLppj7jCmY&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.157.254:443
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5emNRdFFQMGwyQ05kcHhZYTlDTnNj@174.138.17.254:52252#🔒 SS-TCP-NA 🇸🇬 SG-174.138.17.254:52252
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🔒 SS-TCP-NA 🇦🇷 AR-38.54.45.129:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZk13MG55UHNmamxvOUFmYkZUbFRQ@77.110.109.86:4443#🔒 SS-TCP-NA 🇺🇸 US-77.110.109.86:4443
+ss://YWVzLTI1Ni1nY206NGY4ODNlNGUtZWM4OS01Y2UyLWE0YjctOWE5MjBjZDRjN2Vm@94.101.177.223:11310#🔒 SS-TCP-NA 🇮🇷 IR-94.101.177.223:11310
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@45.145.164.238:40034#🔒 SS-TCP-NA 🇫🇷 FR-45.145.164.238:40034
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#🔒 SS-TCP-NA 🇰🇿 KZ-38.107.234.38:57456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg=@45.76.180.205:31368#🔒 SS-TCP-NA 🇸🇬 SG-45.76.180.205:31368

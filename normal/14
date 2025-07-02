@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.101:443
+vless://7bff2494-32b8-4c13-a995-32b188546270@50.7.85.222:443?security=tls&sni=pkgbuild.org&type=ws&host=pkgbuild.org&path=%2Fconnect%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-50.7.85.222:443
 vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.44.83:443?security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&type=ws&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.83:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.207:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-141.193.213.207:80
 vless://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.211.51:80?sni=1224.j9q1xuv8.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.211.51:80
@@ -601,5 +603,3 @@ vless://f184c89c-80a4-4a3a-bc67-97db43266c11@91.192.102.55:443?security=tls&sni=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.159.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇦🇲 AM-188.164.159.63:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.5:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇩🇪 DE-5.10.214.5:8880
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@217.61.61.190:42538?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇮🇹 IT-217.61.61.190:42538
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@45.192.224.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-45.192.224.251:8880
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@86.38.214.196:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-86.38.214.196:8880

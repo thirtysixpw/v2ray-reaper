@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.101:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.101:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇸🇮 SI-92.53.189.213:8880
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@139.64.235.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-139.64.235.177:8880
 vless://948f6596-66f9-4707-aa92-3107a214ce53@143.198.196.196:8443?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-143.198.196.196:8443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.149.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.149.175:443
@@ -601,5 +603,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.85.117:443?sni=xv6.jpmj.dpdn
 vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@172.67.69.227:443?security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&path=%2Fvk_l-izyy3q_-noq%3Fed%3D2048%40sinabigo#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.227:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.104.223:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.104.223:443
 vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@188.114.99.108:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.108:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@198.41.209.66:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.209.66:443
-vless://bbda5283-55b9-433f-9d93-aa9af508348f@185.208.79.39:15972?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.208.79.39:15972

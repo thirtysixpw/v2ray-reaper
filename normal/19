@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.67.165.162:443?security=tls&sni=faruzan.changli.ddns-ip.net&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.162:443
+vless://3407d572-2d0b-43f2-9ee8-0d84c0fe13bd@172.67.73.163:8443?security=tls&sni=prx11.proxystore11.news&type=xhttp&host=prx11.proxystore11.news&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&fp=chrome&alpn=h2#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.67.73.163:8443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.186.87:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.186.87:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.108:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇨 SC-154.197.64.108:8880
 vless://e23dfe48-6c50-4424-af25-a6b33fd2afa7@172.67.212.109:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.109:443
@@ -601,5 +603,3 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@92.243.75.245:8880?security=none&ty
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.113:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.113:80
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@66.81.247.203:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.203:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.90.10:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.90.10:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.185:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇭🇰 HK-156.238.19.185:80
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@185.148.104.131:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.148.104.131:443

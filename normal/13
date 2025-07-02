@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.3.26:2083?security=tls&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.3.26:2083
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.105:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.152.105:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.190:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.190:443
 vless://0eea7726-6424-46d9-b1e4-30f5001b0ccc@104.21.24.129:8880?security=none&type=ws&host=solta.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.divajnet.site.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.129:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.147.234:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.147.234:443
@@ -601,5 +603,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880?type=ws&host=cf.
 vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.128:443?security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.10.128:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.89:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.19:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.67.19:80
-vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.101:443
-vless://7bff2494-32b8-4c13-a995-32b188546270@50.7.85.222:443?security=tls&sni=pkgbuild.org&type=ws&host=pkgbuild.org&path=%2Fconnect%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-50.7.85.222:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.66.18:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-88.216.66.18:8880
 vless://216934d7-7f9b-4af6-bf78-8495cdb88e47@185.124.175.250:49138?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.124.175.250:49138
 vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.213.241:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.213.241:443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?security=tls&sni=147135004002.sec20org.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-135.148.74.156:443
@@ -601,5 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.93.29:8880?type=ws&host=hk.l
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.196.13:8880?security=none&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/telegram-channel-mtmvpn---telegram-channel-mtmvpn#🔒 VL-WS-NONE 🇳🇱 NL-185.207.196.13:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.69.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇱🇹 LT-88.216.69.247:8880
 vless://32b1630f-7964-4d58-847c-1cea931e60ed@198.41.202.5:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:443
-vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@172.67.166.217:443?security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FNBuFH5KdNl08Dm06&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.166.217:443
-vless://9b4ee668-97a6-471f-a0f8-ee27f79ddd6f@172.67.21.239:80?type=httpupgrade&host=v2ngfast.nanvrfood.ir.#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-172.67.21.239:80

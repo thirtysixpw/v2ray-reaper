@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@198.41.209.66:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.209.66:443
+vless://bbda5283-55b9-433f-9d93-aa9af508348f@185.208.79.39:15972?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.208.79.39:15972
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.234:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.234:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.60:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.60:8880
 vless://8887d7e2-1c73-49b1-9d60-ce7546053370@91.99.148.251:3799?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.148.251:3799
@@ -601,5 +603,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.142.120.251:8880?sni=Telegram-ch
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.57:80?security=none&type=ws&host=redfree8.pooriashop.ir#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.57:80
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.248:6587?security=none&type=tcp&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.248:6587
 vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@204.12.192.220:443?security=tls&sni=ccsnal.vipsell-one.ir&type=ws&host=ccsnal.vipsell-one.ir&path=/ALB/VIPSell/@saeedtelg&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-204.12.192.220:443
-vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.8.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.38:443
-vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.42:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.42:2400

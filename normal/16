@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://ab907599-0072-4118-b696-f308401c6059@188.114.97.30:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.30:443
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@173.245.58.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-173.245.58.13:8880
 vless://948f6596-66f9-4707-aa92-3107a214ce53@140.83.57.20:13118?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-140.83.57.20:13118
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@92.114.20.10:443?security=tls&sni=nv137.momdping.com&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-92.114.20.10:443
 vless://d53b1702-56a6-461c-ef1c-1decc60d6cf4@167.82.70.50:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-167.82.70.50:443
@@ -601,5 +603,3 @@ vless://a268ce39-7687-4817-aa5f-def4f653fb88@199.34.228.186:443?sni=cf.501508.xy
 vless://b6775c28-f69c-448e-ae30-719cd21539da@172.66.47.173:2053?security=tls&sni=JoiNmaHdisERVER-GE4.pAgeS.DeV&type=ws&host=joinmahdiserver-ge4.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.173:2053
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@172.67.71.122:2087?security=tls&sni=vless1-698.pages.dev&type=ws&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2087
 vless://f9113568-93cd-4ac4-a1dd-b13b59d743be@104.26.13.8:8880?security=none&type=httpupgrade&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.13.8:8880
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@119.202.158.65:15784?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇰🇷 KR-119.202.158.65:15784
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@91.238.82.243:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-91.238.82.243:443

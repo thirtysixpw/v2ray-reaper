@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@167.82.72.20:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-167.82.72.20:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.206.12.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-154.206.12.29:8880
 vless://2fec7227-9abe-46f2-af18-78302b836c45@141.147.168.141:443?security=tls&sni=3u.2032.pp.ua&type=ws&path=%2FqF5dXhCllosLcFpqdDoAgkondVWl#🔒 VL-WS-TLS 🇯🇵 JP-141.147.168.141:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.6.139:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.139:80
@@ -602,4 +603,3 @@ vless://ba902158-fce5-4b33-8cb0-ef32bf6d05f3@5.10.246.73:443?security=tls&sni=mc
 vless://4b132e2b-24b1-418b-90e9-a11b619a799b@104.21.79.116:443?security=tls&sni=m1swxrt.777236.xyz&type=ws&host=m1swxrt.777236.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.116:443
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.131.4.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.251:8880
 vless://b5bfc011-c8c1-4234-b403-df07aedcc076@104.21.62.144:443?security=tls&sni=kci3.kci3cfjiasucdn.dpdns.org&type=ws&host=kci3.kci3cfjiasucdn.dpdns.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.142:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.142:80

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.144:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.144:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.21:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.7.21:8880
 vless://d66749b7-208f-42f2-b1f2-e4a7e96f2364@198.41.216.98:8080?type=httpupgrade&host=masterserver1.nanvrfood.ir.#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-198.41.216.98:8080
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@170.114.45.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-170.114.45.177:8880
@@ -602,4 +603,3 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@167.68.11.13:8880?sni=Telegram-chan
 vless://8e72da07-0429-432e-8f0a-e9a3d4fc538f@151.101.2.133:80?security=none&type=ws&host=JOin.ELiV2-R-A-Y.io#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.133:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.222:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.222:80
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@185.174.138.37:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.37:443
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.193.27.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.27.247:8880

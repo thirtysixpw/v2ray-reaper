@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&type=tcp&host=cloud.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.179.100:54080
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@156.225.72.212:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-156.225.72.212:8880
 vless://807b2717-e1ac-4209-933b-b04076cddde9@206.238.237.212:443?security=tls&sni=amedo.ambercc.filegear-sg.me&type=ws&host=amedo.ambercc.filegear-sg.me&path=/?ed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.212:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.99.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.123:443
@@ -602,4 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.249:8880?sni=sk.laoyoutia
 vless://683c95fa-672b-49a3-bf44-342adfbb7c36@172.66.40.165:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.165:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.47.213:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.47.213:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.1.125:2086
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:80?security=none&sni=public.satoshi.mom&type=ws&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:80

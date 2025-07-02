@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://7e4c2e53-cd6d-4238-90ee-729b51e360f7@213.176.92.7:443?security=tls&sni=point.teverie.ir.&type=httpupgrade&path=%2FCWNeRzWFjgWHWZFw%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-HTTPUPGRADE-TLS 🇸🇪 SE-213.176.92.7:443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.234.239.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-104.234.239.247:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.99:8880?type=ws&host=sk.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.99:8880
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
@@ -602,4 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.75.29:8880?sni=hk.laoyoutiao
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.135.9.132:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-185.135.9.132:8880
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@142.93.228.176:1003?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-142.93.228.176:1003
 vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.161:2095?type=ws&host=0215.kiefcascz.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:2095
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@152.42.150.138:1003?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-152.42.150.138:1003

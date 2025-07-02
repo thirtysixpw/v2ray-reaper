@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@104.21.31.221:2096?sni=epccc.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.31.221:2096
 trojan://Aimer@104.17.249.130:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.249.130:443
 trojan://40325231-6c39-4251-ba0e-86f7cf4aff23@212.52.1.236:443?security=tls&sni=de1.safecdn.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-212.52.1.236:443
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-135.148.148.4:80
@@ -603,3 +602,4 @@ trojan://Aimer@104.26.1.253:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://c7cdf323-25d4-4c82-ad35-0aca769041c2@162.159.152.205:443?security=tls&sni=trojans1.114514660.xyz&type=ws&host=trojans1.114514660.xyz&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.205:443
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.70.191:443?sni=tt1.vs2024.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.70.191:443
 trojan://Aimer@162.159.130.214:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.214:443
+trojan://Aimer@47.79.88.21:6010?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇯🇵 JP-47.79.88.21:6010

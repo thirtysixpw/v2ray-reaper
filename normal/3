@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@176.222.55.17:443?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-176.222.55.17:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.39.204:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.39.204:443
 vless://2642c002-1f66-46fd-8e4c-a25bba373c98@104.21.13.16:2096?security=tls&sni=cantarella.yaechan.ip-ddns.com&type=ws&host=cantarella.yaechan.ip-ddns.com&path=%2Fproxyip%3Dcitlali.shorekeeper.ir&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.16:2096
 vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80?security=none&type=ws&host=direct85-217-14-47.digital-ping.ir&path=%2Fconnect%2Fde%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:80
@@ -603,3 +602,4 @@ vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@188.114.97.29:443?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.4.65:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.65:443
 vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?security=tls&sni=Kk40.motorphrotan.ir&type=ws&host=Kk40.motorphrotan.ir&path=%2F%74%65%6C%65%67%72%61%6D-%4E%55%46%69%4C%54%45%52%2C%74%65%6C%65%67%72%61%6D-%4E%55%46%69%4C%54%45%52%2C%74%65%6C%65%67%72%61%6D-%4E%55%46%69%4C%54%45%52%2C%74%65%6C%65%67%72%61%6D-%4E%55%46%69%4C%54%45%52%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-185.207.198.254:443
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.31.16.9:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.9:443
+vless://b1509a08-9585-428a-a71a-4345edae7a2c@91.99.204.171:3789?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.204.171:3789

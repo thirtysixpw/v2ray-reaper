@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://97a382cb-26d6-40da-9f11-b2a21545be08@104.18.32.47:8880?security=none&type=ws&host=orangeorangeйШњжЦѓйБФеНБйїЮдЄЙеНБеИЖ.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.47:8880
 vless://c59030ea-9a3b-46aa-854a-db32e0fc845f@172.67.161.74:443?security=tls&sni=support.sabapardaziran.ir&type=grpc&serviceName=/37207/@M3HDIO1&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.74:443
 vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052?sni=sPeedtest2.sbs.se.vless.sitespeedtest.net&type=ws&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=/vless&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-14.102.228.77:2052
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.4:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇦🇪 AE-181.214.1.4:8880
@@ -603,3 +602,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?security=none&t
 vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.153:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@195.85.23.162:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.162:2096
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@104.21.88.70:80?security=none&type=ws&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.88.70:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.127:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.127:80

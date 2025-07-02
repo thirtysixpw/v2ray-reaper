@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.155.88:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.88:443
 vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?sni=cf.breakday.top&type=ws&host=cf.breakday.top&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.7.206:443
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.226:8880
@@ -603,3 +602,4 @@ vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@91.193.59.187:2052?security=none&ty
 vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@45.159.218.151:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.159.218.151:2082
 vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@50.7.87.84:443?security=tls&sni=ccsnal.vipsell-one.ir&type=ws&host=ccsnal.vipsell-one.ir&path=/ALB/VIPSell/@saeedtelg&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-50.7.87.84:443
 vless://475d628a-3845-4a46-9fb8-e02e8de504f2@149.202.58.195:80?security=none&type=ws&host=arunodmanohara.com&path=%2F#🔒 VL-WS-NONE 🇫🇷 FR-149.202.58.195:80
+vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.26.3.137:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.137:443

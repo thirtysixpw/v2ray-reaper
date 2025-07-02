@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@172.67.162.242:2053?security=tls&sni=txmt.conetcdata.dpdns.org&type=ws&host=txmt.conetcdata.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.242:2053
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.49:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.188.49:8880
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@188.114.96.218:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.218:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.43.29:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.43.29:443
@@ -603,3 +602,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.195.196.173:30120?security=tls&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.9.49.29:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇷🇺 RU-193.9.49.29:8880
 vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?sni=hk.mehun.me&type=ws&host=hk.mehun.me&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-156.59.125.66:443
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@104.18.8.209:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.209:443
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@140.99.233.95:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇩🇪 DE-140.99.233.95:8880

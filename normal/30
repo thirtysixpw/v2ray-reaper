@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🔒 SS-TCP-NA 🇭🇰 HK-203.23.128.33:990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MXZZM3F2ZzVUa2hLN2RGd2Y3ZlJJ@77.246.98.67:4343#🔒 SS-TCP-NA 🇳🇱 NL-77.246.98.67:4343
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🔒 SS-TCP-NA 🇰🇷 KR-154.90.63.177:989
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.77:443
 ss://YWVzLTI1Ni1nY206QU4zRlRBVjY1WFY5QlFLRw==@156.245.190.18:15009#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.18:15009
@@ -603,3 +601,5 @@ trojan://Aimer@162.159.137.139:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://e3826052-a5a4-4566-978b-cdd0e717a5eb@209.209.48.19:53171?sni=cn.bing.com#HK3
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.80:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A592
 trojan://Aimer@154.211.8.47:2096?sni=epccy.ambercc.filegear-sg.me#US12
+trojan://Aimer@172.67.144.114:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A593
+trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@104.21.24.195:443?security=tls&type=ws&sni=XCfVGbHFg.999836.xyZ&path=/XmTzATQPJv9RO3xr1D40NK&host=xcfvgbhfg.999836.xyz#%E6%9C%AA%E7%9F%A594

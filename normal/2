@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.214.14:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-89.163.214.14:8443
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#🔒 VL-TCP-RLT 🇸🇮 SI-92.60.78.221:443
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.75.222:443?security=reality&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&type=tcp&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#🔒 VL-TCP-RLT 🇯🇵 JP-160.16.75.222:443
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@51.89.229.92:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒 VL-TCP-RLT 🇬🇧 GB-51.89.229.92:1370
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🔒 VL-TCP-RLT 🇳🇿 NZ-45.15.140.38:28495
@@ -603,3 +601,5 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.196.13:8880?security=none&t
 vless://c2df3028-a48c-4f0f-a104-013594dfa659@85.133.215.108:235?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.215.108:235
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&type=ws&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.112.1:80
 vless://15c09085-e6c7-45c1-99aa-cd1905270444@104.18.26.90:2087?security=tls&sni=laptop.vistait.fun&type=ws&host=laptop.vistait.fun&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.90:2087
+vless://9244400c-c976-4eba-9941-4f83e0084795@109.122.247.41:8084?security=none&type=tcp&host=torob.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.247.41:8084
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.47:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.12.31.47:8880

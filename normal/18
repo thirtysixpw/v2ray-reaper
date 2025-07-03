@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://18f84d91-f432-45e2-962f-ca4f76a44713@172.67.157.70:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.70:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.104:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.104:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.159:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.159:8880
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@50.7.85.219:443?security=tls&sni=nitter.ir&type=ws&host=nb-de.nitter.ir&path=%2Fhajmi%3Fed%3D2050&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-50.7.85.219:443
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@108.162.193.110:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.110:443
@@ -603,3 +601,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.49.213:8880?type=ws&host=jp.l
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-104.129.165.213:8880
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@162.159.192.127:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=/?ed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.127:443
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@194.36.55.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-194.36.55.13:8880
+vless://db400287-fb42-441d-8a76-5624a8a96f49@104.24.196.20:443?security=tls&sni=rayan-roof.atena.dpdns.org&type=ws&host=rayan-roof.atena.dpdns.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
+vless://d0c798ee-d28b-4b9d-bb05-7ab81c490d73@104.18.0.236:443?security=tls&sni=rangikumatsumoto.retsuunohana.ip-ddns.com&type=ws&host=rangikumatsumoto.retsuunohana.ip-ddns.com&path=%2Fproxyip%3Dwizu.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.0.236:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@66.225.252.251:8880?type=ws&host=0926.qiang2000.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NA 🇺🇸 US-66.225.252.251:8880
-vless://6ac2c83f-67aa-4916-a7fa-1357fe370ce2@104.21.44.185:2082?security=none&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.44.185:2082
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.129.166.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-104.129.166.247:8880
 vless://275c1c05-9b08-499d-94e1-cd51c16adefe@94.182.134.121:2083?security=none&type=tcp&host=iranserver.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.121:2083
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.48.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇸🇬 SG-27.50.48.213:8880
@@ -603,3 +601,5 @@ vless://e16c1f00-afa4-405f-a944-932f81e18e23@185.143.235.201:443?security=tls&sn
 vless://a0c2611d-798a-4502-ec15-6432d554a4cd@2.188.224.5:52127?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.188.224.5:52127
 vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.69.50:443?security=tls&sni=4o.191292.xyz&type=ws&host=4o.191292.xyz&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.50:443
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.142:2083?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-2.189.117.142:2083
+vless://62301c33-a285-78e8-9689-a28bea5712b9@94.139.183.196:698?security=none&type=ws&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com#🔒 VL-WS-NONE 🇮🇷 IR-94.139.183.196:698
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@172.67.130.66:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V10.SiMansaNaT.Ir.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80

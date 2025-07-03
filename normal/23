@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.31.226:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.94.90.63:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.7.133:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.7.133:443
 vless://096a888e-c3ba-467c-b9c6-bf6b1bd1e56c@173.245.58.73:2052?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.iran.ir.cdn.ir.Elmahstyle.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.73:2052
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.84.250:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.84.250:443
@@ -603,3 +601,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?sni=reedfree8ma
 vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.80.1:2052?security=none&type=ws&host=gshsgshs.jqxkqk.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.1:2052
 vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.146:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.34.228.177:2052?type=ws&host=redw.pooriam.ir&path=%2FTM-ShadowProxy66%3Fed#🔒 VL-WS-NA 🇺🇸 US-199.34.228.177:2052
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@138.124.116.112:2040?security=tls&sni=fr.ign.com&fp=chrome#🔒 VL-TCP-TLS 🇸🇪 SE-138.124.116.112:2040
+vless://be73d2e9-57a3-409d-872e-c5dacb7ea6a8@213.176.93.12:443?security=tls&sni=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&type=ws&host=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-213.176.93.12:443

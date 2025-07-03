@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.59:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.59:8880
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@193.9.49.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-193.9.49.13:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.18:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.18:80
 vless://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?security=none&type=ws&host=BRoKEn-bar-5948.NEpog45969.WoRKERS.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.80:80
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.176:443?security=tls&sni=hkklo.azurewebsites.net&type=ws&host=hkklo.azurewebsites.net#🔒 VL-WS-TLS 🇭🇰 HK-13.75.34.176:443
@@ -603,3 +601,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.205.0.217:8880?security=none&typ
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.199:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.6.199:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.20.103:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.103:443
 vless://33de8a6b-e3bc-4263-9cdd-fd676816c875@77.221.140.134:44481?security=none&type=tcp&host=stackoverflow.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-77.221.140.134:44481
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.31.226:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-209.94.90.63:8880

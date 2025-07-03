@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.242:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-154.211.8.242:443
-vless://0dcc717f-42a1-407c-acd6-b298f4d98a48@172.64.159.251:8443?security=tls&sni=t.nsa.cc&type=ws&host=t.nsa.cc&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.159.251:8443
 vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@104.239.72.123:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.123:2082
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.72.44:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-135.84.72.44:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.23:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.23:80
@@ -603,3 +601,5 @@ vless://8ecc2a9f-b164-453b-b768-6447ce1eb549@104.18.165.147:2052?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.122:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-45.8.211.122:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.224:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.246.224:8880
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?security=none&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-135.84.76.75:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.213:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.247.213:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.210.195:80?type=ws&host=a.xn--i-sx6a60i.us.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.195:80

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://62301c33-a285-78e8-9689-a28bea5712b9@94.139.183.196:698?security=none&type=ws&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com#🔒 VL-WS-NONE 🇮🇷 IR-94.139.183.196:698
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@172.67.130.66:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V10.SiMansaNaT.Ir.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.229:2087?security=none&type=tcp&host=skyroom.online&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.95.67.229:2087
 vless://f3a4b5c6-d7e8-4199-8b0c-d2e3f4a56789@104.22.10.140:443?security=tls&sni=configs.v2rayse.com&type=ws&host=configs.v2rayse.com&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.10.140:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.92.9.151:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-154.92.9.151:8880
@@ -603,3 +601,5 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@63.141.128.13:8880?sni=Telegram-cha
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@188.164.248.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-188.164.248.3:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇩🇪 DE-140.99.233.29:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.138:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.67.138:80
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.156.241:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.156.241:443
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443

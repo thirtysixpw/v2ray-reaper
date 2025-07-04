@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?security=reality&sni=iranbax.spacex.com&type=grpc&serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#🔒 VL-GRPC-RLT 🇩🇪 DE-64.190.63.111:443
 vless://84e919b0-2a5d-4fad-8614-df01dd210b8e@91.99.2.168:2434?security=reality&sni=www.chess.com&type=tcp&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.2.168:2434
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#🔒 VL-TCP-RLT 🇸🇨 SC-178.20.215.10:443
 vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?security=reality&sni=zula.ir&type=grpc&fp=chrome&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&sid=0e#🔒 VL-GRPC-RLT 🇦🇪 AE-31.58.144.164:32545
@@ -602,4 +603,3 @@ vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.17.9.123:443?security=tls&sni=x
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@154.83.2.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.13:8880
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?security=tls&sni=ARC-448.Pages.DEV&type=ws&host=arc-448.pages.dev&path=%2Fapi%2Fv1&fp=firefox&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.139:443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.153.7.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-45.153.7.247:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.82:8443?security=tls&sni=edmk.ambercc.filegear-sg.me&type=ws&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.82:8443

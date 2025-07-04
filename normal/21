@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.135:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.135:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.157.122:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.157.122:443
 vless://9b41cf45-908f-472c-a854-da1981befbbc@109.122.250.29:12084?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-109.122.250.29:12084
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.8:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-199.212.90.8:443
@@ -602,4 +603,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.50.228:443?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.188.182:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.182:443
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?security=tls&sni=pq.chile1.09vpn.com&type=ws&path=/vless/&allowInsecure=1#🔒 VL-WS-TLS 🇨🇱 CL-45.82.249.42:8443
 vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@104.18.26.248:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.248:443
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.78:443

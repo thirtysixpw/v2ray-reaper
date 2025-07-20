@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://Aimer@92.243.74.180:8443?type=ws&sni=tyep.esslh.filegear-sg.me&path=/&host=tyep.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A512
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.110.232:443?sni=ns.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.62:14495?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@shopify.com:443?sni=ns.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0285
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0330
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.15-0303
+vmess://ewogICAgImFkZCI6ICJ0d2p4bG5ub2xqeGMyLmpraGtnai54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJmaWxlLmRpbmd0YWxrLmNvbSIsCiAgICAiaWQiOiAiZTE1YWMzY2UtNmExYS00MTJhLWFhMDctNGJjNTJkYWE1OTM1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL21hcmtldC9zZz9lZD01MTIiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e58J+HvFRXLTExMS4yNDcuNDEuMzgtMTA4NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJoeXR0dHRlc2d2dnhiMi5qa2hrZ2oueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZmlsZS5kaW5ndGFsay5jb20iLAogICAgImlkIjogImUxNWFjM2NlLTZhMWEtNDEyYS1hYTA3LTRiYzUyZGFhNTkzNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9tYXJrZXQvanAxP2VkPTUxMiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7nwn4e8VFctMTExLjI0Ny40MS4zOC0wOTM1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

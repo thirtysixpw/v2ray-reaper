@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@at.monkeyisland.xyz:443?allowInsecure=0&sni=at.monkeyisland.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0032
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@194.35.119.135:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#RU_speednode_0033
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@194.35.119.49:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#RU_speednode_0034
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?allowInsecure=0&sni=zcreat.ethervpn.fun&alpn=h2%2Chttp/1.1&type=ws&host=zcreat.ethervpn.fun&path=/websocketpl?ed=2047fp=chrome&security=tls#RU_speednode_0035
 vless://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@91.224.74.177:443?allowInsecure=0&sni=bit-site.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#UA_speednode_0036
 vless://9a12e2e5-7038-4ed8-91f3-a94d9b2d465f@auto.happvpn.com:443?allowInsecure=0&sni=cdnjs.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0037

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://224629c2-342b-4e54-bb75-b56cb7dabf30@zorox-net.senu-zer.online:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zorox-net.senu-zer.online#US%20VLESS-85%40free-nodes
-vless://bd80ec19-d764-4826-a607-d42bb1b3bc48@185.36.145.127:6060?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=pmo.smnsoft.com#%E6%9C%AA%E7%9F%A5%20VLESS-86%40free-nodes
 vless://74ffd908-7a1d-4a3c-a356-64585c11258e@154.205.134.233:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;pbk=5-nnpf-B0VUro6YBz18hjPeeAf_Hx8c6IZpV2Gq7dyQ&amp;fp=chrome#%E6%9C%AA%E7%9F%A5%20VLESS-87%40free-nodes
 vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=638996620466180706.passat-amsih.info&amp;type=ws&amp;host=638996620466180706.passat-amsih.info&amp;path=/dweubbws#FR%20VLESS-88%40free-nodes
 vless://9dc11620-987c-4344-9088-f46fdfae4054@138.124.183.227:8080?path=/?ed&security=none&encryption=none&type=ws#US%20VLESS-89%40free-nodes
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.92-0273
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0157
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0146
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0168

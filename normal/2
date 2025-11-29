@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQwIiwiYWRkIjoibXRuLnJheWFuY29uZi50ayIsInBvcnQiOiI0NDMiLCJpZCI6IjNkMGY4YjFhLTVjOTItNGQ4My04ZWQ2LWFkOWZjYWE2Y2FlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyYXlhbmNvbmYucmF5YW5hbmRpc2htYW5kLndvcmtlcnMuZGV2IiwicGF0aCI6Ii8zLnd1eGlhbmxpdWxpYW5uZy54eXo6NDQzL3NvbWV0aW1lc25haXZlIiwidGxzIjoidGxzIiwic25pIjoicmF5YW5jb25mLnJheWFuYW5kaXNobWFuZC53b3JrZXJzLmRldiIsInRlc3RfbmFtZSI6IjE0MCJ9
+trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5141
+trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:17113?security=tls&sni=$$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5142
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#%E6%9C%AA%E7%9F%A5143
+trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%E6%9C%AA%E7%9F%A5144
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5145
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5146
 trojan://telegram-id-privatevpns@51.44.152.34:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5147
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5148
 trojan://BxceQaOe@160.16.212.152:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5149
@@ -596,10 +603,3 @@ trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2283?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-548%40free-nodes
 trojan://e299faed-cb72-4c62-bb2e-f0a218aed72a@hk-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-549%40free-nodes
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#%E6%9C%AA%E7%9F%A5%20TROJAN-550%40free-nodes
-trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-551%40free-nodes
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-552%40free-nodes
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-553%40free-nodes
-trojan://BxceQaOe@18.162.187.235:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-554%40free-nodes
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:61005?security=tls&sni=$$aru05.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-555%40free-nodes
-trojan://origin@176.31.83.90:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-556%40free-nodes
-trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-557%40free-nodes

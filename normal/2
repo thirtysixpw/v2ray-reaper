@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%E6%9C%AA%E7%9F%A5145
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5146
 trojan://telegram-id-privatevpns@51.44.152.34:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5147
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5148
 trojan://BxceQaOe@160.16.212.152:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5149
@@ -603,3 +601,5 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#%
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-553%40free-nodes
 trojan://BxceQaOe@18.162.187.235:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-554%40free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:61005?security=tls&sni=$$aru05.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-555%40free-nodes
+trojan://origin@176.31.83.90:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-556%40free-nodes
+trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-557%40free-nodes

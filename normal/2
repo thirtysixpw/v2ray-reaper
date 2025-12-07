@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@137.184.237.123:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#US%20VLESS-11%20%7C%20free-nodes
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&amp;sid=b2580c3d0fae6019&amp;type=grpc&amp;serviceName=8959780c31813fd40c6beecf#SG%20VLESS-12%20%7C%20free-nodes
 vless://70c591a6-c871-422b-a5ac-5ef7df467dea@norman.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=639006703199281740.elantra-amsiv.info&amp;type=ws&amp;host=639006703199281740.elantra-amsiv.info&amp;path=/csfiinws#%E6%9C%AA%E7%9F%A5%20VLESS-13%20%7C%20free-nodes
 vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&amp;sid=42d7234d875308a2&amp;type=tcp&amp;flow=xtls-rprx-vision#%E6%9C%AA%E7%9F%A5%20VLESS-14%20%7C%20free-nodes
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@13.39.186.144:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-608%20%7C%20free-nodes
 trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#%E6%9C%AA%E7%9F%A5%20TROJAN-609%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-610%20%7C%20free-nodes
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@ca.stablize.top:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-611%20%7C%20free-nodes

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5146
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10826?security=tls#%E6%9C%AA%E7%9F%A5147
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10820?security=tls#%E6%9C%AA%E7%9F%A5148
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@gz01.xiaohouzi.club:51058?security=tls&sni=$$aru01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5149
 trojan://vip@www.gov.ua:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A5150
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5151
@@ -603,3 +600,6 @@ trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:4234?security=tls&sni=w
 trojan://6b4ced5e-835a-4a7a-9d03-6a46e94668cb@103.195.236.24:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-552%20%7C%20free-nodes
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-553%20%7C%20free-nodes
 trojan://6b4ced5e-835a-4a7a-9d03-6a46e94668cb@103.195.236.24:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-554%20%7C%20free-nodes
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:16012?security=tls&sni=supsig.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-555%20%7C%20free-nodes
+trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-556%20%7C%20free-nodes
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-557%20%7C%20free-nodes

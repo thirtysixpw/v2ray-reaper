@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://9677c03e-c27a-4c3f-8b52-d03241f1a62d@193.168.46.180:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=rruu.persik.host&sid=c1a7e9b4711d5f60&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20193ms
+vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&encryption=none&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=450d60a09ffb65#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@198.41.209.186:443?mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%202ms
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20168ms
 vless://039a1658-e86e-475f-a3a4-67cc249acada@nl4.panel11.ru:443?security=reality&encryption=none&pbk=n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4.panel11.ru&sid=0bd0285f0c4f8f05#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20419ms
@@ -601,5 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjIiLCJhZGQiOiIxNDEuMjI3LjE4OC4yMjEiLCJwb3J0
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://mitivpn@188.114.97.6:443?sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjMiLCJhZGQiOiI1LjE2MS4xNTYuMTk2IiwicG9ydCI6IjQ0MyIsImlkIjoiZDIwZTM4ZWYtMWE0ZC00MDA5LWEwMGQtMmYwZDQ0ZTNjNjVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjMifQ==
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?sni=ch.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
-trojan://BxceQaOe@95.40.68.192:17801?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17

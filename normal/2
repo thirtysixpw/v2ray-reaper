@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://039a1658-e86e-475f-a3a4-67cc249acada@45.134.217.196:443?security=reality&encryption=none&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gr1.panel11.ru&sid=f5c14a97040a38bf#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20101ms
+vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?flow=xtls-rprx-vision&fp=firefox&pbk=U-pXTk6CWSWf1EParYP_drrus_87u-XwOiCmB-MnAGE&security=reality&sid=2eaa0970f2fb0c4b&sni=fr1.panel11.ru&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2084ms
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:8443?path=%2Fopwandpoawindaoiwdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de3.26cloud.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=de3.26cloud.ir#🆔ar14n24b%20🔒%20VL-HTTPUPGRADE-N/A%20❔%20XX%202ms
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.193.73:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2099ms
@@ -601,5 +603,3 @@ trojan://25c723db-3393-4608-a97d-90c4ba3688cb@165.154.243.208:28443?security=tls
 trojan://25c723db-3393-4608-a97d-90c4ba3688cb@165.154.253.34:28443?security=tls&sni=huayun.xyz#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.253.34-0068
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?security=tls&sni=103.125.216.169#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.169-0181
 vmess://ewogICAgImFkZCI6ICI1MjdoazEuZmFuczgueHl6IiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiNTI3aGsxLmZhbnM4Lnh5eiIsCiAgICAiaWQiOiAiN2Y0ZmYyZTEtYzA4Zi0zNWJkLWFmZTctNGE2YTM4NjkwN2FhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JheSIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTMuMjQ4LjE2OS40OC0wMDY3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://64e4a3ac-7699-4614-9c53-9e1da3dccf5a@67sg01.fans8.xyz:443?security=tls&sni=67sg01.fans8.xyz#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0066
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#%F0%9F%8F%81RELAY-172.67.217.89-0054

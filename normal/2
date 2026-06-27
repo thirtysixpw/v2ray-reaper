@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://30ca0331-a42d-4c81-8458-480977b4fd35@20.90.66.7:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=1&host=congenial-telegram-4qpqqx9g49q25qrp-443.app.github.dev&fp=chrome&type=xhttp&allowInsecure=1&sni=congenial-telegram-4qpqqx9g49q25qrp-443.app.github.dev#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%2076ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20114ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2076ms
 vless://54ef6629-6d37-4eac-b78c-8cf03f6f93d4@82.158.120.168:443?security=&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://27ee826f-f3a3-478f-831c-a8d1fe1e5eb2@84.32.48.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uss.denditop.site&fp=random&pbk=ycjPT1HxLy0b9oRp6tW4LBT6RZ6bAk-OkNqBNyhOyEw&sid=fd197bbaca6415b0&packetEncoding=xudp#🆔ar14n24b%20🔒%20VL--%20❔%20XX%2018ms
 vless://3283529b-3bc4-4e15-803a-7d5751a3df07@82.146.41.151:50053?security=reality&encryption=none&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&fp=firefox&type=grpc&sni=rubr1.cheburnetnastalgia1998.com&sid=75197d0b742bdbf5#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20123ms
@@ -603,3 +600,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMiLCJhZGQiOiJkYXJvby5pcmFuLXNob3AuY28iLCJw
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:58995?sni=d.usj1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjQiLCJhZGQiOiI0Ny44My4xOC4xMCIsInBvcnQiOiIzNjk2OCIsImlkIjoiMTc2YmYxZGQtNjQ3Zi00YzA5LTg5MmUtNWY5MjIzZGM4NjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUiLCJhZGQiOiIxMDMuMTc5LjE0Mi4yMTIiLCJwb3J0IjoiMjIwNDciLCJpZCI6Ijk0ODc2M2I1LWEwNjQtNDUzYy1hMDE1LTE4NWNiMTgzYmJmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjUifQ==
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?sni=de.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?sni=vpn.rnmcnm.com#%E6%9C%AA%E7%9F%A526
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20031?sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A2

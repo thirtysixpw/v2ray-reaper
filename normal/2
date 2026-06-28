@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6e5b880c-828b-4e74-81b4-781ff74ae468@38.244.21.164:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=gsdDGmpihQDb0XRhFUyKjkukYQerNvMfOx7GVn9N8mQ&sid=09dea95dac08169e#🆔ar14n24b%20🔒%20VL--%20❔%20XX%2080ms
-vless://71b32dbb-0280-48e6-86ce-5c095cafa784@31.22.91.203:443?security=reality&encryption=none&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vega.relead.org&sid=f74c6a18133e2e72#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2095ms
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2099ms
 vless://057f3c26-0fe7-4315-aabc-90c79d413d70@38.244.20.69:443?flow=xtls-rprx-vision&fp=safari&pbk=JlcNtRODuC4k8GhBFuXwjps9cRe3asq453_RLd3o9E8&security=reality&sid=e9e3098b62530266&sni=www.apple.com#🆔ar14n24b%20🔒%20VL--%20❔%20XX%2061ms
 vless://09fa44da-263f-4985-a610-0a06dc771a14@45.130.125.221:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=deutch.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=0dd428d35d73057f.hozheen.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
@@ -603,3 +601,5 @@ trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls#%F0%9
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-92.119.35.71-2398
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0134
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls&sni=92.119.35.93#%F0%9F%87%A9%F0%9F%87%AADE-92.119.35.93-2145
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0112
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0136

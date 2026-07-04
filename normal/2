@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://94f25bc7-1c62-4219-baab-b44acfb4da9c@185.71.67.212:443?path=%2Fapi%2Fv2%2Fsync%2F09f21a21c0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=4861b6a1d8.cacheio.ru&fp=chrome&type=ws&allowInsecure=0&sni=4861b6a1d8.cacheio.ru#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇷🇺%20RU%20154ms
 vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@212.193.153.93:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s58794.cdn.ngenix.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20185ms
 vless://ac9b2102-53de-4e07-98e5-5aec6dee694b@188.213.198.238:7080?security=none&headerType=none&encryption=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20214ms
 vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=unitbook.net&sid=6ba85179e30d4fc2#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20147ms
@@ -603,3 +602,4 @@ trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?sni=vpn.rnmcnm
 trojan://d6788cf74e6844c45538204efd24b00f@16.163.50.86:53012?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkgNy4xTUIvcyIsImFkZCI6InlnMS55Z2tray5kcGRucy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiI1MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmxvZ2dpbmctcmVzcG9uc2liaWxpdHktcmVjcnVpdGluZy1tb3N0LnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii81MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJibG9nZ2luZy1yZXNwb25zaWJpbGl0eS1yZWNydWl0aW5nLW1vc3QudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0ZXN0X25hbWUiOiIxOSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiJpbWtpbmQuZGRucy5uZXQiLCJwb3J0IjoiNDQzIiwiaWQiOiJCQTExRUI0OS0wREVDLTQ5QjYtOTU5Qy03MjM1RkFCNzFFQjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJsaWxsZS5rb3RpY2suc2l0ZSIsInBhdGgiOiIvc3BlZWR0ZXN0IiwidGxzIjoidGxzIiwic25pIjoibGlsbGUua290aWNrLnNpdGUiLCJ0ZXN0X25hbWUiOiIyMCJ9
+trojan://PI36027154@large-baboon.rooster465.autos:443?sni=large-baboon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%202.7MB%2Fs

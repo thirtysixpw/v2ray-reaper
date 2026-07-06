@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@FI.theatak.com:2080?security=none&encryption=none&host=fi.theatak.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20238ms
-vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@cf.theatak.com:443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fi-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=fi-cf.theatak.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2042ms
-vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@cf.theatak.com:8443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=de-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=de-cf.theatak.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2043ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@de.theatak.com:4450?security=reality&encryption=none&pbk=Yu_365Vt6Jls5IMRC3Ktdzny2pfm8nKZWemdVGGo6jU&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=cd57166459e98196#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20155ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@fi.theatak.com:4450?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20137ms
 vless://1bcec283-e4a6-4859-80d1-c836ef0d8048@89.116.250.135:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.subster.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
@@ -603,3 +600,6 @@ trojan://MiTiVPN@162.159.38.119:443?security=tls&type=ws&sni=sws-so-o.App-Cloud.
 trojan://humanity@45.130.125.72:443?type=ws&sni=www.calmloud.com&path=/assignment#%E6%9C%AA%E7%9F%A575
 trojan://MiTiVPN@104.26.4.60:443?security=tls&type=ws&sni=NL-L-ll.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Nl&host=N-l.MaQror.ir#%E6%9C%AA%E7%9F%A576
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzciLCJhZGQiOiJ5aWNodWVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRlc3RfbmFtZSI6Ijc3In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzgiLCJhZGQiOiIxODguMTE0Ljk2LjE0NSIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijc4In0=

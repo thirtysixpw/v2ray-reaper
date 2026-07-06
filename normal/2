@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@unitedkingdomvluding.iranlast.com:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20194ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%204ms
+vless://6fe499fd-12a6-495e-9a55-15431d29433b@Turklight.soltankabos.ir:443?encryption=none&fp=chrome&host=amtal7.soltankabos.ir&path=%2Fws%3Fed%3D2560&security=tls&sni=amtal7.soltankabos.ir&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20194ms
+vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.19.33.81:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%202ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@DE.theatak.com:2080?security=none&encryption=none&host=de.theatak.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20223ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@FI.theatak.com:2080?security=none&encryption=none&host=fi.theatak.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20238ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@cf.theatak.com:443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fi-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=fi-cf.theatak.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2042ms
@@ -599,7 +603,3 @@ trojan://BxceQaOe@16.162.109.204:11035?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjkiLCJhZGQiOiI1MS44My41Mi4xNzIiLCJwb3J0IjoiMjA4NSIsImlkIjoiMmM3MmM2NjctMDkzYy00N2E1LWExMDgtNDkzYzkzMjgyYjU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJmYXN0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjkifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzAiLCJhZGQiOiI4LjIxMC4xNDAuMjMiLCJwb3J0IjoiNTQ4MDkiLCJpZCI6ImZkZTczZGFmLWNjNjctNDJmMy05OTM1LTM1YjEzMmIwMWFiZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzAifQ==
 trojan://humanity@165.215.250.14:443?sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiI0Ny4yNTAuNDUuMjM0IiwicGF0aCI6Ii9hcmtpIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzEifQ==
-trojan://humanity@104.18.152.204:443?type=ws&sni=www.ignitelimit.com&path=/assignment#%E6%9C%AA%E7%9F%A572
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzMiLCJhZGQiOiJkaWdpMzkuZXowNTM1LmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImMxZjEwNjBjLTYxNjgtNDkzMS1hNjNmLTgxN2E3YWRlMjVlMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjczIn0=

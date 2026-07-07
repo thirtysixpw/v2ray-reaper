@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@FI.theatak.com:2080?security=none&encryption=none&host=fi.theatak.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20238ms
+vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@cf.theatak.com:443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fi-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=fi-cf.theatak.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2042ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@cf.theatak.com:8443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=de-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=de-cf.theatak.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2043ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@de.theatak.com:4450?security=reality&encryption=none&pbk=Yu_365Vt6Jls5IMRC3Ktdzny2pfm8nKZWemdVGGo6jU&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=cd57166459e98196#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20155ms
 vless://070aec23-1e66-4e06-8cdb-a9fc4ac2b4c1@fi.theatak.com:4450?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20137ms
@@ -601,5 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTgiLCJhZGQiOiJ2aXAuYmlnY2hhbmdlci5zaXRlIiwi
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc#%E6%9C%AA%E7%9F%A519
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%203.4MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%202.3MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjAifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6IjE1ODM0IiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IlRBQlJJWi5ORVQiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjEifQ==

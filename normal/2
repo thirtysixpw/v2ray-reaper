@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://578c8541-16a0-40b7-bf72-9508d547f856@185.174.136.206:443?security=reality&encryption=none&pbk=ogy4TV_uLgf-ZybRRQ5SyH-81oqIqxZv4lhbc3E-kgE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=261a62ba#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20137ms
-vless://578c8541-16a0-40b7-bf72-9508d547f856@31.76.38.23:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QDfwP9C0c60Kz5Do_M2UAsAek1cuRTaZxg3Eu3XdTVg&security=reality&sid=de6efcc2&sni=www.nvidia.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20147ms
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=%2Fsg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 vless://6caab115-c88f-4e8b-bdab-d66865b681c8@172.67.196.16:8080?path=%2F&security=none&encryption=none&host=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev&type=ws&sni=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://6d81cc1e-1aff-d5b5-ceef-245c934c64c3@x4g-production-d71a.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-d71a.up.railway.app&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=x4g-production-d71a.up.railway.app&path=%2Fws%2F6d81cc1e-1aff-d5b5-ceef-245c934c64c3#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2014ms
 vless://79ccf3bf-0773-479a-862c-c562b9061ded@45.65.112.190:443?security=reality&encryption=none&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7b031372b64a8872#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20151ms
@@ -603,3 +600,6 @@ trojan://BxceQaOe@16.162.24.7:4099?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzkiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzkifQ==
 trojan://d6788cf74e6844c45538204efd24b00f@95.40.44.165:3743?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://d6788cf74e6844c45538204efd24b00f@95.40.1.25:49277?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+trojan://Mitivpn@146.75.116.190:80?#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&sni=#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A3
+trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6%2074.1MB%2Fs

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@104.16.72.162:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@104.16.72.19:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@104.16.72.22:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
-vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@104.16.72.232:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@104.16.72.98:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@89.116.250.135:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3%2Ch2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://ff3358d6-c82b-402e-a532-d8d990b991a3@31.56.89.31:37825?security=none&encryption=mlkem768x25519plus.native.0rtt.sGrv3mIk61axsKIAJkxsh-2TAnalzVWQw70HsKAlQSU&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -314,23 +310,26 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&ty
 vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@fn2-unlimited.pavilof.ir:1020?encryption=none&type=tcp&security=reality&headerType=none&host=snapp.ir&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&sid=3fa2fdb7dce16b8b&flow=xtls-rprx-vision#🆔configx2ray%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&type=ws&security=tls&path=%2Fsg-amz&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%20147ms
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.226.149.72:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%20149ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?allowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
+trojan://humanity@104.18.152.208:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.155.199:443?allowInsecure=0&sni=www.calmloud.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?allowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
+trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?allowInsecure=0&sni=185.137.157.151#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?allowInsecure=0#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.1.25:32583?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.145.82:50115?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.24.7:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.44.165:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.44.165:55973?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.1.25:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@18.162.58.236:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.145.82:22459?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.44.165:17005?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-trojan://d6788cf74e6844c45538204efd24b00f@95.40.1.25:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@18.162.245.147:20083?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.61.98:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@16.163.129.5:29443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@13.158.76.164:6769?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@18.162.148.64:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@18.162.148.64:24370?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@18.162.245.147:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@18.163.8.12:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://BxceQaOe@16.162.122.182:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@95.40.124.185:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://d6788cf74e6844c45538204efd24b00f@16.163.41.98:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.22.244:34638?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDIiLCJhZGQiOiI4LjIxMC4xNDAuMjMiLCJwb3J0Ijoi
 trojan://humanity@104.19.230.21:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A543
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQgMTUuM01CL3MiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDQifQ==
 trojan://BxceQaOe@16.162.24.7:4099?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?sni=red-cell-47f9.milaniomilan9.workers.dev#%E6%9C%AA%E7%9F%A545

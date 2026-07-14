@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@de.plytob.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=%2F&headerType=http#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20221ms
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@never.systemcont.ir:2026?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20110ms
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@panel.supros.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=%2F&headerType=http#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20248ms
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@tronk.plytob.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=%2F&headerType=http#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20249ms
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@you.plytob.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=%2F&headerType=http#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2044ms
@@ -591,15 +593,13 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEs0IDI1Ni45S0IvcyIsImFkZCI6IjQ3Ljc2LjEyNy44OCIsInBv
 vmess://eyJ2IjoiMiIsInBzIjoiSEs1IiwiYWRkIjoiMzEuNzcuMTQ5LjEzMSIsInBvcnQiOiIxMTAiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISzUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTIgMzMyLjRLQi9zIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A62%20373.4KB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0121
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0122
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0124
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0123
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.149-0109
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.145.57.90:443#%F0%9F%87%BA%F0%9F%87%B8US-3.145.57.90-6341
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.57-0115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.189-0245
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.214-6280
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0104
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0103
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0101
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0100
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0108
+trojan://PI36027154@stirred-buck.rooster465.autos:443?security=tls&sni=stirred-buck.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.192.70-0106
+trojan://PI36027154@faithful-clam.rooster465.autos:443?security=tls&sni=faithful-clam.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.120.96-0107
+trojan://PI36027154@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.192.245-0105
+trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&sni=busy-lab.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.90.114-0109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.16-0115

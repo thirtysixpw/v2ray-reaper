@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://6baf0a4b-a4e7-4b34-a762-fd0c6ec3f72f@185.173.144.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=PZeIaMJF01u_7wFj3E3NN1wW_8sV1NzC59CnLTTMvzM&sid=6ba85179e30d4fc2#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%2065ms
-vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=%2F%3Fu%3D3e3fff3b5b&security=tls&fp=random&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🆔fr33c0nfig%20🔒%20VL-WS-N/A%20❔%20XX%206ms
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=81b5b012&type=tcp&headerType=none#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20141ms
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=595e5e04&type=tcp&headerType=none#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20138ms
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@185.156.72.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr-2.alpha-ai-studio.com&fp=ios&pbk=mkrHaywJJYB4wuvs5Sj2kuKFM3kbi8w3jd2CEC-AkBc&sid=1aa760b0&type=tcp&headerType=none#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20152ms
@@ -603,3 +601,5 @@ trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0234
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0194
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0182
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0187
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0184

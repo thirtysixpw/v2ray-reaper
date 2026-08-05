@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://769087cc-c835-4c64-8831-bf3dc7c78a64@91.228.227.231:58909?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20130ms
+vless://7ff928be-8ffa-4db1-addb-6947ff4dfba7@dea.kosmosapp.ru:16923?encryption=none&security=reality&sni=delivery.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&mode=gun&authority=&serviceName=neurex#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20251ms
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20down
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://06ea96b5-65c6-41a4-86fd-2ec06857b258@cf2.helishot.info:443?path=%2Fmusic%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=fire.rezazzz.ir&fp=chrome&type=ws&sni=fire.rezazzz.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20down
 vless://07821f66-cdb7-4c70-9de6-e230cffac470@wgrcqwtkfyqujs43.ghydgdbdbddvv.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wgrcqwtkfyqujs43.ghydgdbdbddvv.workers.dev&path=%2Fvl%2FLi1khIHH3DNItJyzraemsPBQvu&security=tls&sni=wgrcqwtkfyqujs43.ghydgdbdbddvv.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2027ms
 vless://16378da2-d73b-49c6-913a-bc54e556cf9a@marzban-node-production--96peb.up.railway.app:443?path=%2Fvless&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=marzban-node-production--96peb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production--96peb.up.railway.app#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2018ms
@@ -599,7 +603,3 @@ trojan://ND91608427@stunning-mite.rooster465.autos:443?security=tls&sni=stunning
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0094
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.212.206-3179
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0154
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0156
-trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.228.238-6082
-trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-6242
-trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.56.122-6241

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://5c1242e9-acad-4b60-b4af-235a68072fec@91.98.98.22:8441?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20119ms
+vless://5c183e56-0f02-421e-a334-2fae45555395@138.124.10.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&sid=a3f8d2c1e5b60794&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20107ms
+vless://5c183e56-0f02-421e-a334-2fae45555395@193.32.178.57:443?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=S5IX1oiVizdxEHw3A4bjP6_HOxFRIfroYOtq504wyiA&sid=9d3f7b2a5c0e8461&type=grpc&mode=gun&authority=&serviceName=auragrpc#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%2092ms
 vless://5c183e56-0f02-421e-a334-2fae45555395@nl2.app-sync-data.space:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=qq&pbk=rELWnvV8Dp03AnHBfFUhUvE5TXKKy14bJGO1jCnaZT0&sid=b4c0f8d6e1a29357&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20261ms
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@178.236.255.234:654?security=&encryption=none&headerType=&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.140:2096?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%206ms
@@ -600,6 +603,3 @@ trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=defi
 trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.65.167.167-6210
 trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.168.51-6239
 trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.27.225-6182
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.13.78-6181
-trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&sni=sure-humpback.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.175.120-6214
-trojan://ND91608427@becoming-hare.rooster465.autos:443?security=tls&sni=becoming-hare.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.182.4.232-0541

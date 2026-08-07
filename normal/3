@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://3ff8272d-0533-4335-9a3b-d65ab28f0090@panel1.molock.click:8087?encryption=none&fp=chrome&pbk=CJ3G0NSlJkbjoD2ji2bsYLJOlOlc7MAw9aX3uI-dPkU&security=reality&sid=3d82f345&sni=www.yahoo.com&spx=%2FJ6fH59pVoQ3Kkz5&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.91:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%207ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.240.89:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%205ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.254.218:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.0.167:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2011ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.232.64:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.247.133:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%204ms
 vless://4c6cbffe-36cc-00be-72db-dadf4b487b5b@x4g-production-3f5f.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-3f5f.up.railway.app&path=%2Fws%2F4c6cbffe-36cc-00be-72db-dadf4b487b5b&sni=x4g-production-3f5f.up.railway.app&fp=ios&alpn=http%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2047ms
@@ -598,8 +603,3 @@ trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adju
 trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snail.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.25.180-0177
 trojan://ND91608427@52.194.230.221:443?security=tls&sni=happy-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.230.221-0516
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.34.120-0518
-trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0176
-trojan://ND91608427@3.112.15.214:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.15.214-0519
-trojan://ND91608427@smart-pup.rooster465.autos:443?security=tls&sni=smart-pup.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.155.134-0501
-trojan://ND91608427@happy-mutt.rooster465.autos:443?security=tls&sni=happy-mutt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.230.221-0175
-trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.194.227-0515

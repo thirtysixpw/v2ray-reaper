@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%203ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.0.223:443?security=tls&sni=ppal03.RaYDYN-Akai.WORkerS.DEV&type=ws&host=PPAL03.rayDyn-AKai.WorKErs.dEv&path=%2FWTmhc3cp3EeqldHa%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://0f894cbf-cb34-4837-85b1-06e2c98e3f28@109.230.251.3:1010?security=none&type=tcp&headerType=http#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=qq&host=sync.watchwave.link&path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&sni=cdn.tracker.yandex.net&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20170ms
@@ -603,3 +601,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU+e+juWbvTMgMTEwLjFLQi9zIiwiYWRkIjoiY2lu
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzMiIsImFkZCI6IjE3Ni4xMjIuMTc0LjE3NSIsInBvcnQiOiI4NDQzIiwiaWQiOiJhYTZiYzc5Yy03NTM1LTQ0OTEtYWVkZS02NTUxMTBjZWQyZTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxNzYuMTIyLjE3NC4xNzUiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMzMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM3IiwiYWRkIjoiMTgzLjIzOC4yMDIuMTczIiwicG9ydCI6IjUxMTkzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEzNyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzMyIsImFkZCI6InNob21hbC5zaWt1emRpLnVrIiwicG9ydCI6IjMwMTc2IiwiaWQiOiIzYjllMTVjOS0yMDBjLTQ0NzEtOTQ4Mi04N2ExMDk4OTE0NzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMzMyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSEsxOCAyNC43S0IvcyIsImFkZCI6InUyZnJ4ajBnMTN2ZGkwd28udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiVTJGUnhqMEcxM3ZESTBXby52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTgifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM4IiwiYWRkIjoiYmwxLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIxMDAxNCIsImlkIjoiNTc2YjFiZTYtYTNlNy00YzQwLThlYzctMGE0MDZkNmVlYWQ4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJwYXRoIjoiL2ludXNlL2Zvcmhvc3QiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzgifQ==

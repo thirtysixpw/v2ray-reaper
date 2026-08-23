@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+trojan://humanity@104.17.177.143:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.16.174.185:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@104.18.152.113:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@ip.myip2.qzz.io:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
@@ -601,5 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEyIiwiYWRkIjoieWljaHVlbmcub3JnIiwicG9ydCI6
 trojan://humanity@104.16.174.72:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD34
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEzIDUyMi41S0IvcyIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE0IiwiYWRkIjoiNDUuMTMxLjIwOC4yMjgiLCJwb3J0IjoiODAiLCJpZCI6ImY0OTFjYmU0LTc1NDgtNDQ2Yy04ZDNlLTY0MDA4ZTNiMTMyNSIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRsMy4xMjcuMC4wLjEuY29udHJvbC7mjqfliLYua9C+0L3RgtGA0L7Qu9GMLmPQstC+0LTQutCwaNC+0LLQvtGB0YLQtdC5Lui+sumBlOaHsue9sC53b25rYWNhcGl0YW5vLmJ1enouIiwicGF0aCI6Ii92bWVzcyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExNCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE1IiwiYWRkIjoiY2FrZS5jYXBlbGxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2FrZS5jYXBlbGxhcmUuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiY2FrZS5jYXBlbGxhcmUuY29tIiwidGVzdF9uYW1lIjoiMTE1In0=
-trojan://humanity@104.18.23.63:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD35

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20259ms
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=edge&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%20143ms
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.28.234:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%2011ms
@@ -602,4 +603,3 @@ vmess://ewogICAgImFkZCI6ICJ0dy10cGUtaC12Mi5qZC5jamhoLm1vbSIsCiAgICAiYWlkIjogMCwK
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDE3NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.27:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AF%F0%9F%87%B5JP-202.8.9.27-0059
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.67:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AF%F0%9F%87%B5JP-202.8.9.67-0058
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@141.147.191.85:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.191.85-0056

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.28.234:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%207ms
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@ns3.zabidat.ir:443?path=%2FCMlsadnCISdss&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=random&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%20119ms
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20154ms
 vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?mode=auto&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=firefox&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#🆔anty_filter%20🔒%20VL-XHTTP-%20❔%20XX%20down
@@ -602,4 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxNTguNTEuMTIxLjYzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-0083
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-0082
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@20.24.44.110:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.44.110-0075
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@91.243.81.42:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.42-0074

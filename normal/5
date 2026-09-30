@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/thirtysixpw/v2ray-reaper
 #profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@45.149.147.97:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&security=reality&sid=d345ad4657adeef9&sni=google.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20131ms
 vless://13341149-f2f1-9ba2-31ae-f64a1206ad57@victoryprovpn-production-1ae4.up.railway.app:443?path=%2Fws%2F13341149-f2f1-9ba2-31ae-f64a1206ad57&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=victoryprovpn-production-1ae4.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-1ae4.up.railway.app#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2077ms
 vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@196.245.52.148:25155?security=reality&encryption=none&pbk=zZb_VVAbcGA7TeSMUBuD8MB2O3yAwpDSPGEfSEIUsX4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=e4ba91df34fc3318#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://6cc9a08a-9e9e-40bb-b5e7-45c5cb019e5f@ads.ts01.ir:20003?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nightwolf.datesell.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20519ms
@@ -602,4 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-0107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.151-0085
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.147-0079
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.181-0095
